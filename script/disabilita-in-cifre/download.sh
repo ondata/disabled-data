@@ -69,3 +69,5 @@ done
 
 # crea anagrafica file in CSV
 mlr --j2c cat then cut -x -f text,title then label file,descrizione then put '$file=gsub($file,"(excel/|\.xls)","");$descrizione=gsub($descrizione,"Tavola: ","")' "$folder"/tmp/anagrafica.jsonl >"$folder"/tmp/anagrafica.csv
+
+mlr -I --csv rename territorio,gerarchia "$folder"/tmp/anagrafica.csv
