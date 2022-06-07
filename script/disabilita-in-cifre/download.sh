@@ -7,6 +7,8 @@ set -o pipefail
 
 folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 
+output="$folder/../../data/disabilita-in-cifre/processing"
+
 mkdir -p "$folder"/../data
 mkdir -p "$folder"/tmp
 
@@ -71,3 +73,5 @@ done
 mlr --j2c cat then cut -x -f text,title then label file,descrizione then put '$file=gsub($file,"(excel/|\.xls)","");$descrizione=gsub($descrizione,"Tavola: ","")' "$folder"/tmp/anagrafica.jsonl >"$folder"/tmp/anagrafica.csv
 
 mlr -I --csv rename territorio,gerarchia "$folder"/tmp/anagrafica.csv
+
+mv "$folder"/tmp/anagrafica.csv "$output"/anagrafica.csv
