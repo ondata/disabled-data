@@ -10,6 +10,8 @@ folder="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 mkdir -p "$folder"/../data
 mkdir -p "$folder"/tmp
 
+output="$folder/../../data/disabilita-in-cifre/processing"
+
 if [ -f "$folder"/tmp/file.csv ]; then
   rm "$folder"/tmp/file.csv
 fi
@@ -45,6 +47,13 @@ done
 # converti il json in CSV e inserisci i nomi campi
 mlr --j2c label territorio,valore,file then put '$file=sub($file,"\..+","")' "$folder"/tmp/2.jsonl >"$folder"/tmp/2.csv
 
+mv "$folder"/tmp/2.csv "$output"/2.csv
+
+# aggiungi anagrafica
+mlrgo --csv join --ul -j file -f "$output"/2.csv then unsparsify   "$output"/anagrafica.csv >"$output"/tmp.csv
+
+mv "$output"/tmp.csv "$output"/2.csv
+
 if [ -f "$folder"/tmp/4.jsonl ]; then
   rm "$folder"/tmp/4.jsonl
 fi
@@ -58,6 +67,13 @@ done
 mlr --j2c filter -x 'is_empty($4)' then sort -r 4 -f file "$folder"/tmp/4.jsonl | tail -n +2 | \
 sed -r 's/^,/Regione,/g;s/,#,/,,/g' | mlr --csv filter -S '$Totale=~"^[0-9]"' then label Regione,Disabilità,Anziani,Totale,file then sort -f file,Regione then put '$file=sub($file,"\..+","")' >"$folder"/tmp/4.csv
 
+mv "$folder"/tmp/4.csv "$output"/4.csv
+
+mlrgo --csv join --ul -j file -f "$output"/4.csv then unsparsify   "$output"/anagrafica.csv >"$output"/tmp.csv
+
+mv "$output"/tmp.csv "$output"/4.csv
+
+exit 0
 
 if [ -f "$folder"/tmp/6.jsonl ]; then
   rm "$folder"/tmp/6.jsonl
@@ -70,9 +86,13 @@ done
 
 mlr --j2c cat then put '$file=sub($file,"\..+","")' "$folder"/tmp/6.jsonl >"$folder"/tmp/6.csv
 
-mlr --csv filter -x '$file=="g1V30929P09OG200000000.csv"' then filter -x 'is_empty($4)' "$folder"/tmp/6.csv | \
-tail -n +2 | sed -r 's/^,/Tipo,/g;s/,#,/,,/g' | mlr --csv filter -x '$Tipo=="Tipo" || $Tipo=="Totale"' >"$folder"/tmp/6_01.csv
+mlrgo --csv filter -x 'is_empty($4)' then put 'if(is_empty($1)){$tipo=$2}' then fill-down -f tipo then put 'if($tipo=="Limitazioni gravi" && is_empty($1)){$1="TIPOLOGIA FAMILIARE"};if($tipo=="Infanzia" && is_empty($1)){$1="PRESENZA"}' "$folder"/tmp/6.csv >"$folder"/tmp/6.csv.tmp
 
-mlr --csv filter '$file=="g1V30929P09OG200000000.csv"' then filter -x 'is_empty($4) || $1=="Totale"' "$folder"/tmp/6.csv | \
-tail -n +2 | sed -r 's/^,/Tipo,/g;1s/,g.+/,file/' >"$folder"/tmp/6_02.csv
+mlrgo --csv filter '$tipo=="Limitazioni gravi"' "$folder"/tmp/6.csv.tmp >"$folder"/tmp/6_01.csv.tmp
+
+#mlr --csv filter -x '$file=="g1V30929P09OG200000000.csv"' then filter -x 'is_empty($4)' "$folder"/tmp/6.csv | \
+#tail -n +2 | sed -r 's/^,/Tipo,/g;s/,#,/,,/g' | mlr --csv filter -x '$Tipo=="Tipo" || $Tipo=="Totale"' >"$folder"/tmp/6_01.csv
+#
+#mlr --csv filter '$file=="g1V30929P09OG200000000.csv"' then filter -x 'is_empty($4) || $1=="Totale"' "$folder"/tmp/6.csv | \
+#tail -n +2 | sed -r 's/^,/Tipo,/g;1s/,g.+/,file/' >"$folder"/tmp/6_02.csv
 
