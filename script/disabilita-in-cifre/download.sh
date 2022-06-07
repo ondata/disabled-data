@@ -49,7 +49,7 @@ cat "$folder"/tmp/anni-amministrativa.jsonl | while read -r line; do
     curl -kL "https://disabilitaincifre.istat.it/$URLlista" --compressed >"$folder"/tmp/"$anno"-"$territorio"-lista.html
     scrape <"$folder"/tmp/"$anno"-"$territorio"-lista.html -be '.tabImageTavXl a' | xq -c '.html.body.a[]' >"$folder"/tmp/"$anno"-"$territorio"-lista.jsonl
     mlr -I --json label href,title,text "$folder"/tmp/"$anno"-"$territorio"-lista.jsonl
-    cat "$folder"/tmp/"$anno"-"$territorio"-lista.jsonl | tail -n 1 | while read -r line; do
+    cat "$folder"/tmp/"$anno"-"$territorio"-lista.jsonl | while read -r line; do
       URL=$(echo "$line" | jq -r '.href')
       echo "https://disabilitaincifre.istat.it/$URL" >>"$folder"/tmp/URL
       curl -kL "https://disabilitaincifre.istat.it/$URL" --compressed | iconv -f ISO-8859-1 -t utf-8 >"$folder"/tmp/"$anno"-"$territorio"-xls.html
