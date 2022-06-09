@@ -73,7 +73,6 @@ mlrgo --csv join --ul -j file -f "$output"/4.csv then unsparsify   "$output"/ana
 
 mv "$output"/tmp.csv "$output"/4.csv
 
-exit 0
 
 if [ -f "$folder"/tmp/6.jsonl ]; then
   rm "$folder"/tmp/6.jsonl
@@ -86,13 +85,31 @@ done
 
 mlr --j2c cat then put '$file=sub($file,"\..+","")' "$folder"/tmp/6.jsonl >"$folder"/tmp/6.csv
 
-mlrgo --csv filter -x 'is_empty($4)' then put 'if(is_empty($1)){$tipo=$2}' then fill-down -f tipo then put 'if($tipo=="Limitazioni gravi" && is_empty($1)){$1="TIPOLOGIA FAMILIARE"};if($tipo=="Infanzia" && is_empty($1)){$1="PRESENZA"}' "$folder"/tmp/6.csv >"$folder"/tmp/6.csv.tmp
+mlrgo --csv filter -x 'is_empty($4)' then put 'if(is_empty($1)){$tipo=$2}' then fill-down -f tipo then put 'if(is_empty($1)){$1="scelta"}' "$folder"/tmp/6.csv >"$folder"/tmp/6.csv.tmp
 
-mlrgo --csv filter '$tipo=="Limitazioni gravi"' "$folder"/tmp/6.csv.tmp >"$folder"/tmp/6_01.csv.tmp
+mlrgo --csv filter '$tipo=~"^Limi"' then filter -x '$1=="Totale"' "$folder"/tmp/6.csv.tmp | tail -n +2 | mlrgo --csv filter -x '$scelta=="scelta"' then uniq -a then sort -f file then cut -x -r -f "^Limi.+" then rename -r "^g.+",file >"$output"/6_01.csv
+mlrgo --csv filter -x '$tipo=~"^Limi"' then filter -x '$1=="Totale"' "$folder"/tmp/6.csv.tmp | tail -n +2 | mlrgo --csv filter -x '$scelta=="scelta"' then uniq -a then sort -f file then cut -x -r -f "^Infa.+" then rename -r "^g.+",file >"$output"/6_02.csv
 
-#mlr --csv filter -x '$file=="g1V30929P09OG200000000.csv"' then filter -x 'is_empty($4)' "$folder"/tmp/6.csv | \
-#tail -n +2 | sed -r 's/^,/Tipo,/g;s/,#,/,,/g' | mlr --csv filter -x '$Tipo=="Tipo" || $Tipo=="Totale"' >"$folder"/tmp/6_01.csv
-#
-#mlr --csv filter '$file=="g1V30929P09OG200000000.csv"' then filter -x 'is_empty($4) || $1=="Totale"' "$folder"/tmp/6.csv | \
-#tail -n +2 | sed -r 's/^,/Tipo,/g;1s/,g.+/,file/' >"$folder"/tmp/6_02.csv
+if [ -f "$output"/6.csv ]; then
+  rm "$output"/6.csv
+fi
+
+if [ -f "$folder"/tmp/7.jsonl ]; then
+  rm "$folder"/tmp/7.jsonl
+fi
+
+mlr --c2n filter '$colonne==7' then cut -f name "$folder"/tmp/file.csv | while read line; do
+  name="$(basename "$line" .csv)"
+  mlr -N --c2j put '$file="'"$line"'"' "$folder"/tmp/"$line" >>"$folder"/tmp/7.jsonl
+done
+
+mlr --j2c cat then put '$file=sub($file,"\..+","")' "$folder"/tmp/7.jsonl >"$folder"/tmp/7.csv
+
+mlrgo --csv filter -x 'is_empty($4)' then put 'if(is_empty($1)){$1="regione"}' "$folder"/tmp/7.csv >"$folder"/tmp/7.csv.tmp
+
+<"$folder"/tmp/7.csv.tmp tail -n +2 | mlrgo --csv filter -x '$regione=="regione" || $regione=~"^Ita"' >"$output"/7.csv
+
+# fai pulizia
+
+find "$output"/ -iname "*.jsonl" -delete
 
