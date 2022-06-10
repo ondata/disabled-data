@@ -31,6 +31,7 @@ done
 
 # converti anagrafica da formato miller a CSV
 mlr -I --ocsv cat "$folder"/tmp/file.csv
+mv "$folder"/tmp/file.csv "$output"/file.csv
 
 if [ -f "$folder"/tmp/2.jsonl ]; then
   rm "$folder"/tmp/2.jsonl
