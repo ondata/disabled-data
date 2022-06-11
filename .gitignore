@@ -21,3 +21,5 @@ tmp*
 # non tracciare la cartella di download
 script/data/*
 
+# i tmp di libreoffice
+.~lock*
