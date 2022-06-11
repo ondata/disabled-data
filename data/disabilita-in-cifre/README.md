@@ -31,7 +31,7 @@ Il *download* è stato realizzato tramite questo [*script bash*](../../script/di
 
 Questi file scaricati da [DisabilitàinCifre](https://disabilitaincifre.istat.it/) sono stati convertiti in formato `CSV`.
 
-In origine hanno alcuni **elementi critici** per fare** analisi di dati**, come ad esempio (vedi immagine a seguire):
+In origine hanno alcuni **elementi critici** per fare **analisi di dati**, come ad esempio (vedi immagine a seguire):
 
 1. Celle unite e riga di intestazione descrittiva (da rimuovere);
 2. righe vuote (da rimuovere);
@@ -125,7 +125,7 @@ Questi i campi:
 
 ## 6_02.csv
 
-Si tratta di informazioni relative al **numero di scuole** con **alunne/i con disabilità **e per **caratteristiche di edificio scolastico**.
+Si tratta di informazioni relative al **numero di scuole** con **alunne/i con disabilità** e per **caratteristiche di edificio scolastico**.
 
 Il file [**`6_02.csv`**](../../data/disabilita-in-cifre/processing/6_02.csv) ha questo contenuto di esempio:
 
