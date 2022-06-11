@@ -1,3 +1,11 @@
+- [Introduzione](#introduzione)
+- [Cambio di formato, normalizzazione e unione dei file](#cambio-di-formato-normalizzazione-e-unione-dei-file)
+  - [2.csv](#2csv)
+  - [4.csv](#4csv)
+  - [6_01.csv](#6_01csv)
+  - [6_02.csv](#6_02csv)
+  - [7.csv](#7csv)
+
 # Introduzione
 
 I dati di [DisabilitàinCifre](https://disabilitaincifre.istat.it/) sono disponibili al download di centinaia di file `xls`. Alcune note:
