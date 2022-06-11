@@ -81,6 +81,8 @@ mlrgo --csv filter -x 'is_empty($4)' then put 'if(is_empty($1)){$tipo=$2}' then 
 mlrgo --csv filter '$tipo=~"^Limi"' then filter -x '$1=="Totale"' "$folder"/tmp/6.csv.tmp | tail -n +2 | mlrgo --csv filter -x '$scelta=="scelta"' then uniq -a then sort -f file then cut -x -r -f ".+_2$" then cut -x -f Totale then rename -r "^g.+",file then filter -x '$scelta=~"^Ital"'>"$output"/6_01.csv
 mlrgo --csv filter -x '$tipo=~"^Limi"' then filter -x '$1=="Totale"' "$folder"/tmp/6.csv.tmp | tail -n +2 | mlrgo --csv filter -x '$scelta=="scelta"' then uniq -a then sort -f file then cut -x -r -f ".+_2$" then rename -r "^g.+",file >"$output"/6_02.csv
 
+sed -i -r 's/,#,/,,/g' "$output"/6_02.csv
+
 if [ -f "$output"/6.csv ]; then
   rm "$output"/6.csv
 fi
