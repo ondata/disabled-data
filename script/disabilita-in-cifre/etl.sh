@@ -38,7 +38,7 @@ if [ -f "$folder"/tmp/2.jsonl ]; then
 fi
 
 # filtra i file fatti soltanto da 2 colonne
-mlr --c2n filter '$colonne==2' then cut -f name "$folder"/tmp/file.csv | while read line; do
+mlr --c2n filter '$colonne==2' then cut -f name "$output"/file.csv | while read line; do
   # estrai nome
   name="$(basename "$line" .csv)"
   # estrai da ogni file soltanto le righe che nella seconda colonna hanno un numero
@@ -55,7 +55,7 @@ if [ -f "$folder"/tmp/4.jsonl ]; then
 fi
 
 # filtra i file fatti soltanto da 4 colonne
-mlr --c2n filter '$colonne==4' then cut -f name "$folder"/tmp/file.csv | while read line; do
+mlr --c2n filter '$colonne==4' then cut -f name "$output"/file.csv | while read line; do
   name="$(basename "$line" .csv)"
   mlr -N --c2j put '$file="'"$line"'"' "$folder"/tmp/"$line" >>"$folder"/tmp/4.jsonl
 done
@@ -69,7 +69,7 @@ if [ -f "$folder"/tmp/6.jsonl ]; then
   rm "$folder"/tmp/6.jsonl
 fi
 
-mlr --c2n filter '$colonne==6' then cut -f name "$folder"/tmp/file.csv | while read line; do
+mlr --c2n filter '$colonne==6' then cut -f name "$output"/file.csv | while read line; do
   name="$(basename "$line" .csv)"
   mlr -N --c2j put '$file="'"$line"'"' "$folder"/tmp/"$line" >>"$folder"/tmp/6.jsonl
 done
@@ -78,8 +78,8 @@ mlr --j2c cat then put '$file=sub($file,"\..+","")' "$folder"/tmp/6.jsonl >"$fol
 
 mlrgo --csv filter -x 'is_empty($4)' then put 'if(is_empty($1)){$tipo=$2}' then fill-down -f tipo then put 'if(is_empty($1)){$1="scelta"}' "$folder"/tmp/6.csv >"$folder"/tmp/6.csv.tmp
 
-mlrgo --csv filter '$tipo=~"^Limi"' then filter -x '$1=="Totale"' "$folder"/tmp/6.csv.tmp | tail -n +2 | mlrgo --csv filter -x '$scelta=="scelta"' then uniq -a then sort -f file then cut -x -r -f "^Limi.+" then rename -r "^g.+",file then filter -x '$scelta=~"^Ital"'>"$output"/6_01.csv
-mlrgo --csv filter -x '$tipo=~"^Limi"' then filter -x '$1=="Totale"' "$folder"/tmp/6.csv.tmp | tail -n +2 | mlrgo --csv filter -x '$scelta=="scelta"' then uniq -a then sort -f file then cut -x -r -f "^Infa.+" then rename -r "^g.+",file >"$output"/6_02.csv
+mlrgo --csv filter '$tipo=~"^Limi"' then filter -x '$1=="Totale"' "$folder"/tmp/6.csv.tmp | tail -n +2 | mlrgo --csv filter -x '$scelta=="scelta"' then uniq -a then sort -f file then cut -x -r -f ".+_2$" then rename -r "^g.+",file then filter -x '$scelta=~"^Ital"'>"$output"/6_01.csv
+mlrgo --csv filter -x '$tipo=~"^Limi"' then filter -x '$1=="Totale"' "$folder"/tmp/6.csv.tmp | tail -n +2 | mlrgo --csv filter -x '$scelta=="scelta"' then uniq -a then sort -f file then cut -x -r -f ".+_2$" then rename -r "^g.+",file >"$output"/6_02.csv
 
 if [ -f "$output"/6.csv ]; then
   rm "$output"/6.csv
@@ -89,7 +89,7 @@ if [ -f "$folder"/tmp/7.jsonl ]; then
   rm "$folder"/tmp/7.jsonl
 fi
 
-mlr --c2n filter '$colonne==7' then cut -f name "$folder"/tmp/file.csv | while read line; do
+mlr --c2n filter '$colonne==7' then cut -f name "$output"/file.csv | while read line; do
   name="$(basename "$line" .csv)"
   mlr -N --c2j put '$file="'"$line"'"' "$folder"/tmp/"$line" >>"$folder"/tmp/7.jsonl
 done
