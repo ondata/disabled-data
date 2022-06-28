@@ -76,5 +76,3 @@ mlr --j2c cat then cut -x -f text,title then label file,descrizione then put '$f
 mlr -I --csv rename territorio,gerarchia "$folder"/tmp/anagrafica.csv
 
 cp "$folder"/tmp/anagrafica.csv "$output"/anagrafica_nazionale.csv
-
-exit 0
