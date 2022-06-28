@@ -17,13 +17,13 @@ find "$folder"/tmp -iname "*" -type f -delete
 
 find "$folder"/../data -iname "*.*" -type f -delete
 
-# scarica pagina elenco anni
+# scarica pagina elenco anni da "Scelta dell'anno e del territorio"
 curl -kL 'https://disabilitaincifre.istat.it/dawinciMD.jsp?a1=u2i4a94&a2=_-&n=$$$3$$$$$$$&o=&p=0&sp=null&l=0&exp=0' --compressed >"$folder"/tmp/anni.html
 
-# estrai URL delle pagine degli anni della sola sezione "Amministrativa"
+# estrai URL delle pagine degli anni della sola sezione "Amministrativa" della pagina "Scelta dell'anno e del territorio"
 scrape <"$folder"/tmp/anni.html -be 'ul:nth-child(1) .nomeNodo a' | xq -c '.html.body.a[]' >"$folder"/tmp/anni-amministrativa.jsonl
 
-# aggiungi etichette
+# aggiungi etichette ai dati estratti
 mlr -I --json label href,title,text "$folder"/tmp/anni-amministrativa.jsonl
 
 # per ogni URL estratto sopra, per ogni anno scarica pagina
