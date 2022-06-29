@@ -17,7 +17,7 @@ if [ -f "$folder"/tmp/file.csv ]; then
 fi
 
 # a partire dai file xls scaricati con dowload.sh
-find "$folder"/../data -iname "*.xls" -type f | while read line; do
+find "$folder"/../../data/disabilita-in-cifre/rawdata/ -maxdepth 1 -iname "*.xls" -type f | while read line; do
   name="$(basename "$line" .xls)"
   # estrai il primo foglio
   qsv excel -s 0 "$line" |
