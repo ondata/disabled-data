@@ -23,3 +23,6 @@ script/data/*
 
 # i tmp di libreoffice
 .~lock*
+
+# a1-a2
+script/disabilita-in-cifre/a1-a2/*/*/*.xls
