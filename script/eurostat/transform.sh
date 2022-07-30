@@ -17,9 +17,9 @@ find "$folder"/../../data/eurostat/raw -maxdepth 1 -iname "*tsv.gz" -type f -pri
   echo "$name"
 
   # estrai wide
-  mlr --t2c -N --prepipe-gunzip nest --explode --values --across-fields -f 1 --nested-fs "," "$line" >"$folder"/../../data/eurostat/raw/wide/"$name".csv
+  mlr --t2c -N --prepipe-gunzip nest --explode --values --across-fields -f 1 --nested-fs "," then clean-whitespace "$line" >"$folder"/../../data/eurostat/raw/wide/"$name".csv
 
   # estrai long
   mlr --t2c -N --prepipe-gunzip nest --explode --values --across-fields -f 1 --nested-fs "," "$line" | \
-  mlr --csv reshape -r '^.+ $' -o i,v then filter -S '$v!=~":"' >"$folder"/../../data/eurostat/raw/long/"$name".csv
+  mlr --csv reshape -r '^.+ $' -o i,v then filter -S '$v!=~":"' then clean-whitespace >"$folder"/../../data/eurostat/raw/long/"$name".csv
 done
