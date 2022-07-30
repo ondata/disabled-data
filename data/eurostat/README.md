@@ -114,7 +114,7 @@ Sono disponibili nella cartella [`data/eurostat/raw/wide`](raw/wide/)
 - è stata aggiunta la colonna _flag_, per contenere quelli eventualmente presenti nei valori delle celle;
 - sono stati rimossi i _flag_ dai  valori delle celle.
 
-Sotto qualche righe di esempio di `hlth_de010` in versione _long_:
+Sotto qualche riga di esempio di `hlth_de010` in versione _long_:
 
 | unit | hlth_pb | wstatus | sex | time | geo | v | flag |
 | --- | --- | --- | --- | --- | --- | --- | --- |
