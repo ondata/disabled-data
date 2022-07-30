@@ -21,5 +21,5 @@ find "$folder"/../../data/eurostat/raw -maxdepth 1 -iname "*tsv.gz" -type f -pri
 
   # estrai long
   mlr --t2c -N --prepipe-gunzip nest --explode --values --across-fields -f 1 --nested-fs "," "$line" | \
-  mlr --csv reshape -r '^.+ $' -o i,v then filter -S '$v!=~":"' then clean-whitespace >"$folder"/../../data/eurostat/raw/long/"$name".csv
+  mlr --csv reshape -r '^.+ $' -o i,v then filter -S '$v!=~":"' then put -S '$flag=regextract_or_else($v,"[a-z]+","");$v=gsub($v,"[a-z]+","")' then clean-whitespace >"$folder"/../../data/eurostat/raw/long/"$name".csv
 done
