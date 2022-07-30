@@ -25,7 +25,7 @@ find "$folder"/../../data/eurostat/raw -maxdepth 1 -iname "*tsv.gz" -type f -pri
   campo_left=$(echo "$campo" | cut -d ',' -f 1)
   campo_right=$(echo "$campo" | cut -d ',' -f 2)
 
-  mlr -I --csv rename -r '".+[\].+",'"$campo_left"'' "$folder"/../../data/eurostat/raw/wide/"$name".csv
+  mlr -I --csv rename -r '".+[\].+",'"$campo_left"'' then put -S 'for (k in $*) {$[k] = gsub($[k], ".*:.*", "")}' "$folder"/../../data/eurostat/raw/wide/"$name".csv
 
   # estrai long
   mlr --t2c -N --prepipe-gunzip nest --explode --values --across-fields -f 1 --nested-fs "," "$line" | \
