@@ -1,4 +1,4 @@
-unit,barrier,age,sex,time\geo,i,v,flag
+unit,barrier,age,sex,time,geo,v,flag
 THS,ACS_BLD,Y15-44,F,2012,EU27_2007,2148.1,e
 THS,ACS_BLD,Y15-44,F,2012,BE,87.7,
 THS,ACS_BLD,Y15-44,F,2012,BG,11.7,u

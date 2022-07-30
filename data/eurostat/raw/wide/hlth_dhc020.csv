@@ -1,4 +1,4 @@
-unit,lev_limit,lev_satis,age,sex,geo\time,2012,2007
+unit,lev_limit,lev_satis,age,sex,geo,2012,2007
 PC_POP,NONE,GOOD,Y16-24,F,AT,37.9,45.5
 PC_POP,NONE,GOOD,Y16-24,F,BE,50.2,48.7
 PC_POP,NONE,GOOD,Y16-24,F,BG,70.0,56.2

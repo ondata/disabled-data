@@ -1,4 +1,4 @@
-unit,hlth_pb,sex,time\geo,i,v,flag
+unit,hlth_pb,sex,time,geo,v,flag
 PC,PB1040,F,2011,BE,23.3,u
 PC,PB1040,F,2011,CZ,17.4,u
 PC,PB1040,F,2011,DK,24,u

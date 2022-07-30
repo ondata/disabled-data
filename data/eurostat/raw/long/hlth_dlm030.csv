@@ -1,4 +1,4 @@
-unit,hlth_pb,age,sex,time\geo,i,v,flag
+unit,hlth_pb,age,sex,time,geo,v,flag
 PC,PB1040,TOTAL,F,2011,EU28,12.0,
 PC,PB1040,TOTAL,F,2011,BE,11.4,
 PC,PB1040,TOTAL,F,2011,BG,13.6,u

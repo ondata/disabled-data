@@ -1,4 +1,4 @@
-unit,barrier,age,sex,time\geo,EU27_2007,BE,BG,CZ,DK,DE,EE,EL,ES,FR,IT,CY,LV,LT,LU,HU,MT,NL,AT,PL,PT,RO,SI,SK,FI,SE,EEA,IS,NO,UK
+unit,barrier,age,sex,time,EU27_2007,BE,BG,CZ,DK,DE,EE,EL,ES,FR,IT,CY,LV,LT,LU,HU,MT,NL,AT,PL,PT,RO,SI,SK,FI,SE,EEA,IS,NO,UK
 THS,ACS_BLD,Y15-44,F,2012,2148.1 e,87.7,11.7 u,21.1 u,45.5,335.3,: u,9.5 u,159.8,196.1,115.3 u,: u,2.9,9.4 u,1.5 u,50.7,: u,114.2,19.7 u,107.9,: u,33.6 u,8.1 u,9.6 u,18.6 u,47.0 u,2198.1 e,: u,48.8,720.0
 THS,ACS_BLD,Y15-44,M,2012,2019.7 e,54.8,11.9 u,5.1 u,32.1,398.7,: u,17.6 u,124.8,175.6,82.0 u,: u,2.2,8.1 u,1.8 u,38.3,: u,51.0,21.8 u,132.3,: u,56.2 u,9.1 u,19.5 u,11.9 u,26.2 u,2054.9 e,: u,34.6,729.5
 THS,ACS_BLD,Y15-44,T,2012,4167.8 e,142.5,23.6 u,26.2 u,77.6,734.1,: u,27.1 u,284.7,371.7,197.3 u,: u,5.1,17.5 u,3.3 u,89.0,: u,165.3,41.5 u,240.2,: u,89.8 u,17.2 u,29.1 u,30.4 u,73.3 u,4252.9 e,: u,83.5,1449.5

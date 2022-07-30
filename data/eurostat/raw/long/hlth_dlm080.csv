@@ -1,4 +1,4 @@
-unit,hlth_pb,worktime,age,sex,time\geo,i,v,flag
+unit,hlth_pb,worktime,age,sex,time,geo,v,flag
 THS,PB1040,FT,TOTAL,F,2011,EU28,6485.2,
 THS,PB1040,FT,TOTAL,F,2011,BE,79.881,
 THS,PB1040,FT,TOTAL,F,2011,BG,79.88,

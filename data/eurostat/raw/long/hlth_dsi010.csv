@@ -1,4 +1,4 @@
-unit,barrier,age,sex,time\geo,i,v,flag
+unit,barrier,age,sex,time,geo,v,flag
 THS,PTP_LD1,Y15-44,F,2012,EU27_2007,3773.7,e
 THS,PTP_LD1,Y15-44,F,2012,BE,144.4,
 THS,PTP_LD1,Y15-44,F,2012,BG,46.5,

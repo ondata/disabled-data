@@ -1,4 +1,4 @@
-unit,hlth_pb,age,sex,time\geo,i,v,flag
+unit,hlth_pb,age,sex,time,geo,v,flag
 PC,PB1040,Y15-24,F,2011,EU28,43.9,
 PC,PB1040,Y15-24,F,2011,BE,25.7,u
 PC,PB1040,Y15-24,F,2011,CZ,30.8,u
