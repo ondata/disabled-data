@@ -25,9 +25,10 @@ find "$folder"/../../data/eurostat/raw -maxdepth 1 -iname "*tsv.gz" -type f -pri
   campo_left=$(echo "$campo" | cut -d ',' -f 1)
   campo_right=$(echo "$campo" | cut -d ',' -f 2)
 
+  # rinomina il campo con stile time\geo, soltanto con la parte sinistra del campo e trasforma le celle con il flag null in celle vuote
   mlr -I --csv rename -r '".+[\].+",'"$campo_left"'' then put -S 'for (k in $*) {$[k] = gsub($[k], ".*:.*", "")}' "$folder"/../../data/eurostat/raw/wide/"$name".csv
 
-  # estrai long
+  # estrai i dati in forma long, trasforma le celle con il flag null in celle vuote, estrai il flag che descrive i valori in un campo distinto
   mlr --t2c -N --prepipe-gunzip nest --explode --values --across-fields -f 1 --nested-fs "," "$line" | \
   mlr --csv reshape -r '^.+ $' -o i,v then filter -S '$v!=~":"' then put -S '$flag=regextract_or_else($v,"[a-z]+","");$v=gsub($v,"[a-z]+","")' then clean-whitespace then rename i,"$campo_right" then rename "$campo_raw","$campo_left" >"$folder"/../../data/eurostat/raw/long/"$name".csv
 done
