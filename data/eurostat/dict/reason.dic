@@ -1,0 +1,641 @@
+TOTAL	Total
+FIN_FAR_TRA_WAIT	Financial reasons, distance or transportation, waiting list
+FIN_DST_TRA_WAIT	Financial reasons, distance or transportation, waiting list
+FIN	Financial reasons
+FAR_TRA	Distance or transportation
+DST_TRA	Distance or transportation
+FAR	Distance
+DST	Distance
+DIF	Difficulty
+WAIT	Waiting list
+TIME	Time
+NINT	No interest
+NNB	None in the neighbourhood
+LEV_APP	Level of education attained considered appropriate
+EDUC_END	Last formal education completed
+WI_WRK	Wish to work
+NMT_ND_INT_STU	Study did not meet needs or interest
+TOOEXP	Too expensive
+TOODIFF	Too difficult (to obtain reliable/valid results)
+TOOFAR	Too far to travel
+TOOEFW	Too expensive or too far to travel or waiting list
+NOPRIOR	Does not have priority
+IVTF	Either focus on IVT than CVT
+MJPR	Major training effort realised in a previous year
+EXSCOR	The existing skills and competences of the persons employed corresponded to the current needs of the enterprise
+LSCOR	Lack of suitable CVT courses in the market
+RESIST	It elicits resistance among employees
+RECR	People recruited with the skills needed
+INISUFF	Initial training sufficient
+DONE	Investment recently made; no need this year
+DIFFASS	Difficult to assess enterprise's needs
+OWNRESP	Responsibility of the employees in their own time
+ONREQ	Only provided when requested
+NOEXPERT	Insufficient expertise to develop a training plan
+DISC	Matter of discussion between management and employees
+CERTIF	To obtain certification/accreditation as a good training enterprise
+COMM	To obtain commitment of management to the importance of CVT
+LAW	To comply with the law or collective agreements
+FINEU	To obtain financial assistance from the EU
+FINOTH	To obtain financial assistance from other external sources
+LAYOFF	Lay-off
+NF_FT_PJOB	No full-time or permanent job found
+NF_FTJOB	No full-time job found
+NF_PJOB	No permanent job found
+INVPT	Could not find a full-time job
+WANTPT	Did not want a full-time job
+INVTMP	Could not find permanent job
+WANTTMP	Did not want a permanent job
+JOB_TCTR	Job only available with a temporary contract
+ILLDIS	Own illness or disability
+FAM_PER_CARE	Care of children or disabled adults and other family or personal reasons
+FAM_PER	Other family or personal responsibilities
+FAM_PER_OTH	Other family or personal reasons
+FAMCARE	Looking after children or incapacitated adults
+FAM_OTH	Other family reasons
+FAM_HLTH_OTH	Family, health or other reasons
+INEDUC	In education or training
+STAGE	Probationary period
+RETIRED	Retired
+THKNOWK	Think no work is available
+NONEED	No need
+NOTIME	No time
+NTIME_FAM	No time due to family commitments
+NTIME_WRK_STU	No time due to work or study commitments
+NO_UNMET	No unmet needs to declare
+NOKNOW	Didn't know any good doctor or specialist
+MULTI	Part of multinational enterprise group
+TOOSMALL	The domestic market is too small
+CUT_NICHE	Cutting edge products or specialised niche services
+NET	Internet driven demand
+OUTSOURC	Outsourcing driven demand
+DNPP	Development of new products or processes
+LHR	Lack-of in-house resources
+IV	Increased visibility
+IF	Increased flexibility
+CRES	Cost reduction or economies of scla
+ANM	Access to new markets
+ANSST	Acces to new specialised skills/technologies
+MJOB	Mainly job related reasons
+MPER	Mainly personal/social reasons
+RLOSJ	To be less likely to lose job
+ROBL	To be obliged to participate
+RPROM	To increase possibilities of getting a job or changing a job/profession
+RBUIS	To start own business
+RSKIL	To get knowledge/skills useful in everyday life
+RSUB	To increase knowledge/skills on an iteresting subject
+RFUN	To meet new people of just for fun
+RCER	To obtain certificate
+RJOB	To do job better and/or improve carrier prospects
+REDLC	Reduction of labour costs
+REDOC	Reduction of other costs than labour costs
+FOLLOW	Following the behaviour/example of competitors/clients
+QUAL	Improved quality or introduction of new products
+STRAT	Strategic decisions taken by the group head
+CORE	Focus on core business
+KNOW	Access to specialized knowledge/technologies
+LKLAB	Lack of qualified labour
+REDDT	Reduced delivery times
+REGL	Less regulation affecting the enterprise, e.g. less environmental regulation
+MPLC	Difficult to manage due to physical distance, language and cultural differences
+QPS	Insufficient quality of product/service at the foreign location
+PRDCT	Low labour productivity at the foreign location
+QPER	Lack of qualified personnel at the foreign location
+DELT	Too long delivery time to customers
+SUPPL	Problems with supplier flexibility and ability to supply
+PREQ	Prerequisites
+COST	Costs
+TAX	Tax or other financial incentives
+WAITING	Waiting list
+FEAR	Fear of doctor, hospital, examination or treatment
+HOPING	Wanted to wait and see if problem got better on its own
+OTHERM	Other motivations
+NRESP	No answer
+DOC_NVAL	No valid travel document(s)
+DOC_F	False travel document
+NRP_NVV	No valid visa or residence permit
+FV_FRP	False visa or residence permit
+STAY_NJ	Purpose and conditions of stay not justified
+PERM_3	Person already stayed 3 months in a 6-months period
+NSUBS	No sufficient means of subsistence
+ALERT	An alert has been issued
+PB_THRT	Person considered to be a public threat
+FAM	Family reasons
+FAM_EU	Family member joining an EU citizen
+FAM_PART_EU	Family reasons: Spouse/partner joining an EU citizen
+FAM_CHILD_EU	Family reasons: Child joining an EU citizen
+FAM_CH_EU	Child joining an EU citizen
+FAM_OTH_EU	Other family member joining an EU citizen
+FAM_NEU	Family member joining a non EU citizen
+FAM_PART_NEU	Family reasons: Spouse/partner joining a non EU citizen
+FAM_CHILD_NEU	Family reasons: Child joining a non EU citizen
+FAM_OTH_NEU	Other family member joining a non EU citizen
+EDUC	Education reasons
+ED_STU	Education reasons: Study
+ED_OTH	Education reasons: Other educational reasons
+OCCUP	Remunerated activities reasons
+OCC_HSW	Remunerated activities reasons: Highly skilled workers
+OCC_RSE	Remunerated activities reasons: Researchers
+OCC_SEAS	Remunerated activities reasons: Seasonal workers
+OCC_OTH	Remunerated activities reasons: Other remunerated activities
+OCC_SING	Remunerated activities reasons: Single permit
+OTH_INTPRO	Other reasons: International protection status
+OTH_REFSUB	Other reasons: Refugee status and subsidiary protection
+OTH_HUM	Other reasons: Humanitarian reasons
+OTH_RESID	Other reasons: Residence only
+OTH_NSPEC	Other reasons: Other reasons not specified
+CH_FAM	Change of former reason: Family
+CH_FAM_ED	Change from family to education reasons
+CH_FAM_OCC	Change from family to remunerated activities reasons
+CH_FAM_OTH	Change from family to other reasons
+CH_ED	Change of former reason: education
+CH_ED_FAM	Change from education to family reasons
+CH_ED_OCC	Change from education to remunerated activities reasons
+CH_ED_OTH	Change from education to other reasons
+CH_OCC	Change of former reason: remunerated activities
+CH_OCC_FAM	Change from remunerated activities to family reasons
+CH_OCC_ED	Change from remunerated activities to education reasons
+CH_OCC_OTH	Change from remunerated activities to other reasons
+CH_OTH	Change of former reason: other reasons
+CH_OTH_FAM	Change from other to family reasons
+CH_OTH_ED	Change from other to education reasons
+CH_OTH_OCC	Change from other to remunerated activities reasons
+WORK	For work or study
+WRK_JOB	Work, job found before migrating
+WRK_NJOB	Work, no job found before migrating
+INTPRO	International protection
+IPRO_ASY	International protection or asylum
+PERS	Personal reasons
+PER	Personal reasons
+PER_HOL	Holidays, leisure and recreation
+PER_VFR	Visits to friends and relatives
+PER_OTH	Other personal reasons
+HOL	Holidays
+PROF	Professional, business
+OCC_BLUE	Remunerated activities reasons: EU Blue card
+OTH_MIN	Other reasons: Unaccompanied minors
+OTH_VTM	Other reasons: Victims of trafficking in human beings
+REFG	Refugee status
+REF	Refugee status
+SUB	Subsidiary protection
+SPON_REF	Sponsor with refugee status
+SPON_SUB	Sponsor with subsidiary protection status
+SPON_HUM	Sponsor with humanitarian status (national law)
+SPON_UNK	Sponsor with unknown status
+LONG_EU	Long-term resident status : EU directive
+LONG_N	Long-term resident status: National legislation
+ICT	Intra-corporate transferee permit
+LTM	Permit for long-term mobility
+BUCL	Business already a client
+LOC	Bank branch local
+BTIN	Best interest rate related terms offered
+BTNIN	Best non-interest rate related terms offered
+EMSF	Bank emphasis on smaller firms
+GDCL	Bank branch known for good client relationships
+MAINT	Maintain the business as a going concern
+GROW	Grow the business domestic activities
+EXP	Finance export sales
+INN	Finance innovation and R&D
+ACQU	For mergers and acquisitions
+INTL	Develop international activities
+ECO	General economic outlook
+LOCM	Limited demand in the local/domestic markets
+FORM	Limited demand in foreign markets
+AVPER	Limited availability of suitable new personnel
+LSPER	Loss of existing personnel
+TRPB	Business transfer problems e.g. inheritance
+HILAB	High cost of labour
+INVES	Necessary investment into equipment
+OUTPD	Products getting outdated (R&D necessary, product lead time)
+TCOMP	Technological competition
+NWENT	New entrants in the market
+PCOMP	Price competition/small margins
+RGFR	Regulatory framework
+LKFI	Lack of fiscal incentives
+DIFIT	Difficult access to information technology
+IW_OTH	Other infrastructure weakness
+NEFIN	Not enough financing
+PCR	Poor credit rating
+LOWNCAP	Lack of own capital
+LKC	Lack of own capital
+ICG	Insufficient collateral or guarantee
+IRP	Insufficient or risky potential (of the business or project)
+TML	Already too many loans or too much debt
+NLH	No loan history
+PLH	Poor loan history
+NRS	No reason given
+HIR	Interest rates too high
+NIR	Unacceptable non-interest-rate related conditions
+INA	Inability of existing shareholders to subscribe for more shares
+EXC	Too much equity in exchange for the funds offered asked by potential new shareholders
+CON	Too many concessions in exchange for equity finance asked by potential new shareholders
+DEV	Business potential development insufficient or too risky according to potential new shareholders
+DEB	Business had too many debts according to potential new shareholders
+NT_FAM	Lack of free time due to family commitments
+NT_WRK	Lack of free time due to work or study commitments
+HLTH	Health reasons
+HOME	Prefer to stay at home, no motivation to travel
+SAFE	Safety reasons
+SAL	Salary
+BEN	Benefits
+JSEC	Job security
+LCT	Location
+WRK_CDT	Working conditions
+OPAD	Opportunities for advancement
+INCHA	Intellectual challenge
+LEV_RSP	Level of responsibility
+DEG_IND	Degree of independence
+CTB_SOC	Contribution to society
+SOC_STA	Social status
+END_DO	Completion of doctorate
+END_PDJ	End of post_doc or job contract
+OTH_ECO	Other job related or economic factors
+ACA_FAC	Academic factors
+FP_REA	Family or personal reasons
+DISMIS	Dismissed or made redundant
+JOBLIM	Job of limited duration that ended
+EDUTRA	Education or training
+ERLY_RET	Early retirement
+NORM_RET	Normal retirement
+LHCBAD_PEF	Both longstanding health condition or a basic activity difficulty and personal or environmental factors
+LHCBADO	Longstanding health condition or a basic activity difficulty only
+PEFO	Personal or environmental factors only
+LACKQUAL	Lack of qualifications/experience
+LACKAPPJOB	Lack of appropriate job opportunities
+FAMRESP	Family/caring responsibilities
+OPER	Other personal or environmental reasons
+NOLIMW	No limitation in work
+HCOST	High costs of CVT courses
+IVTFOC	Focus on IVT rather than on CVT
+EFFREC	Major CVT efforts made in recent years
+QUALCOR	Existing qualifications, skills and competences corresponded to the current needs of the enterprise
+LCO	Lack of suitable CVT courses in the market
+DIFASS	Difficult to assess enterprise's training needs
+HWL	High workload and limited / no time available for staff to participate in CVT
+NLIM	No limitation
+QUAL_FE	Qualification of future employees according to the needs of the enterprise
+BEST_FE	Selection of the best IVT participants for future employment
+NMM	Prevention of mismatch with enterprise needs in case of external recruitment
+IVTCAP	Use of productive capacities of IVT participants
+HLTH_AGE	Health or age reasons
+AGFOD_OTH	Age, gender, foreign origin, disability and other reason
+AGE	Age
+GEN	Gender
+GEND	Gender
+REL	Religion
+ETH	Ethnicity or nationality
+ORI_FOR	Foreign origin
+DIS	Disability
+DIS_OTH	Disability or other reason
+SXO	Sexual orientation
+NPL	No places available
+OH_NSUI	Opening hours not suitable
+QUAL_NSAT	Quality of the services available not satisfactory
+NND	No need
+CO_NADT	Not admitted to the course or programme
+CO_NSUI	No suitable courses or programmes available
+NPROV	Not provided by employer
+REFU	Refused by person needing such services
+NCARE	No care services available
+PERS_HOL	Holidays, leisure and recreation
+PERS_VFR	Visits to friends and relatives
+PERS_OTH	Other personal reasons
+NF_SALJOB	No job found as employee
+REQ_FO_EMP	Requested by former employer
+U_PRCT	Usual practice in the field
+SUI_OPPO	Suitable opportunity
+CN_BSN_FAM	Continued the family business
+NPW_OTH	Not planned or wanted but started for another reason
+FLEX_WRK	Flexible working hours
+W_DIF	Wanted but encountered difficulties
+W_PERDIF	Wanted but encountered difficulties for personal reasons
+W_NPERDIF	Wanted but encountered difficulties which were not due to personal reasons
+W_OTH	Wanted for other reason
+NW	Did not want
+LINFL_PRC	Lack of influence on price setting
+LACS_FIN	Lack of access to financing
+D_PAY_NPAY	Delayed payments or non-payments
+HABUR	High administrative burden
+FIN_HS	Periods of financial hardship
+NCUS_NASG_NPRJ	Periods of having no customer, no assignments or project to work on
+NDIF	No difficulties
+PREF_WRK_ALN	Preferring working alone
+NENO_WRK	Not enough work
+DIF_F_SUI_STAF	Difficulty finding suitable staff
+C_LEGFRAM	Complicated legal framework
+HSC	High social contributions
+NAW	Not aware
+NPS	Not possible
+NPS_OCC	Not possible due to occupation
+PREF_WRK_SCTR	Preferring working with subcontractors or associates
+WI_CL	Client's wish
+FIN_NSECU	Financial insecurity
+DIF_G_FIN	Difficulty getting financing
+STRS_RESP_RSK	Stress, responsibility, risk
+LS_CVG_SOPROT	Less social protection coverage
+R_COSTPR	Responding to cost pressures
+I_ENTPERF	Improving enterprise's performance
+OP_OPPO_NEWMKT	Opening up new market opportunities
+R_MKTPR	Responding to market pressures
+R_REGL	Responding to regulatory provisions
+PER_ENV_ONL	Personal or environmental reasons only
+PER_ENV_OTH	Other personal or environmental reasons
+FAM_CARE_PER_OTH	Care of adults with disabilities or children and other family or personal reasons
+FAM_CARE	Care of adults with disabilities or children
+FAM_SPOU_EU	Spouse or partner joining an EU citizen
+FAM_CH_NEU	Child joining a non EU citizen
+FAM_SPOU_NEU	Spouse or partner joining a non EU citizen
+NSERV_ACS	No service accessible or vacant
+CH_SELF_CARE	Children take care of themselves
+SERV_OTH	Other service related reasons
+LCARE_D_ST	Lack of care services during the day or at special times
+LCARE_D	Lack of care services during the day
+LCARE_ST	Lack of care services at special times
+CARE_TXP	Care services are too expensive
+CARE_QUAL_NS	Available care services are not of sufficient quality
+EDUC_TNG_RET_OTH	Education or training, retirement or other reason
+EDUC_TNG	Education or training
+EDUC_TNG_NSUI	No suitable offer for education or training
+EDUC_STU	Study
+EDUC_OTH	Other educational reasons
+TNG	Training
+ITNG_S	Initial training sufficient
+EXPT_TNG_NS	Insufficient expertise to develop a training plan
+FOC_IVT	Focus on IVT rather than on CVT
+CAP_IVT	Use of productive capacities of IVT participants
+EFF_REC	Major CVT efforts made in recent years
+BST_FUEMP	Selection of the best IVT participants for future employment
+RSRCH	Research
+PUPXCH_EDUC	Pupil exchange scheme or educational project
+AUPAIR	Au pairing
+CO_LANG_NAVL_NAFD	Language courses not available or not affordable
+SKIL_LANG_S	Language skills sufficient
+NAP_CO_LANG_PT	Not applicable - participation in language course
+DST_LANG_CLT	Distance, language or culture
+DST_RND_TLRG	Distance between production process and R&D or product design too large
+FIN_NENO	Not enough financing
+FIN_EXP	Financing exports
+FINARR_FV	Favourable financial arrangements
+FIN_ARR	Favourable financial arrangements
+FIN_INN_RND	Financing innovation and R&D
+NSECU_FIN	Financial insecurity
+TAX_FIN	Tax or financial reasons
+LFISC	Lack of fiscal incentives
+TXP_DIF	Too expensive or difficult
+TXP	Too expensive
+PR_INC_S	Providing sufficient income
+E_PEN_PR_INC_S	Establishing/increasing retirement pension entitlements and providing sufficient income
+E_PEN	Establishing/increasing retirement pension entitlements
+O_FINASSI_EU	Obtaining financial assistance from the EU
+O_FINASSI_OTH	Obtaining financial assistance from other external sources
+HCOST_EXPC	Higher costs than expected
+HCOST_CVT	High costs of CVT courses
+HLC	High labour costs
+RED_LC	Reduction of labour costs
+RED_OTHXLC	Reduction of other costs not related to labour
+LABPRY_NS	Insufficient labour productivity
+LQLFLAB	Lack of qualified labour
+TXP_TFAR_WLIST	Too expensive or too far or waiting list
+TFAR	Too far
+NTIME	No time
+LTIME_FAM	Lack of time due to family commitments
+LTIME_WRK_STU	Lack of time due to work or study commitments
+HWL_NTIME	High workload and limited/no time available for staff to participate in CVT
+NPRIOR	No priority
+PR_REQ	Only provided when requested
+WLIST	Waiting list
+ILL_DIS_OWN	Own illness or disability
+LINC_ILL	Lack of income in case of sickness/illness
+LHC_BAD_PER_ENV	Longstanding health condition or a basic activity difficulty and personal or environmental reasons
+LHC_BAD_ONL	Longstanding health condition or a basic activity difficulty only
+GDOC_UNK	Good doctor or specialist not known
+FEAR_DR_HSP	Fear of doctor, hospital, examination or treatment
+HOPE	Hope to get better
+NMT_ND_INT	Study did not meet needs or interest
+NND_NINT	No need or no interest
+OPHR_NSUI	Opening hours not suitable
+NUMT_ND	No unmet needs
+NLIM_TNG	No limitation in the level of training provided
+NADT_CO	Not admitted to the course or programme
+LCVT_SUI	Lack of suitable CVT courses in the market
+NPR_EMPL	Not provided by employer
+REF_ND_SERV	Refused by person needing such services
+NACT_NB	No such activities in the neighbourhood
+LVL_APP	Level of education attained considered appropriate
+DIF_ASS	Difficult to assess enterprise's training needs
+DIF_F_STAF_SUI	Difficulty finding suitable staff
+DIF_ACS_ITEC	Difficult access to information technology
+DIF_FRCHG_PRD	Difficulty due to frequent changes to the product
+WRK_NENO	Not enough work
+NWRKTIME_ARR	No working time arrangements
+ARR_ALN_PTN	Arranged alone or with partner
+INFSUPP	Informal support
+WRKHR_LG	Long working hours
+DIF_WRKSCD	Unpredictable or difficult work schedules
+COM_LG	Long commute
+DMJOB	Demanding or exhausting job
+LSPT_EMPL_PUB	Lack of support from employer or public services
+LSUPP_EMPL	Lack of support from employers and colleagues
+SKD	Schedule
+JOB	Job related reasons
+LOST_NF_JOB	Lost job and/or no job found
+NW_PJOB	No permanent job wanted
+B_NJOB	Believing no job available
+EMP_F_JOB	Employment - job found before migrating
+EMP_NF_JOB	Employment - no job found before migrating
+PROB	Probation
+DISM	Dismissed or made redundant
+JOB_LTD_END	End of limited duration job
+RECR_SKIL_ND	People recruited with the skills needed
+DISC_MNG_SAL	Discussion between management and employees
+NMM_RECR	Prevention of mismatch with enterprise needs in case of external recruitment
+RESIS_SAL	Resistance among employees
+O_CERT_GTNG	Obtaining certification/accreditation as a good training enterprise
+O_COM_MNG	Obtaining commitment of management to the importance of CVT
+RESP_OWNTIME	Responsibility of the employees in their own time
+QLF_COR	Existing qualifications, skills and competences corresponded to the current needs of the enterprise
+QLF_FUSAL	Qualification of future employees according to the needs of the enterprise
+LAPP_JOBOPPO	Lack of appropriate job opportunities
+LQLF	Lack of qualifications/experience
+NEG_PLE	Negative previous learning experience
+JOBSRCH_ENTR	Job-searching or entrepreneurship
+JOB_OTH	Other job-related reasons
+EMP	Employment reasons
+EMP_BLUE	EU Blue card
+EMP_HSW	Highly skilled workers
+EMP_RSE	Researchers
+EMP_WRK_SEAS	Seasonal workers
+EMP_OTH	Other employment reasons
+RET	Retirement
+RET_EARL	Early retirement
+RET_NML	Normal retirement
+RETAGE_MAX	Maximum retirement age reached
+ELIG_PEN	Eligibility for a pension reached
+VS	Voluntary service
+EVS	European Voluntary Service (EVS)
+VS_OTH	Other voluntary service
+CHG_FAM	Change from family reasons
+CHG_FAM_EDUC	Change from family to education reasons
+CHG_FAM_EMP	Change from family to employment reasons
+CHG_FAM_OTH	Change from family to other reasons
+CHG_EDUC	Change from education reasons
+CHG_EDUC_FAM	Change from education to family reasons
+CHG_EDUC_EMP	Change from education to employment reasons
+CHG_EDUC_OTH	Change from education to other reasons
+CHG_EMP	Change from employment reasons
+CHG_EMP_FAM	Change from employment to family reasons
+CHG_EMP_EDUC	Change from employment to education reasons
+CHG_EMP_OTH	Change from employment to other reasons
+CHG_OTH	Change from other reasons
+CHG_OTH_FAM	Change from other to family reasons
+CHG_OTH_EDUC	Change from other to education reasons
+CHG_OTH_EMP	Change from other to employment reasons
+IPROT_ASY	International protection or asylum
+RFG_SPROT_HUM	International protection (refugee and subsidiary protection status) and humanitarian status
+RFG_SPROT	International protection status (refugee and subsidiary protection status)
+RFG	Refugee status
+SPROT	Subsidiary protection status
+HUM	Humanitarian status
+SPN_RFG	Sponsor with refugee status
+SPN_SPROT	Sponsor with subsidiary protection status
+SPN_HUM	Sponsor with humanitarian status
+RES	Residence
+UAM	Unaccompanied minors
+WDN_RVOC	Withdrawn due to revocation
+WDN_END	Withdrawn due to ending
+WDN_REF_RNEW	Withdrawn due to refusal to renew
+VICT_TRFF_HMN	Victims of trafficking in human beings
+C_LAW_CAGRM	Complying with the law or collective agreements
+DOC_FLS	False travel document(s)
+DOC_NV	No valid travel document(s)
+VISA_RPRM_FLS	False visa or residence permit
+VISA_RPRM_NV	No valid visa or residence permit
+STAY_M3	Person already stayed 3 months in a 6-months period
+SUBS_NS	Insufficient means of subsistence
+PUB_THRT	Person considered to be a public threat
+ENTRY_NLEG	Illegal entry
+OSTAY	Overstay
+IC_TRF	Intra-corporate transferee permit
+LT_MOB	Long-term mobility permit
+REQ_FOEMPL	Requested by former employer
+PRCT_USU	Usual practice in the field
+OPPO_SUI	Suitable opportunity
+CN_FAMBSN	Continued the family business
+WRKHR_FLEX	Flexible working hours
+PAY_NPAY_DL	Delayed payments or non-payments
+REGLFRAM	Regulatory framework
+LEGFRAM_CMPL	Complicated legal framework
+LS_REG	Less regulation (e.g. environmental regulation)
+STRAT_DEC	Strategic decisions by group head
+FOC_CORBSN	Focus on core business
+DLVTIME_TLG	Delivery time too long
+QUAL_NS	Insufficient quality
+LQLFPER_FOR	Lack of qualified personnel at the foreign location
+LFLEX_SUP	Lack of flexibility or ability to supply
+ACS_NEWMKT	Access to new markets
+ACS_SPEKNOW	Access to specialised knowledge/technologies
+NACS_CP_INET	No access to a computer or internet
+FL_BHV_COMP	Following the behaviour/example of competitors/clients
+LOG	Logistics
+IQUAL_NEWPRD	Improved quality or new products
+COMP	Competitiveness
+IH_KH	In-house know-how
+S_DOMPRD	Streamlining of domestic production process
+NSUBSC_SHR	Unable to subscribe for further shares
+EQUIT_TM	Too much equity
+CONC_TM	Too many concessions
+BSNPT_NS_RSK	Insufficient or risky business potential
+LOAN_TM_DEBT_TH	Too many loans or too high debt
+POORCRED	Poor credit rating
+LCAPOWN	Lack of own capital
+COLT_GAR_NS	Insufficient collateral or guarantee
+NLOAN_HST	No loan history
+BST_INT_RT	Best interest rate
+POORLOAN_HST	Poor loan history
+INT_RT_TH	Interest rates too high
+NACC_NINT_RT	Unacceptable conditions (other than interest rate)
+ALR_CL	Already client
+LOC_BANK	Local bank
+BST_OTH_XINT_RT	Best other conditions not related to interest-rates
+EMPH_BSN_SML	Emphasis on smaller business
+K_GCLRELS	Known for good client relationships
+ECON_OUTL	General economic outlook
+LTDDM_DOMMKT	Limited demand in the local/domestic markets
+LTDDM_FORMKT	Limited demand in foreign markets
+LTDAVL_PER_SUI	Limited availability of suitable personnel
+LOSS_PER	Loss of existing personnel
+BSNTRF_PB	Business transfer problems (e.g. inheritance)
+INV_EQ	Necessary investment into equipment
+PRD_OUTD	Products becoming outdated
+TEC_COMP	Technological competition
+NEWENT_MKT	New entrants in the market
+PRC_MRG	Price competition/small margins
+INFR_WEAK_OTH	Other infrastructure weakness
+MNT_BSN	Maintaining the business
+GR_DOMBSN	Growing domestic business
+MERG_ACQ	Mergers and acquisitions
+DEV_INTLBSN	Developing international business
+MULTINAT	Part of multinational enterprise group
+DOMMKT_TSML	Domestic market too small
+INET_DRV	Internet-driven
+HARASS	Harassment or bullying
+HARS_BULLY	Harassment or bullying
+PRESSURE	Time pressure or overload of work
+TPR_OLWRK	Time pressure or overload of work
+VIOLENCE	Violence or threat of violence
+VLN_THRT	Violence or threat of violence
+CHEMIC	Chemicals, dusts, fumes, smoke or gases
+CHM_SMO_GAS	Chemicals, dusts, fumes, smoke or gases
+CONCEN	Activities involving strong visual concentration
+ACT_SVCONC	Activities involving strong visual concentration 
+HEAVY	Handling of heavy loads
+H_HVYLOAD	Handling of heavy loads
+NOISE	Noise or vibration
+NOIS_VIB	Noise or vibration
+POSTURE	Difficult work postures, work movements
+DIF_WPST_WMV	Difficult work postures, work movements
+RISKACC	Risk of accident
+RSK_ACC	Risk of accident
+LCOMM_ORG	Lack of communication or cooperation within the organisation
+DEAL_DIFCUS	Dealing with difficult customers, patients, pupils, etc.
+NSECU_JOB	Job insecurity
+LAUTN_WPACE	Lack of autonomy, or lack of influence over the work pace or work processes
+TIR_PFPSN	Tiring or painful positions
+RPTMOV	Repetitive hand or arm movements
+SLP_TRP_FAL	Slips, trips and falls
+U_MAC_HNTL	Use of machines or hand tools (excluding vehicles)
+U_VEH	Use of vehicles (in the course of work, excluding on the way to and from work)
+SGN_OTH	Another significant risk factor
+COV19	COVID-19 related effects
+GDSERV_OUTD	Goods or services outdated quickly
+GDSERV_SS	Competitor goods or services easily substituted
+NEWCOMP_THRT	New competitors as a major threat of enterprises’ market position
+SCOMP_ABR	Strong competition from abroad
+DIF_P_TECDEV	Difficulty predicting future technological developments
+DIF_P_COMPACT	Difficulty predicting competitor's actions
+DIF_P_CHG_DM	Difficulty predicting changes in demand
+LOSS_CL_INCR_PRC	Loss of clients due to increases of the price
+GOV_PLCY_MEAS	Government policies or measures
+INCR_CUSDM	Increasing customer demand
+INCR_COST_PRC	Increasing costs or input prices
+IMPC_WTHR	Impacts of extreme weather conditions
+REG	Existing regulations
+TAX_CHRG_FEE	Existing taxes, charges or fees
+REG_TAX_FU	Regulations or taxes expected in the future
+GRNT_S_FINOTH	Government grants, subsidies or other financial incentive
+MKTDM	Current or expected market demand
+I_ENTREPUT	Improving enterprise's reputation
+VA_INIT	Voluntary actions or initiatives within the sector
+HCOST_EWM	High cost of energy, water or materials
+PUB_PROC	Need to meet requirements for public procurement
+NONE	None
+OTH	Other reason
+OTH_NLCARE	Other reason not linked with the lack of suitable care services
+OTH_XLCARE	Other reason not linked with the lack of suitable care services
+OUTSRC_DRV	Outsourcing driven
+OTH_LCARE	Other reason linked with the lack of suitable care services
+NAP_APLD	Not applicable - applied for recognition
+NAP	Not applicable
+NRP	No response
+NSP	Not specified
+UNK	Unknown

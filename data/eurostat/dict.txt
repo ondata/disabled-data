@@ -1,0 +1,14 @@
+age
+barrier
+geo
+hlth_pb
+incgrp
+levels
+lev_limit
+lev_satis
+reason
+tenure
+time
+unit
+worktime
+wstatus

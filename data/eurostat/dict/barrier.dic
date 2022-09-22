@@ -1,0 +1,115 @@
+TOTAL	Total
+LEG_ADM	Legal or administrative
+CBT_NRLV	Cross border trade not relevant
+C41	Cross border trade not relevant (products not exportable)
+E_COM_ABR	Establishing a commercial presence abroad
+C42	Establishing a commercial presence abroad
+MV_STAF_TEMP	Movement of staff on a temporary basis
+C43	Movement of personnel on a temporary basis
+TAX	Tax barriers
+C44	Taxation issues
+INS_GAR	Insurance, guarantee systems and other barriers
+C45	Insurance, guarantee systems, etc. issues
+LINTLSTD	Lack of international standards
+C46	Lack of international standards for services
+DIF_IDF_CLABR	Difficulty in identifying potential clients abroad
+C47	Difficulties in identifying potential clients abroad
+LANG_CLT	Language and culture
+C48	Language and cultural barriers
+TAR_TRD	Tariffs and other trade barriers
+UNC_INTLSTD	Uncertainty of international standards
+CNC_SAL	Concerns of employees (including trade unions)
+CNC_VLPAT_IPR	Concern of violation of patents and/or intellectual property rights
+CNF_SOCVAL	Conflicting with social values of your enterprise (e.g. corporate social responsibility issues)
+DST_PRR	Distance to producers
+DST_CL	Distance to existing clients
+DIF_IDF_PROVABR	Difficulty in identifying suitable providers abroad
+CNC_SRCOP_BEN	Concerns of the sourcing operation exceeding expected benefits
+FIN	Financial barriers
+UNC_QUALPRD_ABR	Uncertainty of the quality of the products/services to be supplied abroad
+LMNG_KH	Lack of management resources and know-how
+LMGMT_KH	Lack of management resources and know-how
+MSSDOC_PRD	Missing documentation of own products and processes
+MOB	Mobility
+TRA	Transportation
+ACS_BLD	Accessing buildings
+EDUC_TNG	Education and training
+EMP	Employment
+U_INET	Using the internet
+SOC	Social contact
+LEIS	Leisure
+P_ESS	Paying for essentials
+PERC_DCRIM	Perceived discrimination
+PTP_LD1	Participating in 1 life domain
+PTP_LD2-3	Participating in 2 to 3 life domains
+PTP_LD_GE4	Participating in 4 or more life domains
+LQCFOJ_OTH	Language skills, qualifications, citizenship, foreign origin, job and other barriers
+LLANG	Lack of language skills
+LREC_QLF	Lack of recognition of qualifications
+CTZ_RPRM	Citizenship or residence permit
+ORI_REL_SOC	Origin, religion or social background
+DCRIM_ORI_FOR	Discrimination due to foreign origin
+NSJOB_AVL	No suitable job available
+NVR_WRK	Never sought work or never worked
+LQLFLAB_ABR	Lack of qualified labour abroad
+ACS_FIN_OTH	Access to finance or other financial barriers
+LFIN	Lack of finance
+LFIN_IN	Lack of internal finance
+LFIN_EXT	Lack of external finance (credit or private equity)
+LFUND_IN	Lack of funds within the enterprise or group
+HCOST	High costs
+HCOST_ACS_NEWMKT	High costs of access to new markets
+HCOST_MT_REGL	High costs of meeting regulations
+LQLFSAL_IN	Lack of qualified employees within enterprise
+LCOLLPTN	Lack of collaboration partners
+DIF_SUB	Difficulties in obtaining public grants or subsidies
+MKTDM_UNC	Uncertain market demand
+MKTDM_LW	Low market demand
+HCOMP	High competition
+PRCCOMP_STR	Strong price competition
+INN_COMP	Innovations introduced by competitors
+MKTCOMP_LTL	Little market competition
+STRCOMP_PRDQUAL	Strong competition on product quality
+LINFO_TEC	Lack of information on technology
+LINFO_MKT	Lack of information on markets
+LGIDEA	Lack of good ideas
+MKT_EENT	Markets dominated by established enterprises
+NND	No need
+PREINN	Previous innovations
+NDM	No demand
+ABD_CNC	Abandoned at the concept stage
+ABD_BG	Abandoned after it began
+D_SRL	Seriously delayed
+NCMPG	No compelling barrier
+BRR_TL	Too large barriers
+BUR_REGL	Burden due to legislation/regulation
+UNC_REGL	Uncertainty due to legislation/regulation
+LCSI_EU_REGL	Lack of consistency across the EU in legislation/regulation
+LACS_KNOW	Lack of access to external knowledge
+DIFFPRIOR_IN	Different priorities within the enterprise
+BRR_GE1	One or more barriers
+OUTSRC_LOG	Outsourced logistics to another enterprise
+REGL	Regulatory barriers
+TECH	Technical barriers
+WRKHR_LG	Long working hours
+DIF_WRKSCD	Unpredictable or difficult work schedules
+COM_LG	Long commute
+DMJOB	Demanding or exhausting job
+LSUPP_EMPL	Lack of support from employers and colleagues
+DIF_ACQ_RM_DOM	Difficulty in acquiring raw materials/intermediate products from suppliers domestically
+DIF_ACQ_RM_ABR	Difficulty in acquiring raw materials/intermediate products from suppliers abroad
+DIF_ACS_SERV_DOM	Difficulty accessing services from suppliers domestically
+DIF_ACS_SERV_ABR	Difficulty accessing services from suppliers abroad
+DIF_TRA_GD_BK_FCUS	Difficulty to transport goods produced in another country back to enterprise or to transport goods to final customers
+DIF_RECV_EXPT_ABR	Difficulty to receive experts or other professionals from abroad
+DIF_SEND_EXPT_ABR	Difficulty to send experts or other employees abroad
+CANC_ORD_DOM	Cancellation of orders or decline in incoming orders, from domestic customers
+CANC_ORD_ABR	Cancellation of orders or decline in incoming orders, from customers abroad
+CHG_SLS_CHAN	Change in sales channels
+COV19	COVID-19 related concerns and issues
+OTH	Other
+OTHER	Other barriers
+NONE	None
+NAP	Not applicable
+NRP	No response
+UNK	Unknown

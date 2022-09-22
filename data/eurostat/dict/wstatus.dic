@@ -1,0 +1,72 @@
+TOTAL	Total
+POP	Population
+ACT_INAC	Persons in- and outside the labour force (former name: active and inactive persons)
+ACT	Persons in the labour force (former name: active persons)
+EMP_W	Persons employed or previously employed
+EMP	Employed persons
+EMP_FT	Employed persons working full-time
+EMP_PT	Employed persons working part-time
+EMP_TEMP	Employed persons with temporary contract
+LEAV	Employed persons on temporary leave from work
+SAL_SCTR	Employees and subcontractors
+SAL	Employees
+SAL_PERM	Employees with a permanent job
+SAL_TEMP	Employees with a temporary job
+MW_IS	Manual workers in industry and services
+NMW_IS	Non-manual workers in industry and services
+NSAL	Employed persons except employees
+SELF_COWN	Self-employed persons and co-owner
+SELF	Self-employed persons
+SELF_S	Self-employed persons with employees (employers)
+SELF_NS	Self-employed persons without employees (own-account workers)
+SELF_I_NS	Independent self-employed without employees (own-account workers)
+SELF_D_NS	Dependent self-employed without employees (own-account workers)
+SELF_NS_D_UNK	Self-employed without employees (own-account workers), dependency not known
+CFAM_COOP	Contributing family workers and members of producers' cooperatives
+CFAM	Contributing family workers
+NCFAM	Employed persons except contributing family workers
+COOP	Members of producers' cooperatives
+EMP_OTH	Other employed persons
+EMP_UNK	Employed persons - unknown
+FLF_D	Farm labour force, directly employed by the farm on a regular or non-regular basis
+FLF_D_R	Farm labour force, directly employed by the farm on a regular basis
+FLF_D_RFAM	Family farm labour force directly employed by the farm
+FLF_D_RFAM_HLD	Sole holder directly employed by the farm
+FLF_D_RFAMXHLD	Members of sole holders' family, excluding the holder, directly employed by the farm
+FLF_D_RFAM_SPOU	Spouse of sole holder directly employed by the farm
+FLF_D_RFAM_OTH	Other members of sole holder's family directly employed by the farm
+FLF_D_RNFAM	Non-family farm labour force, directly employed by the farm on a regular basis
+FLF_D_NR	Farm labour force, directly employed by the farm on a non-regular basis
+FLF_ND	Farm labour force, not directly employed by the farm
+FLF_GRP	Group holders
+FLF_MANXGRP	Farm managers, excluding group holding
+NEMP	Not employed persons
+UEMP_PT	Underemployed persons working part-time
+UNE	Unemployed persons
+ACT_UNK	Persons in the labour force (former name: active population) - unknown
+INAC	Persons outside the labour force (former name: inactive persons)
+SLACK	Labour market slack
+EDUC	Students
+HOME	Homemakers
+B_AGE_MIN	Persons below the national minimum age for economic activity
+INC	Retired persons and capital income recipients
+RET	Retired persons
+INAC_OTH	Other persons outside the labour force (former name: inactive persons)
+INAC_UNK	Persons outside the labour force (former name: inactive persons) - unknown
+COWN	Co-owner
+CLIENT	Clients
+SCTR	Subcontractors
+NONE	None
+NCHG	No change
+WANT	Persons would like to work (seeking employment or not)
+NWANT	Persons do not want to work
+WANTW	Persons want to work but not seeking or available
+SEEK_NAVL	Persons seeking work but not immediately available
+NSEEK_AVL	Persons available to work but not seeking
+PRACT	Practising
+PACT	Professionally active
+LIC	Licensed to practice
+OTH	Others
+NAP	Not applicable
+NRP	No response
+UNK	Unknown
