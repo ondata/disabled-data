@@ -45,5 +45,3 @@ find "$folder"/../../data/eurostat/dict -maxdepth 1 -iname "*.dic" | while read 
     mlrgo --t2j -N label key,en then put '$it=null' "$file" | jq -c '.[]' >"$folder"/../../data/eurostat/dict/"$nomefile".jsonl
   done
 done
-
-# {"TOTAL":[{"en":"Total","it":""}]}
