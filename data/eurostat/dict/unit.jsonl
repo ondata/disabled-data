@@ -1,0 +1,693 @@
+{"key":"TOTAL","en":"Total","it":null}
+{"key":"NR","en":"Number","it":null}
+{"key":"NR_HAB","en":"Number per inhabitant","it":null}
+{"key":"THS","en":"Thousand","it":null}
+{"key":"MIO","en":"Million","it":null}
+{"key":"BN","en":"Billion","it":null}
+{"key":"CT","en":"Euro cent","it":null}
+{"key":"EUR","en":"Euro","it":null}
+{"key":"THS_EUR","en":"Thousand euro","it":null}
+{"key":"MIO_EUR","en":"Million euro","it":null}
+{"key":"BN_EUR","en":"Billion euro","it":null}
+{"key":"MEUR_KP11","en":"Million euro (at constant 2011 prices)","it":null}
+{"key":"MEUR_KP10","en":"Million euro (at constant 2010 prices)","it":null}
+{"key":"MEUR_KP05","en":"Million euro (at constant 2005 prices)","it":null}
+{"key":"MEUR_KP00","en":"Million euro (at constant 2000 prices)","it":null}
+{"key":"MEUR_KP_PRE","en":"Million euro (at prices of the previous year)","it":null}
+{"key":"MEUR_CLV10","en":"Million euro, chain-linked volumes, reference year 2010 (at 2010 exchange rates)","it":null}
+{"key":"MEUR_NSA","en":"Million euro (NSA)","it":null}
+{"key":"MIO_EUR_NSA","en":"Million euro (NSA)","it":null}
+{"key":"MIO_EUR_SCA","en":"Million euro (SCA)","it":null}
+{"key":"MIO-EUR-SA","en":"Trade value - million of euro - seasonally and working day adjusted","it":null}
+{"key":"MIO-EUR-NSA","en":"Trade value - million of euro - not seasonally adjusted","it":null}
+{"key":"EUR_M3_CLV10","en":"Euro per cubic metre (Euro: chain-linked volumes, reference year 2010, at 2010 exchange rates)","it":null}
+{"key":"EUR_BGDP","en":"Euro per billion GDP","it":null}
+{"key":"EUR_KG","en":"Euro per kilogram","it":null}
+{"key":"EUR_KGOE","en":"Euro per kilogram of oil equivalent (KGOE)","it":null}
+{"key":"EUR_KG_CLV15","en":"Euro per kilogram, chain linked volumes (2015)","it":null}
+{"key":"EUR_KG_CLV10","en":"Euro per kilogram, chain linked volumes (2010)","it":null}
+{"key":"EUR_T","en":"Euro per tonne","it":null}
+{"key":"EUR_TOE","en":"Euro per tonne of oil equivalent (TOE)","it":null}
+{"key":"EUR_HA","en":"Euro per hectare","it":null}
+{"key":"EUR_HM2","en":"Euro per hundred square metres","it":null}
+{"key":"EUR_HD","en":"Euro per head (animal)","it":null}
+{"key":"EUR_HHD","en":"Euro per hundred heads (animals)","it":null}
+{"key":"EUR_HIVE","en":"Euro per beehive","it":null}
+{"key":"EUR_HAB","en":"Euro per inhabitant","it":null}
+{"key":"EUR_HAB_EU","en":"Euro per inhabitant in percentage of the EU average","it":null}
+{"key":"EUR_HAB_EU27_2020","en":"Euro per inhabitant in percentage of the EU27 (from 2020) average","it":null}
+{"key":"EUR_HAB_KP10","en":"Euro per inhabitant (at constant 2010 prices)","it":null}
+{"key":"EUR_AE","en":"Euro per adult equivalent","it":null}
+{"key":"EUR_HH","en":"Euro per household","it":null}
+{"key":"MEUR_HAB","en":"Million euro per inhabitant","it":null}
+{"key":"ECU","en":"European currency unit (Ecu)","it":null}
+{"key":"NAC","en":"National currency","it":null}
+{"key":"THS_NAC","en":"Thousand units of national currency","it":null}
+{"key":"MIO_NAC","en":"Million units of national currency","it":null}
+{"key":"BN_NAC","en":"Billion units of national currency","it":null}
+{"key":"MNAC_KP10","en":"Million units of national currency at constant 2010 prices","it":null}
+{"key":"MNAC_KP05","en":"Million units of national currency at constant 2005 prices","it":null}
+{"key":"NAC_T","en":"National currency per tonne","it":null}
+{"key":"NAC_HA","en":"National currency per hectare","it":null}
+{"key":"NAC_HAB","en":"National currency per inhabitant","it":null}
+{"key":"NAC_AE","en":"National currency per adult equivalent","it":null}
+{"key":"NAC_HH","en":"National currency per household","it":null}
+{"key":"NAT","en":"National currency (former currencies of the euro area countries)","it":null}
+{"key":"MIO_NAT","en":"Million units of national currency (former currencies of the euro area countries)","it":null}
+{"key":"PPS","en":"Purchasing power standard (PPS)","it":null}
+{"key":"PPS_EU27_2020","en":"Purchasing power standard (PPS, EU27 from 2020)","it":null}
+{"key":"MIO_PPS","en":"Million purchasing power standards (PPS)","it":null}
+{"key":"MIO_PPS_EU27_2020","en":"Million purchasing power standards (PPS, EU27 from 2020)","it":null}
+{"key":"MIO_PPS_KP05","en":"Million purchasing power standards (PPS) at 2005 prices","it":null}
+{"key":"MIO_PPS_KP00","en":"Million purchasing power standards (PPS) at 2000 prices","it":null}
+{"key":"PPS_BGDP","en":"Purchasing power standard (PPS) per billion GDP","it":null}
+{"key":"PPS_KG","en":"Purchasing power standard (PPS) per kilogram","it":null}
+{"key":"PPS_KGOE","en":"Purchasing power standard (PPS) per kilogram of oil equivalent","it":null}
+{"key":"MPPS_KM2","en":"Million purchasing power standards (PPS) per square kilometre","it":null}
+{"key":"PPS_M3","en":"Purchasing power standard (PPS) per cubic metre","it":null}
+{"key":"PPS_HAB","en":"Purchasing power standard (PPS) per inhabitant","it":null}
+{"key":"PPS_EU27_2020_HAB","en":"Purchasing power standard (PPS, EU27 from 2020), per inhabitant","it":null}
+{"key":"PPS_HAB_KP05","en":"Purchasing power standard (PPS) per inhabitant at constant 2005 prices","it":null}
+{"key":"PPS_HAB_KP00","en":"Purchasing power standard (PPS) per inhabitant at constant 2000 prices","it":null}
+{"key":"PPS_HAB_EU","en":"Purchasing power standard (PPS) per inhabitant in percentage of the EU average","it":null}
+{"key":"PPS_HAB_EU27_2020","en":"Purchasing power standard (PPS, EU27 from 2020), per inhabitant in percentage of the EU27 (from 2020) average","it":null}
+{"key":"PPS_HAB_EU28","en":"Purchasing power standard (PPS) per inhabitant in percentage of the EU28 (2013-2020) average","it":null}
+{"key":"PPS_AE","en":"Purchasing power standard (PPS) per adult equivalent","it":null}
+{"key":"PPS_HH","en":"Purchasing power standard (PPS) per household","it":null}
+{"key":"PPCS_HAB","en":"Purchasing power standard based on final consumption per inhabitant","it":null}
+{"key":"PPCS_HAB_EU","en":"Purchasing power consumption standards per inhabitant in percentage of the EU average","it":null}
+{"key":"GDP_HAB","en":"GDP per capita","it":null}
+{"key":"GDP_BEUR","en":"Nominal GDP in billion euro","it":null}
+{"key":"OZ","en":"Ounce","it":null}
+{"key":"MCG_M3","en":"Micrograms per cubic metre","it":null}
+{"key":"MG_L","en":"Milligrams per litre","it":null}
+{"key":"G","en":"Gram","it":null}
+{"key":"G_HAB","en":"Grams per capita","it":null}
+{"key":"G_EUR_CP","en":"Grams per euro, current prices","it":null}
+{"key":"G_EUR_CLV10","en":"Grams per euro, chain linked volumes (2010)","it":null}
+{"key":"G_PKM","en":"Grams per passenger-kilometre","it":null}
+{"key":"G_TKM","en":"Grams per tonne-kilometre","it":null}
+{"key":"KG","en":"Kilogram","it":null}
+{"key":"KG_HAB","en":"Kilograms per capita","it":null}
+{"key":"KG_EUR_CP","en":"Kilograms per euro, current prices","it":null}
+{"key":"KG_EUR_CLV10","en":"Kilograms per euro, chain linked volumes (2010)","it":null}
+{"key":"KG_TEUR_CLV10","en":"Kilograms per thousand euro, chain linked volumes (2010)","it":null}
+{"key":"KG_HA","en":"Kilograms per hectare","it":null}
+{"key":"KGOE","en":"Kilogram of oil equivalent (KGOE)","it":null}
+{"key":"KGOE_HAB","en":"Kilograms of oil equivalent (KGOE) per capita","it":null}
+{"key":"KGOE_TEUR","en":"Kilograms of oil equivalent (KGOE) per thousand euro","it":null}
+{"key":"KGOE_TEUR_PPS","en":"Kilograms of oil equivalent (KGOE) per thousand euro in purchasing power standards (PPS)","it":null}
+{"key":"T","en":"Tonne","it":null}
+{"key":"THS_T","en":"Thousand tonnes","it":null}
+{"key":"MIO_T","en":"Million tonnes","it":null}
+{"key":"TCO2E","en":"Tonnes of CO2 equivalent","it":null}
+{"key":"MTCO2E","en":"Million tonnes of CO2 equivalent","it":null}
+{"key":"TCO2E_HAB","en":"Tonnes of CO2 equivalent per capita","it":null}
+{"key":"TOE","en":"Tonnes of oil equivalent (TOE)","it":null}
+{"key":"KTOE","en":"Thousand tonnes of oil equivalent","it":null}
+{"key":"MTOE","en":"Million tonnes of oil equivalent","it":null}
+{"key":"TOE_HAB","en":"Tonnes of oil equivalent (TOE) per capita","it":null}
+{"key":"TOE_MEUR","en":"Tonnes of oil equivalent (TOE) per million euro","it":null}
+{"key":"TSWU","en":"Tonnes of separative work units","it":null}
+{"key":"THM","en":"Tonnes of heavy metal","it":null}
+{"key":"TPW","en":"Tonnes product weight","it":null}
+{"key":"TLW","en":"Tonnes live weight","it":null}
+{"key":"T_HA","en":"Tonnes per hectare","it":null}
+{"key":"T_HAB","en":"Tonnes per capita","it":null}
+{"key":"T_KM2","en":"Tonnes per square kilometre","it":null}
+{"key":"TD","en":"Tonnes per day","it":null}
+{"key":"THS_TD","en":"Thousand tonnes per day","it":null}
+{"key":"THS_TY","en":"Thousand tonnes per year","it":null}
+{"key":"O2_TD","en":"Tonnes of O2 per day","it":null}
+{"key":"GT","en":"Gross tonnage (GT)","it":null}
+{"key":"THS_GT","en":"Gross tonnage (GT) in thousand","it":null}
+{"key":"M","en":"Metre","it":null}
+{"key":"M_KM2","en":"Metres per square kilometre","it":null}
+{"key":"KM","en":"Kilometre","it":null}
+{"key":"MIO_GTKM","en":"Million gross tonne-kilometres","it":null}
+{"key":"TKM","en":"Tonne-kilometre (TKM)","it":null}
+{"key":"THS_TKM","en":"Thousand tonne-kilometre (TKM)","it":null}
+{"key":"MIO_TKM","en":"Million tonne-kilometre (TKM)","it":null}
+{"key":"THS_TRKM","en":"Thousand train-kilometres","it":null}
+{"key":"MIO_PKM","en":"Millions of passenger-kilometres","it":null}
+{"key":"VKM","en":"Vehicle-kilometre (VKM)","it":null}
+{"key":"THS_VKM","en":"Thousand vehicle-kilometres (VKM)","it":null}
+{"key":"MIO_VKM","en":"Million vehicle-kilometres (VKM)","it":null}
+{"key":"THS_VESKM","en":"Thousand vessel-kilometres","it":null}
+{"key":"KM_THAB","en":"Kilometres per thousand inhabitants","it":null}
+{"key":"KM_TKM2","en":"Kilometres per thousand square kilometres","it":null}
+{"key":"M2","en":"Square metre","it":null}
+{"key":"THS_M2","en":"Thousand square metres","it":null}
+{"key":"MIO_M2","en":"Million square metres","it":null}
+{"key":"M2_HAB","en":"Square metres per capita","it":null}
+{"key":"HA","en":"Hectare","it":null}
+{"key":"THS_HA","en":"Thousand hectares","it":null}
+{"key":"KM2","en":"Square kilometre","it":null}
+{"key":"KM2_HAB","en":"Square kilometres per capita","it":null}
+{"key":"M3","en":"Cubic metre","it":null}
+{"key":"THS_M3","en":"Thousand cubic metres","it":null}
+{"key":"MIO_M3","en":"Million cubic metres","it":null}
+{"key":"MIO_M3D","en":"Million cubic metres per day","it":null}
+{"key":"M3_HAB","en":"Cubic metres per inhabitant","it":null}
+{"key":"L","en":"Litre","it":null}
+{"key":"THS_L","en":"Thousand litres","it":null}
+{"key":"HL","en":"Hectolitre","it":null}
+{"key":"THS_HL","en":"Thousand hectolitres","it":null}
+{"key":"MN","en":"Minute","it":null}
+{"key":"THS_MN","en":"Thousand minutes","it":null}
+{"key":"HR","en":"Hour","it":null}
+{"key":"THS_HR","en":"Thousand hours","it":null}
+{"key":"MIO_HR","en":"Million hours","it":null}
+{"key":"HW","en":"Hours worked","it":null}
+{"key":"THS_HW","en":"Thousand hours worked","it":null}
+{"key":"HR_SAL","en":"Hours per employee","it":null}
+{"key":"DAY","en":"Day","it":null}
+{"key":"MTH","en":"Month","it":null}
+{"key":"YR","en":"Year","it":null}
+{"key":"TIME_SP","en":"Time spent (hh:mm)","it":null}
+{"key":"PTP_TIME","en":"Participation time (hh:mm)","it":null}
+{"key":"KW","en":"Kilowatt","it":null}
+{"key":"THS_KW","en":"Thousand kilowatts","it":null}
+{"key":"MW","en":"Megawatt","it":null}
+{"key":"GW","en":"Gigawatt","it":null}
+{"key":"KWH","en":"Kilowatt-hour","it":null}
+{"key":"MWH","en":"Megawatt-hour","it":null}
+{"key":"GWH","en":"Gigawatt-hour","it":null}
+{"key":"GWD_THM","en":"Gigawatt-days per tonne of heavy metal","it":null}
+{"key":"KCAL","en":"Kilocalorie","it":null}
+{"key":"KJ","en":"Kilojoule","it":null}
+{"key":"KJ_M3","en":"Kilojoule per cubic metre","it":null}
+{"key":"KJ_M3_GCV","en":"Kilojoule per cubic metre (gross calorific value - GCV)","it":null}
+{"key":"KJ_M3_NCV","en":"Kilojoule per cubic metre (net calorific value - NCV)","it":null}
+{"key":"MJ","en":"Megajoule","it":null}
+{"key":"MJ_HAB","en":"Megajoule per capita","it":null}
+{"key":"MJ_T_GCV","en":"Megajoule per tonne (gross calorific value - GCV)","it":null}
+{"key":"MJ_T_NCV","en":"Megajoule per tonne (net calorific value - NCV)","it":null}
+{"key":"GJ","en":"Gigajoule","it":null}
+{"key":"GJ_GCV","en":"Gigajoule (gross calorific value - GCV)","it":null}
+{"key":"GJ_HAB","en":"Gigajoule per capita","it":null}
+{"key":"TJ","en":"Terajoule","it":null}
+{"key":"TJ_GCV","en":"Terajoule (gross calorific value - GCV)","it":null}
+{"key":"TJ_NCV","en":"Terajoule (net calorific value - NCV)","it":null}
+{"key":"TJ_HAB","en":"Terajoule per capita","it":null}
+{"key":"TJ_TM3_NCV","en":"Terajoule per thousand cubic metres (net calorific value - NCV)","it":null}
+{"key":"DEGC","en":"Degree Celsius","it":null}
+{"key":"PH","en":"pH value","it":null}
+{"key":"INX","en":"Index","it":null}
+{"key":"INX_Q","en":"Quarterly index","it":null}
+{"key":"INX_A_AVG","en":"Annual average index","it":null}
+{"key":"I2015","en":"Index, 2015=100","it":null}
+{"key":"I2010","en":"Index, 2010=100","it":null}
+{"key":"I21","en":"Index, 2021=100","it":null}
+{"key":"I16","en":"Index, 2016=100","it":null}
+{"key":"I15","en":"Index, 2015=100","it":null}
+{"key":"I13","en":"Index, 2013=100","it":null}
+{"key":"I12","en":"Index, 2012=100","it":null}
+{"key":"I10","en":"Index, 2010=100","it":null}
+{"key":"I09","en":"Index, 2009=100","it":null}
+{"key":"I08","en":"Index, 2008=100","it":null}
+{"key":"I06","en":"Index, 2006=100","it":null}
+{"key":"I05","en":"Index, 2005=100","it":null}
+{"key":"I03","en":"Index, 2003=100","it":null}
+{"key":"I01","en":"Index, 2001=100","it":null}
+{"key":"I00","en":"Index, 2000=100","it":null}
+{"key":"I99","en":"Index, 1999=100","it":null}
+{"key":"I98","en":"Index, 1998=100","it":null}
+{"key":"I96","en":"Index, 1996=100","it":null}
+{"key":"I95","en":"Index, 1995=100","it":null}
+{"key":"I91","en":"Index, 1991=100","it":null}
+{"key":"I90","en":"Index, 1990=100","it":null}
+{"key":"I10_Q","en":"Quarterly index, 2010=100","it":null}
+{"key":"I15_Q","en":"Quarterly index, 2015=100","it":null}
+{"key":"I10_A_AVG","en":"Annual average index, 2010=100","it":null}
+{"key":"I15_A_AVG","en":"Annual average index, 2015=100","it":null}
+{"key":"I_EU","en":"Index, EU=100","it":null}
+{"key":"I_LY","en":"Index, latest year = 100","it":null}
+{"key":"I_N_1","en":"Index, n-1 = 100","it":null}
+{"key":"I_1Y","en":"Index, t-1 = 100","it":null}
+{"key":"I15-17_AVG","en":"Index, 2015-2017 average =100","it":null}
+{"key":"I11-13_AVG","en":"Index, 2011-2013 average =100","it":null}
+{"key":"I15_NAC_CP","en":"Index, 2015=100, national currency, current prices","it":null}
+{"key":"I15_PER","en":"Index, 2015=100 (based on persons)","it":null}
+{"key":"I10_PER","en":"Index, 2010=100 (based on persons)","it":null}
+{"key":"I15_HW","en":"Index, 2015=100 (based on hours worked)","it":null}
+{"key":"I10_HW","en":"Index, 2010=100 (based on hours worked)","it":null}
+{"key":"I15_JOB","en":"Index, 2015=100 (based on jobs)","it":null}
+{"key":"I10_JOB","en":"Index, 2010=100 (based on jobs)","it":null}
+{"key":"SEI","en":"Shannon evenness index","it":null}
+{"key":"SDI","en":"Shannon diversity index","it":null}
+{"key":"I_ESD","en":"Index, EU effort sharing decision base year=100","it":null}
+{"key":"I_MED","en":"Income index (compared to national median)","it":null}
+{"key":"I_MEAN","en":"Income index (compared to national mean)","it":null}
+{"key":"HICP2015","en":"Harmonized consumer price index, 2015=100","it":null}
+{"key":"I2015_SCA","en":"Index, 2015=100 (SCA)","it":null}
+{"key":"I15_NSA","en":"Index, 2015=100 (NSA)","it":null}
+{"key":"I2015_NSA","en":"Index, 2015=100 (NSA)","it":null}
+{"key":"I2010_NSA","en":"Index, 2010=100 (NSA)","it":null}
+{"key":"KP_I15","en":"Constant prices, index 2015=100","it":null}
+{"key":"KP_I10","en":"Constant prices, index 2010=100","it":null}
+{"key":"CLV_I15","en":"Chain linked volumes, index 2015=100","it":null}
+{"key":"CLV_I10","en":"Chain linked volumes, index 2010=100","it":null}
+{"key":"CLV_I05","en":"Chain linked volumes, index 2005=100","it":null}
+{"key":"IVU-NSA","en":"Unit value index (2015=100) - not seasonally adjusted","it":null}
+{"key":"IVOL-SA","en":"Volume index (2015=100) - seasonally and working day adjusted","it":null}
+{"key":"IVOL-NSA","en":"Volume index (2015=100) - not seasonally adjusted","it":null}
+{"key":"AVG","en":"Average","it":null}
+{"key":"AVG_A","en":"Annual average","it":null}
+{"key":"AVG_3Y","en":"Three-year average","it":null}
+{"key":"THS_CD08","en":"Cumulative difference from 2008, in thousands","it":null}
+{"key":"MV12R","en":"Moving 12-months average rate of change","it":null}
+{"key":"SUM_4Q","en":"Sum of the last 4 quarters","it":null}
+{"key":"RK","en":"Rank","it":null}
+{"key":"RTG","en":"Rating (0-10)","it":null}
+{"key":"REL1","en":"Relative value, relating to all enterprises","it":null}
+{"key":"REL2","en":"Relative value, relating to innovating enterprises","it":null}
+{"key":"REL3","en":"Relative value, relating to product innovators","it":null}
+{"key":"REL4","en":"Relative value, relating to process innovators","it":null}
+{"key":"REL5","en":"Relative value, relating to service innovators","it":null}
+{"key":"REL6","en":"Relative value, relating to total innovation expenditure","it":null}
+{"key":"REL7","en":"Relative value, relating to innovating enterprises with innovation cooperation","it":null}
+{"key":"REL8","en":"Relative value, relating to innovating enterprises with seriously delayed projects","it":null}
+{"key":"REL9","en":"Relative value, relating to innovating enterprises with abolished projects","it":null}
+{"key":"REL10","en":"Relative value, relating to innovating enterprises with not even started projects","it":null}
+{"key":"REL11","en":"Relative value, relating to enterprises in the corresponding level of export intensity","it":null}
+{"key":"REL12","en":"Relative value, relating to enterprises in the corresponding type of firm","it":null}
+{"key":"CVA","en":"Coefficient of variation for absolute value","it":null}
+{"key":"CV1","en":"Coefficient of variation for relative value, relating to all enterprises","it":null}
+{"key":"CV2","en":"Coefficient of variation for relative value, relating to innovating enterprises","it":null}
+{"key":"CV3","en":"Coefficient of variation for relative value, relating to product innovators","it":null}
+{"key":"CV4","en":"Coefficient of variation for relative value, relating to process innovators","it":null}
+{"key":"CV5","en":"Coefficient of variation for relative value, relating to service innovators","it":null}
+{"key":"CV6","en":"Coefficient of variation for relative value, relating to total innovation expenditure","it":null}
+{"key":"CV7","en":"Coefficient of variation for relative value, relating to enterprises with innovation cooperation","it":null}
+{"key":"CV8","en":"Coefficient of variation for relative value, relating to innovating enterprises with seriously delayed projects","it":null}
+{"key":"CV9","en":"Coefficient of variation for relative value, relating to innovating enterprises with abolished projects","it":null}
+{"key":"CV10","en":"Coefficient of variation for relative value, relating to innovating enterprises with not even started projects","it":null}
+{"key":"CV11","en":"Coefficient of variation for relative value, relating to enterprises in the corresponding level of export intensity","it":null}
+{"key":"CV12","en":"Coefficient of variation for relative value, relating to enterprises in the corresponding type of firm","it":null}
+{"key":"SGM_ESU","en":"Standard gross margin (SGM) in economic size unit (ESU)","it":null}
+{"key":"TEU","en":"Twenty-foot equivalent unit (TEU)","it":null}
+{"key":"THS_TEU","en":"Thousand twenty-foot equivalent unit (TEU)","it":null}
+{"key":"THS_TEUKM","en":"Thousand TEU-kilometres","it":null}
+{"key":"CFU","en":"Colony-forming unit (CFU)","it":null}
+{"key":"AWU","en":"Annual working unit (AWU)","it":null}
+{"key":"THS_AWU","en":"Thousand annual working units (AWU)","it":null}
+{"key":"LSU","en":"Livestock unit (LSU)","it":null}
+{"key":"FTE","en":"Full-time equivalent (FTE)","it":null}
+{"key":"THS_FTE","en":"Thousand full-time equivalents (FTE)","it":null}
+{"key":"FTE_HTHAB","en":"Full time equivalent per hundred thousand inhabitants","it":null}
+{"key":"PER","en":"Person","it":null}
+{"key":"PERS","en":"Persons","it":null}
+{"key":"THS_PER","en":"Thousand persons","it":null}
+{"key":"MIO_PER","en":"Million persons","it":null}
+{"key":"PER_KM2","en":"Persons per square kilometre","it":null}
+{"key":"HAB","en":"Inhabitant/person/capita","it":null}
+{"key":"HAB_P","en":"Inhabitants per ...","it":null}
+{"key":"HAB_KM2","en":"Inhabitants per square kilometre","it":null}
+{"key":"HAB_HC","en":"Inhabitants per ... (head count)","it":null}
+{"key":"HAB_FTE","en":"Inhabitants per ... (full time equivalent)","it":null}
+{"key":"MIO_EMP","en":"Millions of persons employed","it":null}
+{"key":"MIO_SAL","en":"Millions of employees","it":null}
+{"key":"P_BERD","en":"Per billion euro of business enterprise expenditure on R&D (BERD)","it":null}
+{"key":"P_GERD","en":"Per billion euro of gross domestic expenditure on R&D (GERD)","it":null}
+{"key":"PB","en":"Planetary Boundary","it":null}
+{"key":"P_HAB","en":"Per inhabitant","it":null}
+{"key":"P_HHAB","en":"Per hundred inhabitants","it":null}
+{"key":"P_THAB","en":"Per thousand inhabitants","it":null}
+{"key":"P_HTHAB","en":"Per hundred thousand inhabitants","it":null}
+{"key":"P_MHAB","en":"Per million inhabitants","it":null}
+{"key":"P_MACT","en":"Per million of population in the labour force","it":null}
+{"key":"P_SAL_Y","en":"Per employee in full-time equivalents, per year","it":null}
+{"key":"P_SAL_M","en":"Per employee in full-time equivalents, per month","it":null}
+{"key":"P_SAL_H","en":"Per employee in full-time equivalents, per hour","it":null}
+{"key":"P_HH","en":"Per household","it":null}
+{"key":"P_KM2","en":"Per square kilometre","it":null}
+{"key":"PAS","en":"Passenger","it":null}
+{"key":"THS_PAS","en":"Thousand passengers","it":null}
+{"key":"THS_PASF","en":"Thousand passengers (excluding cruise passengers)","it":null}
+{"key":"THS_PASC","en":"Thousand cruise passengers starting and ending a cruise","it":null}
+{"key":"THS_PASE","en":"Thousand cruise passengers on excursion","it":null}
+{"key":"HD","en":"Head (animal)","it":null}
+{"key":"HD_AVG","en":"Average of heads","it":null}
+{"key":"THS_HD","en":"Thousand heads (animals)","it":null}
+{"key":"HC","en":"Head count","it":null}
+{"key":"HC_HTHAB","en":"Head count per hundred thousand inhabitants","it":null}
+{"key":"HLD","en":"Holding","it":null}
+{"key":"MACH","en":"Machine","it":null}
+{"key":"PCE","en":"Piece","it":null}
+{"key":"PLC","en":"Place","it":null}
+{"key":"HIVE","en":"Beehives","it":null}
+{"key":"BAL","en":"Balance","it":null}
+{"key":"MOVE","en":"Movement","it":null}
+{"key":"FLIGHT","en":"Flight","it":null}
+{"key":"THS_JOB","en":"Thousand jobs","it":null}
+{"key":"THS_JRNY","en":"Thousand journeys","it":null}
+{"key":"THS_BTO","en":"Thousand basic transport operations","it":null}
+{"key":"SEAT","en":"Seats and berths","it":null}
+{"key":"THS_SEAT","en":"Thousand seats","it":null}
+{"key":"VES_MOV","en":"Vessel movements","it":null}
+{"key":"NR_ENT","en":"Number of enterprises","it":null}
+{"key":"TVAL_SA","en":"Trade value in million euro (SA)","it":null}
+{"key":"TVAL_MEUR","en":"Trade value in million euro","it":null}
+{"key":"CAP_1000T_Y","en":"Annual capacity/inputs in 1000T","it":null}
+{"key":"RAT","en":"Ratio","it":null}
+{"key":"RT","en":"Rate","it":null}
+{"key":"RT_R4Q","en":"Rolling 4-quarter growth rate","it":null}
+{"key":"RT_INC","en":"Incidence rate","it":null}
+{"key":"RT_SINC","en":"Standardised incidence rate","it":null}
+{"key":"RT_UNE","en":"Unemployment rate","it":null}
+{"key":"RT_PRE","en":"Growth rate on previous period (t/t-1)","it":null}
+{"key":"RT_PRE_EUR","en":"Growth rate on previous period (t/t-1) for values in euro","it":null}
+{"key":"RT_PRE_NAC","en":"Growth rate on previous period (t/t-1) for values in national currency","it":null}
+{"key":"RT_PRE_GT","en":"Growth rate on previous period (t/t-1) for gross tonnage of vessels","it":null}
+{"key":"RT_PRE_NR","en":"Growth rate on previous period (t/t-1) for number of vessels","it":null}
+{"key":"RT1","en":"Growth rate on previous period (t/t-1)","it":null}
+{"key":"PTP_RT","en":"Participation rate (%)","it":null}
+{"key":"RT12","en":"Growth rate (t/t-12)","it":null}
+{"key":"RT1-ABS-SA","en":"Trade value - growth rate (m/m-1) - seasonally and working day adjusted","it":null}
+{"key":"RT12-ABS-NSA","en":"Trade value - growth rate (m/m-12) - not seasonally adjusted","it":null}
+{"key":"RT1-IVU-NSA","en":"Unit value index (2015=100) - growth rate (m/m-1) - not seasonally adjusted","it":null}
+{"key":"RT12-IVU-NSA","en":"Unit value index (2015=100) - growth rate (m/m-12) - not seasonally adjusted","it":null}
+{"key":"RT1-IVOL-SA","en":"Volume index (2015=100) - growth rate (m/m-1) - seasonally and working day adjusted","it":null}
+{"key":"RT12-IVOL-NSA","en":"Volume index (2015=100) - growth rate (m/m-12) - not seasonally adjusted","it":null}
+{"key":"RT1-SCA","en":"Percentage change (t/t-1) - seasonally and calendar adjusted data","it":null}
+{"key":"RT4-NSA","en":"Percentage change (t/t-4) - not seasonally adjusted data","it":null}
+{"key":"RT12-NSA","en":"Percentage change (t/t-12) - not seasonally adjusted data","it":null}
+{"key":"RT12-CA","en":"Percentage change (t/t-12) - calendar adjusted data, not seasonally adjusted data","it":null}
+{"key":"RT4","en":"Growth rate on the same quarter in previous year","it":null}
+{"key":"RT_M_DIF","en":"Monthly rate differences between HICP and HICP at constant taxes","it":null}
+{"key":"RCH_M","en":"Monthly rate of change","it":null}
+{"key":"RCH_Q","en":"Quarterly rate of change","it":null}
+{"key":"RCH_A","en":"Annual rate of change","it":null}
+{"key":"RCH_A_AVG","en":"Annual average rate of change","it":null}
+{"key":"RCH_MV12MAVR","en":"Moving 12 months average rate of change","it":null}
+{"key":"PC_PNT","en":"Percentage point","it":null}
+{"key":"PC","en":"Percentage","it":null}
+{"key":"PM","en":"Per mille","it":null}
+{"key":"PC_S","en":"Standardised percentage","it":null}
+{"key":"PC_Y","en":"Percentage in the year","it":null}
+{"key":"PC_OECD","en":"Percentage of OECD total","it":null}
+{"key":"PC_AREA","en":"Percentage of area","it":null}
+{"key":"PC_UAA","en":"Percentage of total utilised agricultural area","it":null}
+{"key":"PC_LSU","en":"Percentage of total livestock units","it":null}
+{"key":"PC_POP","en":"Percentage of total population","it":null}
+{"key":"PC_WMN","en":"Percentage of women","it":null}
+{"key":"PC_STU","en":"Percentage of total tertiary students","it":null}
+{"key":"PC_FSTU","en":"Percentage of total foreign tertiary students","it":null}
+{"key":"PC_Y20-29","en":"Percentage of total population aged 20-29","it":null}
+{"key":"PC_Y25-29","en":"Percentage of total population aged 25-29","it":null}
+{"key":"PC_Y_LT60","en":"Percentage of total population aged less than 60","it":null}
+{"key":"PC_Y_LT65","en":"Percentage of total population aged less than 65","it":null}
+{"key":"PC_UP95","en":"Percentage of total population - upper boundary of the 95% confidence interval","it":null}
+{"key":"PC_LW95","en":"Percentage of total population - lower boundary of the 95% confidence interval","it":null}
+{"key":"PC_RIMG","en":"Percentage of total recent immigrants","it":null}
+{"key":"PC_EMP","en":"Percentage of total employment","it":null}
+{"key":"PC_UNE","en":"Percentage of unemployment","it":null}
+{"key":"PC_ACT","en":"Percentage of population in the labour force","it":null}
+{"key":"PC_ACT_HC","en":"Percentage of population in the labour force - numerator in head count (HC)","it":null}
+{"key":"PC_ACT_FTE","en":"Percentage of population in the labour force - numerator in full-time equivalent (FTE)","it":null}
+{"key":"PC_INAC","en":"Percentage of population outside the labour force","it":null}
+{"key":"PC_INAC_WWRK","en":"Percentage of population outside the labour force and wanting to work","it":null}
+{"key":"PC_SAL","en":"Percentage of employees","it":null}
+{"key":"PC_SAL_TEMP","en":"Percentage of employees with a temporary job","it":null}
+{"key":"PC_EMP_HC","en":"Percentage of total employment - numerator in head count (HC)","it":null}
+{"key":"PC_EMP_FTE","en":"Percentage of total employment - numerator in full-time equivalent (FTE)","it":null}
+{"key":"PC_ELF","en":"Percentage of extended labour force","it":null}
+{"key":"PC_TSCO","en":"Percentage of total revenues from taxes and social contributions (including imputed social contributions)","it":null}
+{"key":"PC_TSCO_X_ISCO","en":"Percentage of total revenues from taxes and social contributions (excluding imputed social contributions)","it":null}
+{"key":"PC_GDP","en":"Percentage of gross domestic product (GDP)","it":null}
+{"key":"PC_GVA","en":"Percentage of gross value added (GVA)","it":null}
+{"key":"PC_GNI","en":"Percentage of gross national income (GNI)","it":null}
+{"key":"PC_DI","en":"Percentage of disposable income","it":null}
+{"key":"PC_GEXP","en":"Percentage of government expenditure","it":null}
+{"key":"PC_BEN","en":"Percentage of total benefits","it":null}
+{"key":"PC_EXP","en":"Percentage of total expenditure","it":null}
+{"key":"PC_PEXP","en":"Percentage of total public expenditure","it":null}
+{"key":"PC_REC","en":"Percentage of total receipts","it":null}
+{"key":"PC_CHE","en":"Percentual share of total current health expenditure (CHE)","it":null}
+{"key":"PC_WRL","en":"Percentage of world total","it":null}
+{"key":"PC_TAX","en":"Percentage of total taxation","it":null}
+{"key":"PC_HH","en":"Percentage of households","it":null}
+{"key":"PC_IND","en":"Percentage of individuals","it":null}
+{"key":"PC_HC","en":"Percentage based on head count (HC)","it":null}
+{"key":"PC_FTE","en":"Percentage based on full-time equivalents (FTE)","it":null}
+{"key":"PC_GBA","en":"Percentage of total GBAORD","it":null}
+{"key":"PC_DT","en":"Distance to target in percentage","it":null}
+{"key":"PC_FAT","en":"Fat content (% of product weight)","it":null}
+{"key":"PC_PRO","en":"Protein content (% of product weight)","it":null}
+{"key":"PC_TOT","en":"Percentage of total","it":null}
+{"key":"PC_TOT_PER","en":"Percentage of total (based on persons)","it":null}
+{"key":"PC_TOT_HW","en":"Percentage of total (based on hours worked)","it":null}
+{"key":"PC_TOT_HAB","en":"Percentage of total (based on inhabitants)","it":null}
+{"key":"PC_TOT_FTE","en":"Percentage of total (based on full-time equivalents)","it":null}
+{"key":"PC_TOT_JOB","en":"Percentage of total (based on jobs)","it":null}
+{"key":"PC_EU27_2020","en":"Percentage of EU27 (from 2020) total","it":null}
+{"key":"PC_EU28","en":"Percentage of EU28 (2013-2020) total","it":null}
+{"key":"PC_EU27_2007","en":"Percentage of EU27 (2007-2013) total","it":null}
+{"key":"PC_EU25","en":"Percentage of EU25 (2004-2006) total","it":null}
+{"key":"PC_EU27_2020_EUR_HAB","en":"Percentage of EU27 (from 2020) total (based on euro per inhabitant)","it":null}
+{"key":"PC_EU28_EUR_HAB","en":"Percentage of EU28 (2013-2020) total (based on euro per inhabitant)","it":null}
+{"key":"PC_EU27_2007_EUR_HAB","en":"Percentage of EU27 (2007-2013) total (based on euro per inhabitant)","it":null}
+{"key":"PC_EU27_2020_PPS_HAB","en":"Percentage of EU27 (from 2020) total (based on purchasing power standards per inhabitant)","it":null}
+{"key":"PC_EU28_PPS_HAB","en":"Percentage of EU28 (2013-2020) total (based on purchasing power standards per inhabitant)","it":null}
+{"key":"PC_EU27_2007_PPS_HAB","en":"Percentage of EU27 (2007-2013) total (based on purchasing power standards per inhabitant)","it":null}
+{"key":"PC_EU27_2020_PPS_EMP","en":"Percentage of EU27 (from 2020) total (based on purchasing power standards per employed person)","it":null}
+{"key":"PC_EU28_PPS_EMP","en":"Percentage of EU28 (2013-2020) total (based on purchasing power standards per employed person)","it":null}
+{"key":"PC_EU27_2007_PPS_EMP","en":"Percentage of EU27 (2007-2013) total (based on purchasing power standards per employed person)","it":null}
+{"key":"PC_EU15_PPS_EMP","en":"Percentage of EU15 (1995-2004) total (based on purchasing power standards per employed person)","it":null}
+{"key":"PC_EU27_2020_MEUR","en":"Percentage of EU27 (from 2020) total (based on million euro)","it":null}
+{"key":"PC_EU28_MEUR","en":"Percentage of EU28 (2013-2020) total (based on million euro)","it":null}
+{"key":"PC_EU27_2007_MEUR","en":"Percentage of EU27 (2007-2013) total (based on million euro)","it":null}
+{"key":"PC_EU27_2020_MPPS","en":"Percentage of EU27 (from 2020) total (based on million purchasing power standards)","it":null}
+{"key":"PC_EU28_MPPS","en":"Percentage of EU28 (2013-2020) total (based on million purchasing power standards)","it":null}
+{"key":"PC_EU27_2007_MPPS","en":"Percentage of EU27 (2007-2013) total (based on million purchasing power standards)","it":null}
+{"key":"PC_EU27_2020_MEUR_CP","en":"Percentage of EU27 (from 2020) total (based on million euro), current prices","it":null}
+{"key":"PC_EU28_MEUR_CP","en":"Percentage of EU28 (2013-2020) total (based on million euro), current prices","it":null}
+{"key":"PC_EU27_2020_MPPS_CP","en":"Percentage of EU27 (from 2020) total (based on million purchasing power standards), current prices","it":null}
+{"key":"PC_EU28_MPPS_CP","en":"Percentage of EU28 (2013-2020) total (based on million purchasing power standards), current prices","it":null}
+{"key":"PC_EU27_2020_HAB_MEUR_CP","en":"Percentage of EU27 (from 2020) total per capita (based on million euro, EU27 from 2020), current prices","it":null}
+{"key":"PC_EU28_HAB_MEUR_CP","en":"Percentage of EU28 (2013-2020) total per capita (based on million euro), current prices","it":null}
+{"key":"PC_EU27_2020_HAB_MPPS_CP","en":"Percentage of EU27 (from 2020) total per capita (based on million purchasing power standards, EU27 from 2020), current prices","it":null}
+{"key":"PC_EU28_HAB_MPPS_CP","en":"Percentage of EU28 (2013-2020) total per capita (based on million purchasing power standards), current prices","it":null}
+{"key":"PC_EA_MEUR","en":"Percentage of euro area total (based on million euro)","it":null}
+{"key":"PC_EA18_MEUR","en":"Percentage of EA18 (2014) total (based on million euro)","it":null}
+{"key":"PC_EA17_MEUR","en":"Percentage of EA17 (2011-2013) total (based on million euro)","it":null}
+{"key":"PC_EA16_MEUR","en":"Percentage of EA16 (2009-2010) total (based on million euro)","it":null}
+{"key":"PC_EA12_MEUR","en":"Percentage of EA12 (2001-2006) total (based on million euro)","it":null}
+{"key":"PC_EA18_MPPS","en":"Percentage of EA18 (2014) total (based on million purchasing power standards)","it":null}
+{"key":"PC_EA17_MPPS","en":"Percentage of EA17 (2011-2013) total (based on million purchasing power standards)","it":null}
+{"key":"PC_EA16_MPPS","en":"Percentage of EA16 (2009-2010) total (based on million purchasing power standards)","it":null}
+{"key":"PC_GDP_3Y","en":"Percentage of GDP - three-year average","it":null}
+{"key":"PC_GDP_NSA","en":"Percentage of gross domestic product (GDP), (NSA)","it":null}
+{"key":"PC_GDP_SCA","en":"Percentage of gross domestic product (GDP), (SCA)","it":null}
+{"key":"PC_ENT","en":"Percentage of enterprises","it":null}
+{"key":"PC_ENT_CC","en":"Percentage of enterprises buying CC services","it":null}
+{"key":"PC_ENT_CCX","en":"Percentage of enterprises not buying CC services","it":null}
+{"key":"PC_ENT_BDA","en":"Percentage of enterprises analysing big data internally or externally","it":null}
+{"key":"PC_ENT_BDAAM","en":"Percentage of enterprises analysing big data internally using any method","it":null}
+{"key":"PC_ENT_BD","en":"Percentage of enterprises analysing big data","it":null}
+{"key":"PC_ENT_IOT1","en":"Percentage of enterprises using Internet of Things (as of 2021)","it":null}
+{"key":"PC_ENT_IOT","en":"Percentage of enterprises using Internet of Things","it":null}
+{"key":"PC_ENT_RFID1","en":"Percentage of enterprises using RFID (as of 2014)","it":null}
+{"key":"PC_ENT_RFID","en":"Percentage of the enterprises using RFID","it":null}
+{"key":"PC_ENT_ADS","en":"Percentage of enterprises using internet ads","it":null}
+{"key":"PC_ENT_SM","en":"Percentage of enterprises using social media","it":null}
+{"key":"PC_ENT_WEB","en":"Percentage of the enterprises having a website","it":null}
+{"key":"PC_ENT_FIXBB","en":"Percentage of enterprises using a fixed broadband connection","it":null}
+{"key":"PC_ENT_ITSPRCR2","en":"Percentage of enterprises which recruited / tried to recruit personnel for jobs requiring ICT specialist skills (reduced comparability with 2007)","it":null}
+{"key":"PC_ENT_SECPOL1","en":"Percentage of enterprises with an ICT security policy (as of 2015)","it":null}
+{"key":"PC_ENT_SECPOL2","en":"Percentage of enterprises with  document(s) on measures, practices or procedures on ICT security (as of 2019)","it":null}
+{"key":"PC_ENT_SECPOL","en":"Percentage of enterprises with an ICT security policy","it":null}
+{"key":"PC_ENT_PMD1","en":"Percentage of enterprises providing to persons employed portable devices that allow a mobile connection to the internet (as of 2016)","it":null}
+{"key":"PC_ENT_PMD","en":"Percentage of enterprises providing to persons employed portable devices that allow a mobile connection to the internet","it":null}
+{"key":"PC_ENT_AWSELL","en":"Percentage of enterprises with web sales","it":null}
+{"key":"PC_ENT_AWSELLX","en":"Percentage of enterprises without web sales","it":null}
+{"key":"PC_ENT_AWSEU","en":"Percentage of enterprises with web sales to other EU countries","it":null}
+{"key":"PC_ENT_AWS_CMP","en":"Percentage of enterprises with web sales via e-commerce marketplaces","it":null}
+{"key":"PC_ENT_AEBUY","en":"Percentage of enterprises sending e-commerce orders over the last calendar year","it":null}
+{"key":"PC_ENT_AESELL","en":"Percentage of enterprises receiving e-commerce orders over the last calendar year","it":null}
+{"key":"PC_TURN","en":"Percentage of turnover","it":null}
+{"key":"PC_ETURN","en":"Percentage of turnover from e-commerce","it":null}
+{"key":"PC_AWSVAL","en":"Percentage of web sales","it":null}
+{"key":"PC_SAL_AESELL","en":"Percentage of the employees working in enterprises which received orders via computer networks","it":null}
+{"key":"PC_EMP_PMD1","en":"Percentage of persons employed working in enterprises which provide mobile devices (as of 2016)","it":null}
+{"key":"PC_EMP_PMD","en":"Percentage of persons employed working in enterprises which provide mobile devices","it":null}
+{"key":"PC_ENT_CUSE","en":"Percentage of the enterprises which use a computer","it":null}
+{"key":"PC_ENT_IUSE","en":"Percentage of enterprises where persons employed have access to the internet","it":null}
+{"key":"PC_ENT_IACC","en":"Percentage of the enterprises with internet access","it":null}
+{"key":"PC_ENT_ECOM","en":"Percentage of enterprises which sent/received orders via any computer networks","it":null}
+{"key":"PC_EMP_CUSE","en":"Percentage of persons employed using a computer","it":null}
+{"key":"PC_EMP_CUSE2","en":"Percentage of persons employed working in enterprises which use computers","it":null}
+{"key":"PC_EMP_IACC","en":"Percentage of persons employed working in an enterprise with internet access","it":null}
+{"key":"PC_EMP_IUSE","en":"Percentage of persons employed using a computer with access to the www","it":null}
+{"key":"PC_EMP_AESELL","en":"Percentage of persons employed working in enterprises which received orders via computer networks","it":null}
+{"key":"PC_ENT_AI_EC","en":"Percentage of the enterprises which ever considered to use any of the AI technologies","it":null}
+{"key":"PC_ENT_AI_TANY","en":"Percentage of the enterprises using at least one AI technologies","it":null}
+{"key":"PC_ENT_AI_TX","en":"Percentage of the enterprises using no AI technologies","it":null}
+{"key":"PC_ENT_CVD_IEM","en":"Percentage of the enterprises which increased the percentage of persons employed having remote access to their e-mail system","it":null}
+{"key":"PC_ENT_CVD_IRA","en":"Percentage of the enterprises which increased the percentage of persons employed having remote access their ICT systems other than e-mail","it":null}
+{"key":"PC_ENT_CVD_IRM","en":"Percentage of the enterprises which increased the number of their remote meetings","it":null}
+{"key":"PC_ENT_INV3SBG","en":"Percentage of enterprises sending invoices B2BG","it":null}
+{"key":"PC_ENT_ISELL","en":"Percentage of the enterprises which sold over the internet over the last calendar year","it":null}
+{"key":"PC_ENT_IBUY","en":"Percentage of enterprises which purchased over the internet over the last calendar year","it":null}
+{"key":"PC_ENT_PURCH","en":"Percentage of total purchases","it":null}
+{"key":"PC_ENT_OBUY","en":"Percentage of enterprises which purchased over networks other than the internet over the last calendar year","it":null}
+{"key":"PC_ENT_OSELL","en":"Percentage of enterprises which sold over networks other than the internet over the last calendar year","it":null}
+{"key":"PC_ENT_ITSPRCR","en":"Percentage of enterprises which recruited or tried to recruit personnel for jobs requiring ICT specialist skills","it":null}
+{"key":"PC_ENT_ITSPVAC2","en":"Percentage of enterprises with hard-to-fill vacancies for jobs requiring ICT specialist skills (as of 2020)","it":null}
+{"key":"PC_ENT_ITSPVAC","en":"Percentage of enterprises which had hard-to-fill vacancies for jobs requiring ICT specialist skills","it":null}
+{"key":"PC_ENT_ITUSRCR","en":"Percentage of enterprises which recruited or tried to recruit personnel for jobs requiring skills in the use of ICT","it":null}
+{"key":"PC_ENT_ADE","en":"Percentage of enterprises using ADE","it":null}
+{"key":"PC_ENT_SISC","en":"Percentage of enterprises sharing information electronically on the supply chain management","it":null}
+{"key":"PC_ENT_P3D","en":"Percentage of enterprises with 3D printing","it":null}
+{"key":"PC_ENT_RBTS","en":"Percentage of enterprises using service robots","it":null}
+{"key":"PC_HH_IACC","en":"Percentage of households with internet access at home","it":null}
+{"key":"PC_IND_C3","en":"Percentage of individuals who used a computer within the last 3 months","it":null}
+{"key":"PC_IND_CEVR","en":"Percentage of individuals who used a computer, ever","it":null}
+{"key":"PC_IND_ILT12","en":"Percentage of individuals who used internet within the last year","it":null}
+{"key":"PC_IGRTX","en":"Percentage of individuals who have used internet but not for sending filled forms to public authorities","it":null}
+{"key":"PC_IGRTX_NAPX","en":"Percentage of individuals who have used internet but not for sending filled forms to public authorities although they had to","it":null}
+{"key":"PC_IND_IU3","en":"Percentage of individuals who used internet in the last 3 months","it":null}
+{"key":"PC_IND_CTMT3YX","en":"Percentage of individuals who have taken a computer course more than 3 years ago or never","it":null}
+{"key":"PC_IND_CIANY","en":"Percentage of individuals who have done at least one of the listed computer or internet activities","it":null}
+{"key":"PC_IND_BLT12","en":"Percentage of individuals who ordered goods or services, over the internet, for private use, in the last year","it":null}
+{"key":"PC_IND_BMT12X","en":"Percentage of individuals who ordered goods or services, over the internet, for private use, more than a year ago or who never did","it":null}
+{"key":"PC_IND_CC_AW","en":"Percentage of individuals who used internet, were aware of cloud services but did not use them","it":null}
+{"key":"PC_IND_CC_CCS","en":"Percentage of individuals who used internet and cloud services for file saving or sharing","it":null}
+{"key":"PC_IND_CC_CCSX","en":"Percentage of individuals who used internet but not cloud services","it":null}
+{"key":"PC_IND_BUY3","en":"Percentage of individuals who purchased online in the last 3 months","it":null}
+{"key":"PC_IND_BFFOR","en":"Percentage of individuals who purchased online from sellers from other countries (EU or non-EU)","it":null}
+{"key":"PC_IND_BHHS","en":"Percentage of individuals who purchased online household services","it":null}
+{"key":"PC_IND_BPG_ANY","en":"Percentage of individuals who purchased online physical goods","it":null}
+{"key":"PC_IND_BRA","en":"Percentage of individuals who rented accommodation online from an enterprise or a private person","it":null}
+{"key":"PC_IND_BTPS","en":"Percentage of individuals who purchased online transport service from a transport enterprise or a private person","it":null}
+{"key":"PC_IND_IOT_BDKX","en":"Percentage of individuals who have not used any internet-connected device or systems although they knew about them","it":null}
+{"key":"PC_IND_IOT_DX","en":"Percentage of individuals who have not used any internet-connected devices or systems","it":null}
+{"key":"PC_VAL_ISELL","en":"Percentage of internet sales","it":null}
+{"key":"PC_HH_IACCX","en":"Percentage of households without internet access at home","it":null}
+{"key":"PC_HH_BROADX","en":"Percentage of households without broadband access","it":null}
+{"key":"PC_IND_IUEVR","en":"Percentage of individuals who used internet, ever","it":null}
+{"key":"PC_IND_SCSOFT","en":"Percentage of individuals who used security software or tool","it":null}
+{"key":"PC_IND_SCUAVX","en":"Percentage of individuals who don't update their security products","it":null}
+{"key":"PC_IND_SECOITPP","en":"Percentage of individuals who have experienced online identity theft, phishing or pharming","it":null}
+{"key":"PC_IND_MDW","en":"Percentage of individuals who, at work, use any type of computers, portable devices or computerised equipment or machinery","it":null}
+{"key":"PC_IND_IUMC","en":"Percentage of individuals who have used a portable computer to access internet","it":null}
+{"key":"PC_IND_IUMD","en":"Percentage of individuals who used a handheld device or portable computer to access internet","it":null}
+{"key":"PC_IND_IUMDX","en":"Percentage of individuals who didn't use a handheld device or portable computer to access internet","it":null}
+{"key":"PC_IND_IUHD","en":"Percentage of individuals who used a handheld device to access internet","it":null}
+{"key":"PC_IND_IUGOV12","en":"Percentage of e-government users","it":null}
+{"key":"PC_IND_IUG_TV","en":"Percentage of individuals who used the internet on a smart TV (directly connected to the internet)","it":null}
+{"key":"PC_IND_IUP2P_WRK","en":"Percentage of individuals who have obtained paid work by using an intermediary website or apps","it":null}
+{"key":"PC_IND_MPP1","en":"Percentage of individuals who use a smartphone for private purposes (3 months)","it":null}
+{"key":"PC_IND_MPP","en":"Percentage of individuals who use a smartphone for private purposes","it":null}
+{"key":"PC_IND_ILT12_SSF","en":"Percentage of employees and self-employed who used internet within the last year","it":null}
+{"key":"PC_IND_WH","en":"Percentage of individuals working from home","it":null}
+{"key":"PC_IND_WM","en":"Percentage of individuals working at an external site or on the move","it":null}
+{"key":"PC_IND_BGT3_IU3","en":"Percentage of individuals who used internet and did not purchase online in the last 3 months","it":null}
+{"key":"PC_IND_TIC","en":"Percentage of individuals who checked the truthfulness of the information or content found on the internet news sites or social media","it":null}
+{"key":"PC_IND_TICX","en":"Percentage of individuals who did not check the truthfulness of the information or content found on the internet news sites or social media","it":null}
+{"key":"PC_IND_UDI","en":"Percentage of individuals who saw untrue or doubtful information or content on the internet news sites or social media","it":null}
+{"key":"PC_EMP_PREEMP_M12","en":"Percentage of persons employed and previously employed within 12 months","it":null}
+{"key":"PC_EMP_PREEMP","en":"Percentage of persons employed and previously employed","it":null}
+{"key":"PC_PER_HPB","en":"Percentage of persons reporting a health problem","it":null}
+{"key":"PC_PER_ACC","en":"Percentage of persons reporting an accident","it":null}
+{"key":"PPCH_3Y","en":"Percentage point change (t-(t-3))","it":null}
+{"key":"PPCH_PRE","en":"Percentage point change on previous period, contribution to GDP growth","it":null}
+{"key":"PPCH_SM","en":"Percentage point change compared to same period in previous year, contribution to GDP growth","it":null}
+{"key":"PCH_RV","en":"Percentage change, real values","it":null}
+{"key":"PCH_LV_M_16-19","en":"Percentage change of the current month compared to the lowest value for the corresponding month in the period 2016-2019","it":null}
+{"key":"PCH_PRE","en":"Percentage change on previous period","it":null}
+{"key":"PCH_SM","en":"Percentage change compared to same period in previous year","it":null}
+{"key":"PCH_SM_EUR","en":"Percentage change compared to same period in previous year, euro","it":null}
+{"key":"PCH_PRE_PER","en":"Percentage change on previous period (based on persons)","it":null}
+{"key":"PCH_PRE_HW","en":"Percentage change on previous period (based on hours worked)","it":null}
+{"key":"PCH_SM_PER","en":"Percentage change compared to same period in previous year (based on persons)","it":null}
+{"key":"PCH_SM_HW","en":"Percentage change compared to same period in previous year (based on hours worked)","it":null}
+{"key":"PCH_SM_JOB","en":"Percentage change compared to same period in previous year (based on jobs)","it":null}
+{"key":"PCH_SM_FTE","en":"Percentage change compared to same period in previous year (based on full-time equivalents)","it":null}
+{"key":"PCH_SM_2Y","en":"Percentage change compared to same period two years ago","it":null}
+{"key":"PCH_SM_19","en":"Percentage change compared to same month in 2019","it":null}
+{"key":"PCH_PRE_NAC_CP","en":"Percentage change on previous period, national currency, current prices","it":null}
+{"key":"PCH_PRE_CPI05_EUR","en":"Price index - percentage change on previous period, based on 2005=100 and the euro","it":null}
+{"key":"PCH_PRE_CPI00_EUR","en":"Price index - percentage change on previous period, based on 2000=100 and the euro","it":null}
+{"key":"PCH_PRE_CPI05_NAC","en":"Price index - percentage change on previous period, based on 2005=100 and national currency","it":null}
+{"key":"PCH_PRE_CPI00_NAC","en":"Price index - percentage change on previous period, based on 2000=100 and national currency","it":null}
+{"key":"PCH_5Y_CPI10_NAC","en":"Price index - percentage change (t/t-5), based on 2010=100 and national currency","it":null}
+{"key":"PCH_5Y_CPI05_NAC","en":"Price index - percentage change (t/t-5), based on 2005=100 and national currency","it":null}
+{"key":"PCH_PRE_EUR","en":"Percentage change on previous period, euro","it":null}
+{"key":"PCH_PRE_HAB","en":"Percentage change on previous period (based on inhabitants)","it":null}
+{"key":"PCH_PRE_FTE","en":"Percentage change on previous period (based on full-time equivalents)","it":null}
+{"key":"PCH_PRE_JOB","en":"Percentage change on previous period (based on jobs)","it":null}
+{"key":"PCH_PRE_PERS_SCA","en":"Percentage change on previous period (based on persons, SCA)","it":null}
+{"key":"PCH_SAME_PERS_NSA","en":"Percentage change compared to same period in previous year (based on persons, NSA)","it":null}
+{"key":"PCH_SM_PER_NSA","en":"Percentage change compared to same period in previous year (based on persons, NSA)","it":null}
+{"key":"PCH_SM_PER_SCA","en":"Percentage change compared to same period in previous year (based on persons, SCA)","it":null}
+{"key":"PCH_M1","en":"Percentage change m/m-1","it":null}
+{"key":"PCH_M1_NSA","en":"Percentage change m/m-1 (NSA)","it":null}
+{"key":"PCH_M1_SA","en":"Percentage change m/m-1 (SA)","it":null}
+{"key":"PCH_M1_SCA","en":"Percentage change m/m-1 (SCA)","it":null}
+{"key":"PCH_Q1_NSA","en":"Percentage change q/q-1 (NSA)","it":null}
+{"key":"PCH_Q1_SCA","en":"Percentage change q/q-1 (SCA)","it":null}
+{"key":"PCH_Q4_NSA","en":"Percentage change q/q-4 (NSA)","it":null}
+{"key":"PCH_Q4_SCA","en":"Percentage change q/q-4 (SCA)","it":null}
+{"key":"PCH_Q4_CA","en":"Percentage change q/q-4 (CA)","it":null}
+{"key":"PCH_M12","en":"Percentage change m/m-12","it":null}
+{"key":"PCH_M12_NSA","en":"Percentage change m/m-12 (NSA)","it":null}
+{"key":"PCH_M12_CA","en":"Percentage change m/m-12 (CA)","it":null}
+{"key":"PCH_MV12","en":"Percentage change - 12-months average","it":null}
+{"key":"PCH_M24","en":"Percentage change m/m-24","it":null}
+{"key":"PCH_1Y","en":"Percentage change (t/t-1)","it":null}
+{"key":"PCH_3Y","en":"Percentage change (t/t-3)","it":null}
+{"key":"PCH_5Y","en":"Percentage change (t/t-5)","it":null}
+{"key":"PCH_10Y","en":"Percentage change (t/t-10)","it":null}
+{"key":"PCH_WRL_1Y","en":"Percentage of world total - 1-year change","it":null}
+{"key":"PCH_WRL_5Y","en":"Percentage of world total - 5-year change","it":null}
+{"key":"PCH_OECD_5Y","en":"Percentage of OECD total - 5-year change","it":null}
+{"key":"CP_MEUR","en":"Current prices, million euro","it":null}
+{"key":"CP_MNAC","en":"Current prices, million units of national currency","it":null}
+{"key":"CP_MPPS","en":"Current prices, million purchasing power standards","it":null}
+{"key":"CP_MPPS_EU27_2020","en":"Current prices, million purchasing power standards (PPS, EU27 from 2020)","it":null}
+{"key":"CP_MUSD","en":"Current prices, million US dollars","it":null}
+{"key":"CP_EUR_HAB","en":"Current prices, euro per capita","it":null}
+{"key":"CP_NAC_HAB","en":"Current prices, units of national currency per capita","it":null}
+{"key":"CP_PPS_HAB","en":"Current prices, purchasing power standard per capita","it":null}
+{"key":"CP_PPS_EU27_2020_HAB","en":"Current prices, purchasing power standard (PPS, EU27 from 2020) per capita","it":null}
+{"key":"CLV15_MEUR","en":"Chain linked volumes (2015), million euro","it":null}
+{"key":"CLV10_MEUR","en":"Chain linked volumes (2010), million euro","it":null}
+{"key":"CLV05_MEUR","en":"Chain linked volumes (2005), million euro","it":null}
+{"key":"CLV15_MNAC","en":"Chain linked volumes (2015), million units of national currency","it":null}
+{"key":"CLV10_MNAC","en":"Chain linked volumes (2010), million units of national currency","it":null}
+{"key":"CLV05_MNAC","en":"Chain linked volumes (2005), million units of national currency","it":null}
+{"key":"CLV_I15_HAB","en":"Chain linked volumes, Index 2015=100, per capita","it":null}
+{"key":"CLV_I10_HAB","en":"Chain linked volumes, Index 2010=100, per capita","it":null}
+{"key":"CLV15_EUR_HAB","en":"Chain linked volumes (2015), euro per capita","it":null}
+{"key":"CLV10_EUR_HAB","en":"Chain linked volumes (2010), euro per capita","it":null}
+{"key":"CLV10_EUR_AWU","en":"Chain linked volumes (2010), euro per annual work unit (AWU)","it":null}
+{"key":"CLV_PY_MEUR","en":"Chain linked volumes, previous year, million euro","it":null}
+{"key":"CLV_PY_MNAC","en":"Chain linked volumes, previous year, million units of national currency","it":null}
+{"key":"CLV_PCH_PRE","en":"Chain linked volumes, percentage change on previous period","it":null}
+{"key":"CLV_PCH_SM","en":"Chain linked volumes, percentage change compared to same period in previous year","it":null}
+{"key":"CLV_PCH_ANN","en":"Chain linked volumes, annualized percentage change on previous period","it":null}
+{"key":"CLV_PCH_PRE_HAB","en":"Chain linked volumes, percentage change on previous period, per capita","it":null}
+{"key":"CLV_PCH_SM_HAB","en":"Chain linked volumes, percentage change compared to same period in previous year, per capita","it":null}
+{"key":"PYP_MEUR","en":"Previous year prices, million euro","it":null}
+{"key":"PYP_MNAC","en":"Previous year prices, million units of national currency","it":null}
+{"key":"PYP_MUSD","en":"Previous year prices, million US dollars","it":null}
+{"key":"KP_PCH_PRE","en":"Constant prices, percentage change on previous period","it":null}
+{"key":"KP_PCH_SM","en":"Constant prices, percentage change compared to same period in previous year","it":null}
+{"key":"CON_PPCH_PRE","en":"Contribution to GDP growth, percentage point change on previous period","it":null}
+{"key":"CON_PPCH_SM","en":"Contribution to GDP growth, percentage point change compared to same period in previous year","it":null}
+{"key":"PD15_EUR","en":"Price index (implicit deflator), 2015=100, euro","it":null}
+{"key":"PD10_EUR","en":"Price index (implicit deflator), 2010=100, euro","it":null}
+{"key":"PD05_EUR","en":"Price index (implicit deflator), 2005=100, euro","it":null}
+{"key":"PD15_NAC","en":"Price index (implicit deflator), 2015=100, national currency","it":null}
+{"key":"PD10_NAC","en":"Price index (implicit deflator), 2010=100, national currency","it":null}
+{"key":"PD05_NAC","en":"Price index (implicit deflator), 2005=100, national currency","it":null}
+{"key":"PD_PCH_PRE_EUR","en":"Price index (implicit deflator), percentage change on previous period, euro","it":null}
+{"key":"PD_PCH_PRE_NAC","en":"Price index (implicit deflator), percentage change on previous period, national currency","it":null}
+{"key":"PD_PCH_SM_EUR","en":"Price index (implicit deflator), percentage change compared to same period in previous year, euro","it":null}
+{"key":"PD_PCH_SM_NAC","en":"Price index (implicit deflator), percentage change compared to same period in previous year, national currency","it":null}
+{"key":"CRC_MEUR","en":"Current replacement costs, million euro","it":null}
+{"key":"CRC_MNAC","en":"Current replacement costs, million units of national currency","it":null}
+{"key":"PYR_MEUR","en":"Previous year replacement costs, million euro","it":null}
+{"key":"PYR_MNAC","en":"Previous year replacement costs, million units of national currency","it":null}

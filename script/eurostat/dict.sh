@@ -32,3 +32,18 @@ cat "$folder"/../../data/eurostat/dict.txt | while read line; do
 done
 
 cd "$folder"
+
+find "$folder"/../../data/eurostat/dict -maxdepth 1 -iname "*.dic" | while read file; do
+  nomefile=$(basename "$file" .dic)
+  if [ -f "$folder"/../../data/eurostat/dict/"$nomefile".jsonl ]; then
+    rm "$folder"/../../data/eurostat/dict/"$nomefile".jsonl
+  fi
+  cat "$file" | mlr --t2j -N label n,v | while read line; do
+    #nome=$(echo "$line" | jq -r ".n")
+    #valore=$(echo "$line" | jq -r ".v")
+    #echo '{"'"$nome"'":[{"en":"'"$valore"'","it":null}]}' >>"$folder"/../../data/eurostat/dict/"$nomefile".jsonl
+    mlrgo --t2j -N label key,en then put '$it=null' "$file" | jq -c '.[]' >"$folder"/../../data/eurostat/dict/"$nomefile".jsonl
+  done
+done
+
+# {"TOTAL":[{"en":"Total","it":""}]}

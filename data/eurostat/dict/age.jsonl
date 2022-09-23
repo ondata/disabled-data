@@ -1,0 +1,653 @@
+{"key":"TOTAL","en":"Total","it":null}
+{"key":"LFD","en":"Late foetal death","it":null}
+{"key":"LFD1","en":"Late foetal death (group 1)","it":null}
+{"key":"LFD2","en":"Late foetal death (group 2)","it":null}
+{"key":"MN0","en":"Zero minutes","it":null}
+{"key":"MN1-9","en":"From 1 to 9 minutes","it":null}
+{"key":"MN1-14","en":"From 1 to 14 minutes","it":null}
+{"key":"MN1-59","en":"From 1 to 59 minutes","it":null}
+{"key":"MN1-74","en":"From 1 to 74 minutes","it":null}
+{"key":"MN1-149","en":"From 1 to 149 minutes","it":null}
+{"key":"MN_GE1","en":"1 minute or over","it":null}
+{"key":"MN10-14","en":"From 10 to 14 minutes","it":null}
+{"key":"MN15-19","en":"From 15 to 19 minutes","it":null}
+{"key":"MN15-29","en":"From 15 to 29 minutes","it":null}
+{"key":"MN20-29","en":"From 20 to 29 minutes","it":null}
+{"key":"MN30-44","en":"From 30 to 44 minutes","it":null}
+{"key":"MN30-59","en":"From 30 to 59 minutes","it":null}
+{"key":"MN_GE30","en":"30 minutes or over","it":null}
+{"key":"MN45-59","en":"From 45 to 59 minutes","it":null}
+{"key":"MN60-149","en":"From 60 to 149 minutes","it":null}
+{"key":"MN60-179","en":"From 60 to 179 minutes","it":null}
+{"key":"MN_GE60","en":"60 minutes or over","it":null}
+{"key":"MN75-149","en":"From 75 to 149 minutes","it":null}
+{"key":"MN150-299","en":"From 150 to 299 minutes","it":null}
+{"key":"MN_GE150","en":"150 minutes or over","it":null}
+{"key":"MN180-299","en":"From 180 to 299 minutes","it":null}
+{"key":"MN_GE300","en":"300 minutes or over","it":null}
+{"key":"H_VARY","en":"Hours vary","it":null}
+{"key":"H0","en":"Zero hours","it":null}
+{"key":"H_LT1","en":"Less than 1 hour","it":null}
+{"key":"H1-9","en":"From 1 to 9 hours","it":null}
+{"key":"H1-19","en":"From 1 to 19 hours","it":null}
+{"key":"H1-29","en":"From 1 to 29 hours","it":null}
+{"key":"H_GE1","en":"1 hour or over","it":null}
+{"key":"H_LE10","en":"10 hours or less","it":null}
+{"key":"H10-19","en":"From 10 to 19 hours","it":null}
+{"key":"H10-20","en":"From 10 to 20 hours","it":null}
+{"key":"H_GT10-20","en":"From more than 10 to 20 hours","it":null}
+{"key":"H20-24","en":"From 20 to 24 hours","it":null}
+{"key":"H20-29","en":"From 20 to 29 hours","it":null}
+{"key":"H20-30","en":"From 20 to 30 hours","it":null}
+{"key":"H_GT20-30","en":"From more than 20 to 30 hours","it":null}
+{"key":"H20-34","en":"From 20 to 34 hours","it":null}
+{"key":"H25-29","en":"From 25 to 29 hours","it":null}
+{"key":"H30-34","en":"From 30 to 34 hours","it":null}
+{"key":"H30-39","en":"From 30 to 39 hours","it":null}
+{"key":"H30-40","en":"From 30 to 40 hours","it":null}
+{"key":"H_GT30-40","en":"From more than 30 to 40 hours","it":null}
+{"key":"H_GE30","en":"30 hours or over","it":null}
+{"key":"H35-39","en":"From 35 to 39 hours","it":null}
+{"key":"H35-40","en":"From 35 to 40 hours","it":null}
+{"key":"H40-44","en":"From 40 to 44 hours","it":null}
+{"key":"H40-49","en":"From 40 to 49 hours","it":null}
+{"key":"H_GT40","en":"Over 40 hours","it":null}
+{"key":"H45-49","en":"From 45 to 49 hours","it":null}
+{"key":"H50-59","en":"From 50 to 59 hours","it":null}
+{"key":"H_GE50","en":"50 hours or over","it":null}
+{"key":"H60-69","en":"From 60 to 69 hours","it":null}
+{"key":"H_GE60","en":"60 hours or over","it":null}
+{"key":"H_GE70","en":"70 hours or over","it":null}
+{"key":"N_GE1","en":"1 night or over","it":null}
+{"key":"N1-3","en":"From 1 to 3 nights","it":null}
+{"key":"N4-7","en":"From 4 to 7 nights","it":null}
+{"key":"N_GE4","en":"4 nights or over","it":null}
+{"key":"N8-14","en":"From 8 to 14 nights","it":null}
+{"key":"N15-28","en":"From 15 to 28 nights","it":null}
+{"key":"N29-91","en":"From 29 to 91 nights","it":null}
+{"key":"N92-365","en":"From 92 to 365 nights","it":null}
+{"key":"D0","en":"Zero days","it":null}
+{"key":"D0-3","en":"From 0 to 3 days","it":null}
+{"key":"D0-27","en":"From 0 to 27 days","it":null}
+{"key":"D_LT1","en":"Less than 1 day","it":null}
+{"key":"D_LE1","en":"1 day or less","it":null}
+{"key":"D1-3","en":"From 1 to 3 days","it":null}
+{"key":"D1-6","en":"From 1 to 6 days","it":null}
+{"key":"D1-7","en":"From 1 to 7 days","it":null}
+{"key":"D1-90","en":"From 1 to 90 days","it":null}
+{"key":"D2-3","en":"From 2 to 3 days","it":null}
+{"key":"D4-5","en":"From 4 to 5 days","it":null}
+{"key":"D4-6","en":"From 4 to 6 days","it":null}
+{"key":"D_GE4","en":"4 days or over","it":null}
+{"key":"D4-M12","en":"From 4 days to 12 months","it":null}
+{"key":"D6-9","en":"From 6 to 9 days","it":null}
+{"key":"D_LT7","en":"Less than 7 days","it":null}
+{"key":"D7-13","en":"From 7 to 13 days","it":null}
+{"key":"D7-27","en":"From 7 to 27 days","it":null}
+{"key":"D8-35","en":"From 8 to 35 days","it":null}
+{"key":"D10-19","en":"From 10 to 19 days","it":null}
+{"key":"D14-20","en":"From 14 to 20 days","it":null}
+{"key":"D14-29","en":"From 14 to 29 days","it":null}
+{"key":"D_GE14","en":"14 days or over","it":null}
+{"key":"D_GE20","en":"20 days or over","it":null}
+{"key":"D_GE21","en":"21 days or over","it":null}
+{"key":"D21-29","en":"From 21 to 29 days","it":null}
+{"key":"D21-M1","en":"From 21 days to 1 month","it":null}
+{"key":"D_LT28","en":"Less than 28 days","it":null}
+{"key":"D28-364","en":"From 28 days to less than 1 year","it":null}
+{"key":"D_GT35","en":"Over 35 days","it":null}
+{"key":"D91-180","en":"From 91 to 180 days","it":null}
+{"key":"D91-M5","en":"From 91 days to 5 months","it":null}
+{"key":"D91-M6","en":"From 91 days to 6 months","it":null}
+{"key":"D181-360","en":"From 181 to 360 days","it":null}
+{"key":"D_GE183_PI","en":"Permanent incapacity or 183 days or over","it":null}
+{"key":"D_GE361","en":"361 days or over","it":null}
+{"key":"W0-16","en":"From 0 to 16 weeks","it":null}
+{"key":"W0-20","en":"From 0 to 20 weeks","it":null}
+{"key":"W0-27","en":"From 0 to 27 weeks","it":null}
+{"key":"W_LE5","en":"5 weeks or less","it":null}
+{"key":"W_GT5","en":"Over 5 weeks","it":null}
+{"key":"W17","en":"17 weeks","it":null}
+{"key":"W18","en":"18 weeks","it":null}
+{"key":"W19","en":"19 weeks","it":null}
+{"key":"W20","en":"20 weeks","it":null}
+{"key":"W21","en":"21 weeks","it":null}
+{"key":"W22","en":"22 weeks","it":null}
+{"key":"W23","en":"23 weeks","it":null}
+{"key":"W24","en":"24 weeks","it":null}
+{"key":"W25","en":"25 weeks","it":null}
+{"key":"W26","en":"26 weeks","it":null}
+{"key":"W27","en":"27 weeks","it":null}
+{"key":"W28","en":"28 weeks","it":null}
+{"key":"W28-31","en":"From 28 to 31 weeks","it":null}
+{"key":"W29","en":"29 weeks","it":null}
+{"key":"W30","en":"30 weeks","it":null}
+{"key":"W31","en":"31 weeks","it":null}
+{"key":"W32","en":"32 weeks","it":null}
+{"key":"W32-35","en":"From 32 to 35 weeks","it":null}
+{"key":"W33","en":"33 weeks","it":null}
+{"key":"W34","en":"34 weeks","it":null}
+{"key":"W35","en":"35 weeks","it":null}
+{"key":"W36","en":"36 weeks","it":null}
+{"key":"W36-39","en":"From 36 to 39 weeks","it":null}
+{"key":"W37","en":"37 weeks","it":null}
+{"key":"W38","en":"38 weeks","it":null}
+{"key":"W39","en":"39 weeks","it":null}
+{"key":"W_GE40","en":"40 weeks or over","it":null}
+{"key":"NST","en":"Not started","it":null}
+{"key":"IMM","en":"Immediate","it":null}
+{"key":"M0","en":"Zero months","it":null}
+{"key":"M0-2","en":"From 0 to 2 months","it":null}
+{"key":"M0-11","en":"From 0 to 11 months","it":null}
+{"key":"M_LT1","en":"Less than 1 month","it":null}
+{"key":"M1","en":"1 month","it":null}
+{"key":"M1-2","en":"From 1 to 2 months","it":null}
+{"key":"M1-3","en":"From 1 to 3 months","it":null}
+{"key":"M1-6","en":"From 1 to 6 months","it":null}
+{"key":"M1-12","en":"From 1 to 12 months","it":null}
+{"key":"M_GE1","en":"1 month or over","it":null}
+{"key":"M2","en":"2 months","it":null}
+{"key":"M_LT3","en":"Less than 3 months","it":null}
+{"key":"M_LE3","en":"3 months or less","it":null}
+{"key":"M3","en":"3 months","it":null}
+{"key":"M3-4","en":"From 3 to 4 months","it":null}
+{"key":"M3-5","en":"From 3 to 5 months","it":null}
+{"key":"M3-6","en":"From 3 to 6 months","it":null}
+{"key":"M3-12","en":"From 3 to 12 months","it":null}
+{"key":"M_GT3-6","en":"From more than 3 to 6 months","it":null}
+{"key":"M_GE3","en":"3 months or over","it":null}
+{"key":"M4","en":"4 months","it":null}
+{"key":"M4-6","en":"From 4 to 6 months","it":null}
+{"key":"M5","en":"5 months","it":null}
+{"key":"M5-6","en":"From 5 to 6 months","it":null}
+{"key":"M_LT6","en":"Less than 6 months","it":null}
+{"key":"M_LE6","en":"6 months or less","it":null}
+{"key":"M6","en":"6 months","it":null}
+{"key":"M6-9","en":"From 6 to 9 months","it":null}
+{"key":"M6-11","en":"From 6 to 11 months","it":null}
+{"key":"M6-12","en":"From 6 to 12 months","it":null}
+{"key":"M_GT6-12","en":"From more than 6 to 12 months","it":null}
+{"key":"M_GE6","en":"6 months or over","it":null}
+{"key":"M7","en":"7 months","it":null}
+{"key":"M7-9","en":"From 7 to 9 months","it":null}
+{"key":"M7-12","en":"From 7 to 12 months","it":null}
+{"key":"M8","en":"8 months","it":null}
+{"key":"M9","en":"9 months","it":null}
+{"key":"M10","en":"10 months","it":null}
+{"key":"M_GE10","en":"10 months or over","it":null}
+{"key":"M11","en":"11 months","it":null}
+{"key":"M_LT12","en":"Less than 12 months","it":null}
+{"key":"M12","en":"12 months","it":null}
+{"key":"M12-17","en":"From 12 to 17 months","it":null}
+{"key":"M12-23","en":"From 12 to 23 months","it":null}
+{"key":"M12-36","en":"From 12 to 36 months","it":null}
+{"key":"M_GE12","en":"12 months or over","it":null}
+{"key":"M_GT12","en":"Over 12 months","it":null}
+{"key":"M13","en":"13 months","it":null}
+{"key":"M13-18","en":"From 13 to 18 months","it":null}
+{"key":"M14","en":"14 months","it":null}
+{"key":"M15","en":"15 months","it":null}
+{"key":"M16","en":"16 months","it":null}
+{"key":"M17","en":"17 months","it":null}
+{"key":"M18","en":"18 months","it":null}
+{"key":"M18-23","en":"From 18 to 23 months","it":null}
+{"key":"M19","en":"19 months","it":null}
+{"key":"M19-24","en":"From 19 to 24 months","it":null}
+{"key":"M20","en":"20 months","it":null}
+{"key":"M21","en":"21 months","it":null}
+{"key":"M22","en":"22 months","it":null}
+{"key":"M23","en":"23 months","it":null}
+{"key":"M24","en":"24 months","it":null}
+{"key":"M24-35","en":"From 24 to 35 months","it":null}
+{"key":"M24-47","en":"From 24 to 47 months","it":null}
+{"key":"M24-59","en":"From 24 to 59 months","it":null}
+{"key":"M_GE24","en":"24 months or over","it":null}
+{"key":"M25","en":"25 months","it":null}
+{"key":"M25-36","en":"From 25 to 36 months","it":null}
+{"key":"M26","en":"26 months","it":null}
+{"key":"M27","en":"27 months","it":null}
+{"key":"M28","en":"28 months","it":null}
+{"key":"M29","en":"29 months","it":null}
+{"key":"M30","en":"30 months","it":null}
+{"key":"M31","en":"31 months","it":null}
+{"key":"M32","en":"32 months","it":null}
+{"key":"M33","en":"33 months","it":null}
+{"key":"M34","en":"34 months","it":null}
+{"key":"M35","en":"35 months","it":null}
+{"key":"M36","en":"36 months","it":null}
+{"key":"M_GE36","en":"36 months or over","it":null}
+{"key":"M_GT36","en":"Over 36 months","it":null}
+{"key":"M37","en":"37 months","it":null}
+{"key":"M38","en":"38 months","it":null}
+{"key":"M39","en":"39 months","it":null}
+{"key":"M40","en":"40 months","it":null}
+{"key":"M41","en":"41 months","it":null}
+{"key":"M42","en":"42 months","it":null}
+{"key":"M43","en":"43 months","it":null}
+{"key":"M44","en":"44 months","it":null}
+{"key":"M45","en":"45 months","it":null}
+{"key":"M46","en":"46 months","it":null}
+{"key":"M47","en":"47 months","it":null}
+{"key":"M48","en":"48 months","it":null}
+{"key":"M_GE48","en":"48 months or over","it":null}
+{"key":"M49","en":"49 months","it":null}
+{"key":"M50","en":"50 months","it":null}
+{"key":"M51","en":"51 months","it":null}
+{"key":"M52","en":"52 months","it":null}
+{"key":"M53","en":"53 months","it":null}
+{"key":"M54","en":"54 months","it":null}
+{"key":"M55","en":"55 months","it":null}
+{"key":"M56","en":"56 months","it":null}
+{"key":"M57","en":"57 months","it":null}
+{"key":"M58","en":"58 months","it":null}
+{"key":"M59","en":"59 months","it":null}
+{"key":"M60","en":"60 months","it":null}
+{"key":"M_GE60","en":"60 months or over","it":null}
+{"key":"M61","en":"61 months","it":null}
+{"key":"M62","en":"62 months","it":null}
+{"key":"M63","en":"63 months","it":null}
+{"key":"M64","en":"64 months","it":null}
+{"key":"M65","en":"65 months","it":null}
+{"key":"M66","en":"66 months","it":null}
+{"key":"M67","en":"67 months","it":null}
+{"key":"M68","en":"68 months","it":null}
+{"key":"M69","en":"69 months","it":null}
+{"key":"M70","en":"70 months","it":null}
+{"key":"M71","en":"71 months","it":null}
+{"key":"M72","en":"72 months","it":null}
+{"key":"M73","en":"73 months","it":null}
+{"key":"M74","en":"74 months","it":null}
+{"key":"M75","en":"75 months","it":null}
+{"key":"M76","en":"76 months","it":null}
+{"key":"M77","en":"77 months","it":null}
+{"key":"M78","en":"78 months","it":null}
+{"key":"M79","en":"79 months","it":null}
+{"key":"M80","en":"80 months","it":null}
+{"key":"M81","en":"81 months","it":null}
+{"key":"M82","en":"82 months","it":null}
+{"key":"M83","en":"83 months","it":null}
+{"key":"M84","en":"84 months","it":null}
+{"key":"M85","en":"85 months","it":null}
+{"key":"M86","en":"86 months","it":null}
+{"key":"M87","en":"87 months","it":null}
+{"key":"M88","en":"88 months","it":null}
+{"key":"M89","en":"89 months","it":null}
+{"key":"M90","en":"90 months","it":null}
+{"key":"M91","en":"91 months","it":null}
+{"key":"M92","en":"92 months","it":null}
+{"key":"M93","en":"93 months","it":null}
+{"key":"M94","en":"94 months","it":null}
+{"key":"M95","en":"95 months","it":null}
+{"key":"M96","en":"96 months","it":null}
+{"key":"M97","en":"97 months","it":null}
+{"key":"M98","en":"98 months","it":null}
+{"key":"M99","en":"99 months","it":null}
+{"key":"M100","en":"100 months","it":null}
+{"key":"M101","en":"101 months","it":null}
+{"key":"M102","en":"102 months","it":null}
+{"key":"M103","en":"103 months","it":null}
+{"key":"M104","en":"104 months","it":null}
+{"key":"M105","en":"105 months","it":null}
+{"key":"M106","en":"106 months","it":null}
+{"key":"M107","en":"107 months","it":null}
+{"key":"M108","en":"108 months","it":null}
+{"key":"M109","en":"109 months","it":null}
+{"key":"M110","en":"110 months","it":null}
+{"key":"M111","en":"111 months","it":null}
+{"key":"M112","en":"112 months","it":null}
+{"key":"M113","en":"113 months","it":null}
+{"key":"M114","en":"114 months","it":null}
+{"key":"M115","en":"115 months","it":null}
+{"key":"M116","en":"116 months","it":null}
+{"key":"M117","en":"117 months","it":null}
+{"key":"M118","en":"118 months","it":null}
+{"key":"M119","en":"119 months","it":null}
+{"key":"Y0-17","en":"From 0 to 17 years","it":null}
+{"key":"Y0-29","en":"From 0 to 29 years","it":null}
+{"key":"Y_LT1","en":"Less than 1 year","it":null}
+{"key":"Y1","en":"1 year","it":null}
+{"key":"Y1-2","en":"From 1 to 2 years","it":null}
+{"key":"Y_GT1-2","en":"From more than 1 to 2 years","it":null}
+{"key":"Y1-3","en":"From 1 to 3 years","it":null}
+{"key":"Y1-4","en":"From 1 to 4 years","it":null}
+{"key":"Y1-5","en":"From 1 to 5 years","it":null}
+{"key":"Y1-9","en":"From 1 to 9 years","it":null}
+{"key":"Y1-14","en":"From 1 to 14 years","it":null}
+{"key":"Y1-15","en":"From 1 to 15 years","it":null}
+{"key":"Y_GE1","en":"1 year or over","it":null}
+{"key":"Y_LT2","en":"Less than 2 years","it":null}
+{"key":"Y2","en":"2 years","it":null}
+{"key":"Y2-3","en":"From 2 to 3 years","it":null}
+{"key":"Y_GT2-3","en":"From more than 2 to 3 years","it":null}
+{"key":"Y2-4","en":"From 2 to 4 years","it":null}
+{"key":"Y2-5","en":"From 2 to 5 years","it":null}
+{"key":"Y_GE2","en":"2 years or over","it":null}
+{"key":"Y_LT3","en":"Less than 3 years","it":null}
+{"key":"Y_LE3","en":"3 years or less","it":null}
+{"key":"Y3","en":"3 years","it":null}
+{"key":"Y3-CSA","en":"From 3 years to minimum compulsory school age","it":null}
+{"key":"Y3-4","en":"From 3 to 4 years","it":null}
+{"key":"Y3-5","en":"From 3 to 5 years","it":null}
+{"key":"Y_GT3-5","en":"From more than 3 to 5 years","it":null}
+{"key":"Y3-9","en":"From 3 to 9 years","it":null}
+{"key":"Y_GE3","en":"3 years or over","it":null}
+{"key":"Y_GT3","en":"Over 3 years","it":null}
+{"key":"Y_LT4","en":"Less than 4 years","it":null}
+{"key":"Y_LE4","en":"4 years or less","it":null}
+{"key":"Y4","en":"4 years","it":null}
+{"key":"Y4-5","en":"From 4 to 5 years","it":null}
+{"key":"Y_GT4","en":"Over 4 years","it":null}
+{"key":"Y_LT5","en":"Less than 5 years","it":null}
+{"key":"Y_LE5","en":"5 years or less","it":null}
+{"key":"Y5","en":"5 years","it":null}
+{"key":"Y5-9","en":"From 5 to 9 years","it":null}
+{"key":"Y5-10","en":"From 5 to 10 years","it":null}
+{"key":"Y5-11","en":"From 5 to 11 years","it":null}
+{"key":"Y5-12","en":"From 5 to 12 years","it":null}
+{"key":"Y5-14","en":"From 5 to 14 years","it":null}
+{"key":"Y5-29","en":"From 5 to 29 years","it":null}
+{"key":"Y_GE5","en":"5 years or over","it":null}
+{"key":"Y_GT5","en":"Over 5 years","it":null}
+{"key":"CSA-Y12","en":"From minimum compulsory school age to 12 years","it":null}
+{"key":"Y_LT6","en":"Less than 6 years","it":null}
+{"key":"Y6","en":"6 years","it":null}
+{"key":"Y6-7","en":"From 6 to 7 years","it":null}
+{"key":"Y6-9","en":"From 6 to 9 years","it":null}
+{"key":"Y6-10","en":"From 6 to 10 years","it":null}
+{"key":"Y6-11","en":"From 6 to 11 years","it":null}
+{"key":"Y6-12","en":"From 6 to 12 years","it":null}
+{"key":"Y7","en":"7 years","it":null}
+{"key":"Y7-12","en":"From 7 to 12 years","it":null}
+{"key":"Y8","en":"8 years","it":null}
+{"key":"Y8-9","en":"From 8 to 9 years","it":null}
+{"key":"Y9","en":"9 years","it":null}
+{"key":"Y_LT10","en":"Less than 10 years","it":null}
+{"key":"Y10","en":"10 years","it":null}
+{"key":"Y10-11","en":"From 10 to 11 years","it":null}
+{"key":"Y10-14","en":"From 10 to 14 years","it":null}
+{"key":"Y10-15","en":"From 10 to 15 years","it":null}
+{"key":"Y10-19","en":"From 10 to 19 years","it":null}
+{"key":"Y10-20","en":"From 10 to 20 years","it":null}
+{"key":"Y10-29","en":"From 10 to 29 years","it":null}
+{"key":"Y_GE10","en":"10 years or over","it":null}
+{"key":"Y_GT10","en":"Over 10 years","it":null}
+{"key":"Y_LT11","en":"Less than 11 years","it":null}
+{"key":"Y11","en":"11 years","it":null}
+{"key":"Y11-15","en":"From 11 to 15 years","it":null}
+{"key":"Y_LE12","en":"12 years or less","it":null}
+{"key":"Y12","en":"12 years","it":null}
+{"key":"Y12-13","en":"From 12 to 13 years","it":null}
+{"key":"Y12-15","en":"From 12 to 15 years","it":null}
+{"key":"Y12-16","en":"From 12 to 16 years","it":null}
+{"key":"Y12-17","en":"From 12 to 17 years","it":null}
+{"key":"Y12-49","en":"From 12 to 49 years","it":null}
+{"key":"Y_GE12","en":"12 years or over","it":null}
+{"key":"Y13","en":"13 years","it":null}
+{"key":"Y13-16","en":"From 13 to 16 years","it":null}
+{"key":"Y13-18","en":"From 13 to 18 years","it":null}
+{"key":"Y_LT14","en":"Less than 14 years","it":null}
+{"key":"Y14","en":"14 years","it":null}
+{"key":"Y14-15","en":"From 14 to 15 years","it":null}
+{"key":"Y14-17","en":"From 14 to 17 years","it":null}
+{"key":"Y_LT15","en":"Less than 15 years","it":null}
+{"key":"Y15","en":"15 years","it":null}
+{"key":"Y15-17","en":"From 15 to 17 years","it":null}
+{"key":"Y15-19","en":"From 15 to 19 years","it":null}
+{"key":"Y15-20","en":"From 15 to 20 years","it":null}
+{"key":"Y15-24_Y65-74","en":"From 15 to 24 years and 65 to 74 years","it":null}
+{"key":"Y15-24","en":"From 15 to 24 years","it":null}
+{"key":"Y15-29","en":"From 15 to 29 years","it":null}
+{"key":"Y15-34","en":"From 15 to 34 years","it":null}
+{"key":"Y15-39","en":"From 15 to 39 years","it":null}
+{"key":"Y15-44","en":"From 15 to 44 years","it":null}
+{"key":"Y15-59","en":"From 15 to 59 years","it":null}
+{"key":"Y15-64","en":"From 15 to 64 years","it":null}
+{"key":"Y15-69","en":"From 15 to 69 years","it":null}
+{"key":"Y15-74","en":"From 15 to 74 years","it":null}
+{"key":"Y15-89","en":"From 15 to 89 years","it":null}
+{"key":"Y_GE15","en":"15 years or over","it":null}
+{"key":"Y_LT16","en":"Less than 16 years","it":null}
+{"key":"Y16","en":"16 years","it":null}
+{"key":"Y16-17","en":"From 16 to 17 years","it":null}
+{"key":"Y16-18","en":"From 16 to 18 years","it":null}
+{"key":"Y16-19","en":"From 16 to 19 years","it":null}
+{"key":"Y16-24","en":"From 16 to 24 years","it":null}
+{"key":"Y16-29","en":"From 16 to 29 years","it":null}
+{"key":"Y16-44","en":"From 16 to 44 years","it":null}
+{"key":"Y16-64","en":"From 16 to 64 years","it":null}
+{"key":"Y16-74","en":"From 16 to 74 years","it":null}
+{"key":"Y_GE16","en":"16 years or over","it":null}
+{"key":"Y_LT17","en":"Less than 17 years","it":null}
+{"key":"Y17","en":"17 years","it":null}
+{"key":"Y17-18","en":"From 17 to 18 years","it":null}
+{"key":"Y_LT18","en":"Less than 18 years","it":null}
+{"key":"Y18","en":"18 years","it":null}
+{"key":"Y18-19","en":"From 18 to 19 years","it":null}
+{"key":"Y18-24","en":"From 18 to 24 years","it":null}
+{"key":"Y18-29","en":"From 18 to 29 years","it":null}
+{"key":"Y18-34","en":"From 18 to 34 years","it":null}
+{"key":"Y18-44","en":"From 18 to 44 years","it":null}
+{"key":"Y18-49","en":"From 18 to 49 years","it":null}
+{"key":"Y18-54","en":"From 18 to 54 years","it":null}
+{"key":"Y18-59","en":"From 18 to 59 years","it":null}
+{"key":"Y18-64","en":"From 18 to 64 years","it":null}
+{"key":"Y18-69","en":"From 18 to 69 years","it":null}
+{"key":"Y18-74","en":"From 18 to 74 years","it":null}
+{"key":"Y_GE18","en":"18 years or over","it":null}
+{"key":"Y_LE19","en":"19 years or less","it":null}
+{"key":"Y19","en":"19 years","it":null}
+{"key":"Y19-24","en":"From 19 to 24 years","it":null}
+{"key":"Y_LT20","en":"Less than 20 years","it":null}
+{"key":"Y20","en":"20 years","it":null}
+{"key":"Y20-24","en":"From 20 to 24 years","it":null}
+{"key":"Y20-29","en":"From 20 to 29 years","it":null}
+{"key":"Y20-34","en":"From 20 to 34 years","it":null}
+{"key":"Y20-39","en":"From 20 to 39 years","it":null}
+{"key":"Y20-49","en":"From 20 to 49 years","it":null}
+{"key":"Y20-59","en":"From 20 to 59 years","it":null}
+{"key":"Y20-64","en":"From 20 to 64 years","it":null}
+{"key":"Y20-69","en":"From 20 to 69 years","it":null}
+{"key":"Y20-74","en":"From 20 to 74 years","it":null}
+{"key":"Y20-89","en":"From 20 to 89 years","it":null}
+{"key":"Y_GE20","en":"20 years or over","it":null}
+{"key":"Y_GT20","en":"Over 20 years","it":null}
+{"key":"Y21","en":"21 years","it":null}
+{"key":"Y_GE21","en":"21 years or over","it":null}
+{"key":"Y22","en":"22 years","it":null}
+{"key":"Y23","en":"23 years","it":null}
+{"key":"Y24","en":"24 years","it":null}
+{"key":"Y_LT25","en":"Less than 25 years","it":null}
+{"key":"Y25","en":"25 years","it":null}
+{"key":"Y25-29","en":"From 25 to 29 years","it":null}
+{"key":"Y25-34","en":"From 25 to 34 years","it":null}
+{"key":"Y25-39","en":"From 25 to 39 years","it":null}
+{"key":"Y25-44","en":"From 25 to 44 years","it":null}
+{"key":"Y25-49","en":"From 25 to 49 years","it":null}
+{"key":"Y25-54","en":"From 25 to 54 years","it":null}
+{"key":"Y25-59","en":"From 25 to 59 years","it":null}
+{"key":"Y25-64","en":"From 25 to 64 years","it":null}
+{"key":"Y25-69","en":"From 25 to 69 years","it":null}
+{"key":"Y25-74","en":"From 25 to 74 years","it":null}
+{"key":"Y25-89","en":"From 25 to 89 years","it":null}
+{"key":"Y_GE25","en":"25 years or over","it":null}
+{"key":"Y26","en":"26 years","it":null}
+{"key":"Y27","en":"27 years","it":null}
+{"key":"Y28","en":"28 years","it":null}
+{"key":"Y29","en":"29 years","it":null}
+{"key":"Y_LT30","en":"Less than 30 years","it":null}
+{"key":"Y30","en":"30 years","it":null}
+{"key":"Y30-34","en":"From 30 to 34 years","it":null}
+{"key":"Y30-39","en":"From 30 to 39 years","it":null}
+{"key":"Y30-44","en":"From 30 to 44 years","it":null}
+{"key":"Y30-49","en":"From 30 to 49 years","it":null}
+{"key":"Y30-54","en":"From 30 to 54 years","it":null}
+{"key":"Y30-64","en":"From 30 to 64 years","it":null}
+{"key":"Y_GE30","en":"30 years or over","it":null}
+{"key":"Y31","en":"31 years","it":null}
+{"key":"Y32","en":"32 years","it":null}
+{"key":"Y33","en":"33 years","it":null}
+{"key":"Y34","en":"34 years","it":null}
+{"key":"Y_LT35","en":"Less than 35 years","it":null}
+{"key":"Y35","en":"35 years","it":null}
+{"key":"Y35-39","en":"From 35 to 39 years","it":null}
+{"key":"Y35-44","en":"From 35 to 44 years","it":null}
+{"key":"Y35-49","en":"From 35 to 49 years","it":null}
+{"key":"Y35-54","en":"From 35 to 54 years","it":null}
+{"key":"Y35-64","en":"From 35 to 64 years","it":null}
+{"key":"Y35-74","en":"From 35 to 74 years","it":null}
+{"key":"Y_GE35","en":"35 years or over","it":null}
+{"key":"Y_LT36","en":"Less than 36 years","it":null}
+{"key":"Y36","en":"36 years","it":null}
+{"key":"Y36-55","en":"From 36 to 55 years","it":null}
+{"key":"Y37","en":"37 years","it":null}
+{"key":"Y38","en":"38 years","it":null}
+{"key":"Y39","en":"39 years","it":null}
+{"key":"Y_LT40","en":"Less than 40 years","it":null}
+{"key":"Y40","en":"40 years","it":null}
+{"key":"Y40-44","en":"From 40 to 44 years","it":null}
+{"key":"Y40-49","en":"From 40 to 49 years","it":null}
+{"key":"Y40-54","en":"From 40 to 54 years","it":null}
+{"key":"Y40-59","en":"From 40 to 59 years","it":null}
+{"key":"Y40-64","en":"From 40 to 64 years","it":null}
+{"key":"Y_GE40","en":"40 years or over","it":null}
+{"key":"Y41","en":"41 years","it":null}
+{"key":"Y42","en":"42 years","it":null}
+{"key":"Y43","en":"43 years","it":null}
+{"key":"Y44","en":"44 years","it":null}
+{"key":"Y_LT45","en":"Less than 45 years","it":null}
+{"key":"Y45","en":"45 years","it":null}
+{"key":"Y45-49","en":"From 45 to 49 years","it":null}
+{"key":"Y45-54","en":"From 45 to 54 years","it":null}
+{"key":"Y45-59","en":"From 45 to 59 years","it":null}
+{"key":"Y45-64","en":"From 45 to 64 years","it":null}
+{"key":"Y45-74","en":"From 45 to 74 years","it":null}
+{"key":"Y_GE45","en":"45 years or over","it":null}
+{"key":"Y46","en":"46 years","it":null}
+{"key":"Y47","en":"47 years","it":null}
+{"key":"Y48","en":"48 years","it":null}
+{"key":"Y_GE48","en":"48 years or over","it":null}
+{"key":"Y49","en":"49 years","it":null}
+{"key":"Y_GE49","en":"49 years or over","it":null}
+{"key":"Y50","en":"50 years","it":null}
+{"key":"Y50-54","en":"From 50 to 54 years","it":null}
+{"key":"Y50-59","en":"From 50 to 59 years","it":null}
+{"key":"Y50-64","en":"From 50 to 64 years","it":null}
+{"key":"Y50-69","en":"From 50 to 69 years","it":null}
+{"key":"Y50-74","en":"From 50 to 74 years","it":null}
+{"key":"Y50-89","en":"From 50 to 89 years","it":null}
+{"key":"Y_GE50","en":"50 years or over","it":null}
+{"key":"Y51","en":"51 years","it":null}
+{"key":"Y_GE51","en":"51 years or over","it":null}
+{"key":"Y52","en":"52 years","it":null}
+{"key":"Y53","en":"53 years","it":null}
+{"key":"Y54","en":"54 years","it":null}
+{"key":"Y55","en":"55 years","it":null}
+{"key":"Y55-59","en":"From 55 to 59 years","it":null}
+{"key":"Y55-64","en":"From 55 to 64 years","it":null}
+{"key":"Y55-69","en":"From 55 to 69 years","it":null}
+{"key":"Y55-74","en":"From 55 to 74 years","it":null}
+{"key":"Y55-89","en":"From 55 to 89 years","it":null}
+{"key":"Y_GE55","en":"55 years or over","it":null}
+{"key":"Y56","en":"56 years","it":null}
+{"key":"Y_GE56","en":"56 years or over","it":null}
+{"key":"Y57","en":"57 years","it":null}
+{"key":"Y58","en":"58 years","it":null}
+{"key":"Y59","en":"59 years","it":null}
+{"key":"Y_LT60","en":"Less than 60 years","it":null}
+{"key":"Y60","en":"60 years","it":null}
+{"key":"Y60-64","en":"From 60 to 64 years","it":null}
+{"key":"Y60-69","en":"From 60 to 69 years","it":null}
+{"key":"Y60-74","en":"From 60 to 74 years","it":null}
+{"key":"Y60-79","en":"From 60 to 79 years","it":null}
+{"key":"Y_GE60","en":"60 years or over","it":null}
+{"key":"Y61","en":"61 years","it":null}
+{"key":"Y62","en":"62 years","it":null}
+{"key":"Y63","en":"63 years","it":null}
+{"key":"Y64","en":"64 years","it":null}
+{"key":"Y_LT65","en":"Less than 65 years","it":null}
+{"key":"Y65","en":"65 years","it":null}
+{"key":"Y65-69","en":"From 65 to 69 years","it":null}
+{"key":"Y65-74","en":"From 65 to 74 years","it":null}
+{"key":"Y65-79","en":"From 65 to 79 years","it":null}
+{"key":"Y65-84","en":"From 65 to 84 years","it":null}
+{"key":"Y65-89","en":"From 65 to 89 years","it":null}
+{"key":"Y_GE65","en":"65 years or over","it":null}
+{"key":"Y66","en":"66 years","it":null}
+{"key":"Y67","en":"67 years","it":null}
+{"key":"Y68","en":"68 years","it":null}
+{"key":"Y69","en":"69 years","it":null}
+{"key":"Y70","en":"70 years","it":null}
+{"key":"Y70-74","en":"From 70 to 74 years","it":null}
+{"key":"Y70-79","en":"From 70 to 79 years","it":null}
+{"key":"Y_GE70","en":"70 years or over","it":null}
+{"key":"Y71","en":"71 years","it":null}
+{"key":"Y72","en":"72 years","it":null}
+{"key":"Y73","en":"73 years","it":null}
+{"key":"Y74","en":"74 years","it":null}
+{"key":"Y_LT75","en":"Less than 75 years","it":null}
+{"key":"Y75","en":"75 years","it":null}
+{"key":"Y75-79","en":"From 75 to 79 years","it":null}
+{"key":"Y75-84","en":"From 75 to 84 years","it":null}
+{"key":"Y75-89","en":"From 75 to 89 years","it":null}
+{"key":"Y_GE75","en":"75 years or over","it":null}
+{"key":"Y76","en":"76 years","it":null}
+{"key":"Y77","en":"77 years","it":null}
+{"key":"Y78","en":"78 years","it":null}
+{"key":"Y79","en":"79 years","it":null}
+{"key":"Y80","en":"80 years","it":null}
+{"key":"Y80-84","en":"From 80 to 84 years","it":null}
+{"key":"Y80-89","en":"From 80 to 89 years","it":null}
+{"key":"Y_GE80","en":"80 years or over","it":null}
+{"key":"Y81","en":"81 years","it":null}
+{"key":"Y82","en":"82 years","it":null}
+{"key":"Y83","en":"83 years","it":null}
+{"key":"Y84","en":"84 years","it":null}
+{"key":"Y85","en":"85 years","it":null}
+{"key":"Y85-89","en":"From 85 to 89 years","it":null}
+{"key":"Y_GE85","en":"85 years or over","it":null}
+{"key":"Y86","en":"86 years","it":null}
+{"key":"Y87","en":"87 years","it":null}
+{"key":"Y88","en":"88 years","it":null}
+{"key":"Y89","en":"89 years","it":null}
+{"key":"Y90","en":"90 years","it":null}
+{"key":"Y90-94","en":"From 90 to 94 years","it":null}
+{"key":"Y_GE90","en":"90 years or over","it":null}
+{"key":"Y91","en":"91 years","it":null}
+{"key":"Y_GE91","en":"91 years or over","it":null}
+{"key":"Y92","en":"92 years","it":null}
+{"key":"Y93","en":"93 years","it":null}
+{"key":"Y94","en":"94 years","it":null}
+{"key":"Y95","en":"95 years","it":null}
+{"key":"Y95-99","en":"From 95 to 99 years","it":null}
+{"key":"Y_GE95","en":"95 years or over","it":null}
+{"key":"Y96","en":"96 years","it":null}
+{"key":"Y97","en":"97 years","it":null}
+{"key":"Y98","en":"98 years","it":null}
+{"key":"Y99","en":"99 years","it":null}
+{"key":"Y_GE99","en":"99 years or over","it":null}
+{"key":"Y100","en":"100 years","it":null}
+{"key":"Y_GE100","en":"100 years or over","it":null}
+{"key":"Y101","en":"101 years","it":null}
+{"key":"Y_GE101","en":"101 years or over","it":null}
+{"key":"Y102","en":"102 years","it":null}
+{"key":"Y103","en":"103 years","it":null}
+{"key":"Y104","en":"104 years","it":null}
+{"key":"Y105","en":"105 years","it":null}
+{"key":"Y106","en":"106 years","it":null}
+{"key":"Y107","en":"107 years","it":null}
+{"key":"Y108","en":"108 years","it":null}
+{"key":"Y109","en":"109 years","it":null}
+{"key":"Y110","en":"110 years","it":null}
+{"key":"Y_GE110","en":"110 years or over","it":null}
+{"key":"Y_OPEN","en":"Open-ended age class","it":null}
+{"key":"JUVENILE","en":"Juvenile","it":null}
+{"key":"ADULT","en":"Adult","it":null}
+{"key":"ONGO","en":"Ongoing","it":null}
+{"key":"FAT","en":"Fatal","it":null}
+{"key":"NAP","en":"Not applicable","it":null}
+{"key":"NEV","en":"Never","it":null}
+{"key":"AVG","en":"Average","it":null}
+{"key":"NRP","en":"No response","it":null}
+{"key":"NSP","en":"Not specified","it":null}
+{"key":"OTH","en":"Other","it":null}
+{"key":"UNK","en":"Unknown","it":null}

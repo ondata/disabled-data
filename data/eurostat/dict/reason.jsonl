@@ -1,0 +1,641 @@
+{"key":"TOTAL","en":"Total","it":null}
+{"key":"FIN_FAR_TRA_WAIT","en":"Financial reasons, distance or transportation, waiting list","it":null}
+{"key":"FIN_DST_TRA_WAIT","en":"Financial reasons, distance or transportation, waiting list","it":null}
+{"key":"FIN","en":"Financial reasons","it":null}
+{"key":"FAR_TRA","en":"Distance or transportation","it":null}
+{"key":"DST_TRA","en":"Distance or transportation","it":null}
+{"key":"FAR","en":"Distance","it":null}
+{"key":"DST","en":"Distance","it":null}
+{"key":"DIF","en":"Difficulty","it":null}
+{"key":"WAIT","en":"Waiting list","it":null}
+{"key":"TIME","en":"Time","it":null}
+{"key":"NINT","en":"No interest","it":null}
+{"key":"NNB","en":"None in the neighbourhood","it":null}
+{"key":"LEV_APP","en":"Level of education attained considered appropriate","it":null}
+{"key":"EDUC_END","en":"Last formal education completed","it":null}
+{"key":"WI_WRK","en":"Wish to work","it":null}
+{"key":"NMT_ND_INT_STU","en":"Study did not meet needs or interest","it":null}
+{"key":"TOOEXP","en":"Too expensive","it":null}
+{"key":"TOODIFF","en":"Too difficult (to obtain reliable/valid results)","it":null}
+{"key":"TOOFAR","en":"Too far to travel","it":null}
+{"key":"TOOEFW","en":"Too expensive or too far to travel or waiting list","it":null}
+{"key":"NOPRIOR","en":"Does not have priority","it":null}
+{"key":"IVTF","en":"Either focus on IVT than CVT","it":null}
+{"key":"MJPR","en":"Major training effort realised in a previous year","it":null}
+{"key":"EXSCOR","en":"The existing skills and competences of the persons employed corresponded to the current needs of the enterprise","it":null}
+{"key":"LSCOR","en":"Lack of suitable CVT courses in the market","it":null}
+{"key":"RESIST","en":"It elicits resistance among employees","it":null}
+{"key":"RECR","en":"People recruited with the skills needed","it":null}
+{"key":"INISUFF","en":"Initial training sufficient","it":null}
+{"key":"DONE","en":"Investment recently made; no need this year","it":null}
+{"key":"DIFFASS","en":"Difficult to assess enterprise's needs","it":null}
+{"key":"OWNRESP","en":"Responsibility of the employees in their own time","it":null}
+{"key":"ONREQ","en":"Only provided when requested","it":null}
+{"key":"NOEXPERT","en":"Insufficient expertise to develop a training plan","it":null}
+{"key":"DISC","en":"Matter of discussion between management and employees","it":null}
+{"key":"CERTIF","en":"To obtain certification/accreditation as a good training enterprise","it":null}
+{"key":"COMM","en":"To obtain commitment of management to the importance of CVT","it":null}
+{"key":"LAW","en":"To comply with the law or collective agreements","it":null}
+{"key":"FINEU","en":"To obtain financial assistance from the EU","it":null}
+{"key":"FINOTH","en":"To obtain financial assistance from other external sources","it":null}
+{"key":"LAYOFF","en":"Lay-off","it":null}
+{"key":"NF_FT_PJOB","en":"No full-time or permanent job found","it":null}
+{"key":"NF_FTJOB","en":"No full-time job found","it":null}
+{"key":"NF_PJOB","en":"No permanent job found","it":null}
+{"key":"INVPT","en":"Could not find a full-time job","it":null}
+{"key":"WANTPT","en":"Did not want a full-time job","it":null}
+{"key":"INVTMP","en":"Could not find permanent job","it":null}
+{"key":"WANTTMP","en":"Did not want a permanent job","it":null}
+{"key":"JOB_TCTR","en":"Job only available with a temporary contract","it":null}
+{"key":"ILLDIS","en":"Own illness or disability","it":null}
+{"key":"FAM_PER_CARE","en":"Care of children or disabled adults and other family or personal reasons","it":null}
+{"key":"FAM_PER","en":"Other family or personal responsibilities","it":null}
+{"key":"FAM_PER_OTH","en":"Other family or personal reasons","it":null}
+{"key":"FAMCARE","en":"Looking after children or incapacitated adults","it":null}
+{"key":"FAM_OTH","en":"Other family reasons","it":null}
+{"key":"FAM_HLTH_OTH","en":"Family, health or other reasons","it":null}
+{"key":"INEDUC","en":"In education or training","it":null}
+{"key":"STAGE","en":"Probationary period","it":null}
+{"key":"RETIRED","en":"Retired","it":null}
+{"key":"THKNOWK","en":"Think no work is available","it":null}
+{"key":"NONEED","en":"No need","it":null}
+{"key":"NOTIME","en":"No time","it":null}
+{"key":"NTIME_FAM","en":"No time due to family commitments","it":null}
+{"key":"NTIME_WRK_STU","en":"No time due to work or study commitments","it":null}
+{"key":"NO_UNMET","en":"No unmet needs to declare","it":null}
+{"key":"NOKNOW","en":"Didn't know any good doctor or specialist","it":null}
+{"key":"MULTI","en":"Part of multinational enterprise group","it":null}
+{"key":"TOOSMALL","en":"The domestic market is too small","it":null}
+{"key":"CUT_NICHE","en":"Cutting edge products or specialised niche services","it":null}
+{"key":"NET","en":"Internet driven demand","it":null}
+{"key":"OUTSOURC","en":"Outsourcing driven demand","it":null}
+{"key":"DNPP","en":"Development of new products or processes","it":null}
+{"key":"LHR","en":"Lack-of in-house resources","it":null}
+{"key":"IV","en":"Increased visibility","it":null}
+{"key":"IF","en":"Increased flexibility","it":null}
+{"key":"CRES","en":"Cost reduction or economies of scla","it":null}
+{"key":"ANM","en":"Access to new markets","it":null}
+{"key":"ANSST","en":"Acces to new specialised skills/technologies","it":null}
+{"key":"MJOB","en":"Mainly job related reasons","it":null}
+{"key":"MPER","en":"Mainly personal/social reasons","it":null}
+{"key":"RLOSJ","en":"To be less likely to lose job","it":null}
+{"key":"ROBL","en":"To be obliged to participate","it":null}
+{"key":"RPROM","en":"To increase possibilities of getting a job or changing a job/profession","it":null}
+{"key":"RBUIS","en":"To start own business","it":null}
+{"key":"RSKIL","en":"To get knowledge/skills useful in everyday life","it":null}
+{"key":"RSUB","en":"To increase knowledge/skills on an iteresting subject","it":null}
+{"key":"RFUN","en":"To meet new people of just for fun","it":null}
+{"key":"RCER","en":"To obtain certificate","it":null}
+{"key":"RJOB","en":"To do job better and/or improve carrier prospects","it":null}
+{"key":"REDLC","en":"Reduction of labour costs","it":null}
+{"key":"REDOC","en":"Reduction of other costs than labour costs","it":null}
+{"key":"FOLLOW","en":"Following the behaviour/example of competitors/clients","it":null}
+{"key":"QUAL","en":"Improved quality or introduction of new products","it":null}
+{"key":"STRAT","en":"Strategic decisions taken by the group head","it":null}
+{"key":"CORE","en":"Focus on core business","it":null}
+{"key":"KNOW","en":"Access to specialized knowledge/technologies","it":null}
+{"key":"LKLAB","en":"Lack of qualified labour","it":null}
+{"key":"REDDT","en":"Reduced delivery times","it":null}
+{"key":"REGL","en":"Less regulation affecting the enterprise, e.g. less environmental regulation","it":null}
+{"key":"MPLC","en":"Difficult to manage due to physical distance, language and cultural differences","it":null}
+{"key":"QPS","en":"Insufficient quality of product/service at the foreign location","it":null}
+{"key":"PRDCT","en":"Low labour productivity at the foreign location","it":null}
+{"key":"QPER","en":"Lack of qualified personnel at the foreign location","it":null}
+{"key":"DELT","en":"Too long delivery time to customers","it":null}
+{"key":"SUPPL","en":"Problems with supplier flexibility and ability to supply","it":null}
+{"key":"PREQ","en":"Prerequisites","it":null}
+{"key":"COST","en":"Costs","it":null}
+{"key":"TAX","en":"Tax or other financial incentives","it":null}
+{"key":"WAITING","en":"Waiting list","it":null}
+{"key":"FEAR","en":"Fear of doctor, hospital, examination or treatment","it":null}
+{"key":"HOPING","en":"Wanted to wait and see if problem got better on its own","it":null}
+{"key":"OTHERM","en":"Other motivations","it":null}
+{"key":"NRESP","en":"No answer","it":null}
+{"key":"DOC_NVAL","en":"No valid travel document(s)","it":null}
+{"key":"DOC_F","en":"False travel document","it":null}
+{"key":"NRP_NVV","en":"No valid visa or residence permit","it":null}
+{"key":"FV_FRP","en":"False visa or residence permit","it":null}
+{"key":"STAY_NJ","en":"Purpose and conditions of stay not justified","it":null}
+{"key":"PERM_3","en":"Person already stayed 3 months in a 6-months period","it":null}
+{"key":"NSUBS","en":"No sufficient means of subsistence","it":null}
+{"key":"ALERT","en":"An alert has been issued","it":null}
+{"key":"PB_THRT","en":"Person considered to be a public threat","it":null}
+{"key":"FAM","en":"Family reasons","it":null}
+{"key":"FAM_EU","en":"Family member joining an EU citizen","it":null}
+{"key":"FAM_PART_EU","en":"Family reasons: Spouse/partner joining an EU citizen","it":null}
+{"key":"FAM_CHILD_EU","en":"Family reasons: Child joining an EU citizen","it":null}
+{"key":"FAM_CH_EU","en":"Child joining an EU citizen","it":null}
+{"key":"FAM_OTH_EU","en":"Other family member joining an EU citizen","it":null}
+{"key":"FAM_NEU","en":"Family member joining a non EU citizen","it":null}
+{"key":"FAM_PART_NEU","en":"Family reasons: Spouse/partner joining a non EU citizen","it":null}
+{"key":"FAM_CHILD_NEU","en":"Family reasons: Child joining a non EU citizen","it":null}
+{"key":"FAM_OTH_NEU","en":"Other family member joining a non EU citizen","it":null}
+{"key":"EDUC","en":"Education reasons","it":null}
+{"key":"ED_STU","en":"Education reasons: Study","it":null}
+{"key":"ED_OTH","en":"Education reasons: Other educational reasons","it":null}
+{"key":"OCCUP","en":"Remunerated activities reasons","it":null}
+{"key":"OCC_HSW","en":"Remunerated activities reasons: Highly skilled workers","it":null}
+{"key":"OCC_RSE","en":"Remunerated activities reasons: Researchers","it":null}
+{"key":"OCC_SEAS","en":"Remunerated activities reasons: Seasonal workers","it":null}
+{"key":"OCC_OTH","en":"Remunerated activities reasons: Other remunerated activities","it":null}
+{"key":"OCC_SING","en":"Remunerated activities reasons: Single permit","it":null}
+{"key":"OTH_INTPRO","en":"Other reasons: International protection status","it":null}
+{"key":"OTH_REFSUB","en":"Other reasons: Refugee status and subsidiary protection","it":null}
+{"key":"OTH_HUM","en":"Other reasons: Humanitarian reasons","it":null}
+{"key":"OTH_RESID","en":"Other reasons: Residence only","it":null}
+{"key":"OTH_NSPEC","en":"Other reasons: Other reasons not specified","it":null}
+{"key":"CH_FAM","en":"Change of former reason: Family","it":null}
+{"key":"CH_FAM_ED","en":"Change from family to education reasons","it":null}
+{"key":"CH_FAM_OCC","en":"Change from family to remunerated activities reasons","it":null}
+{"key":"CH_FAM_OTH","en":"Change from family to other reasons","it":null}
+{"key":"CH_ED","en":"Change of former reason: education","it":null}
+{"key":"CH_ED_FAM","en":"Change from education to family reasons","it":null}
+{"key":"CH_ED_OCC","en":"Change from education to remunerated activities reasons","it":null}
+{"key":"CH_ED_OTH","en":"Change from education to other reasons","it":null}
+{"key":"CH_OCC","en":"Change of former reason: remunerated activities","it":null}
+{"key":"CH_OCC_FAM","en":"Change from remunerated activities to family reasons","it":null}
+{"key":"CH_OCC_ED","en":"Change from remunerated activities to education reasons","it":null}
+{"key":"CH_OCC_OTH","en":"Change from remunerated activities to other reasons","it":null}
+{"key":"CH_OTH","en":"Change of former reason: other reasons","it":null}
+{"key":"CH_OTH_FAM","en":"Change from other to family reasons","it":null}
+{"key":"CH_OTH_ED","en":"Change from other to education reasons","it":null}
+{"key":"CH_OTH_OCC","en":"Change from other to remunerated activities reasons","it":null}
+{"key":"WORK","en":"For work or study","it":null}
+{"key":"WRK_JOB","en":"Work, job found before migrating","it":null}
+{"key":"WRK_NJOB","en":"Work, no job found before migrating","it":null}
+{"key":"INTPRO","en":"International protection","it":null}
+{"key":"IPRO_ASY","en":"International protection or asylum","it":null}
+{"key":"PERS","en":"Personal reasons","it":null}
+{"key":"PER","en":"Personal reasons","it":null}
+{"key":"PER_HOL","en":"Holidays, leisure and recreation","it":null}
+{"key":"PER_VFR","en":"Visits to friends and relatives","it":null}
+{"key":"PER_OTH","en":"Other personal reasons","it":null}
+{"key":"HOL","en":"Holidays","it":null}
+{"key":"PROF","en":"Professional, business","it":null}
+{"key":"OCC_BLUE","en":"Remunerated activities reasons: EU Blue card","it":null}
+{"key":"OTH_MIN","en":"Other reasons: Unaccompanied minors","it":null}
+{"key":"OTH_VTM","en":"Other reasons: Victims of trafficking in human beings","it":null}
+{"key":"REFG","en":"Refugee status","it":null}
+{"key":"REF","en":"Refugee status","it":null}
+{"key":"SUB","en":"Subsidiary protection","it":null}
+{"key":"SPON_REF","en":"Sponsor with refugee status","it":null}
+{"key":"SPON_SUB","en":"Sponsor with subsidiary protection status","it":null}
+{"key":"SPON_HUM","en":"Sponsor with humanitarian status (national law)","it":null}
+{"key":"SPON_UNK","en":"Sponsor with unknown status","it":null}
+{"key":"LONG_EU","en":"Long-term resident status : EU directive","it":null}
+{"key":"LONG_N","en":"Long-term resident status: National legislation","it":null}
+{"key":"ICT","en":"Intra-corporate transferee permit","it":null}
+{"key":"LTM","en":"Permit for long-term mobility","it":null}
+{"key":"BUCL","en":"Business already a client","it":null}
+{"key":"LOC","en":"Bank branch local","it":null}
+{"key":"BTIN","en":"Best interest rate related terms offered","it":null}
+{"key":"BTNIN","en":"Best non-interest rate related terms offered","it":null}
+{"key":"EMSF","en":"Bank emphasis on smaller firms","it":null}
+{"key":"GDCL","en":"Bank branch known for good client relationships","it":null}
+{"key":"MAINT","en":"Maintain the business as a going concern","it":null}
+{"key":"GROW","en":"Grow the business domestic activities","it":null}
+{"key":"EXP","en":"Finance export sales","it":null}
+{"key":"INN","en":"Finance innovation and R&D","it":null}
+{"key":"ACQU","en":"For mergers and acquisitions","it":null}
+{"key":"INTL","en":"Develop international activities","it":null}
+{"key":"ECO","en":"General economic outlook","it":null}
+{"key":"LOCM","en":"Limited demand in the local/domestic markets","it":null}
+{"key":"FORM","en":"Limited demand in foreign markets","it":null}
+{"key":"AVPER","en":"Limited availability of suitable new personnel","it":null}
+{"key":"LSPER","en":"Loss of existing personnel","it":null}
+{"key":"TRPB","en":"Business transfer problems e.g. inheritance","it":null}
+{"key":"HILAB","en":"High cost of labour","it":null}
+{"key":"INVES","en":"Necessary investment into equipment","it":null}
+{"key":"OUTPD","en":"Products getting outdated (R&D necessary, product lead time)","it":null}
+{"key":"TCOMP","en":"Technological competition","it":null}
+{"key":"NWENT","en":"New entrants in the market","it":null}
+{"key":"PCOMP","en":"Price competition/small margins","it":null}
+{"key":"RGFR","en":"Regulatory framework","it":null}
+{"key":"LKFI","en":"Lack of fiscal incentives","it":null}
+{"key":"DIFIT","en":"Difficult access to information technology","it":null}
+{"key":"IW_OTH","en":"Other infrastructure weakness","it":null}
+{"key":"NEFIN","en":"Not enough financing","it":null}
+{"key":"PCR","en":"Poor credit rating","it":null}
+{"key":"LOWNCAP","en":"Lack of own capital","it":null}
+{"key":"LKC","en":"Lack of own capital","it":null}
+{"key":"ICG","en":"Insufficient collateral or guarantee","it":null}
+{"key":"IRP","en":"Insufficient or risky potential (of the business or project)","it":null}
+{"key":"TML","en":"Already too many loans or too much debt","it":null}
+{"key":"NLH","en":"No loan history","it":null}
+{"key":"PLH","en":"Poor loan history","it":null}
+{"key":"NRS","en":"No reason given","it":null}
+{"key":"HIR","en":"Interest rates too high","it":null}
+{"key":"NIR","en":"Unacceptable non-interest-rate related conditions","it":null}
+{"key":"INA","en":"Inability of existing shareholders to subscribe for more shares","it":null}
+{"key":"EXC","en":"Too much equity in exchange for the funds offered asked by potential new shareholders","it":null}
+{"key":"CON","en":"Too many concessions in exchange for equity finance asked by potential new shareholders","it":null}
+{"key":"DEV","en":"Business potential development insufficient or too risky according to potential new shareholders","it":null}
+{"key":"DEB","en":"Business had too many debts according to potential new shareholders","it":null}
+{"key":"NT_FAM","en":"Lack of free time due to family commitments","it":null}
+{"key":"NT_WRK","en":"Lack of free time due to work or study commitments","it":null}
+{"key":"HLTH","en":"Health reasons","it":null}
+{"key":"HOME","en":"Prefer to stay at home, no motivation to travel","it":null}
+{"key":"SAFE","en":"Safety reasons","it":null}
+{"key":"SAL","en":"Salary","it":null}
+{"key":"BEN","en":"Benefits","it":null}
+{"key":"JSEC","en":"Job security","it":null}
+{"key":"LCT","en":"Location","it":null}
+{"key":"WRK_CDT","en":"Working conditions","it":null}
+{"key":"OPAD","en":"Opportunities for advancement","it":null}
+{"key":"INCHA","en":"Intellectual challenge","it":null}
+{"key":"LEV_RSP","en":"Level of responsibility","it":null}
+{"key":"DEG_IND","en":"Degree of independence","it":null}
+{"key":"CTB_SOC","en":"Contribution to society","it":null}
+{"key":"SOC_STA","en":"Social status","it":null}
+{"key":"END_DO","en":"Completion of doctorate","it":null}
+{"key":"END_PDJ","en":"End of post_doc or job contract","it":null}
+{"key":"OTH_ECO","en":"Other job related or economic factors","it":null}
+{"key":"ACA_FAC","en":"Academic factors","it":null}
+{"key":"FP_REA","en":"Family or personal reasons","it":null}
+{"key":"DISMIS","en":"Dismissed or made redundant","it":null}
+{"key":"JOBLIM","en":"Job of limited duration that ended","it":null}
+{"key":"EDUTRA","en":"Education or training","it":null}
+{"key":"ERLY_RET","en":"Early retirement","it":null}
+{"key":"NORM_RET","en":"Normal retirement","it":null}
+{"key":"LHCBAD_PEF","en":"Both longstanding health condition or a basic activity difficulty and personal or environmental factors","it":null}
+{"key":"LHCBADO","en":"Longstanding health condition or a basic activity difficulty only","it":null}
+{"key":"PEFO","en":"Personal or environmental factors only","it":null}
+{"key":"LACKQUAL","en":"Lack of qualifications/experience","it":null}
+{"key":"LACKAPPJOB","en":"Lack of appropriate job opportunities","it":null}
+{"key":"FAMRESP","en":"Family/caring responsibilities","it":null}
+{"key":"OPER","en":"Other personal or environmental reasons","it":null}
+{"key":"NOLIMW","en":"No limitation in work","it":null}
+{"key":"HCOST","en":"High costs of CVT courses","it":null}
+{"key":"IVTFOC","en":"Focus on IVT rather than on CVT","it":null}
+{"key":"EFFREC","en":"Major CVT efforts made in recent years","it":null}
+{"key":"QUALCOR","en":"Existing qualifications, skills and competences corresponded to the current needs of the enterprise","it":null}
+{"key":"LCO","en":"Lack of suitable CVT courses in the market","it":null}
+{"key":"DIFASS","en":"Difficult to assess enterprise's training needs","it":null}
+{"key":"HWL","en":"High workload and limited / no time available for staff to participate in CVT","it":null}
+{"key":"NLIM","en":"No limitation","it":null}
+{"key":"QUAL_FE","en":"Qualification of future employees according to the needs of the enterprise","it":null}
+{"key":"BEST_FE","en":"Selection of the best IVT participants for future employment","it":null}
+{"key":"NMM","en":"Prevention of mismatch with enterprise needs in case of external recruitment","it":null}
+{"key":"IVTCAP","en":"Use of productive capacities of IVT participants","it":null}
+{"key":"HLTH_AGE","en":"Health or age reasons","it":null}
+{"key":"AGFOD_OTH","en":"Age, gender, foreign origin, disability and other reason","it":null}
+{"key":"AGE","en":"Age","it":null}
+{"key":"GEN","en":"Gender","it":null}
+{"key":"GEND","en":"Gender","it":null}
+{"key":"REL","en":"Religion","it":null}
+{"key":"ETH","en":"Ethnicity or nationality","it":null}
+{"key":"ORI_FOR","en":"Foreign origin","it":null}
+{"key":"DIS","en":"Disability","it":null}
+{"key":"DIS_OTH","en":"Disability or other reason","it":null}
+{"key":"SXO","en":"Sexual orientation","it":null}
+{"key":"NPL","en":"No places available","it":null}
+{"key":"OH_NSUI","en":"Opening hours not suitable","it":null}
+{"key":"QUAL_NSAT","en":"Quality of the services available not satisfactory","it":null}
+{"key":"NND","en":"No need","it":null}
+{"key":"CO_NADT","en":"Not admitted to the course or programme","it":null}
+{"key":"CO_NSUI","en":"No suitable courses or programmes available","it":null}
+{"key":"NPROV","en":"Not provided by employer","it":null}
+{"key":"REFU","en":"Refused by person needing such services","it":null}
+{"key":"NCARE","en":"No care services available","it":null}
+{"key":"PERS_HOL","en":"Holidays, leisure and recreation","it":null}
+{"key":"PERS_VFR","en":"Visits to friends and relatives","it":null}
+{"key":"PERS_OTH","en":"Other personal reasons","it":null}
+{"key":"NF_SALJOB","en":"No job found as employee","it":null}
+{"key":"REQ_FO_EMP","en":"Requested by former employer","it":null}
+{"key":"U_PRCT","en":"Usual practice in the field","it":null}
+{"key":"SUI_OPPO","en":"Suitable opportunity","it":null}
+{"key":"CN_BSN_FAM","en":"Continued the family business","it":null}
+{"key":"NPW_OTH","en":"Not planned or wanted but started for another reason","it":null}
+{"key":"FLEX_WRK","en":"Flexible working hours","it":null}
+{"key":"W_DIF","en":"Wanted but encountered difficulties","it":null}
+{"key":"W_PERDIF","en":"Wanted but encountered difficulties for personal reasons","it":null}
+{"key":"W_NPERDIF","en":"Wanted but encountered difficulties which were not due to personal reasons","it":null}
+{"key":"W_OTH","en":"Wanted for other reason","it":null}
+{"key":"NW","en":"Did not want","it":null}
+{"key":"LINFL_PRC","en":"Lack of influence on price setting","it":null}
+{"key":"LACS_FIN","en":"Lack of access to financing","it":null}
+{"key":"D_PAY_NPAY","en":"Delayed payments or non-payments","it":null}
+{"key":"HABUR","en":"High administrative burden","it":null}
+{"key":"FIN_HS","en":"Periods of financial hardship","it":null}
+{"key":"NCUS_NASG_NPRJ","en":"Periods of having no customer, no assignments or project to work on","it":null}
+{"key":"NDIF","en":"No difficulties","it":null}
+{"key":"PREF_WRK_ALN","en":"Preferring working alone","it":null}
+{"key":"NENO_WRK","en":"Not enough work","it":null}
+{"key":"DIF_F_SUI_STAF","en":"Difficulty finding suitable staff","it":null}
+{"key":"C_LEGFRAM","en":"Complicated legal framework","it":null}
+{"key":"HSC","en":"High social contributions","it":null}
+{"key":"NAW","en":"Not aware","it":null}
+{"key":"NPS","en":"Not possible","it":null}
+{"key":"NPS_OCC","en":"Not possible due to occupation","it":null}
+{"key":"PREF_WRK_SCTR","en":"Preferring working with subcontractors or associates","it":null}
+{"key":"WI_CL","en":"Client's wish","it":null}
+{"key":"FIN_NSECU","en":"Financial insecurity","it":null}
+{"key":"DIF_G_FIN","en":"Difficulty getting financing","it":null}
+{"key":"STRS_RESP_RSK","en":"Stress, responsibility, risk","it":null}
+{"key":"LS_CVG_SOPROT","en":"Less social protection coverage","it":null}
+{"key":"R_COSTPR","en":"Responding to cost pressures","it":null}
+{"key":"I_ENTPERF","en":"Improving enterprise's performance","it":null}
+{"key":"OP_OPPO_NEWMKT","en":"Opening up new market opportunities","it":null}
+{"key":"R_MKTPR","en":"Responding to market pressures","it":null}
+{"key":"R_REGL","en":"Responding to regulatory provisions","it":null}
+{"key":"PER_ENV_ONL","en":"Personal or environmental reasons only","it":null}
+{"key":"PER_ENV_OTH","en":"Other personal or environmental reasons","it":null}
+{"key":"FAM_CARE_PER_OTH","en":"Care of adults with disabilities or children and other family or personal reasons","it":null}
+{"key":"FAM_CARE","en":"Care of adults with disabilities or children","it":null}
+{"key":"FAM_SPOU_EU","en":"Spouse or partner joining an EU citizen","it":null}
+{"key":"FAM_CH_NEU","en":"Child joining a non EU citizen","it":null}
+{"key":"FAM_SPOU_NEU","en":"Spouse or partner joining a non EU citizen","it":null}
+{"key":"NSERV_ACS","en":"No service accessible or vacant","it":null}
+{"key":"CH_SELF_CARE","en":"Children take care of themselves","it":null}
+{"key":"SERV_OTH","en":"Other service related reasons","it":null}
+{"key":"LCARE_D_ST","en":"Lack of care services during the day or at special times","it":null}
+{"key":"LCARE_D","en":"Lack of care services during the day","it":null}
+{"key":"LCARE_ST","en":"Lack of care services at special times","it":null}
+{"key":"CARE_TXP","en":"Care services are too expensive","it":null}
+{"key":"CARE_QUAL_NS","en":"Available care services are not of sufficient quality","it":null}
+{"key":"EDUC_TNG_RET_OTH","en":"Education or training, retirement or other reason","it":null}
+{"key":"EDUC_TNG","en":"Education or training","it":null}
+{"key":"EDUC_TNG_NSUI","en":"No suitable offer for education or training","it":null}
+{"key":"EDUC_STU","en":"Study","it":null}
+{"key":"EDUC_OTH","en":"Other educational reasons","it":null}
+{"key":"TNG","en":"Training","it":null}
+{"key":"ITNG_S","en":"Initial training sufficient","it":null}
+{"key":"EXPT_TNG_NS","en":"Insufficient expertise to develop a training plan","it":null}
+{"key":"FOC_IVT","en":"Focus on IVT rather than on CVT","it":null}
+{"key":"CAP_IVT","en":"Use of productive capacities of IVT participants","it":null}
+{"key":"EFF_REC","en":"Major CVT efforts made in recent years","it":null}
+{"key":"BST_FUEMP","en":"Selection of the best IVT participants for future employment","it":null}
+{"key":"RSRCH","en":"Research","it":null}
+{"key":"PUPXCH_EDUC","en":"Pupil exchange scheme or educational project","it":null}
+{"key":"AUPAIR","en":"Au pairing","it":null}
+{"key":"CO_LANG_NAVL_NAFD","en":"Language courses not available or not affordable","it":null}
+{"key":"SKIL_LANG_S","en":"Language skills sufficient","it":null}
+{"key":"NAP_CO_LANG_PT","en":"Not applicable - participation in language course","it":null}
+{"key":"DST_LANG_CLT","en":"Distance, language or culture","it":null}
+{"key":"DST_RND_TLRG","en":"Distance between production process and R&D or product design too large","it":null}
+{"key":"FIN_NENO","en":"Not enough financing","it":null}
+{"key":"FIN_EXP","en":"Financing exports","it":null}
+{"key":"FINARR_FV","en":"Favourable financial arrangements","it":null}
+{"key":"FIN_ARR","en":"Favourable financial arrangements","it":null}
+{"key":"FIN_INN_RND","en":"Financing innovation and R&D","it":null}
+{"key":"NSECU_FIN","en":"Financial insecurity","it":null}
+{"key":"TAX_FIN","en":"Tax or financial reasons","it":null}
+{"key":"LFISC","en":"Lack of fiscal incentives","it":null}
+{"key":"TXP_DIF","en":"Too expensive or difficult","it":null}
+{"key":"TXP","en":"Too expensive","it":null}
+{"key":"PR_INC_S","en":"Providing sufficient income","it":null}
+{"key":"E_PEN_PR_INC_S","en":"Establishing/increasing retirement pension entitlements and providing sufficient income","it":null}
+{"key":"E_PEN","en":"Establishing/increasing retirement pension entitlements","it":null}
+{"key":"O_FINASSI_EU","en":"Obtaining financial assistance from the EU","it":null}
+{"key":"O_FINASSI_OTH","en":"Obtaining financial assistance from other external sources","it":null}
+{"key":"HCOST_EXPC","en":"Higher costs than expected","it":null}
+{"key":"HCOST_CVT","en":"High costs of CVT courses","it":null}
+{"key":"HLC","en":"High labour costs","it":null}
+{"key":"RED_LC","en":"Reduction of labour costs","it":null}
+{"key":"RED_OTHXLC","en":"Reduction of other costs not related to labour","it":null}
+{"key":"LABPRY_NS","en":"Insufficient labour productivity","it":null}
+{"key":"LQLFLAB","en":"Lack of qualified labour","it":null}
+{"key":"TXP_TFAR_WLIST","en":"Too expensive or too far or waiting list","it":null}
+{"key":"TFAR","en":"Too far","it":null}
+{"key":"NTIME","en":"No time","it":null}
+{"key":"LTIME_FAM","en":"Lack of time due to family commitments","it":null}
+{"key":"LTIME_WRK_STU","en":"Lack of time due to work or study commitments","it":null}
+{"key":"HWL_NTIME","en":"High workload and limited/no time available for staff to participate in CVT","it":null}
+{"key":"NPRIOR","en":"No priority","it":null}
+{"key":"PR_REQ","en":"Only provided when requested","it":null}
+{"key":"WLIST","en":"Waiting list","it":null}
+{"key":"ILL_DIS_OWN","en":"Own illness or disability","it":null}
+{"key":"LINC_ILL","en":"Lack of income in case of sickness/illness","it":null}
+{"key":"LHC_BAD_PER_ENV","en":"Longstanding health condition or a basic activity difficulty and personal or environmental reasons","it":null}
+{"key":"LHC_BAD_ONL","en":"Longstanding health condition or a basic activity difficulty only","it":null}
+{"key":"GDOC_UNK","en":"Good doctor or specialist not known","it":null}
+{"key":"FEAR_DR_HSP","en":"Fear of doctor, hospital, examination or treatment","it":null}
+{"key":"HOPE","en":"Hope to get better","it":null}
+{"key":"NMT_ND_INT","en":"Study did not meet needs or interest","it":null}
+{"key":"NND_NINT","en":"No need or no interest","it":null}
+{"key":"OPHR_NSUI","en":"Opening hours not suitable","it":null}
+{"key":"NUMT_ND","en":"No unmet needs","it":null}
+{"key":"NLIM_TNG","en":"No limitation in the level of training provided","it":null}
+{"key":"NADT_CO","en":"Not admitted to the course or programme","it":null}
+{"key":"LCVT_SUI","en":"Lack of suitable CVT courses in the market","it":null}
+{"key":"NPR_EMPL","en":"Not provided by employer","it":null}
+{"key":"REF_ND_SERV","en":"Refused by person needing such services","it":null}
+{"key":"NACT_NB","en":"No such activities in the neighbourhood","it":null}
+{"key":"LVL_APP","en":"Level of education attained considered appropriate","it":null}
+{"key":"DIF_ASS","en":"Difficult to assess enterprise's training needs","it":null}
+{"key":"DIF_F_STAF_SUI","en":"Difficulty finding suitable staff","it":null}
+{"key":"DIF_ACS_ITEC","en":"Difficult access to information technology","it":null}
+{"key":"DIF_FRCHG_PRD","en":"Difficulty due to frequent changes to the product","it":null}
+{"key":"WRK_NENO","en":"Not enough work","it":null}
+{"key":"NWRKTIME_ARR","en":"No working time arrangements","it":null}
+{"key":"ARR_ALN_PTN","en":"Arranged alone or with partner","it":null}
+{"key":"INFSUPP","en":"Informal support","it":null}
+{"key":"WRKHR_LG","en":"Long working hours","it":null}
+{"key":"DIF_WRKSCD","en":"Unpredictable or difficult work schedules","it":null}
+{"key":"COM_LG","en":"Long commute","it":null}
+{"key":"DMJOB","en":"Demanding or exhausting job","it":null}
+{"key":"LSPT_EMPL_PUB","en":"Lack of support from employer or public services","it":null}
+{"key":"LSUPP_EMPL","en":"Lack of support from employers and colleagues","it":null}
+{"key":"SKD","en":"Schedule","it":null}
+{"key":"JOB","en":"Job related reasons","it":null}
+{"key":"LOST_NF_JOB","en":"Lost job and/or no job found","it":null}
+{"key":"NW_PJOB","en":"No permanent job wanted","it":null}
+{"key":"B_NJOB","en":"Believing no job available","it":null}
+{"key":"EMP_F_JOB","en":"Employment - job found before migrating","it":null}
+{"key":"EMP_NF_JOB","en":"Employment - no job found before migrating","it":null}
+{"key":"PROB","en":"Probation","it":null}
+{"key":"DISM","en":"Dismissed or made redundant","it":null}
+{"key":"JOB_LTD_END","en":"End of limited duration job","it":null}
+{"key":"RECR_SKIL_ND","en":"People recruited with the skills needed","it":null}
+{"key":"DISC_MNG_SAL","en":"Discussion between management and employees","it":null}
+{"key":"NMM_RECR","en":"Prevention of mismatch with enterprise needs in case of external recruitment","it":null}
+{"key":"RESIS_SAL","en":"Resistance among employees","it":null}
+{"key":"O_CERT_GTNG","en":"Obtaining certification/accreditation as a good training enterprise","it":null}
+{"key":"O_COM_MNG","en":"Obtaining commitment of management to the importance of CVT","it":null}
+{"key":"RESP_OWNTIME","en":"Responsibility of the employees in their own time","it":null}
+{"key":"QLF_COR","en":"Existing qualifications, skills and competences corresponded to the current needs of the enterprise","it":null}
+{"key":"QLF_FUSAL","en":"Qualification of future employees according to the needs of the enterprise","it":null}
+{"key":"LAPP_JOBOPPO","en":"Lack of appropriate job opportunities","it":null}
+{"key":"LQLF","en":"Lack of qualifications/experience","it":null}
+{"key":"NEG_PLE","en":"Negative previous learning experience","it":null}
+{"key":"JOBSRCH_ENTR","en":"Job-searching or entrepreneurship","it":null}
+{"key":"JOB_OTH","en":"Other job-related reasons","it":null}
+{"key":"EMP","en":"Employment reasons","it":null}
+{"key":"EMP_BLUE","en":"EU Blue card","it":null}
+{"key":"EMP_HSW","en":"Highly skilled workers","it":null}
+{"key":"EMP_RSE","en":"Researchers","it":null}
+{"key":"EMP_WRK_SEAS","en":"Seasonal workers","it":null}
+{"key":"EMP_OTH","en":"Other employment reasons","it":null}
+{"key":"RET","en":"Retirement","it":null}
+{"key":"RET_EARL","en":"Early retirement","it":null}
+{"key":"RET_NML","en":"Normal retirement","it":null}
+{"key":"RETAGE_MAX","en":"Maximum retirement age reached","it":null}
+{"key":"ELIG_PEN","en":"Eligibility for a pension reached","it":null}
+{"key":"VS","en":"Voluntary service","it":null}
+{"key":"EVS","en":"European Voluntary Service (EVS)","it":null}
+{"key":"VS_OTH","en":"Other voluntary service","it":null}
+{"key":"CHG_FAM","en":"Change from family reasons","it":null}
+{"key":"CHG_FAM_EDUC","en":"Change from family to education reasons","it":null}
+{"key":"CHG_FAM_EMP","en":"Change from family to employment reasons","it":null}
+{"key":"CHG_FAM_OTH","en":"Change from family to other reasons","it":null}
+{"key":"CHG_EDUC","en":"Change from education reasons","it":null}
+{"key":"CHG_EDUC_FAM","en":"Change from education to family reasons","it":null}
+{"key":"CHG_EDUC_EMP","en":"Change from education to employment reasons","it":null}
+{"key":"CHG_EDUC_OTH","en":"Change from education to other reasons","it":null}
+{"key":"CHG_EMP","en":"Change from employment reasons","it":null}
+{"key":"CHG_EMP_FAM","en":"Change from employment to family reasons","it":null}
+{"key":"CHG_EMP_EDUC","en":"Change from employment to education reasons","it":null}
+{"key":"CHG_EMP_OTH","en":"Change from employment to other reasons","it":null}
+{"key":"CHG_OTH","en":"Change from other reasons","it":null}
+{"key":"CHG_OTH_FAM","en":"Change from other to family reasons","it":null}
+{"key":"CHG_OTH_EDUC","en":"Change from other to education reasons","it":null}
+{"key":"CHG_OTH_EMP","en":"Change from other to employment reasons","it":null}
+{"key":"IPROT_ASY","en":"International protection or asylum","it":null}
+{"key":"RFG_SPROT_HUM","en":"International protection (refugee and subsidiary protection status) and humanitarian status","it":null}
+{"key":"RFG_SPROT","en":"International protection status (refugee and subsidiary protection status)","it":null}
+{"key":"RFG","en":"Refugee status","it":null}
+{"key":"SPROT","en":"Subsidiary protection status","it":null}
+{"key":"HUM","en":"Humanitarian status","it":null}
+{"key":"SPN_RFG","en":"Sponsor with refugee status","it":null}
+{"key":"SPN_SPROT","en":"Sponsor with subsidiary protection status","it":null}
+{"key":"SPN_HUM","en":"Sponsor with humanitarian status","it":null}
+{"key":"RES","en":"Residence","it":null}
+{"key":"UAM","en":"Unaccompanied minors","it":null}
+{"key":"WDN_RVOC","en":"Withdrawn due to revocation","it":null}
+{"key":"WDN_END","en":"Withdrawn due to ending","it":null}
+{"key":"WDN_REF_RNEW","en":"Withdrawn due to refusal to renew","it":null}
+{"key":"VICT_TRFF_HMN","en":"Victims of trafficking in human beings","it":null}
+{"key":"C_LAW_CAGRM","en":"Complying with the law or collective agreements","it":null}
+{"key":"DOC_FLS","en":"False travel document(s)","it":null}
+{"key":"DOC_NV","en":"No valid travel document(s)","it":null}
+{"key":"VISA_RPRM_FLS","en":"False visa or residence permit","it":null}
+{"key":"VISA_RPRM_NV","en":"No valid visa or residence permit","it":null}
+{"key":"STAY_M3","en":"Person already stayed 3 months in a 6-months period","it":null}
+{"key":"SUBS_NS","en":"Insufficient means of subsistence","it":null}
+{"key":"PUB_THRT","en":"Person considered to be a public threat","it":null}
+{"key":"ENTRY_NLEG","en":"Illegal entry","it":null}
+{"key":"OSTAY","en":"Overstay","it":null}
+{"key":"IC_TRF","en":"Intra-corporate transferee permit","it":null}
+{"key":"LT_MOB","en":"Long-term mobility permit","it":null}
+{"key":"REQ_FOEMPL","en":"Requested by former employer","it":null}
+{"key":"PRCT_USU","en":"Usual practice in the field","it":null}
+{"key":"OPPO_SUI","en":"Suitable opportunity","it":null}
+{"key":"CN_FAMBSN","en":"Continued the family business","it":null}
+{"key":"WRKHR_FLEX","en":"Flexible working hours","it":null}
+{"key":"PAY_NPAY_DL","en":"Delayed payments or non-payments","it":null}
+{"key":"REGLFRAM","en":"Regulatory framework","it":null}
+{"key":"LEGFRAM_CMPL","en":"Complicated legal framework","it":null}
+{"key":"LS_REG","en":"Less regulation (e.g. environmental regulation)","it":null}
+{"key":"STRAT_DEC","en":"Strategic decisions by group head","it":null}
+{"key":"FOC_CORBSN","en":"Focus on core business","it":null}
+{"key":"DLVTIME_TLG","en":"Delivery time too long","it":null}
+{"key":"QUAL_NS","en":"Insufficient quality","it":null}
+{"key":"LQLFPER_FOR","en":"Lack of qualified personnel at the foreign location","it":null}
+{"key":"LFLEX_SUP","en":"Lack of flexibility or ability to supply","it":null}
+{"key":"ACS_NEWMKT","en":"Access to new markets","it":null}
+{"key":"ACS_SPEKNOW","en":"Access to specialised knowledge/technologies","it":null}
+{"key":"NACS_CP_INET","en":"No access to a computer or internet","it":null}
+{"key":"FL_BHV_COMP","en":"Following the behaviour/example of competitors/clients","it":null}
+{"key":"LOG","en":"Logistics","it":null}
+{"key":"IQUAL_NEWPRD","en":"Improved quality or new products","it":null}
+{"key":"COMP","en":"Competitiveness","it":null}
+{"key":"IH_KH","en":"In-house know-how","it":null}
+{"key":"S_DOMPRD","en":"Streamlining of domestic production process","it":null}
+{"key":"NSUBSC_SHR","en":"Unable to subscribe for further shares","it":null}
+{"key":"EQUIT_TM","en":"Too much equity","it":null}
+{"key":"CONC_TM","en":"Too many concessions","it":null}
+{"key":"BSNPT_NS_RSK","en":"Insufficient or risky business potential","it":null}
+{"key":"LOAN_TM_DEBT_TH","en":"Too many loans or too high debt","it":null}
+{"key":"POORCRED","en":"Poor credit rating","it":null}
+{"key":"LCAPOWN","en":"Lack of own capital","it":null}
+{"key":"COLT_GAR_NS","en":"Insufficient collateral or guarantee","it":null}
+{"key":"NLOAN_HST","en":"No loan history","it":null}
+{"key":"BST_INT_RT","en":"Best interest rate","it":null}
+{"key":"POORLOAN_HST","en":"Poor loan history","it":null}
+{"key":"INT_RT_TH","en":"Interest rates too high","it":null}
+{"key":"NACC_NINT_RT","en":"Unacceptable conditions (other than interest rate)","it":null}
+{"key":"ALR_CL","en":"Already client","it":null}
+{"key":"LOC_BANK","en":"Local bank","it":null}
+{"key":"BST_OTH_XINT_RT","en":"Best other conditions not related to interest-rates","it":null}
+{"key":"EMPH_BSN_SML","en":"Emphasis on smaller business","it":null}
+{"key":"K_GCLRELS","en":"Known for good client relationships","it":null}
+{"key":"ECON_OUTL","en":"General economic outlook","it":null}
+{"key":"LTDDM_DOMMKT","en":"Limited demand in the local/domestic markets","it":null}
+{"key":"LTDDM_FORMKT","en":"Limited demand in foreign markets","it":null}
+{"key":"LTDAVL_PER_SUI","en":"Limited availability of suitable personnel","it":null}
+{"key":"LOSS_PER","en":"Loss of existing personnel","it":null}
+{"key":"BSNTRF_PB","en":"Business transfer problems (e.g. inheritance)","it":null}
+{"key":"INV_EQ","en":"Necessary investment into equipment","it":null}
+{"key":"PRD_OUTD","en":"Products becoming outdated","it":null}
+{"key":"TEC_COMP","en":"Technological competition","it":null}
+{"key":"NEWENT_MKT","en":"New entrants in the market","it":null}
+{"key":"PRC_MRG","en":"Price competition/small margins","it":null}
+{"key":"INFR_WEAK_OTH","en":"Other infrastructure weakness","it":null}
+{"key":"MNT_BSN","en":"Maintaining the business","it":null}
+{"key":"GR_DOMBSN","en":"Growing domestic business","it":null}
+{"key":"MERG_ACQ","en":"Mergers and acquisitions","it":null}
+{"key":"DEV_INTLBSN","en":"Developing international business","it":null}
+{"key":"MULTINAT","en":"Part of multinational enterprise group","it":null}
+{"key":"DOMMKT_TSML","en":"Domestic market too small","it":null}
+{"key":"INET_DRV","en":"Internet-driven","it":null}
+{"key":"HARASS","en":"Harassment or bullying","it":null}
+{"key":"HARS_BULLY","en":"Harassment or bullying","it":null}
+{"key":"PRESSURE","en":"Time pressure or overload of work","it":null}
+{"key":"TPR_OLWRK","en":"Time pressure or overload of work","it":null}
+{"key":"VIOLENCE","en":"Violence or threat of violence","it":null}
+{"key":"VLN_THRT","en":"Violence or threat of violence","it":null}
+{"key":"CHEMIC","en":"Chemicals, dusts, fumes, smoke or gases","it":null}
+{"key":"CHM_SMO_GAS","en":"Chemicals, dusts, fumes, smoke or gases","it":null}
+{"key":"CONCEN","en":"Activities involving strong visual concentration","it":null}
+{"key":"ACT_SVCONC","en":"Activities involving strong visual concentration ","it":null}
+{"key":"HEAVY","en":"Handling of heavy loads","it":null}
+{"key":"H_HVYLOAD","en":"Handling of heavy loads","it":null}
+{"key":"NOISE","en":"Noise or vibration","it":null}
+{"key":"NOIS_VIB","en":"Noise or vibration","it":null}
+{"key":"POSTURE","en":"Difficult work postures, work movements","it":null}
+{"key":"DIF_WPST_WMV","en":"Difficult work postures, work movements","it":null}
+{"key":"RISKACC","en":"Risk of accident","it":null}
+{"key":"RSK_ACC","en":"Risk of accident","it":null}
+{"key":"LCOMM_ORG","en":"Lack of communication or cooperation within the organisation","it":null}
+{"key":"DEAL_DIFCUS","en":"Dealing with difficult customers, patients, pupils, etc.","it":null}
+{"key":"NSECU_JOB","en":"Job insecurity","it":null}
+{"key":"LAUTN_WPACE","en":"Lack of autonomy, or lack of influence over the work pace or work processes","it":null}
+{"key":"TIR_PFPSN","en":"Tiring or painful positions","it":null}
+{"key":"RPTMOV","en":"Repetitive hand or arm movements","it":null}
+{"key":"SLP_TRP_FAL","en":"Slips, trips and falls","it":null}
+{"key":"U_MAC_HNTL","en":"Use of machines or hand tools (excluding vehicles)","it":null}
+{"key":"U_VEH","en":"Use of vehicles (in the course of work, excluding on the way to and from work)","it":null}
+{"key":"SGN_OTH","en":"Another significant risk factor","it":null}
+{"key":"COV19","en":"COVID-19 related effects","it":null}
+{"key":"GDSERV_OUTD","en":"Goods or services outdated quickly","it":null}
+{"key":"GDSERV_SS","en":"Competitor goods or services easily substituted","it":null}
+{"key":"NEWCOMP_THRT","en":"New competitors as a major threat of enterprises’ market position","it":null}
+{"key":"SCOMP_ABR","en":"Strong competition from abroad","it":null}
+{"key":"DIF_P_TECDEV","en":"Difficulty predicting future technological developments","it":null}
+{"key":"DIF_P_COMPACT","en":"Difficulty predicting competitor's actions","it":null}
+{"key":"DIF_P_CHG_DM","en":"Difficulty predicting changes in demand","it":null}
+{"key":"LOSS_CL_INCR_PRC","en":"Loss of clients due to increases of the price","it":null}
+{"key":"GOV_PLCY_MEAS","en":"Government policies or measures","it":null}
+{"key":"INCR_CUSDM","en":"Increasing customer demand","it":null}
+{"key":"INCR_COST_PRC","en":"Increasing costs or input prices","it":null}
+{"key":"IMPC_WTHR","en":"Impacts of extreme weather conditions","it":null}
+{"key":"REG","en":"Existing regulations","it":null}
+{"key":"TAX_CHRG_FEE","en":"Existing taxes, charges or fees","it":null}
+{"key":"REG_TAX_FU","en":"Regulations or taxes expected in the future","it":null}
+{"key":"GRNT_S_FINOTH","en":"Government grants, subsidies or other financial incentive","it":null}
+{"key":"MKTDM","en":"Current or expected market demand","it":null}
+{"key":"I_ENTREPUT","en":"Improving enterprise's reputation","it":null}
+{"key":"VA_INIT","en":"Voluntary actions or initiatives within the sector","it":null}
+{"key":"HCOST_EWM","en":"High cost of energy, water or materials","it":null}
+{"key":"PUB_PROC","en":"Need to meet requirements for public procurement","it":null}
+{"key":"NONE","en":"None","it":null}
+{"key":"OTH","en":"Other reason","it":null}
+{"key":"OTH_NLCARE","en":"Other reason not linked with the lack of suitable care services","it":null}
+{"key":"OTH_XLCARE","en":"Other reason not linked with the lack of suitable care services","it":null}
+{"key":"OUTSRC_DRV","en":"Outsourcing driven","it":null}
+{"key":"OTH_LCARE","en":"Other reason linked with the lack of suitable care services","it":null}
+{"key":"NAP_APLD","en":"Not applicable - applied for recognition","it":null}
+{"key":"NAP","en":"Not applicable","it":null}
+{"key":"NRP","en":"No response","it":null}
+{"key":"NSP","en":"Not specified","it":null}
+{"key":"UNK","en":"Unknown","it":null}

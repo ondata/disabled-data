@@ -1,0 +1,31 @@
+{"key":"TOTAL","en":"Total","it":null}
+{"key":"PC0","en":"Zero percent of a full-time","it":null}
+{"key":"PC1-24","en":"From 1 to 24 percent of a full-time","it":null}
+{"key":"PC25-49","en":"From 25 to 49 percent of a full-time","it":null}
+{"key":"PC50-74","en":"From 50 to 74 percent of a full-time","it":null}
+{"key":"PC75-99","en":"From 75 to 99 percent of a full-time","it":null}
+{"key":"PC100","en":"100 percent of a full-time","it":null}
+{"key":"H0","en":"Zero hours","it":null}
+{"key":"H1-9","en":"From 1 to 9 hours","it":null}
+{"key":"H1-19","en":"From 1 to 19 hours","it":null}
+{"key":"H10-19","en":"From 10 to 19 hours","it":null}
+{"key":"H20-29","en":"From 20 to 29 hours","it":null}
+{"key":"H20-31","en":"From 20 to 31 hours","it":null}
+{"key":"H30-39","en":"From 30 to 39 hours","it":null}
+{"key":"H_GE32","en":"32 hours or over","it":null}
+{"key":"H40-49","en":"From 40 to 49 hours","it":null}
+{"key":"H_GE50","en":"50 hours or over","it":null}
+{"key":"PT","en":"Part-time","it":null}
+{"key":"FT","en":"Full-time","it":null}
+{"key":"TEMP","en":"Temporary contracts","it":null}
+{"key":"TOT_FTE","en":"Total in full-time equivalents","it":null}
+{"key":"AVG_FTE","en":"Yearly average in full-time equivalents","it":null}
+{"key":"PT_FTE","en":"Part-time in full-time equivalents","it":null}
+{"key":"NORM","en":"Normal working time","it":null}
+{"key":"ATYP","en":"Atypical working time","it":null}
+{"key":"INCR","en":"Increase working hours","it":null}
+{"key":"DECR","en":"Decrease working hours","it":null}
+{"key":"NCHG","en":"No changes to working hours","it":null}
+{"key":"NAP","en":"Not applicable","it":null}
+{"key":"NRP","en":"No response","it":null}
+{"key":"UNK","en":"Unknown","it":null}

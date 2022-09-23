@@ -1,0 +1,72 @@
+{"key":"TOTAL","en":"Total","it":null}
+{"key":"POP","en":"Population","it":null}
+{"key":"ACT_INAC","en":"Persons in- and outside the labour force (former name: active and inactive persons)","it":null}
+{"key":"ACT","en":"Persons in the labour force (former name: active persons)","it":null}
+{"key":"EMP_W","en":"Persons employed or previously employed","it":null}
+{"key":"EMP","en":"Employed persons","it":null}
+{"key":"EMP_FT","en":"Employed persons working full-time","it":null}
+{"key":"EMP_PT","en":"Employed persons working part-time","it":null}
+{"key":"EMP_TEMP","en":"Employed persons with temporary contract","it":null}
+{"key":"LEAV","en":"Employed persons on temporary leave from work","it":null}
+{"key":"SAL_SCTR","en":"Employees and subcontractors","it":null}
+{"key":"SAL","en":"Employees","it":null}
+{"key":"SAL_PERM","en":"Employees with a permanent job","it":null}
+{"key":"SAL_TEMP","en":"Employees with a temporary job","it":null}
+{"key":"MW_IS","en":"Manual workers in industry and services","it":null}
+{"key":"NMW_IS","en":"Non-manual workers in industry and services","it":null}
+{"key":"NSAL","en":"Employed persons except employees","it":null}
+{"key":"SELF_COWN","en":"Self-employed persons and co-owner","it":null}
+{"key":"SELF","en":"Self-employed persons","it":null}
+{"key":"SELF_S","en":"Self-employed persons with employees (employers)","it":null}
+{"key":"SELF_NS","en":"Self-employed persons without employees (own-account workers)","it":null}
+{"key":"SELF_I_NS","en":"Independent self-employed without employees (own-account workers)","it":null}
+{"key":"SELF_D_NS","en":"Dependent self-employed without employees (own-account workers)","it":null}
+{"key":"SELF_NS_D_UNK","en":"Self-employed without employees (own-account workers), dependency not known","it":null}
+{"key":"CFAM_COOP","en":"Contributing family workers and members of producers' cooperatives","it":null}
+{"key":"CFAM","en":"Contributing family workers","it":null}
+{"key":"NCFAM","en":"Employed persons except contributing family workers","it":null}
+{"key":"COOP","en":"Members of producers' cooperatives","it":null}
+{"key":"EMP_OTH","en":"Other employed persons","it":null}
+{"key":"EMP_UNK","en":"Employed persons - unknown","it":null}
+{"key":"FLF_D","en":"Farm labour force, directly employed by the farm on a regular or non-regular basis","it":null}
+{"key":"FLF_D_R","en":"Farm labour force, directly employed by the farm on a regular basis","it":null}
+{"key":"FLF_D_RFAM","en":"Family farm labour force directly employed by the farm","it":null}
+{"key":"FLF_D_RFAM_HLD","en":"Sole holder directly employed by the farm","it":null}
+{"key":"FLF_D_RFAMXHLD","en":"Members of sole holders' family, excluding the holder, directly employed by the farm","it":null}
+{"key":"FLF_D_RFAM_SPOU","en":"Spouse of sole holder directly employed by the farm","it":null}
+{"key":"FLF_D_RFAM_OTH","en":"Other members of sole holder's family directly employed by the farm","it":null}
+{"key":"FLF_D_RNFAM","en":"Non-family farm labour force, directly employed by the farm on a regular basis","it":null}
+{"key":"FLF_D_NR","en":"Farm labour force, directly employed by the farm on a non-regular basis","it":null}
+{"key":"FLF_ND","en":"Farm labour force, not directly employed by the farm","it":null}
+{"key":"FLF_GRP","en":"Group holders","it":null}
+{"key":"FLF_MANXGRP","en":"Farm managers, excluding group holding","it":null}
+{"key":"NEMP","en":"Not employed persons","it":null}
+{"key":"UEMP_PT","en":"Underemployed persons working part-time","it":null}
+{"key":"UNE","en":"Unemployed persons","it":null}
+{"key":"ACT_UNK","en":"Persons in the labour force (former name: active population) - unknown","it":null}
+{"key":"INAC","en":"Persons outside the labour force (former name: inactive persons)","it":null}
+{"key":"SLACK","en":"Labour market slack","it":null}
+{"key":"EDUC","en":"Students","it":null}
+{"key":"HOME","en":"Homemakers","it":null}
+{"key":"B_AGE_MIN","en":"Persons below the national minimum age for economic activity","it":null}
+{"key":"INC","en":"Retired persons and capital income recipients","it":null}
+{"key":"RET","en":"Retired persons","it":null}
+{"key":"INAC_OTH","en":"Other persons outside the labour force (former name: inactive persons)","it":null}
+{"key":"INAC_UNK","en":"Persons outside the labour force (former name: inactive persons) - unknown","it":null}
+{"key":"COWN","en":"Co-owner","it":null}
+{"key":"CLIENT","en":"Clients","it":null}
+{"key":"SCTR","en":"Subcontractors","it":null}
+{"key":"NONE","en":"None","it":null}
+{"key":"NCHG","en":"No change","it":null}
+{"key":"WANT","en":"Persons would like to work (seeking employment or not)","it":null}
+{"key":"NWANT","en":"Persons do not want to work","it":null}
+{"key":"WANTW","en":"Persons want to work but not seeking or available","it":null}
+{"key":"SEEK_NAVL","en":"Persons seeking work but not immediately available","it":null}
+{"key":"NSEEK_AVL","en":"Persons available to work but not seeking","it":null}
+{"key":"PRACT","en":"Practising","it":null}
+{"key":"PACT","en":"Professionally active","it":null}
+{"key":"LIC","en":"Licensed to practice","it":null}
+{"key":"OTH","en":"Others","it":null}
+{"key":"NAP","en":"Not applicable","it":null}
+{"key":"NRP","en":"No response","it":null}
+{"key":"UNK","en":"Unknown","it":null}

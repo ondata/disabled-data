@@ -1,0 +1,188 @@
+{"key":"TOTAL","en":"Total","it":null}
+{"key":"LHC_DIF_BACT","en":"Both a longstanding health condition and a basic activity difficulty","it":null}
+{"key":"LHC_ILL","en":"Longstanding health condition, illness or disease","it":null}
+{"key":"NLHC_ILL","en":"No longstanding health condition, illness or disease","it":null}
+{"key":"LHC_ONL","en":"Only a longstanding health condition","it":null}
+{"key":"DIF_BACT","en":"Difficulty in basic activities","it":null}
+{"key":"DIF_BACT_ONL","en":"Only a basic activity difficulty","it":null}
+{"key":"NDIF_BACT","en":"No difficulty in basic activities","it":null}
+{"key":"NLHC_DIF_BACT","en":"No longstanding health condition or basic activity difficulty","it":null}
+{"key":"LTD_LHC_DIF_BACT","en":"Limited by both a longstanding health condition and a basic activity difficulty","it":null}
+{"key":"LTD_LHC","en":"Limited only by a longstanding health condition","it":null}
+{"key":"LTD_DIF_BACT","en":"Limited only by a basic activity difficulty","it":null}
+{"key":"MUSC_SKE","en":"Musculo-skeletal disorders","it":null}
+{"key":"ARMS_HANDS","en":"Problems with arms or hands","it":null}
+{"key":"LEGS_FEET","en":"Problems with legs or feet","it":null}
+{"key":"ARTHRO","en":"Arthrosis","it":null}
+{"key":"BACK_NECK","en":"Problems with back or neck","it":null}
+{"key":"LW_CHR_BACK","en":"Low back disorder or other chronic back defect","it":null}
+{"key":"NECK","en":"Neck disorder or other chronic neck defect","it":null}
+{"key":"SEE","en":"Seeing","it":null}
+{"key":"HEAR","en":"Hearing","it":null}
+{"key":"SPCH_IMPED","en":"Speech impediment","it":null}
+{"key":"SKIN","en":"Skin problems","it":null}
+{"key":"CHST_BRTH","en":"Chest or breathing problems","it":null}
+{"key":"ASTHMA","en":"Asthma","it":null}
+{"key":"CHR_LW_RES","en":"Chronic lower respiratory diseases (excluding asthma)","it":null}
+{"key":"CARDIO_VASC","en":"Cardiovascular disorders","it":null}
+{"key":"HRT_BLPR","en":"Heart, blood pressure or circulation problems","it":null}
+{"key":"HRT_CHR_ATK","en":"Heart attack or chronic consequences of heart attack","it":null}
+{"key":"CHRT_ANGPEC","en":"Coronary heart disease or angina pectoris","it":null}
+{"key":"PULMO","en":"Pulmonary disorders","it":null}
+{"key":"HBLPR","en":"High blood pressure","it":null}
+{"key":"HBLLIP","en":"High blood lipids","it":null}
+{"key":"STRK_CHR","en":"Stroke or chronic consequences of stroke","it":null}
+{"key":"STOMACH","en":"Stomach, liver, kidney or digestive problems","it":null}
+{"key":"CIRRHOSIS","en":"Cirrhosis of the liver","it":null}
+{"key":"URIN","en":"Urinary incontinence, problems in controlling the bladder","it":null}
+{"key":"KIDNEY","en":"Kidney problems","it":null}
+{"key":"INFECT","en":"Infectious diseases","it":null}
+{"key":"DIAB","en":"Diabetes","it":null}
+{"key":"ALLGY","en":"Allergy","it":null}
+{"key":"EPILEP","en":"Epilepsy","it":null}
+{"key":"MENT_NRV_EMO","en":"Mental, nervous or emotional problems","it":null}
+{"key":"CHR_ANX","en":"Chronic anxiety","it":null}
+{"key":"DPR","en":"Depressive symptoms","it":null}
+{"key":"DPR_CHR","en":"Chronic depression","it":null}
+{"key":"DPR_MJR","en":"Major depressive symptoms","it":null}
+{"key":"DPR_OTH","en":"Other depressive symptoms","it":null}
+{"key":"STRESS","en":"Stress, depression, anxiety","it":null}
+{"key":"LEARN","en":"Learning difficulties","it":null}
+{"key":"MNE_OTH","en":"Other mental, nervous or emotional problems","it":null}
+{"key":"PILL_OTH","en":"Other progressive illnesses","it":null}
+{"key":"HEAD_EYE","en":"Headaches, eyestrains, migraines","it":null}
+{"key":"SHEAD","en":"Severe headaches (such as migraine)","it":null}
+{"key":"CANCER","en":"Cancer","it":null}
+{"key":"LH_OTH","en":"Other longstanding health problems","it":null}
+{"key":"WALK","en":"Walking","it":null}
+{"key":"CLMB","en":"Climbing steps","it":null}
+{"key":"REME_CONC","en":"Remembering or concentrating","it":null}
+{"key":"COMM","en":"Communicating","it":null}
+{"key":"TBTL","en":"Raising a 2 litre bottle of water from waist to eye level","it":null}
+{"key":"HLD_GRP_TRN","en":"Holding, gripping or turning","it":null}
+{"key":"SITT_STD","en":"Sitting or standing","it":null}
+{"key":"REAC_STRT","en":"Reaching or stretching","it":null}
+{"key":"LI_CARY","en":"Lifting and carrying","it":null}
+{"key":"BND","en":"Bending","it":null}
+{"key":"VIDIF_COR_NREH","en":"Vision difficulty corrected with no remaining eye health problem","it":null}
+{"key":"COR_VDIF_NEPB","en":"Vision difficulty corrected with no remaining eye health problem","it":null}
+{"key":"VIDIF_COR_REH","en":"Vision difficulty corrected with remaining eye health problem","it":null}
+{"key":"COR_VDIF_EPB","en":"Vision difficulty corrected with remaining eye health problem","it":null}
+{"key":"VIDIFXCOR","en":"Vision difficulty without correction","it":null}
+{"key":"NCOR_VDIF","en":"Vision difficulty without correction","it":null}
+{"key":"NVIDIF","en":"No vision difficulty","it":null}
+{"key":"NVDIF","en":"No vision difficulty","it":null}
+{"key":"U_VIAID","en":"Using vision aids","it":null}
+{"key":"U_VAID","en":"Using vision aids","it":null}
+{"key":"NU_VIAID","en":"Not using vision aids","it":null}
+{"key":"NU_VAID","en":"Not using vision aids","it":null}
+{"key":"FD_OSELF","en":"Feeding oneself","it":null}
+{"key":"IN_OUT_G_BED","en":"Getting in and out of a bed or chair","it":null}
+{"key":"DRS_UNDRS","en":"Dressing and undressing","it":null}
+{"key":"USE_TOIL","en":"Using toilets","it":null}
+{"key":"BATH_SHOW","en":"Bathing or showering","it":null}
+{"key":"PRPM","en":"Preparing meals","it":null}
+{"key":"USE_TLF","en":"Using the telephone","it":null}
+{"key":"SHOP","en":"Shopping","it":null}
+{"key":"MNG_MED","en":"Managing medication","it":null}
+{"key":"LGHT_HWRK","en":"Light housework","it":null}
+{"key":"OH_HWRK","en":"Occasional heavy housework","it":null}
+{"key":"TCF_EADM","en":"Taking care of finances and everyday administrative tasks","it":null}
+{"key":"OTH","en":"Other","it":null}
+{"key":"NRP","en":"No response","it":null}
+{"key":"NSP","en":"Unspecified","it":null}
+{"key":"PB0000","en":"Disabled","it":null}
+{"key":"PB0001","en":"Not disabled","it":null}
+{"key":"PB1000","en":"Long-standing health condition, illness or disease","it":null}
+{"key":"PB1001","en":"No long-standing health condition, illness or disease","it":null}
+{"key":"PB1010","en":"Only a longstanding health condition","it":null}
+{"key":"PB1020","en":"Only a basic activity difficulty","it":null}
+{"key":"PB1030","en":"Both a longstanding health condition and a basic activity difficulty","it":null}
+{"key":"PB1031","en":"No longstanding health condition or basic activity difficulty","it":null}
+{"key":"PB1040","en":"Difficulty in basic activities","it":null}
+{"key":"PB1041","en":"No difficulty in basic activities","it":null}
+{"key":"PB1050","en":"Difficulty in personal care","it":null}
+{"key":"PB1051","en":"No difficulty in personal care","it":null}
+{"key":"PB1060","en":"Difficulty in household care","it":null}
+{"key":"PB1061","en":"No difficulty in household care","it":null}
+{"key":"PB1070","en":"Limitation in work caused by a health condition or difficulty in a basic activity","it":null}
+{"key":"PB1071","en":"No limitation in work caused by a health condition or difficulty in basic activities","it":null}
+{"key":"PB1080","en":"Limited only by a longstanding health condition","it":null}
+{"key":"PB1090","en":"Limited only by a basic activity difficulty","it":null}
+{"key":"PB1100","en":"Limited by both a longstanding health condition and a basic activity difficulty","it":null}
+{"key":"PB2010","en":"Problems with arms or hands","it":null}
+{"key":"PB2020","en":"Problems with legs or feet","it":null}
+{"key":"PB2021","en":"Arthrosis","it":null}
+{"key":"PB2030","en":"Problems with back or neck","it":null}
+{"key":"PB2031","en":"Low back disorder or other chronic back defect","it":null}
+{"key":"PB2032","en":"Neck disorder or other chronic neck defect","it":null}
+{"key":"PB2110","en":"Seeing","it":null}
+{"key":"PB2120","en":"Hearing","it":null}
+{"key":"PB2121","en":"Hearing in a quiet room","it":null}
+{"key":"PB2122","en":"Hearing in a noisier room","it":null}
+{"key":"PB2130","en":"Speech impediment","it":null}
+{"key":"PB2210","en":"Skin conditions","it":null}
+{"key":"PB2310","en":"Chest or breathing problems","it":null}
+{"key":"PB2311","en":"Asthma","it":null}
+{"key":"PB2312","en":"Chronic lower respiratory diseases (excluding asthma)","it":null}
+{"key":"PB2410","en":"Heart, blood pressure or circulation problems","it":null}
+{"key":"PB2411","en":"Heart attack or chronic consequences of heart attack","it":null}
+{"key":"PB2412","en":"Coronary heart disease or angina pectoris","it":null}
+{"key":"PB2413","en":"High blood pressure","it":null}
+{"key":"PB2414","en":"Stroke or chronic consequences of stroke","it":null}
+{"key":"PB2420","en":"Stomach, liver, kidney or digestive problems","it":null}
+{"key":"PB2421","en":"Cirrhosis of the liver","it":null}
+{"key":"PB2422","en":"Urinary incontinence, problems in controlling the bladder","it":null}
+{"key":"PB2423","en":"Kidney problems","it":null}
+{"key":"PB2430","en":"Diabetes","it":null}
+{"key":"PB2440","en":"Allergy","it":null}
+{"key":"PB2510","en":"Epilepsy","it":null}
+{"key":"PB2610","en":"Mental, nervous or emotional problems","it":null}
+{"key":"PB2620","en":"Chronic anxiety","it":null}
+{"key":"PB2630","en":"Chronic depression","it":null}
+{"key":"PB2640","en":"Learning difficulties","it":null}
+{"key":"PB2690","en":"Other mental, nervous or emotional problems","it":null}
+{"key":"PB2710","en":"Other progressive illnesses","it":null}
+{"key":"PB2720","en":"Severe headaches (such as migraine)","it":null}
+{"key":"PB2730","en":"Cancer","it":null}
+{"key":"PB2790","en":"Other longstanding health problems","it":null}
+{"key":"PB3010","en":"Walking","it":null}
+{"key":"PB3011","en":"Walking or climbing steps","it":null}
+{"key":"PB3012","en":"Climbing steps","it":null}
+{"key":"PB3110","en":"Remembering or concentrating","it":null}
+{"key":"PB3120","en":"Communicating","it":null}
+{"key":"PB3210","en":"Raising a 2 litre bottle of water from waist to eye level","it":null}
+{"key":"PB3310","en":"Holding, gripping or turning","it":null}
+{"key":"PB3320","en":"Sitting or standing","it":null}
+{"key":"PB3330","en":"Reaching or stretching","it":null}
+{"key":"PB3340","en":"Lifting and carrying","it":null}
+{"key":"PB3350","en":"Bending","it":null}
+{"key":"PB4010","en":"Feeding oneself","it":null}
+{"key":"PB4020","en":"Getting in and out of a bed or chair","it":null}
+{"key":"PB4030","en":"Dressing and undressing","it":null}
+{"key":"PB4040","en":"Using toilets","it":null}
+{"key":"PB4050","en":"Bathing or showering","it":null}
+{"key":"PB5010","en":"Preparing meals","it":null}
+{"key":"PB5020","en":"Using the telephone","it":null}
+{"key":"PB5030","en":"Shopping","it":null}
+{"key":"PB5040","en":"Managing medication","it":null}
+{"key":"PB5050","en":"Housework","it":null}
+{"key":"PB5051","en":"Light housework","it":null}
+{"key":"PB5052","en":"Occasional heavy housework","it":null}
+{"key":"PB5060","en":"Taking care of finances and everyday administrative tasks","it":null}
+{"key":"ALLERGIC","en":"Allergic effects","it":null}
+{"key":"CARDIO_V","en":"Cardiovascular disorders","it":null}
+{"key":"DENTAL","en":"Dental disorders","it":null}
+{"key":"EYE","en":"Eye disorders","it":null}
+{"key":"GASTROIN","en":"Gastrointestinal disorders","it":null}
+{"key":"HEMATOLO","en":"Hematological disorders","it":null}
+{"key":"HEARING","en":"Hearing disorders","it":null}
+{"key":"HEPATIC","en":"Hepatic disorders","it":null}
+{"key":"IRRI_SKI","en":"Irritant effects of the skin or mucous membranes","it":null}
+{"key":"NEUROLOG","en":"Neurological disorders","it":null}
+{"key":"PULMONAR","en":"Pulmonary disorders","it":null}
+{"key":"INFECTIO","en":"Infectious diseases","it":null}
+{"key":"SKIN_DIS","en":"Skin problems","it":null}
+{"key":"OTHER","en":"Other not elsewhere mentioned","it":null}
+{"key":"UNK","en":"Unspecified","it":null}
+{"key":"NDPR","en":"No depressive symptoms","it":null}

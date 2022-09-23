@@ -1,0 +1,71 @@
+{"key":"TOTAL","en":"Total","it":null}
+{"key":"ALL","en":"All levels","it":null}
+{"key":"VH_H","en":"Very high or high","it":null}
+{"key":"VHIGH_MOD","en":"Very high or moderate","it":null}
+{"key":"VHIGH","en":"Very high","it":null}
+{"key":"TYNG_SPK","en":"Too young to speak","it":null}
+{"key":"MOT","en":"Mother tongue","it":null}
+{"key":"PROF","en":"Proficient","it":null}
+{"key":"STR","en":"Strong","it":null}
+{"key":"GRT_MOD_SOME","en":"Great, moderate or some","it":null}
+{"key":"GRT","en":"Great","it":null}
+{"key":"HIGH","en":"High","it":null}
+{"key":"HVY","en":"Heavy","it":null}
+{"key":"VG_FG","en":"Very good or fairly good","it":null}
+{"key":"VGOOD","en":"Very good","it":null}
+{"key":"BROAD","en":"Broad","it":null}
+{"key":"GOOD","en":"Good","it":null}
+{"key":"VG_G","en":"Very good or good","it":null}
+{"key":"FGOOD","en":"Fairly good","it":null}
+{"key":"FAIR","en":"Fair","it":null}
+{"key":"INT","en":"Intermediate","it":null}
+{"key":"MED","en":"Medium","it":null}
+{"key":"MOD_SEV","en":"Moderate or severe","it":null}
+{"key":"MOD","en":"Moderate","it":null}
+{"key":"LMOD","en":"At least moderate","it":null}
+{"key":"MOD_HVY","en":"Moderate or heavy","it":null}
+{"key":"SOME","en":"Some","it":null}
+{"key":"BASIC","en":"Basic","it":null}
+{"key":"LTD","en":"Limited","it":null}
+{"key":"VMILD","en":"Very mild","it":null}
+{"key":"MILD","en":"Mild","it":null}
+{"key":"M_VM","en":"Mild or very mild","it":null}
+{"key":"LGHT","en":"Light","it":null}
+{"key":"NONE_LGHT","en":"None or light","it":null}
+{"key":"NONE_MIN","en":"None or minimum","it":null}
+{"key":"POOR","en":"Poor","it":null}
+{"key":"L_VL","en":"Low or very low","it":null}
+{"key":"LOW","en":"Low","it":null}
+{"key":"NLOW","en":"Not low","it":null}
+{"key":"BAD","en":"Bad","it":null}
+{"key":"VLOW","en":"Very low","it":null}
+{"key":"VB_FB","en":"Very bad or fairly bad","it":null}
+{"key":"VBAD","en":"Very bad","it":null}
+{"key":"FBAD","en":"Fairly bad","it":null}
+{"key":"B_VB","en":"Bad or very bad","it":null}
+{"key":"SEV_MOD_LOW","en":"Severe, moderate or low","it":null}
+{"key":"SEV","en":"Severe","it":null}
+{"key":"NSEV","en":"Non severe","it":null}
+{"key":"MODS","en":"Moderately severe","it":null}
+{"key":"MOD_MODS_SEV","en":"Moderate, moderately severe or severe","it":null}
+{"key":"VSEV","en":"Very severe","it":null}
+{"key":"S_VS","en":"Severe or very severe","it":null}
+{"key":"SM_SEV","en":"Some or severe","it":null}
+{"key":"MOD_S_VS","en":"Moderate, severe or very severe","it":null}
+{"key":"FDIF_VDIF","en":"Fairly difficult or very difficult","it":null}
+{"key":"VDIF","en":"Very difficult","it":null}
+{"key":"DIF","en":"Difficult","it":null}
+{"key":"FDIF","en":"Fairly difficult","it":null}
+{"key":"FEASY_EASY_VEASY","en":"Fairly easy, easy or very easy","it":null}
+{"key":"FEASY_VEASY","en":"Fairly easy or very easy","it":null}
+{"key":"FEASY","en":"Fairly easy","it":null}
+{"key":"EASY","en":"Easy","it":null}
+{"key":"VEASY","en":"Very easy","it":null}
+{"key":"LTL","en":"A little","it":null}
+{"key":"LOT","en":"A lot","it":null}
+{"key":"XTRM","en":"Extreme","it":null}
+{"key":"NONE","en":"None","it":null}
+{"key":"NAP","en":"Not applicable","it":null}
+{"key":"NRP","en":"No response","it":null}
+{"key":"NSP","en":"Not specified","it":null}
+{"key":"UNK","en":"Unknown","it":null}

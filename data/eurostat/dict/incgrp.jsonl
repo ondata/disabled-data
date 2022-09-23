@@ -1,0 +1,20 @@
+{"key":"B_MD40","en":"Below 40% of median equivalised income","it":null}
+{"key":"A_MD40","en":"Above 40% of median equivalised income","it":null}
+{"key":"B_MD50","en":"Below 50% of median equivalised income","it":null}
+{"key":"A_MD50","en":"Above 50% of median equivalised income","it":null}
+{"key":"B_MD60","en":"Below 60% of median equivalised income","it":null}
+{"key":"A_MD60","en":"Above 60% of median equivalised income","it":null}
+{"key":"B_MD70","en":"Below 70% of median equivalised income","it":null}
+{"key":"A_MD70","en":"Above 70% of median equivalised income","it":null}
+{"key":"B_M40","en":"Below 40% of mean equivalised income","it":null}
+{"key":"A_M40","en":"Above 40% of mean equivalised income","it":null}
+{"key":"B_M50","en":"Below 50% of mean equivalised income","it":null}
+{"key":"A_M50","en":"Above 50% of mean equivalised income","it":null}
+{"key":"B_M60","en":"Below 60% of mean equivalised income","it":null}
+{"key":"A_M60","en":"Above 60% of mean equivalised income","it":null}
+{"key":"Q0_20","en":"First quintile of equivalised income","it":null}
+{"key":"Q20_40","en":"Second quintile of equivalised income","it":null}
+{"key":"Q40_60","en":"Third quintile of equivalised income","it":null}
+{"key":"Q60_80","en":"Fourth quintile of equivalised income","it":null}
+{"key":"Q80_100","en":"Fifth quintile of equivalised income","it":null}
+{"key":"TOTAL","en":"Total","it":null}

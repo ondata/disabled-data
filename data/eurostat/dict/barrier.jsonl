@@ -1,0 +1,115 @@
+{"key":"TOTAL","en":"Total","it":null}
+{"key":"LEG_ADM","en":"Legal or administrative","it":null}
+{"key":"CBT_NRLV","en":"Cross border trade not relevant","it":null}
+{"key":"C41","en":"Cross border trade not relevant (products not exportable)","it":null}
+{"key":"E_COM_ABR","en":"Establishing a commercial presence abroad","it":null}
+{"key":"C42","en":"Establishing a commercial presence abroad","it":null}
+{"key":"MV_STAF_TEMP","en":"Movement of staff on a temporary basis","it":null}
+{"key":"C43","en":"Movement of personnel on a temporary basis","it":null}
+{"key":"TAX","en":"Tax barriers","it":null}
+{"key":"C44","en":"Taxation issues","it":null}
+{"key":"INS_GAR","en":"Insurance, guarantee systems and other barriers","it":null}
+{"key":"C45","en":"Insurance, guarantee systems, etc. issues","it":null}
+{"key":"LINTLSTD","en":"Lack of international standards","it":null}
+{"key":"C46","en":"Lack of international standards for services","it":null}
+{"key":"DIF_IDF_CLABR","en":"Difficulty in identifying potential clients abroad","it":null}
+{"key":"C47","en":"Difficulties in identifying potential clients abroad","it":null}
+{"key":"LANG_CLT","en":"Language and culture","it":null}
+{"key":"C48","en":"Language and cultural barriers","it":null}
+{"key":"TAR_TRD","en":"Tariffs and other trade barriers","it":null}
+{"key":"UNC_INTLSTD","en":"Uncertainty of international standards","it":null}
+{"key":"CNC_SAL","en":"Concerns of employees (including trade unions)","it":null}
+{"key":"CNC_VLPAT_IPR","en":"Concern of violation of patents and/or intellectual property rights","it":null}
+{"key":"CNF_SOCVAL","en":"Conflicting with social values of your enterprise (e.g. corporate social responsibility issues)","it":null}
+{"key":"DST_PRR","en":"Distance to producers","it":null}
+{"key":"DST_CL","en":"Distance to existing clients","it":null}
+{"key":"DIF_IDF_PROVABR","en":"Difficulty in identifying suitable providers abroad","it":null}
+{"key":"CNC_SRCOP_BEN","en":"Concerns of the sourcing operation exceeding expected benefits","it":null}
+{"key":"FIN","en":"Financial barriers","it":null}
+{"key":"UNC_QUALPRD_ABR","en":"Uncertainty of the quality of the products/services to be supplied abroad","it":null}
+{"key":"LMNG_KH","en":"Lack of management resources and know-how","it":null}
+{"key":"LMGMT_KH","en":"Lack of management resources and know-how","it":null}
+{"key":"MSSDOC_PRD","en":"Missing documentation of own products and processes","it":null}
+{"key":"MOB","en":"Mobility","it":null}
+{"key":"TRA","en":"Transportation","it":null}
+{"key":"ACS_BLD","en":"Accessing buildings","it":null}
+{"key":"EDUC_TNG","en":"Education and training","it":null}
+{"key":"EMP","en":"Employment","it":null}
+{"key":"U_INET","en":"Using the internet","it":null}
+{"key":"SOC","en":"Social contact","it":null}
+{"key":"LEIS","en":"Leisure","it":null}
+{"key":"P_ESS","en":"Paying for essentials","it":null}
+{"key":"PERC_DCRIM","en":"Perceived discrimination","it":null}
+{"key":"PTP_LD1","en":"Participating in 1 life domain","it":null}
+{"key":"PTP_LD2-3","en":"Participating in 2 to 3 life domains","it":null}
+{"key":"PTP_LD_GE4","en":"Participating in 4 or more life domains","it":null}
+{"key":"LQCFOJ_OTH","en":"Language skills, qualifications, citizenship, foreign origin, job and other barriers","it":null}
+{"key":"LLANG","en":"Lack of language skills","it":null}
+{"key":"LREC_QLF","en":"Lack of recognition of qualifications","it":null}
+{"key":"CTZ_RPRM","en":"Citizenship or residence permit","it":null}
+{"key":"ORI_REL_SOC","en":"Origin, religion or social background","it":null}
+{"key":"DCRIM_ORI_FOR","en":"Discrimination due to foreign origin","it":null}
+{"key":"NSJOB_AVL","en":"No suitable job available","it":null}
+{"key":"NVR_WRK","en":"Never sought work or never worked","it":null}
+{"key":"LQLFLAB_ABR","en":"Lack of qualified labour abroad","it":null}
+{"key":"ACS_FIN_OTH","en":"Access to finance or other financial barriers","it":null}
+{"key":"LFIN","en":"Lack of finance","it":null}
+{"key":"LFIN_IN","en":"Lack of internal finance","it":null}
+{"key":"LFIN_EXT","en":"Lack of external finance (credit or private equity)","it":null}
+{"key":"LFUND_IN","en":"Lack of funds within the enterprise or group","it":null}
+{"key":"HCOST","en":"High costs","it":null}
+{"key":"HCOST_ACS_NEWMKT","en":"High costs of access to new markets","it":null}
+{"key":"HCOST_MT_REGL","en":"High costs of meeting regulations","it":null}
+{"key":"LQLFSAL_IN","en":"Lack of qualified employees within enterprise","it":null}
+{"key":"LCOLLPTN","en":"Lack of collaboration partners","it":null}
+{"key":"DIF_SUB","en":"Difficulties in obtaining public grants or subsidies","it":null}
+{"key":"MKTDM_UNC","en":"Uncertain market demand","it":null}
+{"key":"MKTDM_LW","en":"Low market demand","it":null}
+{"key":"HCOMP","en":"High competition","it":null}
+{"key":"PRCCOMP_STR","en":"Strong price competition","it":null}
+{"key":"INN_COMP","en":"Innovations introduced by competitors","it":null}
+{"key":"MKTCOMP_LTL","en":"Little market competition","it":null}
+{"key":"STRCOMP_PRDQUAL","en":"Strong competition on product quality","it":null}
+{"key":"LINFO_TEC","en":"Lack of information on technology","it":null}
+{"key":"LINFO_MKT","en":"Lack of information on markets","it":null}
+{"key":"LGIDEA","en":"Lack of good ideas","it":null}
+{"key":"MKT_EENT","en":"Markets dominated by established enterprises","it":null}
+{"key":"NND","en":"No need","it":null}
+{"key":"PREINN","en":"Previous innovations","it":null}
+{"key":"NDM","en":"No demand","it":null}
+{"key":"ABD_CNC","en":"Abandoned at the concept stage","it":null}
+{"key":"ABD_BG","en":"Abandoned after it began","it":null}
+{"key":"D_SRL","en":"Seriously delayed","it":null}
+{"key":"NCMPG","en":"No compelling barrier","it":null}
+{"key":"BRR_TL","en":"Too large barriers","it":null}
+{"key":"BUR_REGL","en":"Burden due to legislation/regulation","it":null}
+{"key":"UNC_REGL","en":"Uncertainty due to legislation/regulation","it":null}
+{"key":"LCSI_EU_REGL","en":"Lack of consistency across the EU in legislation/regulation","it":null}
+{"key":"LACS_KNOW","en":"Lack of access to external knowledge","it":null}
+{"key":"DIFFPRIOR_IN","en":"Different priorities within the enterprise","it":null}
+{"key":"BRR_GE1","en":"One or more barriers","it":null}
+{"key":"OUTSRC_LOG","en":"Outsourced logistics to another enterprise","it":null}
+{"key":"REGL","en":"Regulatory barriers","it":null}
+{"key":"TECH","en":"Technical barriers","it":null}
+{"key":"WRKHR_LG","en":"Long working hours","it":null}
+{"key":"DIF_WRKSCD","en":"Unpredictable or difficult work schedules","it":null}
+{"key":"COM_LG","en":"Long commute","it":null}
+{"key":"DMJOB","en":"Demanding or exhausting job","it":null}
+{"key":"LSUPP_EMPL","en":"Lack of support from employers and colleagues","it":null}
+{"key":"DIF_ACQ_RM_DOM","en":"Difficulty in acquiring raw materials/intermediate products from suppliers domestically","it":null}
+{"key":"DIF_ACQ_RM_ABR","en":"Difficulty in acquiring raw materials/intermediate products from suppliers abroad","it":null}
+{"key":"DIF_ACS_SERV_DOM","en":"Difficulty accessing services from suppliers domestically","it":null}
+{"key":"DIF_ACS_SERV_ABR","en":"Difficulty accessing services from suppliers abroad","it":null}
+{"key":"DIF_TRA_GD_BK_FCUS","en":"Difficulty to transport goods produced in another country back to enterprise or to transport goods to final customers","it":null}
+{"key":"DIF_RECV_EXPT_ABR","en":"Difficulty to receive experts or other professionals from abroad","it":null}
+{"key":"DIF_SEND_EXPT_ABR","en":"Difficulty to send experts or other employees abroad","it":null}
+{"key":"CANC_ORD_DOM","en":"Cancellation of orders or decline in incoming orders, from domestic customers","it":null}
+{"key":"CANC_ORD_ABR","en":"Cancellation of orders or decline in incoming orders, from customers abroad","it":null}
+{"key":"CHG_SLS_CHAN","en":"Change in sales channels","it":null}
+{"key":"COV19","en":"COVID-19 related concerns and issues","it":null}
+{"key":"OTH","en":"Other","it":null}
+{"key":"OTHER","en":"Other barriers","it":null}
+{"key":"NONE","en":"None","it":null}
+{"key":"NAP","en":"Not applicable","it":null}
+{"key":"NRP","en":"No response","it":null}
+{"key":"UNK","en":"Unknown","it":null}

@@ -1,0 +1,11 @@
+{"key":"TOTAL","en":"Total","it":null}
+{"key":"OWN","en":"Owner","it":null}
+{"key":"OWN_L","en":"Owner, with mortgage or loan","it":null}
+{"key":"OWN_NL","en":"Owner, no outstanding mortgage or housing loan","it":null}
+{"key":"RENT","en":"Tenant","it":null}
+{"key":"RENT_MKT","en":"Tenant, rent at market price","it":null}
+{"key":"RENT_FR","en":"Tenant, rent at reduced price or free","it":null}
+{"key":"CML","en":"Common land","it":null}
+{"key":"SHR_OTH","en":"Shared or other tenure modes","it":null}
+{"key":"OTH","en":"Other","it":null}
+{"key":"UNK","en":"Unknown","it":null}
