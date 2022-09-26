@@ -1,16 +1,16 @@
-{"key":"EUR","en":"Europe","it":null}
-{"key":"EU","en":"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)","it":null}
+{"key":"EUR","en":"Europe","it":"Europa"}
+{"key":"EU","en":"European Union (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)","it":"Unione Europea (EU6-1958, EU9-1973, EU10-1981, EU12-1986, EU15-1995, EU25-2004, EU27-2007, EU28-2013, EU27-2020)"}
 {"key":"EU_V","en":"European Union (aggregate changing according to the context)","it":null}
-{"key":"EU27_2020_EFTA","en":"European Union - 27 countries (from 2020) and European Free Trade Association (EFTA) countries","it":null}
-{"key":"EU27_2020_IS_K","en":"European Union - 27 countries (from 2020) and Iceland under the Kyoto Protocol","it":null}
-{"key":"EU27_2020","en":"European Union - 27 countries (from 2020)","it":null}
-{"key":"EU28_EFTA","en":"European Union - 28 countries (2013-2020) and European Free Trade Association (EFTA) countries","it":null}
-{"key":"EU28_IS_K","en":"European Union - 28 countries (2013-2020) and Iceland under the Kyoto Protocol","it":null}
-{"key":"EU28","en":"European Union - 28 countries (2013-2020)","it":null}
-{"key":"EU27_2007","en":"European Union - 27 countries (2007-2013)","it":null}
-{"key":"EU25","en":"European Union - 25 countries (2004-2006)","it":null}
-{"key":"EU15","en":"European Union - 15 countries (1995-2004)","it":null}
-{"key":"EU15_NO","en":"European Union - 15 countries (1995-2004) and Norway","it":null}
+{"key":"EU27_2020_EFTA","en":"European Union - 27 countries (from 2020) and European Free Trade Association (EFTA) countries","it":"EU - 27 paesi e paesi EFTA"}
+{"key":"EU27_2020_IS_K","en":"European Union - 27 countries (from 2020) and Iceland under the Kyoto Protocol","it":"EU - 27 paesi e Islanda"}
+{"key":"EU27_2020","en":"European Union - 27 countries (from 2020)","it":"EU - 27 paesi"}
+{"key":"EU28_EFTA","en":"European Union - 28 countries (2013-2020) and European Free Trade Association (EFTA) countries","it":"EU - 28 paesi e  paesi EFTA"}
+{"key":"EU28_IS_K","en":"European Union - 28 countries (2013-2020) and Iceland under the Kyoto Protocol","it":"EU - 28 paesi e Islanda"}
+{"key":"EU28","en":"European Union - 28 countries (2013-2020)","it":"EU - 28 paesi"}
+{"key":"EU27_2007","en":"European Union - 27 countries (2007-2013)","it":"EU - 27 paesi"}
+{"key":"EU25","en":"European Union - 25 countries (2004-2006)","it":"EU - 25 paesi"}
+{"key":"EU15","en":"European Union - 15 countries (1995-2004)","it":"EU - 15 paesi"}
+{"key":"EU15_NO","en":"European Union - 15 countries (1995-2004) and Norway","it":"EU - 15 paesi e Norvegia"}
 {"key":"NMS13","en":"New Member States - 13 countries (from 2013)","it":null}
 {"key":"NMS12","en":"New Member States - 12 countries (2007-2013)","it":null}
 {"key":"NMS10","en":"New Member States - 10 countries (2004-2006)","it":null}
@@ -18,16 +18,16 @@
 {"key":"EU10","en":"European Community - 10 countries (1981-1985)","it":null}
 {"key":"EU9","en":"European Community - 9 countries (1973-1980)","it":null}
 {"key":"EU6","en":"European Community  - 6 founder countries (1958-1972)","it":null}
-{"key":"EA","en":"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)","it":null}
-{"key":"EA19","en":"Euro area - 19 countries  (from 2015)","it":null}
-{"key":"EA18","en":"Euro area - 18 countries (2014)","it":null}
-{"key":"EA17","en":"Euro area - 17 countries (2011-2013)","it":null}
-{"key":"EA16","en":"Euro area - 16 countries (2009-2010)","it":null}
-{"key":"EA15","en":"Euro area - 15 countries (2008)","it":null}
-{"key":"EA13","en":"Euro area - 13 countries (2007)","it":null}
-{"key":"EA12","en":"Euro area - 12 countries (2001-2006)","it":null}
-{"key":"EA11","en":"Euro area - 11 countries (1999-2000)","it":null}
-{"key":"BE","en":"Belgium","it":null}
+{"key":"EA","en":"Euro area (EA11-1999, EA12-2001, EA13-2007, EA15-2008, EA16-2009, EA17-2011, EA18-2014, EA19-2015)","it":"Zona Euro"}
+{"key":"EA19","en":"Euro area - 19 countries  (from 2015)","it":"Euro area - 19 paesi"}
+{"key":"EA18","en":"Euro area - 18 countries (2014)","it":"Euro area - 18 paesi"}
+{"key":"EA17","en":"Euro area - 17 countries (2011-2013)","it":"Euro area - 17 paesi"}
+{"key":"EA16","en":"Euro area - 16 countries (2009-2010)","it":"Euro area - 16 paesi"}
+{"key":"EA15","en":"Euro area - 15 countries (2008)","it":"Euro area - 15 paesi"}
+{"key":"EA13","en":"Euro area - 13 countries (2007)","it":"Euro area - 13 paesi"}
+{"key":"EA12","en":"Euro area - 12 countries (2001-2006)","it":"Euro area - 12 paesi"}
+{"key":"EA11","en":"Euro area - 11 countries (1999-2000)","it":"Euro area - 11 paesi"}
+{"key":"BE","en":"Belgium","it":"Belgio"}
 {"key":"BE1_2","en":"Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest and Vlaams Gewest","it":null}
 {"key":"BE1","en":"Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest","it":null}
 {"key":"BE10_24","en":"Région de Bruxelles-Capitale/Brussels Hoofdstedelijk Gewest and Prov. Vlaams Brabant","it":null}
@@ -107,7 +107,7 @@
 {"key":"BEXX","en":"Not regionalised/Unknown NUTS 2","it":null}
 {"key":"BEXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
 {"key":"BE_NAL","en":"Belgium, not allocated","it":null}
-{"key":"BG","en":"Bulgaria","it":null}
+{"key":"BG","en":"Bulgaria","it":"Bulgaria"}
 {"key":"BG3","en":"Severna i yugoiztochna Bulgaria","it":null}
 {"key":"BG31","en":"Severozapaden","it":null}
 {"key":"BG311","en":"Vidin","it":null}
@@ -187,7 +187,7 @@
 {"key":"BGX","en":"Not regionalised/Unknown NUTS 1","it":null}
 {"key":"BGXX","en":"Not regionalised/Unknown NUTS 2","it":null}
 {"key":"BGXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
-{"key":"CZ","en":"Czechia","it":null}
+{"key":"CZ","en":"Czechia","it":"Repubblica Ceca"}
 {"key":"CZ0","en":"Cesko","it":null}
 {"key":"CZ01","en":"Praha","it":null}
 {"key":"CZ010","en":"Hlavní mesto Praha","it":null}
@@ -222,7 +222,7 @@
 {"key":"CZXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
 {"key":"CZ_CEC","en":"Cechy","it":null}
 {"key":"CZ_MOR","en":"Morava","it":null}
-{"key":"DK","en":"Denmark","it":null}
+{"key":"DK","en":"Denmark","it":"Danimarca"}
 {"key":"DK0","en":"Danmark","it":null}
 {"key":"DK01","en":"Hovedstaden","it":null}
 {"key":"DK011","en":"Byen København","it":null}
@@ -263,7 +263,7 @@
 {"key":"DKX","en":"Not regionalised/Unknown NUTS 1","it":null}
 {"key":"DKXX","en":"Not regionalised/Unknown NUTS 2","it":null}
 {"key":"DKXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
-{"key":"DE","en":"Germany (until 1990 former territory of the FRG)","it":null}
+{"key":"DE","en":"Germany (until 1990 former territory of the FRG)","it":"Germania"}
 {"key":"DE_TOT","en":"Germany including former GDR","it":null}
 {"key":"DEW","en":"Federal Republic of Germany (former territory of the FRG only)","it":null}
 {"key":"EX_DD","en":"Former German Democratic Republic (until 1990)/new Länder (from 1991)","it":null}
@@ -863,7 +863,7 @@
 {"key":"DEX","en":"Not regionalised/Unknown NUTS 1","it":null}
 {"key":"DEXX","en":"Not regionalised/Unknown NUTS 2","it":null}
 {"key":"DEXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
-{"key":"EE","en":"Estonia","it":null}
+{"key":"EE","en":"Estonia","it":"Estonia"}
 {"key":"EE0","en":"Eesti","it":null}
 {"key":"EE00","en":"Eesti","it":null}
 {"key":"EE001","en":"Põhja-Eesti","it":null}
@@ -880,7 +880,7 @@
 {"key":"EEX","en":"Not regionalised/Unknown NUTS 1","it":null}
 {"key":"EEXX","en":"Not regionalised/Unknown NUTS 2","it":null}
 {"key":"EEXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
-{"key":"IE","en":"Ireland","it":null}
+{"key":"IE","en":"Ireland","it":"Irelanda"}
 {"key":"IE0","en":"Éire/Ireland","it":null}
 {"key":"IE04","en":"Northern and Western","it":null}
 {"key":"IE041","en":"Border","it":null}
@@ -936,7 +936,7 @@
 {"key":"IEX","en":"Not regionalised/Unknown NUTS 1","it":null}
 {"key":"IEXX","en":"Not regionalised/Unknown NUTS 2","it":null}
 {"key":"IEXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
-{"key":"EL","en":"Greece","it":null}
+{"key":"EL","en":"Greece","it":"Grecia"}
 {"key":"EL1","en":"Voreia Ellada (NUTS 2010)","it":null}
 {"key":"EL11","en":"Anatoliki Makedonia, Thraki (NUTS 2010)","it":null}
 {"key":"EL111","en":"Evros (NUTS 2010)","it":null}
@@ -1078,7 +1078,7 @@
 {"key":"ELXX","en":"Not regionalised/Unknown NUTS 2","it":null}
 {"key":"ELXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
 {"key":"EL_NAL","en":"Greece, not allocated","it":null}
-{"key":"ES","en":"Spain","it":null}
+{"key":"ES","en":"Spain","it":"Spagna"}
 {"key":"ES1","en":"Noroeste (ES)","it":null}
 {"key":"ES11","en":"Galicia","it":null}
 {"key":"ES111","en":"A Coruña","it":null}
@@ -1183,7 +1183,7 @@
 {"key":"ESXX","en":"Not regionalised/Unknown NUTS 2","it":null}
 {"key":"ESXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
 {"key":"ES_NAL","en":"Spain, not allocated","it":null}
-{"key":"FR","en":"France","it":null}
+{"key":"FR","en":"France","it":"Francia"}
 {"key":"FX","en":"France (metropolitan)","it":null}
 {"key":"FR1","en":"Île de France","it":null}
 {"key":"FR10","en":"Île de France","it":null}
@@ -1479,7 +1479,7 @@
 {"key":"FRXX","en":"Not regionalised/Unknown NUTS 2","it":null}
 {"key":"FRXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
 {"key":"FR_NAL","en":"France, not allocated","it":null}
-{"key":"HR","en":"Croatia","it":null}
+{"key":"HR","en":"Croatia","it":"Croazia"}
 {"key":"HR0","en":"Hrvatska","it":null}
 {"key":"HR02","en":"Panonska Hrvatska","it":null}
 {"key":"HR021","en":"Bjelovarsko-bilogorska zupanija","it":null}
@@ -1535,7 +1535,7 @@
 {"key":"HR014","en":"Varazdinska zupanija (former statistical region)","it":null}
 {"key":"HR015","en":"Koprivnicko-krizevacka zupanija (former statistical region)","it":null}
 {"key":"HR016","en":"Medimurska zupanija (former statistical region)","it":null}
-{"key":"IT","en":"Italy","it":null}
+{"key":"IT","en":"Italy","it":"Italia"}
 {"key":"ITC-E","en":"Nord-Ovest, Nord-Est, Centro (IT) (NUTS 2006)","it":null}
 {"key":"ITC","en":"Nord-Ovest","it":null}
 {"key":"ITC1","en":"Piemonte","it":null}
@@ -1750,7 +1750,7 @@
 {"key":"ITXX","en":"Not regionalised/Unknown NUTS 2","it":null}
 {"key":"ITXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
 {"key":"IT_NAL","en":"Italy, not allocated","it":null}
-{"key":"CY","en":"Cyprus","it":null}
+{"key":"CY","en":"Cyprus","it":"Cipro"}
 {"key":"CY0","en":"Kypros","it":null}
 {"key":"CY00","en":"Kypros","it":null}
 {"key":"CY000","en":"Kypros","it":null}
@@ -1761,7 +1761,7 @@
 {"key":"CYX","en":"Not regionalised/Unknown NUTS 1","it":null}
 {"key":"CYXX","en":"Not regionalised/Unknown NUTS 2","it":null}
 {"key":"CYXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
-{"key":"LV","en":"Latvia","it":null}
+{"key":"LV","en":"Latvia","it":"Lettonia"}
 {"key":"LV0","en":"Latvija","it":null}
 {"key":"LV00","en":"Latvija","it":null}
 {"key":"LV001","en":"Riga (statistical region 2001)","it":null}
@@ -1780,7 +1780,7 @@
 {"key":"LVX","en":"Not regionalised/Unknown NUTS 1","it":null}
 {"key":"LVXX","en":"Not regionalised/Unknown NUTS 2","it":null}
 {"key":"LVXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
-{"key":"LT","en":"Lithuania","it":null}
+{"key":"LT","en":"Lithuania","it":"Lituania"}
 {"key":"LT0","en":"Lietuva","it":null}
 {"key":"LT01","en":"Sostines regionas","it":null}
 {"key":"LT011","en":"Vilniaus apskritis","it":null}
@@ -1812,7 +1812,7 @@
 {"key":"LTX","en":"Not regionalised/Unknown NUTS 1","it":null}
 {"key":"LTXX","en":"Not regionalised/Unknown NUTS 2","it":null}
 {"key":"LTXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
-{"key":"LU","en":"Luxembourg","it":null}
+{"key":"LU","en":"Luxembourg","it":"Lussemburgo"}
 {"key":"LU0","en":"Luxembourg","it":null}
 {"key":"LU00","en":"Luxembourg","it":null}
 {"key":"LU000","en":"Luxembourg","it":null}
@@ -1823,7 +1823,7 @@
 {"key":"LUX","en":"Not regionalised/Unknown NUTS 1","it":null}
 {"key":"LUXX","en":"Not regionalised/Unknown NUTS 2","it":null}
 {"key":"LUXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
-{"key":"HU","en":"Hungary","it":null}
+{"key":"HU","en":"Hungary","it":"Ungheria"}
 {"key":"HU1","en":"Közép-Magyarország","it":null}
 {"key":"HU11","en":"Budapest","it":null}
 {"key":"HU110","en":"Budapest","it":null}
@@ -1867,7 +1867,7 @@
 {"key":"HUXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
 {"key":"HU_ALF","en":"Alföld","it":null}
 {"key":"HU_ESDU","en":"Észak-Dunántúl","it":null}
-{"key":"MT","en":"Malta","it":null}
+{"key":"MT","en":"Malta","it":"Malta"}
 {"key":"MT0","en":"Malta","it":null}
 {"key":"MT00","en":"Malta","it":null}
 {"key":"MT001","en":"Malta","it":null}
@@ -1879,7 +1879,7 @@
 {"key":"MTX","en":"Not regionalised/Unknown NUTS 1","it":null}
 {"key":"MTXX","en":"Not regionalised/Unknown NUTS 2","it":null}
 {"key":"MTXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
-{"key":"NL","en":"Netherlands","it":null}
+{"key":"NL","en":"Netherlands","it":"Olanda"}
 {"key":"NL1","en":"Noord-Nederland","it":null}
 {"key":"NL11","en":"Groningen","it":null}
 {"key":"NL111","en":"Oost-Groningen","it":null}
@@ -1961,7 +1961,7 @@
 {"key":"NLXX","en":"Not regionalised/Unknown NUTS 2","it":null}
 {"key":"NLXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
 {"key":"NL_NAL","en":"Netherlands, not allocated","it":null}
-{"key":"AT","en":"Austria","it":null}
+{"key":"AT","en":"Austria","it":"Austria"}
 {"key":"AT1","en":"Ostösterreich","it":null}
 {"key":"AT11","en":"Burgenland (AT)","it":null}
 {"key":"AT111","en":"Mittelburgenland","it":null}
@@ -2018,7 +2018,7 @@
 {"key":"ATX","en":"Not regionalised/Unknown NUTS 1","it":null}
 {"key":"ATXX","en":"Not regionalised/Unknown NUTS 2","it":null}
 {"key":"ATXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
-{"key":"PL","en":"Poland","it":null}
+{"key":"PL","en":"Poland","it":"Polonia"}
 {"key":"PL1","en":"Region Centralny (NUTS 2013)","it":null}
 {"key":"PL11","en":"Lódzkie (NUTS 2013)","it":null}
 {"key":"PL111","en":"Lódzki (NUTS 2003)","it":null}
@@ -2209,7 +2209,7 @@
 {"key":"PLX","en":"Not regionalised/Unknown NUTS 1","it":null}
 {"key":"PLXX","en":"Not regionalised/Unknown NUTS 2","it":null}
 {"key":"PLXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
-{"key":"PT","en":"Portugal","it":null}
+{"key":"PT","en":"Portugal","it":"Portogallo"}
 {"key":"PT1","en":"Continente","it":null}
 {"key":"PT11","en":"Norte","it":null}
 {"key":"PT111","en":"Alto Minho","it":null}
@@ -2281,7 +2281,7 @@
 {"key":"PTX","en":"Not regionalised/Unknown NUTS 1","it":null}
 {"key":"PTXX","en":"Not regionalised/Unknown NUTS 2","it":null}
 {"key":"PTXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
-{"key":"RO","en":"Romania","it":null}
+{"key":"RO","en":"Romania","it":"Romania"}
 {"key":"RO1","en":"Macroregiunea unu","it":null}
 {"key":"RO11","en":"Nord-Vest","it":null}
 {"key":"RO111","en":"Bihor","it":null}
@@ -2394,7 +2394,7 @@
 {"key":"ROX","en":"Not regionalised/Unknown NUTS 1","it":null}
 {"key":"ROXX","en":"Not regionalised/Unknown NUTS 2","it":null}
 {"key":"ROXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
-{"key":"SI","en":"Slovenia","it":null}
+{"key":"SI","en":"Slovenia","it":"Slovenia"}
 {"key":"SI0","en":"Slovenija","it":null}
 {"key":"SI03","en":"Vzhodna Slovenija","it":null}
 {"key":"SI031","en":"Pomurska","it":null}
@@ -2441,7 +2441,7 @@
 {"key":"SI_PRI3","en":"Primorje - Vipavska dolina (Vipava)","it":null}
 {"key":"SI_PRI4","en":"Primorje - Goriska brda (Brda)","it":null}
 {"key":"SI_OUTW","en":"Outside wine-growing districts","it":null}
-{"key":"SK","en":"Slovakia","it":null}
+{"key":"SK","en":"Slovakia","it":"Slovacchia"}
 {"key":"SK0","en":"Slovensko","it":null}
 {"key":"SK01","en":"Bratislavský kraj","it":null}
 {"key":"SK010","en":"Bratislavský kraj","it":null}
@@ -2468,7 +2468,7 @@
 {"key":"SK_NIT","en":"Nitrianska","it":null}
 {"key":"SK_VYC","en":"Východoslovenská","it":null}
 {"key":"SK_TOK","en":"Tokajská","it":null}
-{"key":"FI","en":"Finland","it":null}
+{"key":"FI","en":"Finland","it":"Finlandia"}
 {"key":"FI1","en":"Manner-Suomi","it":null}
 {"key":"FI11_12_2","en":"Uusimaa, Etelä-Suomi, Åland (NUTS 1995)","it":null}
 {"key":"FI11","en":"Uusimaa (NUTS 1995)","it":null}
@@ -2533,7 +2533,7 @@
 {"key":"FIXX","en":"Not regionalised/Unknown NUTS 2","it":null}
 {"key":"FIXXX","en":"Not regionalised/Unknown NUTS 3","it":null}
 {"key":"FI_NAL","en":"Finland, not allocated","it":null}
-{"key":"SE","en":"Sweden","it":null}
+{"key":"SE","en":"Sweden","it":"Svezia"}
 {"key":"SE1","en":"Östra Sverige","it":null}
 {"key":"SE11","en":"Stockholm","it":null}
 {"key":"SE110","en":"Stockholms län","it":null}
@@ -2628,7 +2628,7 @@
 {"key":"EEA_NEU","en":"EEA-countries except the EU-countries","it":null}
 {"key":"EEA18_OTH","en":"Other European Economic Area (EU15 - 1995-2004 and IS, LI, NO)","it":null}
 {"key":"EFTA","en":"European Free Trade Association","it":null}
-{"key":"IS","en":"Iceland","it":null}
+{"key":"IS","en":"Iceland","it":"Islanda"}
 {"key":"IS0","en":"Ísland","it":null}
 {"key":"IS00","en":"Ísland","it":null}
 {"key":"IS001","en":"Höfudborgarsvædi","it":null}
@@ -2641,7 +2641,7 @@
 {"key":"ISXX","en":"Not regionalised/Unknown level 2","it":null}
 {"key":"ISXXX","en":"Not regionalised/Unknown level 3","it":null}
 {"key":"CH_LI","en":"Switzerland and Liechtenstein","it":null}
-{"key":"LI","en":"Liechtenstein","it":null}
+{"key":"LI","en":"Liechtenstein","it":"Liechtenstein"}
 {"key":"LI0","en":"Liechtenstein","it":null}
 {"key":"LI00","en":"Liechtenstein","it":null}
 {"key":"LI000","en":"Liechtenstein","it":null}
@@ -2652,7 +2652,7 @@
 {"key":"LIX","en":"Not regionalised/Unknown level 1","it":null}
 {"key":"LIXX","en":"Not regionalised/Unknown level 2","it":null}
 {"key":"LIXXX","en":"Not regionalised/Unknown level 3","it":null}
-{"key":"NO","en":"Norway","it":null}
+{"key":"NO","en":"Norway","it":"Norvegia"}
 {"key":"NO0","en":"Norge","it":null}
 {"key":"NO01_02_031-033","en":"Østlandet (Oslo og Akershus, Hedmark og Oppland, Østfold, Buskerud, Vestfold) (statistical region 2016)","it":null}
 {"key":"NO01","en":"Oslo og Akershus (statistical region 2016)","it":null}
@@ -2705,7 +2705,7 @@
 {"key":"NOX","en":"Not regionalised/Unknown level 1","it":null}
 {"key":"NOXX","en":"Not regionalised/Unknown level 2","it":null}
 {"key":"NOXXX","en":"Not regionalised/Unknown level 3","it":null}
-{"key":"CH","en":"Switzerland","it":null}
+{"key":"CH","en":"Switzerland","it":"Svizzera"}
 {"key":"CH0","en":"Schweiz/Suisse/Svizzera","it":null}
 {"key":"CH01","en":"Région lémanique","it":null}
 {"key":"CH011","en":"Vaud","it":null}
@@ -2750,7 +2750,7 @@
 {"key":"CHXXX","en":"Not regionalised/Unknown level 3","it":null}
 {"key":"EFTA_FOR","en":"European Free Trade Association except reporting country","it":null}
 {"key":"EFTA_OTH","en":"Other European Free Trade Association countries","it":null}
-{"key":"UK","en":"United Kingdom","it":null}
+{"key":"UK","en":"United Kingdom","it":"Regno Unito"}
 {"key":"UKC-M","en":"Great Britain","it":null}
 {"key":"UKC-L","en":"England and Wales","it":null}
 {"key":"UKC","en":"North East (UK)","it":null}
@@ -3172,7 +3172,7 @@
 {"key":"CC3_07","en":"Candidate countries in 2007 (3 countries)","it":null}
 {"key":"CC5_06","en":"Candidate countries in 2006 (5 countries)","it":null}
 {"key":"CC4_05","en":"Candidate countries in 2005 (4 countries)","it":null}
-{"key":"ME","en":"Montenegro","it":null}
+{"key":"ME","en":"Montenegro","it":"Montenegro"}
 {"key":"ME0","en":"Crna Gora","it":null}
 {"key":"ME00","en":"Crna Gora","it":null}
 {"key":"ME000","en":"Crna Gora","it":null}
@@ -3183,7 +3183,7 @@
 {"key":"MEX","en":"Not regionalised/Unknown level 1","it":null}
 {"key":"MEXX","en":"Not regionalised/Unknown level 2","it":null}
 {"key":"MEXXX","en":"Not regionalised/Unknown level 3","it":null}
-{"key":"MK","en":"North Macedonia","it":null}
+{"key":"MK","en":"North Macedonia","it":"Macedonia del Nord"}
 {"key":"MK0","en":"Severna Makedonija","it":null}
 {"key":"MK00","en":"Severna Makedonija","it":null}
 {"key":"MK001","en":"Vardarski","it":null}
@@ -3201,7 +3201,7 @@
 {"key":"MKX","en":"Not regionalised/Unknown level 1","it":null}
 {"key":"MKXX","en":"Not regionalised/Unknown level 2","it":null}
 {"key":"MKXXX","en":"Not regionalised/Unknown level 3","it":null}
-{"key":"AL","en":"Albania","it":null}
+{"key":"AL","en":"Albania","it":"Albania"}
 {"key":"AL0","en":"Shqipëria","it":null}
 {"key":"AL01","en":"Veri","it":null}
 {"key":"AL011","en":"Dibër","it":null}
@@ -3225,7 +3225,7 @@
 {"key":"ALX","en":"Not regionalised/Unknown level 1","it":null}
 {"key":"ALXX","en":"Not regionalised/Unknown level 2","it":null}
 {"key":"ALXXX","en":"Not regionalised/Unknown level 3","it":null}
-{"key":"RS","en":"Serbia","it":null}
+{"key":"RS","en":"Serbia","it":"Serbia"}
 {"key":"RS1","en":"Srbija - sever","it":null}
 {"key":"RS11","en":"Beogradski region","it":null}
 {"key":"RS110","en":"Beogradska oblast","it":null}
@@ -3264,7 +3264,7 @@
 {"key":"RSX","en":"Not regionalised/Unknown level 1","it":null}
 {"key":"RSXX","en":"Not regionalised/Unknown level 2","it":null}
 {"key":"RSXXX","en":"Not regionalised/Unknown level 3","it":null}
-{"key":"TR","en":"Turkey","it":null}
+{"key":"TR","en":"Turkey","it":"Turchia"}
 {"key":"TR1","en":"Istanbul","it":null}
 {"key":"TR10","en":"Istanbul","it":null}
 {"key":"TR100","en":"Istanbul","it":null}
@@ -3395,29 +3395,29 @@
 {"key":"EUR_C_E_OTH","en":"Other Central and Eastern European countries","it":null}
 {"key":"WBC","en":"WBC - Western Balkan Countries (aggregate changing according to the context)","it":null}
 {"key":"CEEC","en":"Central and Eastern European countries except European former CIS Republics (aggregate changing according to the context)","it":null}
-{"key":"AD","en":"Andorra","it":null}
-{"key":"BY","en":"Belarus","it":null}
+{"key":"AD","en":"Andorra","it":"Andorra"}
+{"key":"BY","en":"Belarus","it":"Belarussia"}
 {"key":"BY_CAP","en":"Minsk","it":null}
 {"key":"BA","en":"Bosnia and Herzegovina","it":null}
 {"key":"BA_CAP","en":"Sarajevo","it":null}
 {"key":"BA_DEL","en":"Banja Luka","it":null}
-{"key":"GG_JE","en":"Channel Islands (Guernsey and Jersey)","it":null}
-{"key":"GG","en":"Guernsey","it":null}
-{"key":"JE","en":"Jersey","it":null}
-{"key":"FO","en":"Faroes (DK)","it":null}
+{"key":"GG_JE","en":"Channel Islands (Guernsey and Jersey)","it":"Guernsey e Jersey"}
+{"key":"GG","en":"Guernsey","it":"Guernsey"}
+{"key":"JE","en":"Jersey","it":"Jersey"}
+{"key":"FO","en":"Faroes (DK)","it":"Isole Faroe"}
 {"key":"GI","en":"Gibraltar (UK)","it":null}
 {"key":"VA","en":"Holy See (the)/Vatican City State","it":null}
 {"key":"IM","en":"Isle of Man","it":null}
-{"key":"XK","en":"Kosovo (under United Nations Security Council Resolution 1244/99)","it":null}
+{"key":"XK","en":"Kosovo (under United Nations Security Council Resolution 1244/99)","it":"Kosovo"}
 {"key":"XK_CAP","en":"Prishtinë","it":null}
-{"key":"MD","en":"Moldova","it":null}
+{"key":"MD","en":"Moldova","it":"Moldovia"}
 {"key":"MD_CAP","en":"Chisinau","it":null}
-{"key":"MC","en":"Monaco","it":null}
-{"key":"RU","en":"Russia","it":null}
+{"key":"MC","en":"Monaco","it":"Principato di Monaco"}
+{"key":"RU","en":"Russia","it":"Russia"}
 {"key":"RU_CAP","en":"Moskva (Moscow)","it":null}
 {"key":"SM","en":"San Marino","it":null}
 {"key":"SJ","en":"Svalbard and Jan Mayen (NO)","it":null}
-{"key":"UA","en":"Ukraine","it":null}
+{"key":"UA","en":"Ukraine","it":"Ucraina"}
 {"key":"UA_CAP","en":"Kyiv","it":null}
 {"key":"NCL","en":"Not classifiable according to current borders","it":null}
 {"key":"CZ_SK","en":"Former Czechoslovakia (before 1992)/Total components of former Czechoslovakia","it":null}

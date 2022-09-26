@@ -1,4 +1,4 @@
-{"key":"TOTAL","en":"Total","it":null}
+{"key":"TOTAL","en":"Total","it":"Totale"}
 {"key":"LFD","en":"Late foetal death","it":null}
 {"key":"LFD1","en":"Late foetal death (group 1)","it":null}
 {"key":"LFD2","en":"Late foetal death (group 2)","it":null}
@@ -401,11 +401,11 @@
 {"key":"Y15-39","en":"From 15 to 39 years","it":null}
 {"key":"Y15-44","en":"From 15 to 44 years","it":null}
 {"key":"Y15-59","en":"From 15 to 59 years","it":null}
-{"key":"Y15-64","en":"From 15 to 64 years","it":null}
+{"key":"Y15-64","en":"From 15 to 64 years","it":"Dai 15 ai 64 anni"}
 {"key":"Y15-69","en":"From 15 to 69 years","it":null}
 {"key":"Y15-74","en":"From 15 to 74 years","it":null}
 {"key":"Y15-89","en":"From 15 to 89 years","it":null}
-{"key":"Y_GE15","en":"15 years or over","it":null}
+{"key":"Y_GE15","en":"15 years or over","it":"15 anni e oltre"}
 {"key":"Y_LT16","en":"Less than 16 years","it":null}
 {"key":"Y16","en":"16 years","it":null}
 {"key":"Y16-17","en":"From 16 to 17 years","it":null}
@@ -416,7 +416,7 @@
 {"key":"Y16-44","en":"From 16 to 44 years","it":null}
 {"key":"Y16-64","en":"From 16 to 64 years","it":null}
 {"key":"Y16-74","en":"From 16 to 74 years","it":null}
-{"key":"Y_GE16","en":"16 years or over","it":null}
+{"key":"Y_GE16","en":"16 years or over","it":"16 anni e oltre"}
 {"key":"Y_LT17","en":"Less than 17 years","it":null}
 {"key":"Y17","en":"17 years","it":null}
 {"key":"Y17-18","en":"From 17 to 18 years","it":null}

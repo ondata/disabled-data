@@ -1,11 +1,11 @@
-{"key":"TOTAL","en":"Total","it":null}
-{"key":"VHIGH","en":"Very high","it":null}
-{"key":"HIGH","en":"High","it":null}
-{"key":"GOOD","en":"Good","it":null}
-{"key":"FAIR","en":"Fair","it":null}
-{"key":"MED","en":"Medium","it":null}
-{"key":"LOW","en":"Low","it":null}
-{"key":"VLOW","en":"Very low","it":null}
-{"key":"NONE","en":"None","it":null}
-{"key":"NAP","en":"Not applicable","it":null}
-{"key":"NRP","en":"No response","it":null}
+{"key":"TOTAL","en":"Total","it":"Totale"}
+{"key":"VHIGH","en":"Very high","it":"Molto alto"}
+{"key":"HIGH","en":"High","it":"Alto"}
+{"key":"GOOD","en":"Good","it":"Buono"}
+{"key":"FAIR","en":"Fair","it":"Discreto"}
+{"key":"MED","en":"Medium","it":"Medio"}
+{"key":"LOW","en":"Low","it":"Basso"}
+{"key":"VLOW","en":"Very low","it":"Molto basso"}
+{"key":"NONE","en":"None","it":"Nessuno"}
+{"key":"NAP","en":"Not applicable","it":"Non applicabile"}
+{"key":"NRP","en":"No response","it":"Nessuna risposta"}

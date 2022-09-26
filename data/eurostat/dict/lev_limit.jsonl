@@ -1,7 +1,7 @@
-{"key":"TOTAL","en":"Total","it":null}
-{"key":"MOD","en":"Moderate","it":null}
-{"key":"SOME","en":"Some","it":null}
-{"key":"LTD","en":"Limited","it":null}
-{"key":"SEV","en":"Severe","it":null}
-{"key":"SM_SEV","en":"Some or severe","it":null}
-{"key":"NONE","en":"None","it":null}
+{"key":"TOTAL","en":"Total","it":"Totale"}
+{"key":"MOD","en":"Moderate","it":"Moderate limitazioni"}
+{"key":"SOME","en":"Some","it":"Alcune limitazioni"}
+{"key":"LTD","en":"Limited","it":"Limitata"}
+{"key":"SEV","en":"Severe","it":"Severe limitazioni"}
+{"key":"SM_SEV","en":"Some or severe","it":"Alcune o severe limitazioni"}
+{"key":"NONE","en":"None","it":"Nessuna limitazione"}

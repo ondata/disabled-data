@@ -7,6 +7,7 @@ levels
 lev_limit
 lev_satis
 reason
+sex
 tenure
 time
 unit

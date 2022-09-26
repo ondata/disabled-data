@@ -1,4 +1,4 @@
-{"key":"TOTAL","en":"Total","it":null}
+{"key":"TOTAL","en":"Total","it":"Totale"}
 {"key":"LEG_ADM","en":"Legal or administrative","it":null}
 {"key":"CBT_NRLV","en":"Cross border trade not relevant","it":null}
 {"key":"C41","en":"Cross border trade not relevant (products not exportable)","it":null}
@@ -30,16 +30,16 @@
 {"key":"LMNG_KH","en":"Lack of management resources and know-how","it":null}
 {"key":"LMGMT_KH","en":"Lack of management resources and know-how","it":null}
 {"key":"MSSDOC_PRD","en":"Missing documentation of own products and processes","it":null}
-{"key":"MOB","en":"Mobility","it":null}
-{"key":"TRA","en":"Transportation","it":null}
-{"key":"ACS_BLD","en":"Accessing buildings","it":null}
-{"key":"EDUC_TNG","en":"Education and training","it":null}
-{"key":"EMP","en":"Employment","it":null}
-{"key":"U_INET","en":"Using the internet","it":null}
-{"key":"SOC","en":"Social contact","it":null}
-{"key":"LEIS","en":"Leisure","it":null}
-{"key":"P_ESS","en":"Paying for essentials","it":null}
-{"key":"PERC_DCRIM","en":"Perceived discrimination","it":null}
+{"key":"MOB","en":"Mobility","it":"Mobilità"}
+{"key":"TRA","en":"Transportation","it":"Trasporto"}
+{"key":"ACS_BLD","en":"Accessing buildings","it":"Accesso ad edifici"}
+{"key":"EDUC_TNG","en":"Education and training","it":"Educazione e formazione"}
+{"key":"EMP","en":"Employment","it":"Impiego"}
+{"key":"U_INET","en":"Using the internet","it":"Utilizzo dell'internet"}
+{"key":"SOC","en":"Social contact","it":"Contatto sociale"}
+{"key":"LEIS","en":"Leisure","it":"Tempo libero"}
+{"key":"P_ESS","en":"Paying for essentials","it":"Pagare per l'essenziale"}
+{"key":"PERC_DCRIM","en":"Perceived discrimination","it":"Discriminazione percepita"}
 {"key":"PTP_LD1","en":"Participating in 1 life domain","it":null}
 {"key":"PTP_LD2-3","en":"Participating in 2 to 3 life domains","it":null}
 {"key":"PTP_LD_GE4","en":"Participating in 4 or more life domains","it":null}

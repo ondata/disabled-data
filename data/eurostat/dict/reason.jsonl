@@ -18,7 +18,7 @@
 {"key":"TOOEXP","en":"Too expensive","it":null}
 {"key":"TOODIFF","en":"Too difficult (to obtain reliable/valid results)","it":null}
 {"key":"TOOFAR","en":"Too far to travel","it":null}
-{"key":"TOOEFW","en":"Too expensive or too far to travel or waiting list","it":null}
+{"key":"TOOEFW","en":"Too expensive or too far to travel or waiting list","it":"Troppo costoso o troppo lontano o lunghe liste d'attesa"}
 {"key":"NOPRIOR","en":"Does not have priority","it":null}
 {"key":"IVTF","en":"Either focus on IVT than CVT","it":null}
 {"key":"MJPR","en":"Major training effort realised in a previous year","it":null}

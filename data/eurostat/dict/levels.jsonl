@@ -15,9 +15,9 @@
 {"key":"VGOOD","en":"Very good","it":null}
 {"key":"BROAD","en":"Broad","it":null}
 {"key":"GOOD","en":"Good","it":null}
-{"key":"VG_G","en":"Very good or good","it":null}
+{"key":"VG_G","en":"Very good or good","it":"Buono o molto buono"}
 {"key":"FGOOD","en":"Fairly good","it":null}
-{"key":"FAIR","en":"Fair","it":null}
+{"key":"FAIR","en":"Fair","it":"Discreto"}
 {"key":"INT","en":"Intermediate","it":null}
 {"key":"MED","en":"Medium","it":null}
 {"key":"MOD_SEV","en":"Moderate or severe","it":null}
@@ -42,7 +42,7 @@
 {"key":"VB_FB","en":"Very bad or fairly bad","it":null}
 {"key":"VBAD","en":"Very bad","it":null}
 {"key":"FBAD","en":"Fairly bad","it":null}
-{"key":"B_VB","en":"Bad or very bad","it":null}
+{"key":"B_VB","en":"Bad or very bad","it":"Cattivo o molto cattivo"}
 {"key":"SEV_MOD_LOW","en":"Severe, moderate or low","it":null}
 {"key":"SEV","en":"Severe","it":null}
 {"key":"NSEV","en":"Non severe","it":null}

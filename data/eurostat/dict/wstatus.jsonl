@@ -1,5 +1,5 @@
-{"key":"TOTAL","en":"Total","it":null}
-{"key":"POP","en":"Population","it":null}
+{"key":"TOTAL","en":"Total","it":"Totale"}
+{"key":"POP","en":"Population","it":"Popolazione"}
 {"key":"ACT_INAC","en":"Persons in- and outside the labour force (former name: active and inactive persons)","it":null}
 {"key":"ACT","en":"Persons in the labour force (former name: active persons)","it":null}
 {"key":"EMP_W","en":"Persons employed or previously employed","it":null}

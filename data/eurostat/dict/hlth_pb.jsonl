@@ -1,4 +1,4 @@
-{"key":"TOTAL","en":"Total","it":null}
+{"key":"TOTAL","en":"Total","it":"Totale"}
 {"key":"LHC_DIF_BACT","en":"Both a longstanding health condition and a basic activity difficulty","it":null}
 {"key":"LHC_ILL","en":"Longstanding health condition, illness or disease","it":null}
 {"key":"NLHC_ILL","en":"No longstanding health condition, illness or disease","it":null}
@@ -99,8 +99,8 @@
 {"key":"PB1020","en":"Only a basic activity difficulty","it":null}
 {"key":"PB1030","en":"Both a longstanding health condition and a basic activity difficulty","it":null}
 {"key":"PB1031","en":"No longstanding health condition or basic activity difficulty","it":null}
-{"key":"PB1040","en":"Difficulty in basic activities","it":null}
-{"key":"PB1041","en":"No difficulty in basic activities","it":null}
+{"key":"PB1040","en":"Difficulty in basic activities","it":"Difficoltà in attività di base"}
+{"key":"PB1041","en":"No difficulty in basic activities","it":"Nessuna difficoltà in attività di base"}
 {"key":"PB1050","en":"Difficulty in personal care","it":null}
 {"key":"PB1051","en":"No difficulty in personal care","it":null}
 {"key":"PB1060","en":"Difficulty in household care","it":null}
