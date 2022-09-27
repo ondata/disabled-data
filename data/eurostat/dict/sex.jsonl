@@ -1,7 +1,7 @@
-{"key":"T","en":"Total","it":null}
-{"key":"M","en":"Males","it":null}
-{"key":"F","en":"Females","it":null}
-{"key":"DIFF","en":"Absolute difference between males and females","it":null}
-{"key":"NAP","en":"Not applicable","it":null}
-{"key":"NRP","en":"No response","it":null}
-{"key":"UNK","en":"Unknown","it":null}
+{"key":"T","en":"Total","it":"Totale"}
+{"key":"M","en":"Males","it":"Uomini"}
+{"key":"F","en":"Females","it":"Donne"}
+{"key":"DIFF","en":"Absolute difference between males and females","it":"Differenza assoluta tra uomini e donne"}
+{"key":"NAP","en":"Not applicable","it":"Non applicabile"}
+{"key":"NRP","en":"No response","it":"Nessuna risposta"}
+{"key":"UNK","en":"Unknown","it":"Non conosciuto"}
