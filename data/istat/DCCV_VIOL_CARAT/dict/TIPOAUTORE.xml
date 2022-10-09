@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--NSI Web Service v6.16.0-->
+<message:Structure xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:structure="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <message:Header>
+    <message:ID>IDREF150</message:ID>
+    <message:Test>false</message:Test>
+    <message:Prepared>2022-10-09T10:36:20.8563123+02:00</message:Prepared>
+    <message:Sender id="Unknown" />
+    <message:Receiver id="Unknown" />
+  </message:Header>
+  <message:Structures>
+    <structure:Codelists>
+      <structure:Codelist id="CL_TIPOAUT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IT1:CL_TIPOAUT(1.0)" agencyID="IT1" version="1.0" isFinal="true">
+        <common:Name xml:lang="it">Tipo di autore</common:Name>
+        <common:Name xml:lang="en">Perpetrator</common:Name>
+        <structure:Code id="ANY_P_NOP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOAUT(1.0).ANY_P_NOP">
+          <common:Name xml:lang="it">qualsiasi uomo (partner e non partner)</common:Name>
+          <common:Name xml:lang="en">any man (partner and non-partner)</common:Name>
+        </structure:Code>
+        <structure:Code id="CURR_OR_FORM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOAUT(1.0).CURR_OR_FORM">
+          <common:Name xml:lang="it">partner attuale o ex partner</common:Name>
+          <common:Name xml:lang="en">current partner or former partner</common:Name>
+          <structure:Parent>
+            <Ref id="ANY_P_NOP" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="CURR_P" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOAUT(1.0).CURR_P">
+          <common:Name xml:lang="it">partner attuale</common:Name>
+          <common:Name xml:lang="en">current partner</common:Name>
+          <structure:Parent>
+            <Ref id="CURR_OR_FORM" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="CURR_BOY" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOAUT(1.0).CURR_BOY">
+          <common:Name xml:lang="it">fidanzato attuale</common:Name>
+          <common:Name xml:lang="en">current boyfriend</common:Name>
+          <structure:Parent>
+            <Ref id="CURR_P" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="HUSB" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOAUT(1.0).HUSB">
+          <common:Name xml:lang="it">marito/convivente attuale</common:Name>
+          <common:Name xml:lang="en">husband/cohabiting partner</common:Name>
+          <structure:Parent>
+            <Ref id="CURR_P" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="EX_P" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOAUT(1.0).EX_P">
+          <common:Name xml:lang="it">ex partner</common:Name>
+          <common:Name xml:lang="en">former partner</common:Name>
+          <structure:Parent>
+            <Ref id="CURR_OR_FORM" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="FORM_HUSB" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOAUT(1.0).FORM_HUSB">
+          <common:Name xml:lang="it">ex marito/ex convivente</common:Name>
+          <common:Name xml:lang="en">former husband/former cohabiting partner</common:Name>
+          <structure:Parent>
+            <Ref id="EX_P" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="ALL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOAUT(1.0).ALL">
+          <common:Name xml:lang="it">tutte le voci</common:Name>
+          <common:Name xml:lang="en">all items</common:Name>
+        </structure:Code>
+        <structure:Code id="NOP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOAUT(1.0).NOP">
+          <common:Name xml:lang="it">uomo non partner</common:Name>
+          <common:Name xml:lang="en">man non-partner</common:Name>
+          <structure:Parent>
+            <Ref id="ANY_P_NOP" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="STR_ACQU" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOAUT(1.0).STR_ACQU">
+          <common:Name xml:lang="it">sconosciuti/conoscenti di vista</common:Name>
+          <common:Name xml:lang="en">strangers/acquaintances</common:Name>
+          <structure:Parent>
+            <Ref id="NOP" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="STRANGER" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOAUT(1.0).STRANGER">
+          <common:Name xml:lang="it">uno sconosciuto</common:Name>
+          <common:Name xml:lang="en">a stranger</common:Name>
+          <structure:Parent>
+            <Ref id="NOP" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="FORM_BOY" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOAUT(1.0).FORM_BOY">
+          <common:Name xml:lang="it">ex fidanzato</common:Name>
+          <common:Name xml:lang="en">former boyfriend</common:Name>
+          <structure:Parent>
+            <Ref id="EX_P" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="NOT_SPEC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOAUT(1.0).NOT_SPEC">
+          <common:Name xml:lang="it">non partner (non specifica)</common:Name>
+          <common:Name xml:lang="en">man non-partner (not specified)</common:Name>
+          <structure:Parent>
+            <Ref id="NOP" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="PER_KNOWN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOAUT(1.0).PER_KNOWN">
+          <common:Name xml:lang="it">persona conosciuta (non partner)</common:Name>
+          <common:Name xml:lang="en">person known (non-partner)</common:Name>
+          <structure:Parent>
+            <Ref id="NOP" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="FR_COLL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOAUT(1.0).FR_COLL">
+          <common:Name xml:lang="it">amici/colleghi</common:Name>
+          <common:Name xml:lang="en">friends/colleagues</common:Name>
+          <structure:Parent>
+            <Ref id="PER_KNOWN" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="COLL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOAUT(1.0).COLL">
+          <common:Name xml:lang="it">un collega</common:Name>
+          <common:Name xml:lang="en">a colleague</common:Name>
+          <structure:Parent>
+            <Ref id="FR_COLL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="FRIEND" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOAUT(1.0).FRIEND">
+          <common:Name xml:lang="it">un amico</common:Name>
+          <common:Name xml:lang="en">a friend</common:Name>
+          <structure:Parent>
+            <Ref id="FR_COLL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="FAM_FRIEND" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOAUT(1.0).FAM_FRIEND">
+          <common:Name xml:lang="it">un amico di famiglia</common:Name>
+          <common:Name xml:lang="en">a family friend</common:Name>
+          <structure:Parent>
+            <Ref id="FR_COLL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="ACQUAIN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOAUT(1.0).ACQUAIN">
+          <common:Name xml:lang="it">un conoscente/uomo che conosce di vista</common:Name>
+          <common:Name xml:lang="en">an acquaintance</common:Name>
+          <structure:Parent>
+            <Ref id="NOP" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="RELATIVE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOAUT(1.0).RELATIVE">
+          <common:Name xml:lang="it">parente/familiare</common:Name>
+          <common:Name xml:lang="en">family member</common:Name>
+          <structure:Parent>
+            <Ref id="PER_KNOWN" />
+          </structure:Parent>
+        </structure:Code>
+      </structure:Codelist>
+    </structure:Codelists>
+  </message:Structures>
+</message:Structure>

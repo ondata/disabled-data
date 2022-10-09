@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--NSI Web Service v6.16.0-->
+<message:Structure xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:structure="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <message:Header>
+    <message:ID>IDREF147</message:ID>
+    <message:Test>false</message:Test>
+    <message:Prepared>2022-10-09T10:36:19.56151+02:00</message:Prepared>
+    <message:Sender id="Unknown" />
+    <message:Receiver id="Unknown" />
+  </message:Header>
+  <message:Structures>
+    <structure:Codelists>
+      <structure:Codelist id="CL_TITOLO_STUDIO" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IT1:CL_TITOLO_STUDIO(3.3)" agencyID="IT1" version="3.3" isFinal="true">
+        <common:Name xml:lang="it">Titolo di studio</common:Name>
+        <common:Name xml:lang="en">Level of education</common:Name>
+        <structure:Code id="13" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).13">
+          <common:Name xml:lang="it">nessun titolo di studio, licenza di scuola elementare e media</common:Name>
+          <common:Name xml:lang="en">no educational degree, primary and lower secondary school certificate</common:Name>
+        </structure:Code>
+        <structure:Code id="47" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).47">
+          <common:Name xml:lang="it">laurea (4-6 anni) o A.F.A.M. di II livello</common:Name>
+          <common:Name xml:lang="en">second level degree or afam second level</common:Name>
+        </structure:Code>
+        <structure:Code id="34" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).34">
+          <common:Name xml:lang="it">diploma terziario non universitario del vecchio ordinamento e diplomi A.F.A.M.</common:Name>
+          <common:Name xml:lang="en">post graduate non-university diploma and afam diploma</common:Name>
+        </structure:Code>
+        <structure:Code id="11" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).11">
+          <common:Name xml:lang="it">laurea e post-laurea</common:Name>
+          <common:Name xml:lang="en">tertiary (university, doctoral and specialization courses)</common:Name>
+        </structure:Code>
+        <structure:Code id="36" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).36">
+          <common:Name xml:lang="it">diploma di scuola magistrale</common:Name>
+          <common:Name xml:lang="en">teachers school diploma</common:Name>
+        </structure:Code>
+        <structure:Code id="72" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).72">
+          <common:Name xml:lang="it">laurea di I livello</common:Name>
+          <common:Name xml:lang="en">first degree</common:Name>
+        </structure:Code>
+        <structure:Code id="NPL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).NPL">
+          <common:Name xml:lang="it">nessun titolo di studio, licenza di scuola elementare e media</common:Name>
+          <common:Name xml:lang="en">no educational degree, final assessment (Primary school), diploma of lower secondary education</common:Name>
+        </structure:Code>
+        <structure:Code id="35" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).35">
+          <common:Name xml:lang="it">diploma di istituto professionale</common:Name>
+          <common:Name xml:lang="en">professional institute diploma</common:Name>
+        </structure:Code>
+        <structure:Code id="BL_ML_RDD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).BL_ML_RDD">
+          <common:Name xml:lang="it">titolo universitario o accademico</common:Name>
+          <common:Name xml:lang="en">university or academic degree including post-master degree</common:Name>
+        </structure:Code>
+        <structure:Code id="20" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).20">
+          <common:Name xml:lang="it">non indicato</common:Name>
+          <common:Name xml:lang="en">n.a.</common:Name>
+        </structure:Code>
+        <structure:Code id="31" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).31">
+          <common:Name xml:lang="it">diploma di scuola secondaria superiore (4-5 anni)</common:Name>
+          <common:Name xml:lang="en">diploma of upper secondary education (4-5 years)</common:Name>
+        </structure:Code>
+        <structure:Code id="69" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).69">
+          <common:Name xml:lang="it">altro corso di laurea</common:Name>
+          <common:Name xml:lang="en">other degree course</common:Name>
+        </structure:Code>
+        <structure:Code id="UNAV" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).UNAV">
+          <common:Name xml:lang="it">non disponibile</common:Name>
+          <common:Name xml:lang="en">unavailable</common:Name>
+        </structure:Code>
+        <structure:Code id="50" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).50">
+          <common:Name xml:lang="it">titoli universitari</common:Name>
+          <common:Name xml:lang="en">university degree</common:Name>
+        </structure:Code>
+        <structure:Code id="27" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).27">
+          <common:Name xml:lang="it">diploma di scuola secondaria superiore o di accademia</common:Name>
+          <common:Name xml:lang="en">high school diploma or academic certificate</common:Name>
+        </structure:Code>
+        <structure:Code id="75" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).75">
+          <common:Name xml:lang="it">diploma universitario (2-3 anni) del vecchio ordinamento/laurea di primo livello</common:Name>
+          <common:Name xml:lang="en">short university degree (old programme)/first degree</common:Name>
+        </structure:Code>
+        <structure:Code id="58" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).58">
+          <common:Name xml:lang="it">nessun titolo di studio post-laurea o post-diploma A.F.A.M.</common:Name>
+          <common:Name xml:lang="en">without post-university specialization or  post-diploma AFAM</common:Name>
+        </structure:Code>
+        <structure:Code id="BMRD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).BMRD">
+          <common:Name xml:lang="it">laurea, diploma universitario, diploma ITS, diploma accademico, dottorato di ricerca</common:Name>
+          <common:Name xml:lang="en">bachelor's degree or first level academic diploma; Diploma of Higher Technical; University Diploma; Master's degree or second level academic diploma (and Academy Conservatory old programme); Research Doctorate (PhD)/ Advanced research academic diploma</common:Name>
+        </structure:Code>
+        <structure:Code id="99" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).99">
+          <common:Name xml:lang="it">totale</common:Name>
+          <common:Name xml:lang="en">total</common:Name>
+        </structure:Code>
+        <structure:Code id="1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).1">
+          <common:Name xml:lang="it">nessun titolo di studio</common:Name>
+          <common:Name xml:lang="en">no educational degree</common:Name>
+        </structure:Code>
+        <structure:Code id="30" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).30">
+          <common:Name xml:lang="it">diploma di scuola secondaria superiore (2-3 anni)</common:Name>
+          <common:Name xml:lang="en">diploma of upper secondary education (2-3 years)</common:Name>
+        </structure:Code>
+        <structure:Code id="NED" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).NED">
+          <common:Name xml:lang="it">nessun titolo di studio</common:Name>
+          <common:Name xml:lang="en">no educational degree</common:Name>
+        </structure:Code>
+        <structure:Code id="IL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).IL">
+          <common:Name xml:lang="it">analfabeti</common:Name>
+          <common:Name xml:lang="en">illiterate</common:Name>
+          <structure:Parent>
+            <Ref id="NED" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="9" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).9">
+          <common:Name xml:lang="it">laurea</common:Name>
+          <common:Name xml:lang="en">university degree</common:Name>
+        </structure:Code>
+        <structure:Code id="24" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).24">
+          <common:Name xml:lang="it">diploma secondario (5 anni) e post secondario</common:Name>
+          <common:Name xml:lang="en">secondary and post-secondary non tertiary certificate</common:Name>
+        </structure:Code>
+        <structure:Code id="48" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).48">
+          <common:Name xml:lang="it">laurea (4-6 anni) del vecchio ordinamento, laurea specialistica o magistrale a ciclo unico del nuovo ordinamento, laurea biennale specialistica (di II livello) del nuovo ordinamento</common:Name>
+          <common:Name xml:lang="en">long university degree (old programme), long degree (new programme), second degree (new programme)</common:Name>
+        </structure:Code>
+        <structure:Code id="PSE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).PSE">
+          <common:Name xml:lang="it">licenza di scuola elementare</common:Name>
+          <common:Name xml:lang="en">final assessment (primary school)</common:Name>
+        </structure:Code>
+        <structure:Code id="59" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).59">
+          <common:Name xml:lang="it">master I livello</common:Name>
+          <common:Name xml:lang="en">first level master degree</common:Name>
+        </structure:Code>
+        <structure:Code id="7" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).7">
+          <common:Name xml:lang="it">diploma</common:Name>
+          <common:Name xml:lang="en">upper and post secondary</common:Name>
+        </structure:Code>
+        <structure:Code id="NP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).NP">
+          <common:Name xml:lang="it">licenza di scuola elementare, nessun titolo di studio</common:Name>
+          <common:Name xml:lang="en">no educational degree, final assessment (Primary school)</common:Name>
+        </structure:Code>
+        <structure:Code id="2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).2">
+          <common:Name xml:lang="it">licenza di scuola elementare</common:Name>
+          <common:Name xml:lang="en">primary school certificate</common:Name>
+        </structure:Code>
+        <structure:Code id="10" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).10">
+          <common:Name xml:lang="it">post-laurea</common:Name>
+          <common:Name xml:lang="en">advanced research qualification ( e.g. a ph.d.)</common:Name>
+        </structure:Code>
+        <structure:Code id="25" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).25">
+          <common:Name xml:lang="it">diploma di istruzione secondaria superiore (scolastica ed extrascolastica) che non permette l'accesso all'università</common:Name>
+          <common:Name xml:lang="en">diploma of upper secondary education (scholastic and extrascholastic) which does not allow access to the university</common:Name>
+        </structure:Code>
+        <structure:Code id="57" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).57">
+          <common:Name xml:lang="it">titoli di studio post-laurea o post-diploma A.F.A.M.</common:Name>
+          <common:Name xml:lang="en">with post-university specialization or  post-diploma AFAM</common:Name>
+        </structure:Code>
+        <structure:Code id="37" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).37">
+          <common:Name xml:lang="it">diploma di istituto d'arte</common:Name>
+          <common:Name xml:lang="en">institute of arts diploma</common:Name>
+        </structure:Code>
+        <structure:Code id="USE_IF" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).USE_IF">
+          <common:Name xml:lang="it">diploma di istruzione secondaria di II grado o di qualifica professionale (corso di 3-4 anni) compresi IFTS</common:Name>
+          <common:Name xml:lang="en">diploma of upper secondary education and Certification of higher technical specialisation</common:Name>
+        </structure:Code>
+        <structure:Code id="67" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).67">
+          <common:Name xml:lang="it">diploma di 2-3 anni (qualifica professionale) o diploma di scuola secondaria superiore (4-5  anni)</common:Name>
+          <common:Name xml:lang="en">upper secondary school certificate or diploma of upper secondary education (4-5 years)</common:Name>
+        </structure:Code>
+        <structure:Code id="ALL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).ALL">
+          <common:Name xml:lang="it">totale</common:Name>
+          <common:Name xml:lang="en">total</common:Name>
+        </structure:Code>
+        <structure:Code id="4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).4">
+          <common:Name xml:lang="it">licenza di scuola media</common:Name>
+          <common:Name xml:lang="en">lower secondary school certificate</common:Name>
+        </structure:Code>
+        <structure:Code id="43" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).43">
+          <common:Name xml:lang="it">diploma accademico A.F.A.M. I livello</common:Name>
+          <common:Name xml:lang="en">afam first level academic diploma</common:Name>
+        </structure:Code>
+        <structure:Code id="71" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).71">
+          <common:Name xml:lang="it">dottorato di ricerca o specializzazione post-laurea</common:Name>
+          <common:Name xml:lang="en">completion of a PhD programme</common:Name>
+        </structure:Code>
+        <structure:Code id="3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).3">
+          <common:Name xml:lang="it">licenza di scuola elementare, nessun titolo di studio</common:Name>
+          <common:Name xml:lang="en">primary school certificate, no educational degree</common:Name>
+        </structure:Code>
+        <structure:Code id="73" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).73">
+          <common:Name xml:lang="it">laurea di II livello</common:Name>
+          <common:Name xml:lang="en">second degree</common:Name>
+        </structure:Code>
+        <structure:Code id="LBNA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).LBNA">
+          <common:Name xml:lang="it">alfabeti privi di titolo di studio</common:Name>
+          <common:Name xml:lang="en">literate but no formal educational attainment</common:Name>
+          <structure:Parent>
+            <Ref id="NED" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="LSE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).LSE">
+          <common:Name xml:lang="it">licenza di scuola media inferiore o di avviamento professionale</common:Name>
+          <common:Name xml:lang="en">diploma of lower secondary education</common:Name>
+        </structure:Code>
+        <structure:Code id="41" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).41">
+          <common:Name xml:lang="it">diploma di accademia di belle arti etc. conservatorio vecchio ordinamento</common:Name>
+          <common:Name xml:lang="en">academy of fine arts diploma,  etc. music conservatory old programme</common:Name>
+        </structure:Code>
+        <structure:Code id="32" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).32">
+          <common:Name xml:lang="it">diploma di scuola secondaria superiore</common:Name>
+          <common:Name xml:lang="en">upper secondary school diploma</common:Name>
+        </structure:Code>
+        <structure:Code id="45" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).45">
+          <common:Name xml:lang="it">laurea triennale o A.F.A.M. di I livello</common:Name>
+          <common:Name xml:lang="en">first degree or afam first level</common:Name>
+        </structure:Code>
+        <structure:Code id="23" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).23">
+          <common:Name xml:lang="it">alfabeta privo di titolo di studio</common:Name>
+          <common:Name xml:lang="en">literate but no formal educational attainment</common:Name>
+        </structure:Code>
+        <structure:Code id="42" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).42">
+          <common:Name xml:lang="it">diploma universitario (2-3 anni) del vecchio ordinamento (incluse le scuole dirette e a fini speciali o parauniversitarie)</common:Name>
+          <common:Name xml:lang="en">short university degree (old programme)</common:Name>
+        </structure:Code>
+        <structure:Code id="USG" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).USG">
+          <common:Name xml:lang="it">diploma di maturità / diploma di istruzione secondaria di II grado di 4-5 anni (che permette l'iscrizione all'università)</common:Name>
+          <common:Name xml:lang="en">diploma of upper secondary education (4-5 years)</common:Name>
+        </structure:Code>
+        <structure:Code id="29" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).29">
+          <common:Name xml:lang="it">licenza di scuola media inferiore o di avviamento professionale</common:Name>
+          <common:Name xml:lang="en">diploma of lower secondary education</common:Name>
+        </structure:Code>
+        <structure:Code id="61" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).61">
+          <common:Name xml:lang="it">scuola di specializzazione</common:Name>
+          <common:Name xml:lang="en">specialisation degree</common:Name>
+        </structure:Code>
+        <structure:Code id="66" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).66">
+          <common:Name xml:lang="it">altro tipo di qualifica</common:Name>
+          <common:Name xml:lang="en">other qualifications</common:Name>
+        </structure:Code>
+        <structure:Code id="22" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).22">
+          <common:Name xml:lang="it">analfabeta</common:Name>
+          <common:Name xml:lang="en">illiterate</common:Name>
+        </structure:Code>
+        <structure:Code id="40" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).40">
+          <common:Name xml:lang="it">diploma di liceo (classico, scientifico, ecc.)</common:Name>
+          <common:Name xml:lang="en">diploma of upper secondary education (classical studies, scientific studies, etc.)</common:Name>
+        </structure:Code>
+        <structure:Code id="18" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).18">
+          <common:Name xml:lang="it">laurea o diploma universitario agrario</common:Name>
+          <common:Name xml:lang="en">university degree or diploma with agricultural address</common:Name>
+          <structure:Parent>
+            <Ref id="9" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="38" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).38">
+          <common:Name xml:lang="it">diploma di istituto tecnico</common:Name>
+          <common:Name xml:lang="en">technical institute diploma</common:Name>
+        </structure:Code>
+        <structure:Code id="21" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).21">
+          <common:Name xml:lang="it">laurea o diploma universitario</common:Name>
+          <common:Name xml:lang="en">university degree or diploma</common:Name>
+        </structure:Code>
+        <structure:Code id="12" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).12">
+          <common:Name xml:lang="it">licenza di scuola elementare e media</common:Name>
+          <common:Name xml:lang="en">primary and lower secondary school certificate</common:Name>
+        </structure:Code>
+        <structure:Code id="8" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).8">
+          <common:Name xml:lang="it">diploma e oltre</common:Name>
+          <common:Name xml:lang="en">upper secondary school certificate and higher</common:Name>
+        </structure:Code>
+        <structure:Code id="76" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).76">
+          <common:Name xml:lang="it">diploma universitario (2-3 anni) del vecchio ordinamento/laurea di I livello</common:Name>
+          <common:Name xml:lang="en">short university degree (old programme)/first degree</common:Name>
+        </structure:Code>
+        <structure:Code id="5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).5">
+          <common:Name xml:lang="it">diploma 2-3 anni (qualifica professionale)</common:Name>
+          <common:Name xml:lang="en">upper secondary school certificate</common:Name>
+        </structure:Code>
+        <structure:Code id="14" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).14">
+          <common:Name xml:lang="it">diploma di qualifica (2-3 anni) agrario</common:Name>
+          <common:Name xml:lang="en">upper secondary school certificate with agricultural address</common:Name>
+          <structure:Parent>
+            <Ref id="5" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="15" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).15">
+          <common:Name xml:lang="it">diploma di qualifica (2-3 anni) diverso da agrario</common:Name>
+          <common:Name xml:lang="en">upper secondary school certificate different from agricultural address</common:Name>
+          <structure:Parent>
+            <Ref id="5" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="28" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).28">
+          <common:Name xml:lang="it">laurea o diploma universitario o diploma accademico</common:Name>
+          <common:Name xml:lang="en">university degree or bachelor degree or master degree</common:Name>
+        </structure:Code>
+        <structure:Code id="BL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).BL">
+          <common:Name xml:lang="it">diploma di tecnico superiore ITS o titolo di studio terziario di primo livello</common:Name>
+          <common:Name xml:lang="en">bachelor's degree or first level academic diploma; Diploma of Higher Technical; University Diploma</common:Name>
+        </structure:Code>
+        <structure:Code id="62" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).62">
+          <common:Name xml:lang="it">dottorato di ricerca</common:Name>
+          <common:Name xml:lang="en">research doctoral degree</common:Name>
+        </structure:Code>
+        <structure:Code id="19" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).19">
+          <common:Name xml:lang="it">laurea o diploma universitario non agrario</common:Name>
+          <common:Name xml:lang="en">university degree or diploma with other type</common:Name>
+          <structure:Parent>
+            <Ref id="9" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="70" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).70">
+          <common:Name xml:lang="it">master universitario di primo o secondo livello</common:Name>
+          <common:Name xml:lang="en">first or second level master degree</common:Name>
+        </structure:Code>
+        <structure:Code id="6" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).6">
+          <common:Name xml:lang="it">diploma 4-5 anni (maturità)</common:Name>
+          <common:Name xml:lang="en">post secondary school certificate</common:Name>
+        </structure:Code>
+        <structure:Code id="16" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).16">
+          <common:Name xml:lang="it">diploma di scuola media superiore  agrario</common:Name>
+          <common:Name xml:lang="en">post secondary school certificate with agricultural address</common:Name>
+          <structure:Parent>
+            <Ref id="6" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="17" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).17">
+          <common:Name xml:lang="it">diploma di scuola media superiore diverso  agrario</common:Name>
+          <common:Name xml:lang="en">post secondary school certificate different from agricultural address</common:Name>
+          <structure:Parent>
+            <Ref id="6" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="60" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).60">
+          <common:Name xml:lang="it">master II livello</common:Name>
+          <common:Name xml:lang="en">second level master degree</common:Name>
+        </structure:Code>
+        <structure:Code id="44" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).44">
+          <common:Name xml:lang="it">laurea triennale</common:Name>
+          <common:Name xml:lang="en">first degree (new programme)</common:Name>
+        </structure:Code>
+        <structure:Code id="CLF_ML" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).CLF_ML">
+          <common:Name xml:lang="it">laurea o diploma universitario</common:Name>
+          <common:Name xml:lang="en">university diploma, bachelor's degree, master's degree, academy Conservatory old programme</common:Name>
+        </structure:Code>
+        <structure:Code id="68" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).68">
+          <common:Name xml:lang="it">titolo universitario</common:Name>
+          <common:Name xml:lang="en">university qualification</common:Name>
+        </structure:Code>
+        <structure:Code id="46" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).46">
+          <common:Name xml:lang="it">diploma accademico A.F.A.M. II livello</common:Name>
+          <common:Name xml:lang="en">afam second level academic diploma</common:Name>
+        </structure:Code>
+        <structure:Code id="ML_RDD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).ML_RDD">
+          <common:Name xml:lang="it">titolo di studio terziario di secondo livello e dottorato di ricerca</common:Name>
+          <common:Name xml:lang="en">master's degree or second level academic diploma and Research Doctorate (PhD)</common:Name>
+        </structure:Code>
+        <structure:Code id="ML" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).ML">
+          <common:Name xml:lang="it">titolo di studio terziario di secondo livello</common:Name>
+          <common:Name xml:lang="en">master's degree or second level academic diploma (and Academy Conservatory old programme)</common:Name>
+          <structure:Parent>
+            <Ref id="ML_RDD" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="RDD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).RDD">
+          <common:Name xml:lang="it">dottorato di ricerca/diploma accademico di formazione alla ricerca</common:Name>
+          <common:Name xml:lang="en">Research Doctorate (PhD)/ Advanced research academic diploma</common:Name>
+          <structure:Parent>
+            <Ref id="ML_RDD" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="49" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).49">
+          <common:Name xml:lang="it">dottorato di ricerca</common:Name>
+          <common:Name xml:lang="en">research doctoral degree</common:Name>
+          <structure:Parent>
+            <Ref id="48" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="39" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).39">
+          <common:Name xml:lang="it">diploma di istituto magistrale</common:Name>
+          <common:Name xml:lang="en">teacher institute diploma</common:Name>
+        </structure:Code>
+        <structure:Code id="NRP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TITOLO_STUDIO(3.3).NRP">
+          <common:Name xml:lang="it">non indicato</common:Name>
+          <common:Name xml:lang="en">no response</common:Name>
+        </structure:Code>
+      </structure:Codelist>
+    </structure:Codelists>
+  </message:Structures>
+</message:Structure>

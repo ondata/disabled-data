@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--NSI Web Service v6.16.0-->
+<message:Structure xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:structure="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <message:Header>
+    <message:ID>IDREF140</message:ID>
+    <message:Test>false</message:Test>
+    <message:Prepared>2022-10-09T10:36:14.8815018+02:00</message:Prepared>
+    <message:Sender id="Unknown" />
+    <message:Receiver id="Unknown" />
+  </message:Header>
+  <message:Structures>
+    <structure:Codelists>
+      <structure:Codelist id="CL_ETA1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IT1:CL_ETA1(2.8)" agencyID="IT1" version="2.8" isFinal="true">
+        <common:Name xml:lang="it">Classe di età</common:Name>
+        <common:Name xml:lang="en">Age class</common:Name>
+        <structure:Code id="Y15-62" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y15-62">
+          <common:Name xml:lang="it">15-62 anni</common:Name>
+          <common:Name xml:lang="en">15-62 anni</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE50" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE50">
+          <common:Name xml:lang="it">50 anni e più</common:Name>
+          <common:Name xml:lang="en">50 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y111" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y111">
+          <common:Name xml:lang="it">111 anni</common:Name>
+          <common:Name xml:lang="en">111 years</common:Name>
+        </structure:Code>
+        <structure:Code id="D14-20" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).D14-20">
+          <common:Name xml:lang="it">14-20 giorni</common:Name>
+          <common:Name xml:lang="en">14-20 days</common:Name>
+        </structure:Code>
+        <structure:Code id="Y25" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y25">
+          <common:Name xml:lang="it">25 anni</common:Name>
+          <common:Name xml:lang="en">25 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y11" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y11">
+          <common:Name xml:lang="it">11 anni</common:Name>
+          <common:Name xml:lang="en">11 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y24" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y24">
+          <common:Name xml:lang="it">24 anni</common:Name>
+          <common:Name xml:lang="en">24 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y18-29" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y18-29">
+          <common:Name xml:lang="it">18-29 anni</common:Name>
+          <common:Name xml:lang="en">18-29 years</common:Name>
+        </structure:Code>
+        <structure:Code id="M6" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).M6">
+          <common:Name xml:lang="it">6 mesi</common:Name>
+          <common:Name xml:lang="en">6 months</common:Name>
+        </structure:Code>
+        <structure:Code id="Y50" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y50">
+          <common:Name xml:lang="it">50 anni</common:Name>
+          <common:Name xml:lang="en">50 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y60" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y60">
+          <common:Name xml:lang="it">60 anni</common:Name>
+          <common:Name xml:lang="en">60 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y0-9" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y0-9">
+          <common:Name xml:lang="it">0-9 anni</common:Name>
+          <common:Name xml:lang="en">0-9 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y15-39" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y15-39">
+          <common:Name xml:lang="it">15-39 anni</common:Name>
+          <common:Name xml:lang="en">15-39 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y117" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y117">
+          <common:Name xml:lang="it">117 anni</common:Name>
+          <common:Name xml:lang="en">117 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y18-20" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y18-20">
+          <common:Name xml:lang="it">18-20 anni</common:Name>
+          <common:Name xml:lang="en">18-20 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y91" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y91">
+          <common:Name xml:lang="it">91 anni</common:Name>
+          <common:Name xml:lang="en">91 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y39" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y39">
+          <common:Name xml:lang="it">39 anni</common:Name>
+          <common:Name xml:lang="en">39 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y75-84" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y75-84">
+          <common:Name xml:lang="it">75-84 anni</common:Name>
+          <common:Name xml:lang="en">75-84 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y35-64" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y35-64">
+          <common:Name xml:lang="it">35-64 anni</common:Name>
+          <common:Name xml:lang="en">35-64 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y3">
+          <common:Name xml:lang="it">3 anni</common:Name>
+          <common:Name xml:lang="en">3 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE21" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE21">
+          <common:Name xml:lang="it">21 anni e più</common:Name>
+          <common:Name xml:lang="en">21 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y1-9" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y1-9">
+          <common:Name xml:lang="it">1-9 anni</common:Name>
+          <common:Name xml:lang="en">1-9 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y26-40" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y26-40">
+          <common:Name xml:lang="it">26-40 anni</common:Name>
+          <common:Name xml:lang="en">26-40 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y20" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y20">
+          <common:Name xml:lang="it">20 anni</common:Name>
+          <common:Name xml:lang="en">20 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y11-13" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y11-13">
+          <common:Name xml:lang="it">11-13 anni</common:Name>
+          <common:Name xml:lang="en">11-13 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_UN14" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_UN14">
+          <common:Name xml:lang="it">fino a 14 anni</common:Name>
+          <common:Name xml:lang="en">until 14 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y35-39" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y35-39">
+          <common:Name xml:lang="it">35-39 anni</common:Name>
+          <common:Name xml:lang="en">35-39 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y20-24" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y20-24">
+          <common:Name xml:lang="it">20-24 anni</common:Name>
+          <common:Name xml:lang="en">20-24 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y64" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y64">
+          <common:Name xml:lang="it">64 anni</common:Name>
+          <common:Name xml:lang="en">64 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y40" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y40">
+          <common:Name xml:lang="it">40 anni</common:Name>
+          <common:Name xml:lang="en">40 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y99" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y99">
+          <common:Name xml:lang="it">99 anni</common:Name>
+          <common:Name xml:lang="en">99 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y65-89" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y65-89">
+          <common:Name xml:lang="it">65-89 anni</common:Name>
+          <common:Name xml:lang="en">65-89 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y4-CE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y4-CE">
+          <common:Name xml:lang="it">4-inizio della scuola dell'obbligo</common:Name>
+          <common:Name xml:lang="en">4-starting age of compulsory education</common:Name>
+        </structure:Code>
+        <structure:Code id="Y55" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y55">
+          <common:Name xml:lang="it">55 anni</common:Name>
+          <common:Name xml:lang="en">55 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y6-13" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y6-13">
+          <common:Name xml:lang="it">6-13 anni</common:Name>
+          <common:Name xml:lang="en">6-13 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE85" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE85">
+          <common:Name xml:lang="it">85 anni e più</common:Name>
+          <common:Name xml:lang="en">85 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="D21-27" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).D21-27">
+          <common:Name xml:lang="it">21-27 giorni</common:Name>
+          <common:Name xml:lang="en">21-27 days</common:Name>
+        </structure:Code>
+        <structure:Code id="Y80" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y80">
+          <common:Name xml:lang="it">80 anni</common:Name>
+          <common:Name xml:lang="en">80 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE110" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE110">
+          <common:Name xml:lang="it">110 anni e più</common:Name>
+          <common:Name xml:lang="en">110 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y28-29" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y28-29">
+          <common:Name xml:lang="it">28-29 anni</common:Name>
+          <common:Name xml:lang="en">28-29 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y0" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y0">
+          <common:Name xml:lang="it">0 anni</common:Name>
+          <common:Name xml:lang="en">0 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y41" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y41">
+          <common:Name xml:lang="it">41 anni</common:Name>
+          <common:Name xml:lang="en">41 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y54" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y54">
+          <common:Name xml:lang="it">54 anni</common:Name>
+          <common:Name xml:lang="en">54 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_UN4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_UN4">
+          <common:Name xml:lang="it">fino a 4 anni</common:Name>
+          <common:Name xml:lang="en">until 4 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y16-34" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y16-34">
+          <common:Name xml:lang="it">16-34 anni</common:Name>
+          <common:Name xml:lang="en">16-34 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y33" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y33">
+          <common:Name xml:lang="it">33 anni</common:Name>
+          <common:Name xml:lang="en">33 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y103" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y103">
+          <common:Name xml:lang="it">103 anni</common:Name>
+          <common:Name xml:lang="en">103 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE20" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE20">
+          <common:Name xml:lang="it">20 anni e più</common:Name>
+          <common:Name xml:lang="en">20 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y25-64" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y25-64">
+          <common:Name xml:lang="it">25-64 anni</common:Name>
+          <common:Name xml:lang="en">25-64 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE120" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE120">
+          <common:Name xml:lang="it">120 anni e più</common:Name>
+          <common:Name xml:lang="en">120 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE75" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE75">
+          <common:Name xml:lang="it">75 anni e più</common:Name>
+          <common:Name xml:lang="en">75 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y55-74" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y55-74">
+          <common:Name xml:lang="it">55-74 anni</common:Name>
+          <common:Name xml:lang="en">55-74 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y115" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y115">
+          <common:Name xml:lang="it">115 anni</common:Name>
+          <common:Name xml:lang="en">115 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE25" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE25">
+          <common:Name xml:lang="it">25 anni e più</common:Name>
+          <common:Name xml:lang="en">25 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y113" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y113">
+          <common:Name xml:lang="it">113 anni</common:Name>
+          <common:Name xml:lang="en">113 years</common:Name>
+        </structure:Code>
+        <structure:Code id="NSP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).NSP">
+          <common:Name xml:lang="it">non indicato</common:Name>
+          <common:Name xml:lang="en">no response</common:Name>
+        </structure:Code>
+        <structure:Code id="Y16-24" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y16-24">
+          <common:Name xml:lang="it">16-24 anni</common:Name>
+          <common:Name xml:lang="en">16-24 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y105-109" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y105-109">
+          <common:Name xml:lang="it">105-109 anni</common:Name>
+          <common:Name xml:lang="en">105-109 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y15-34" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y15-34">
+          <common:Name xml:lang="it">15-34 anni</common:Name>
+          <common:Name xml:lang="en">15-34 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_UN25" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_UN25">
+          <common:Name xml:lang="it">fino a 25 anni</common:Name>
+          <common:Name xml:lang="en">until 25 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE30" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE30">
+          <common:Name xml:lang="it">30 anni e più</common:Name>
+          <common:Name xml:lang="en">30 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y50-74" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y50-74">
+          <common:Name xml:lang="it">50-74 anni</common:Name>
+          <common:Name xml:lang="en">50-74 years</common:Name>
+        </structure:Code>
+        <structure:Code id="M8" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).M8">
+          <common:Name xml:lang="it">8 mesi</common:Name>
+          <common:Name xml:lang="en">8 months</common:Name>
+        </structure:Code>
+        <structure:Code id="Y65-74" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y65-74">
+          <common:Name xml:lang="it">65-74 anni</common:Name>
+          <common:Name xml:lang="en">65-74 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y14-19" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y14-19">
+          <common:Name xml:lang="it">14-19 anni</common:Name>
+          <common:Name xml:lang="en">14-19 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y6-9" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y6-9">
+          <common:Name xml:lang="it">6-9 anni</common:Name>
+          <common:Name xml:lang="en">6-9 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y70" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y70">
+          <common:Name xml:lang="it">70 anni</common:Name>
+          <common:Name xml:lang="en">70 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y10" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y10">
+          <common:Name xml:lang="it">10 anni</common:Name>
+          <common:Name xml:lang="en">10 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE14" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE14">
+          <common:Name xml:lang="it">14 anni e più</common:Name>
+          <common:Name xml:lang="en">14 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y84" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y84">
+          <common:Name xml:lang="it">84 anni</common:Name>
+          <common:Name xml:lang="en">84 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y0-5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y0-5">
+          <common:Name xml:lang="it">0-5 anni</common:Name>
+          <common:Name xml:lang="en">0-5 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y36-45" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y36-45">
+          <common:Name xml:lang="it">36-45 anni</common:Name>
+          <common:Name xml:lang="en">36-45 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE1">
+          <common:Name xml:lang="it">1 anno e più</common:Name>
+          <common:Name xml:lang="en">1 year and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y116" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y116">
+          <common:Name xml:lang="it">116 anni</common:Name>
+          <common:Name xml:lang="en">16 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y11-24" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y11-24">
+          <common:Name xml:lang="it">11-24 anni</common:Name>
+          <common:Name xml:lang="en">11-24 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y71" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y71">
+          <common:Name xml:lang="it">71 anni</common:Name>
+          <common:Name xml:lang="en">71 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y97" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y97">
+          <common:Name xml:lang="it">97 anni</common:Name>
+          <common:Name xml:lang="en">97 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y92" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y92">
+          <common:Name xml:lang="it">92 anni</common:Name>
+          <common:Name xml:lang="en">92 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y15-49" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y15-49">
+          <common:Name xml:lang="it">15-49 anni</common:Name>
+          <common:Name xml:lang="en">15-49 years</common:Name>
+        </structure:Code>
+        <structure:Code id="M3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).M3">
+          <common:Name xml:lang="it">3 mesi</common:Name>
+          <common:Name xml:lang="en">3 months</common:Name>
+        </structure:Code>
+        <structure:Code id="Y114" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y114">
+          <common:Name xml:lang="it">114 anni</common:Name>
+          <common:Name xml:lang="en">114 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_UN24" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_UN24">
+          <common:Name xml:lang="it">fino a 24 anni</common:Name>
+          <common:Name xml:lang="en">until 24 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y9-24" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y9-24">
+          <common:Name xml:lang="it">9-24 anni</common:Name>
+          <common:Name xml:lang="en">9-24 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_UN5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_UN5">
+          <common:Name xml:lang="it">fino a 5 anni</common:Name>
+          <common:Name xml:lang="en">until 5 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y101" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y101">
+          <common:Name xml:lang="it">101 anni</common:Name>
+          <common:Name xml:lang="en">101 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE76" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE76">
+          <common:Name xml:lang="it">76 anni e più</common:Name>
+          <common:Name xml:lang="en">76 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y8" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y8">
+          <common:Name xml:lang="it">8 anni</common:Name>
+          <common:Name xml:lang="en">8 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y16" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y16">
+          <common:Name xml:lang="it">16 anni</common:Name>
+          <common:Name xml:lang="en">16 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_UN17" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_UN17">
+          <common:Name xml:lang="it">fino a 17 anni</common:Name>
+          <common:Name xml:lang="en">until 17 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y35-49" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y35-49">
+          <common:Name xml:lang="it">35-49 anni</common:Name>
+          <common:Name xml:lang="en">35-49 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE15" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE15">
+          <common:Name xml:lang="it">15 anni e più</common:Name>
+          <common:Name xml:lang="en">15 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y109" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y109">
+          <common:Name xml:lang="it">109 anni</common:Name>
+          <common:Name xml:lang="en">109 years</common:Name>
+        </structure:Code>
+        <structure:Code id="M0" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).M0">
+          <common:Name xml:lang="it">0 mesi</common:Name>
+          <common:Name xml:lang="en">0 months</common:Name>
+        </structure:Code>
+        <structure:Code id="Y30-54" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y30-54">
+          <common:Name xml:lang="it">30-54 anni</common:Name>
+          <common:Name xml:lang="en">30-54 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y15-74" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y15-74">
+          <common:Name xml:lang="it">15-74 anni</common:Name>
+          <common:Name xml:lang="en">15-74 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y42" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y42">
+          <common:Name xml:lang="it">42 anni</common:Name>
+          <common:Name xml:lang="en">42 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y25-49" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y25-49">
+          <common:Name xml:lang="it">25-49 anni</common:Name>
+          <common:Name xml:lang="en">25-49 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE55" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE55">
+          <common:Name xml:lang="it">55 anni e più</common:Name>
+          <common:Name xml:lang="en">55 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y110-114" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y110-114">
+          <common:Name xml:lang="it">110-114 anni</common:Name>
+          <common:Name xml:lang="en">110-114 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y32" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y32">
+          <common:Name xml:lang="it">32 anni</common:Name>
+          <common:Name xml:lang="en">32 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y2">
+          <common:Name xml:lang="it">2 anni</common:Name>
+          <common:Name xml:lang="en">2 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y7" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y7">
+          <common:Name xml:lang="it">7 anni</common:Name>
+          <common:Name xml:lang="en">7 years</common:Name>
+        </structure:Code>
+        <structure:Code id="UNK" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).UNK">
+          <common:Name xml:lang="it">imprecisata</common:Name>
+          <common:Name xml:lang="en">age unknown</common:Name>
+        </structure:Code>
+        <structure:Code id="M9" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).M9">
+          <common:Name xml:lang="it">9 mesi</common:Name>
+          <common:Name xml:lang="en">9 months</common:Name>
+        </structure:Code>
+        <structure:Code id="Y30-44" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y30-44">
+          <common:Name xml:lang="it">30-44 anni</common:Name>
+          <common:Name xml:lang="en">30-44 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE60" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE60">
+          <common:Name xml:lang="it">60 anni e più</common:Name>
+          <common:Name xml:lang="en">60 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE3">
+          <common:Name xml:lang="it">3 anni e più</common:Name>
+          <common:Name xml:lang="en">3 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="M7" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).M7">
+          <common:Name xml:lang="it">7 mesi</common:Name>
+          <common:Name xml:lang="en">7 months</common:Name>
+        </structure:Code>
+        <structure:Code id="Y30-34" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y30-34">
+          <common:Name xml:lang="it">30-34 anni</common:Name>
+          <common:Name xml:lang="en">30-34 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y105" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y105">
+          <common:Name xml:lang="it">105 anni</common:Name>
+          <common:Name xml:lang="en">105 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE90" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE90">
+          <common:Name xml:lang="it">90 anni e più</common:Name>
+          <common:Name xml:lang="en">90 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y47" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y47">
+          <common:Name xml:lang="it">47 anni</common:Name>
+          <common:Name xml:lang="en">47 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y25-44" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y25-44">
+          <common:Name xml:lang="it">25-44 anni</common:Name>
+          <common:Name xml:lang="en">25-44 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y40-49" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y40-49">
+          <common:Name xml:lang="it">40-49 anni</common:Name>
+          <common:Name xml:lang="en">40-49 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y66" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y66">
+          <common:Name xml:lang="it">66 anni</common:Name>
+          <common:Name xml:lang="en">66 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y6" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y6">
+          <common:Name xml:lang="it">6 anni</common:Name>
+          <common:Name xml:lang="en">6 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y15-44" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y15-44">
+          <common:Name xml:lang="it">15-44 anni</common:Name>
+          <common:Name xml:lang="en">15-44 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE56" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE56">
+          <common:Name xml:lang="it">56 anni e più</common:Name>
+          <common:Name xml:lang="en">56 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y87" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y87">
+          <common:Name xml:lang="it">87 anni</common:Name>
+          <common:Name xml:lang="en">87 years</common:Name>
+        </structure:Code>
+        <structure:Code id="M2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).M2">
+          <common:Name xml:lang="it">2 mesi</common:Name>
+          <common:Name xml:lang="en">2 months</common:Name>
+        </structure:Code>
+        <structure:Code id="Y21-24" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y21-24">
+          <common:Name xml:lang="it">21-24 anni</common:Name>
+          <common:Name xml:lang="en">21-24 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y65-84" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y65-84">
+          <common:Name xml:lang="it">65-84 anni</common:Name>
+          <common:Name xml:lang="en">65-84 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_UN19" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_UN19">
+          <common:Name xml:lang="it">fino a 19 anni</common:Name>
+          <common:Name xml:lang="en">until 19 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y37" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y37">
+          <common:Name xml:lang="it">37 anni</common:Name>
+          <common:Name xml:lang="en">37 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y22-24" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y22-24">
+          <common:Name xml:lang="it">22-24 anni</common:Name>
+          <common:Name xml:lang="en">22-24 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y6-16" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y6-16">
+          <common:Name xml:lang="it">6-16 anni</common:Name>
+          <common:Name xml:lang="en">6-16 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y56" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y56">
+          <common:Name xml:lang="it">56 anni</common:Name>
+          <common:Name xml:lang="en">56 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y58" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y58">
+          <common:Name xml:lang="it">58 anni</common:Name>
+          <common:Name xml:lang="en">58 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE22" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE22">
+          <common:Name xml:lang="it">22 anni e più</common:Name>
+          <common:Name xml:lang="en">22 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y1">
+          <common:Name xml:lang="it">1 anni</common:Name>
+          <common:Name xml:lang="en">1 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y38" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y38">
+          <common:Name xml:lang="it">38 anni</common:Name>
+          <common:Name xml:lang="en">38 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y45-49" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y45-49">
+          <common:Name xml:lang="it">45-49 anni</common:Name>
+          <common:Name xml:lang="en">45-49 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y23" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y23">
+          <common:Name xml:lang="it">23 anni</common:Name>
+          <common:Name xml:lang="en">23 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y50-54" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y50-54">
+          <common:Name xml:lang="it">50-54 anni</common:Name>
+          <common:Name xml:lang="en">50-54 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y15-89" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y15-89">
+          <common:Name xml:lang="it">15-89 anni</common:Name>
+          <common:Name xml:lang="en">15-89 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y44" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y44">
+          <common:Name xml:lang="it">44 anni</common:Name>
+          <common:Name xml:lang="en">44 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y41-55" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y41-55">
+          <common:Name xml:lang="it">41-55 anni</common:Name>
+          <common:Name xml:lang="en">41-55 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y80-89" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y80-89">
+          <common:Name xml:lang="it">80-89 anni</common:Name>
+          <common:Name xml:lang="en">80-89 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y25-34" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y25-34">
+          <common:Name xml:lang="it">25-34 anni</common:Name>
+          <common:Name xml:lang="en">25-34 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y17" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y17">
+          <common:Name xml:lang="it">17 anni</common:Name>
+          <common:Name xml:lang="en">17 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y30" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y30">
+          <common:Name xml:lang="it">30 anni</common:Name>
+          <common:Name xml:lang="en">30 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_UN18" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_UN18">
+          <common:Name xml:lang="it">fino a 18 anni</common:Name>
+          <common:Name xml:lang="en">until 18 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y82" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y82">
+          <common:Name xml:lang="it">82 anni</common:Name>
+          <common:Name xml:lang="en">82 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y77" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y77">
+          <common:Name xml:lang="it">77 anni</common:Name>
+          <common:Name xml:lang="en">77 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y67" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y67">
+          <common:Name xml:lang="it">67 anni</common:Name>
+          <common:Name xml:lang="en">67 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE9" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE9">
+          <common:Name xml:lang="it">9 anni e più</common:Name>
+          <common:Name xml:lang="en">9 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y104" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y104">
+          <common:Name xml:lang="it">104 anni</common:Name>
+          <common:Name xml:lang="en">104 years</common:Name>
+        </structure:Code>
+        <structure:Code id="M4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).M4">
+          <common:Name xml:lang="it">4 mesi</common:Name>
+          <common:Name xml:lang="en">4 months</common:Name>
+        </structure:Code>
+        <structure:Code id="Y14-15" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y14-15">
+          <common:Name xml:lang="it">14-15 anni</common:Name>
+          <common:Name xml:lang="en">14-15 years</common:Name>
+        </structure:Code>
+        <structure:Code id="NDIV" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).NDIV">
+          <common:Name xml:lang="it">non ripartibili</common:Name>
+          <common:Name xml:lang="en">not divisible</common:Name>
+        </structure:Code>
+        <structure:Code id="Y6-10" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y6-10">
+          <common:Name xml:lang="it">6-10 anni</common:Name>
+          <common:Name xml:lang="en">6-10 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y21" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y21">
+          <common:Name xml:lang="it">21 anni</common:Name>
+          <common:Name xml:lang="en">21 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y1-4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y1-4">
+          <common:Name xml:lang="it">1-4 anni</common:Name>
+          <common:Name xml:lang="en">1-4 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y40-44" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y40-44">
+          <common:Name xml:lang="it">40-44 anni</common:Name>
+          <common:Name xml:lang="en">40-44 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y15-29" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y15-29">
+          <common:Name xml:lang="it">15-29 anni</common:Name>
+          <common:Name xml:lang="en">15-29 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y16-70" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y16-70">
+          <common:Name xml:lang="it">16-70 anni</common:Name>
+          <common:Name xml:lang="en">16-70 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y69" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y69">
+          <common:Name xml:lang="it">69 anni</common:Name>
+          <common:Name xml:lang="en">69 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y31" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y31">
+          <common:Name xml:lang="it">31 anni</common:Name>
+          <common:Name xml:lang="en">31 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y56-65" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y56-65">
+          <common:Name xml:lang="it">56-65 anni</common:Name>
+          <common:Name xml:lang="en">56-65 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y76" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y76">
+          <common:Name xml:lang="it">76 anni</common:Name>
+          <common:Name xml:lang="en">76 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y93" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y93">
+          <common:Name xml:lang="it">93 anni</common:Name>
+          <common:Name xml:lang="en">93 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y74" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y74">
+          <common:Name xml:lang="it">74 anni</common:Name>
+          <common:Name xml:lang="en">74 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y60-74" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y60-74">
+          <common:Name xml:lang="it">60-74 anni</common:Name>
+          <common:Name xml:lang="en">60-74 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE16" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE16">
+          <common:Name xml:lang="it">16 anni e più</common:Name>
+          <common:Name xml:lang="en">16 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y75" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y75">
+          <common:Name xml:lang="it">75 anni</common:Name>
+          <common:Name xml:lang="en">75 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y51" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y51">
+          <common:Name xml:lang="it">51 anni</common:Name>
+          <common:Name xml:lang="en">51 years</common:Name>
+        </structure:Code>
+        <structure:Code id="M11" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).M11">
+          <common:Name xml:lang="it">11 mesi</common:Name>
+          <common:Name xml:lang="en">11 months</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE0" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE0">
+          <common:Name xml:lang="it">0 anni e più</common:Name>
+          <common:Name xml:lang="en">0 year and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y18-24" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y18-24">
+          <common:Name xml:lang="it">18-24 anni</common:Name>
+          <common:Name xml:lang="en">18-24 years</common:Name>
+        </structure:Code>
+        <structure:Code id="D1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).D1">
+          <common:Name xml:lang="it">1 giorno</common:Name>
+          <common:Name xml:lang="en">1 day</common:Name>
+        </structure:Code>
+        <structure:Code id="Y45-54" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y45-54">
+          <common:Name xml:lang="it">45-54 anni</common:Name>
+          <common:Name xml:lang="en">45-54 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y13" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y13">
+          <common:Name xml:lang="it">13 anni</common:Name>
+          <common:Name xml:lang="en">13 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y22" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y22">
+          <common:Name xml:lang="it">22 anni</common:Name>
+          <common:Name xml:lang="en">22 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y20-64" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y20-64">
+          <common:Name xml:lang="it">20-64 anni</common:Name>
+          <common:Name xml:lang="en">20-64 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y45-64" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y45-64">
+          <common:Name xml:lang="it">45-64 anni</common:Name>
+          <common:Name xml:lang="en">45-64 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y60-62" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y60-62">
+          <common:Name xml:lang="it">60-62 anni</common:Name>
+          <common:Name xml:lang="en">60-62 years</common:Name>
+        </structure:Code>
+        <structure:Code id="D0" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).D0">
+          <common:Name xml:lang="it">0 giorni</common:Name>
+          <common:Name xml:lang="en">0 days</common:Name>
+        </structure:Code>
+        <structure:Code id="M5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).M5">
+          <common:Name xml:lang="it">5 mesi</common:Name>
+          <common:Name xml:lang="en">5 months</common:Name>
+        </structure:Code>
+        <structure:Code id="Y75-79" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y75-79">
+          <common:Name xml:lang="it">75-79 anni</common:Name>
+          <common:Name xml:lang="en">75-79 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y50-64" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y50-64">
+          <common:Name xml:lang="it">50-64 anni</common:Name>
+          <common:Name xml:lang="en">50-64 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y28" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y28">
+          <common:Name xml:lang="it">28 anni</common:Name>
+          <common:Name xml:lang="en">28 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE45" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE45">
+          <common:Name xml:lang="it">45 anni e più</common:Name>
+          <common:Name xml:lang="en">45 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y16-44" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y16-44">
+          <common:Name xml:lang="it">16-44 anni</common:Name>
+          <common:Name xml:lang="en">16-44 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y115-119" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y115-119">
+          <common:Name xml:lang="it">115-119 anni</common:Name>
+          <common:Name xml:lang="en">115-119 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y65-69" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y65-69">
+          <common:Name xml:lang="it">65-69 anni</common:Name>
+          <common:Name xml:lang="en">65-69 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE19" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE19">
+          <common:Name xml:lang="it">19 anni e più</common:Name>
+          <common:Name xml:lang="en">19 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y70-74" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y70-74">
+          <common:Name xml:lang="it">70-74 anni</common:Name>
+          <common:Name xml:lang="en">70-74 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y90" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y90">
+          <common:Name xml:lang="it">90 anni</common:Name>
+          <common:Name xml:lang="en">90 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y3-5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y3-5">
+          <common:Name xml:lang="it">3-5 anni</common:Name>
+          <common:Name xml:lang="en">3-5 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y61" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y61">
+          <common:Name xml:lang="it">61 anni</common:Name>
+          <common:Name xml:lang="en">61 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y16-17" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y16-17">
+          <common:Name xml:lang="it">16-17 anni</common:Name>
+          <common:Name xml:lang="en">16-17 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y85-89" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y85-89">
+          <common:Name xml:lang="it">85-89 anni</common:Name>
+          <common:Name xml:lang="en">85-89 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y27" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y27">
+          <common:Name xml:lang="it">27 anni</common:Name>
+          <common:Name xml:lang="en">27 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_UN1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_UN1">
+          <common:Name xml:lang="it">fino a 1 anno</common:Name>
+          <common:Name xml:lang="en">until 1 year</common:Name>
+        </structure:Code>
+        <structure:Code id="Y60-64" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y60-64">
+          <common:Name xml:lang="it">60-64 anni</common:Name>
+          <common:Name xml:lang="en">60-64 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y95-99" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y95-99">
+          <common:Name xml:lang="it">95-99 anni</common:Name>
+          <common:Name xml:lang="en">95-99 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y10-14" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y10-14">
+          <common:Name xml:lang="it">10-14 anni</common:Name>
+          <common:Name xml:lang="en">10-14 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y112" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y112">
+          <common:Name xml:lang="it">112 anni</common:Name>
+          <common:Name xml:lang="en">112 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_UN29" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_UN29">
+          <common:Name xml:lang="it">fino a 29 anni</common:Name>
+          <common:Name xml:lang="en">until 29 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y107" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y107">
+          <common:Name xml:lang="it">107 anni</common:Name>
+          <common:Name xml:lang="en">107 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y29" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y29">
+          <common:Name xml:lang="it">29 anni</common:Name>
+          <common:Name xml:lang="en">29 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y40-64" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y40-64">
+          <common:Name xml:lang="it">40-64 anni</common:Name>
+          <common:Name xml:lang="en">40-64 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y18-49" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y18-49">
+          <common:Name xml:lang="it">18-49 anni</common:Name>
+          <common:Name xml:lang="en">18-49 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y5-9" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y5-9">
+          <common:Name xml:lang="it">5-9 anni</common:Name>
+          <common:Name xml:lang="en">5-9 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y35-44" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y35-44">
+          <common:Name xml:lang="it">35-44 anni</common:Name>
+          <common:Name xml:lang="en">35-44 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_UN20" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_UN20">
+          <common:Name xml:lang="it">fino a 20 anni</common:Name>
+          <common:Name xml:lang="en">until 20 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y19" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y19">
+          <common:Name xml:lang="it">19 anni</common:Name>
+          <common:Name xml:lang="en">19 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y65" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y65">
+          <common:Name xml:lang="it">65 anni</common:Name>
+          <common:Name xml:lang="en">65 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y16-19" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y16-19">
+          <common:Name xml:lang="it">16-19 anni</common:Name>
+          <common:Name xml:lang="en">16-19 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y70-79" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y70-79">
+          <common:Name xml:lang="it">70-79 anni</common:Name>
+          <common:Name xml:lang="en">70-79 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y35-54" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y35-54">
+          <common:Name xml:lang="it">35-54 anni</common:Name>
+          <common:Name xml:lang="en">35-54 years</common:Name>
+        </structure:Code>
+        <structure:Code id="UNAV" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).UNAV">
+          <common:Name xml:lang="it">non disponibile</common:Name>
+          <common:Name xml:lang="en">unavailable</common:Name>
+        </structure:Code>
+        <structure:Code id="Y88" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y88">
+          <common:Name xml:lang="it">88 anni</common:Name>
+          <common:Name xml:lang="en">88 years</common:Name>
+        </structure:Code>
+        <structure:Code id="D0-6" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).D0-6">
+          <common:Name xml:lang="it">0-6 giorni</common:Name>
+          <common:Name xml:lang="en">0-6 days</common:Name>
+        </structure:Code>
+        <structure:Code id="D6" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).D6">
+          <common:Name xml:lang="it">6 giorni</common:Name>
+          <common:Name xml:lang="en">6 days</common:Name>
+        </structure:Code>
+        <structure:Code id="Y18-39" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y18-39">
+          <common:Name xml:lang="it">18-39 anni</common:Name>
+          <common:Name xml:lang="en">18-39 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y36" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y36">
+          <common:Name xml:lang="it">36 anni</common:Name>
+          <common:Name xml:lang="en">36 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y4">
+          <common:Name xml:lang="it">4 anni</common:Name>
+          <common:Name xml:lang="en">4 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y45" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y45">
+          <common:Name xml:lang="it">45 anni</common:Name>
+          <common:Name xml:lang="en">45 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y73" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y73">
+          <common:Name xml:lang="it">73 anni</common:Name>
+          <common:Name xml:lang="en">73 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y65-70" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y65-70">
+          <common:Name xml:lang="it">65-70 anni</common:Name>
+          <common:Name xml:lang="en">65-70 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y53" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y53">
+          <common:Name xml:lang="it">53 anni</common:Name>
+          <common:Name xml:lang="en">53 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y5">
+          <common:Name xml:lang="it">5 anni</common:Name>
+          <common:Name xml:lang="en">5 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y48" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y48">
+          <common:Name xml:lang="it">48 anni</common:Name>
+          <common:Name xml:lang="en">48 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y119" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y119">
+          <common:Name xml:lang="it">119 anni</common:Name>
+          <common:Name xml:lang="en">119 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y18-34" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y18-34">
+          <common:Name xml:lang="it">18-34 anni</common:Name>
+          <common:Name xml:lang="en">18-34 years</common:Name>
+        </structure:Code>
+        <structure:Code id="D5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).D5">
+          <common:Name xml:lang="it">5 giorni</common:Name>
+          <common:Name xml:lang="en">5 days</common:Name>
+        </structure:Code>
+        <structure:Code id="Y11-14" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y11-14">
+          <common:Name xml:lang="it">11-14 anni</common:Name>
+          <common:Name xml:lang="en">11-14 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y52" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y52">
+          <common:Name xml:lang="it">52 anni</common:Name>
+          <common:Name xml:lang="en">52 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y18-19" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y18-19">
+          <common:Name xml:lang="it">18-19 anni</common:Name>
+          <common:Name xml:lang="en">18-19 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y6-44" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y6-44">
+          <common:Name xml:lang="it">6-44 anni</common:Name>
+          <common:Name xml:lang="en">6-44 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE80" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE80">
+          <common:Name xml:lang="it">80 anni e più</common:Name>
+          <common:Name xml:lang="en">80 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y15-16" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y15-16">
+          <common:Name xml:lang="it">15-16 anni</common:Name>
+          <common:Name xml:lang="en">15-16 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y90-94" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y90-94">
+          <common:Name xml:lang="it">90-94 anni</common:Name>
+          <common:Name xml:lang="en">90-94 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y6-17" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y6-17">
+          <common:Name xml:lang="it">6-17 anni</common:Name>
+          <common:Name xml:lang="en">6-17 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y19-34" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y19-34">
+          <common:Name xml:lang="it">19-34 anni</common:Name>
+          <common:Name xml:lang="en">19-34 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y19-29" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y19-29">
+          <common:Name xml:lang="it">19-29 anni</common:Name>
+          <common:Name xml:lang="en">19-29 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y110" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y110">
+          <common:Name xml:lang="it">110 anni</common:Name>
+          <common:Name xml:lang="en">110 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y79" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y79">
+          <common:Name xml:lang="it">79 anni</common:Name>
+          <common:Name xml:lang="en">79 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y15-19" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y15-19">
+          <common:Name xml:lang="it">15-19 anni</common:Name>
+          <common:Name xml:lang="en">15-19 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_UN16" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_UN16">
+          <common:Name xml:lang="it">fino a 16 anni</common:Name>
+          <common:Name xml:lang="en">until 16 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y34" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y34">
+          <common:Name xml:lang="it">34 anni</common:Name>
+          <common:Name xml:lang="en">34 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE35" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE35">
+          <common:Name xml:lang="it">35 anni e più</common:Name>
+          <common:Name xml:lang="en">35 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="D28-29" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).D28-29">
+          <common:Name xml:lang="it">28-29 giorni</common:Name>
+          <common:Name xml:lang="en">28-29 days</common:Name>
+        </structure:Code>
+        <structure:Code id="NAP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).NAP">
+          <common:Name xml:lang="it">non applicabile</common:Name>
+          <common:Name xml:lang="en">not applicable</common:Name>
+        </structure:Code>
+        <structure:Code id="Y0-2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y0-2">
+          <common:Name xml:lang="it">0-2 anni</common:Name>
+          <common:Name xml:lang="en">0-2 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y95" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y95">
+          <common:Name xml:lang="it">95 anni</common:Name>
+          <common:Name xml:lang="en">95 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE65" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE65">
+          <common:Name xml:lang="it">65 anni e più</common:Name>
+          <common:Name xml:lang="en">65 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y57" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y57">
+          <common:Name xml:lang="it">57 anni</common:Name>
+          <common:Name xml:lang="en">57 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y0-14" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y0-14">
+          <common:Name xml:lang="it">0-14 anni</common:Name>
+          <common:Name xml:lang="en">0-14 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE66" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE66">
+          <common:Name xml:lang="it">66 anni e più</common:Name>
+          <common:Name xml:lang="en">66 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y68" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y68">
+          <common:Name xml:lang="it">68 anni</common:Name>
+          <common:Name xml:lang="en">68 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y25-29" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y25-29">
+          <common:Name xml:lang="it">25-29 anni</common:Name>
+          <common:Name xml:lang="en">25-29 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y15-64" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y15-64">
+          <common:Name xml:lang="it">15-64 anni</common:Name>
+          <common:Name xml:lang="en">15-64 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE95" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE95">
+          <common:Name xml:lang="it">95 anni e più</common:Name>
+          <common:Name xml:lang="en">95 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y18-64" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y18-64">
+          <common:Name xml:lang="it">18-64 anni</common:Name>
+          <common:Name xml:lang="en">18-64 years</common:Name>
+        </structure:Code>
+        <structure:Code id="M1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).M1">
+          <common:Name xml:lang="it">1 mese</common:Name>
+          <common:Name xml:lang="en">1 month</common:Name>
+        </structure:Code>
+        <structure:Code id="Y9" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y9">
+          <common:Name xml:lang="it">9 anni</common:Name>
+          <common:Name xml:lang="en">9 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y108" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y108">
+          <common:Name xml:lang="it">108 anni</common:Name>
+          <common:Name xml:lang="en">108 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y18" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y18">
+          <common:Name xml:lang="it">18 anni</common:Name>
+          <common:Name xml:lang="en">18 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_UN34" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_UN34">
+          <common:Name xml:lang="it">fino a 34 anni</common:Name>
+          <common:Name xml:lang="en">until 34 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y45-59" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y45-59">
+          <common:Name xml:lang="it">45-59 anni</common:Name>
+          <common:Name xml:lang="en">45-59 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y72" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y72">
+          <common:Name xml:lang="it">72 anni</common:Name>
+          <common:Name xml:lang="en">72 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y35" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y35">
+          <common:Name xml:lang="it">35 anni</common:Name>
+          <common:Name xml:lang="en">35 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y10-13" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y10-13">
+          <common:Name xml:lang="it">10-13 anni</common:Name>
+          <common:Name xml:lang="en">10-13 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y26-35" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y26-35">
+          <common:Name xml:lang="it">26-35 anni</common:Name>
+          <common:Name xml:lang="en">26-35 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_UN13" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_UN13">
+          <common:Name xml:lang="it">fino a 13 anni</common:Name>
+          <common:Name xml:lang="en">until 13 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE6" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE6">
+          <common:Name xml:lang="it">6 anni e più</common:Name>
+          <common:Name xml:lang="en">6 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y18-21" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y18-21">
+          <common:Name xml:lang="it">18-21 anni</common:Name>
+          <common:Name xml:lang="en">18-21 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y20-29" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y20-29">
+          <common:Name xml:lang="it">20-29 anni</common:Name>
+          <common:Name xml:lang="en">20-29 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y80-84" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y80-84">
+          <common:Name xml:lang="it">80-84 anni</common:Name>
+          <common:Name xml:lang="en">80-84 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y14-17" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y14-17">
+          <common:Name xml:lang="it">14-17 anni</common:Name>
+          <common:Name xml:lang="en">14-17 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y100-104" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y100-104">
+          <common:Name xml:lang="it">100-104 anni</common:Name>
+          <common:Name xml:lang="en">100-104 years</common:Name>
+        </structure:Code>
+        <structure:Code id="M10" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).M10">
+          <common:Name xml:lang="it">10 mesi</common:Name>
+          <common:Name xml:lang="en">10 months</common:Name>
+        </structure:Code>
+        <structure:Code id="Y15" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y15">
+          <common:Name xml:lang="it">15 anni</common:Name>
+          <common:Name xml:lang="en">15 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_UN15" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_UN15">
+          <common:Name xml:lang="it">fino a 15 anni</common:Name>
+          <common:Name xml:lang="en">until 15 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y49" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y49">
+          <common:Name xml:lang="it">49 anni</common:Name>
+          <common:Name xml:lang="en">49 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y85" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y85">
+          <common:Name xml:lang="it">85 anni</common:Name>
+          <common:Name xml:lang="en">85 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y63" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y63">
+          <common:Name xml:lang="it">63 anni</common:Name>
+          <common:Name xml:lang="en">63 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y50-59" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y50-59">
+          <common:Name xml:lang="it">50-59 anni</common:Name>
+          <common:Name xml:lang="en">50-59 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE5">
+          <common:Name xml:lang="it">5 anni e più</common:Name>
+          <common:Name xml:lang="en">5 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y89" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y89">
+          <common:Name xml:lang="it">89 anni</common:Name>
+          <common:Name xml:lang="en">89 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y6-24" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y6-24">
+          <common:Name xml:lang="it">6-24 anni</common:Name>
+          <common:Name xml:lang="en">6-24 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y96" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y96">
+          <common:Name xml:lang="it">96 anni</common:Name>
+          <common:Name xml:lang="en">96 years</common:Name>
+        </structure:Code>
+        <structure:Code id="D3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).D3">
+          <common:Name xml:lang="it">3 giorni</common:Name>
+          <common:Name xml:lang="en">3 days</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE70" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE70">
+          <common:Name xml:lang="it">70 anni e più</common:Name>
+          <common:Name xml:lang="en">70 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y12" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y12">
+          <common:Name xml:lang="it">12 anni</common:Name>
+          <common:Name xml:lang="en">12 years</common:Name>
+        </structure:Code>
+        <structure:Code id="D4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).D4">
+          <common:Name xml:lang="it">4 giorni</common:Name>
+          <common:Name xml:lang="en">4 days</common:Name>
+        </structure:Code>
+        <structure:Code id="Y14-24" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y14-24">
+          <common:Name xml:lang="it">14-24 anni</common:Name>
+          <common:Name xml:lang="en">14-24 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_UN3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_UN3">
+          <common:Name xml:lang="it">fino a 3 anni</common:Name>
+          <common:Name xml:lang="en">until 3 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y3-14" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y3-14">
+          <common:Name xml:lang="it">3-14 anni</common:Name>
+          <common:Name xml:lang="en">3-14 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y14" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y14">
+          <common:Name xml:lang="it">14 anni</common:Name>
+          <common:Name xml:lang="en">14 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE18" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE18">
+          <common:Name xml:lang="it">18 anni e più</common:Name>
+          <common:Name xml:lang="en">18 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_UN2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_UN2">
+          <common:Name xml:lang="it">fino a 2 anni</common:Name>
+          <common:Name xml:lang="en">until 2 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y46-55" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y46-55">
+          <common:Name xml:lang="it">46-55 anni</common:Name>
+          <common:Name xml:lang="en">46-55 years</common:Name>
+        </structure:Code>
+        <structure:Code id="TOTAL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).TOTAL">
+          <common:Name xml:lang="it">totale</common:Name>
+          <common:Name xml:lang="en">total</common:Name>
+        </structure:Code>
+        <structure:Code id="Y78" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y78">
+          <common:Name xml:lang="it">78 anni</common:Name>
+          <common:Name xml:lang="en">78 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y50-89" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y50-89">
+          <common:Name xml:lang="it">50-89 anni</common:Name>
+          <common:Name xml:lang="en">50-89 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y86" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y86">
+          <common:Name xml:lang="it">86 anni</common:Name>
+          <common:Name xml:lang="en">86 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y55-64" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y55-64">
+          <common:Name xml:lang="it">55-64 anni</common:Name>
+          <common:Name xml:lang="en">55-64 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y60-69" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y60-69">
+          <common:Name xml:lang="it">60-69 anni</common:Name>
+          <common:Name xml:lang="en">60-69 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y26" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y26">
+          <common:Name xml:lang="it">26 anni</common:Name>
+          <common:Name xml:lang="en">26 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y102" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y102">
+          <common:Name xml:lang="it">102 anni</common:Name>
+          <common:Name xml:lang="en">102 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y30-39" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y30-39">
+          <common:Name xml:lang="it">30-39 anni</common:Name>
+          <common:Name xml:lang="en">30-39 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y81" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y81">
+          <common:Name xml:lang="it">81 anni</common:Name>
+          <common:Name xml:lang="en">81 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y90-99" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y90-99">
+          <common:Name xml:lang="it">90-99 anni</common:Name>
+          <common:Name xml:lang="en">90-99 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y83" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y83">
+          <common:Name xml:lang="it">83 anni</common:Name>
+          <common:Name xml:lang="en">83 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y98" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y98">
+          <common:Name xml:lang="it">98 anni</common:Name>
+          <common:Name xml:lang="en">98 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y43" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y43">
+          <common:Name xml:lang="it">43 anni</common:Name>
+          <common:Name xml:lang="en">43 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y6-14" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y6-14">
+          <common:Name xml:lang="it">6-14 anni</common:Name>
+          <common:Name xml:lang="en">6-14 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y100" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y100">
+          <common:Name xml:lang="it">100 anni</common:Name>
+          <common:Name xml:lang="en">100 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y6-64" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y6-64">
+          <common:Name xml:lang="it">6-64 anni</common:Name>
+          <common:Name xml:lang="en">6-64 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE100" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE100">
+          <common:Name xml:lang="it">100 anni e più</common:Name>
+          <common:Name xml:lang="en">100 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y46" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y46">
+          <common:Name xml:lang="it">46 anni</common:Name>
+          <common:Name xml:lang="en">46 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_GE11" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_GE11">
+          <common:Name xml:lang="it">11 anni e più</common:Name>
+          <common:Name xml:lang="en">11 years and over</common:Name>
+        </structure:Code>
+        <structure:Code id="Y30-49" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y30-49">
+          <common:Name xml:lang="it">30-49 anni</common:Name>
+          <common:Name xml:lang="en">30-49 years</common:Name>
+        </structure:Code>
+        <structure:Code id="D7-13" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).D7-13">
+          <common:Name xml:lang="it">7-13 giorni</common:Name>
+          <common:Name xml:lang="en">7-13 days</common:Name>
+        </structure:Code>
+        <structure:Code id="Y11-15" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y11-15">
+          <common:Name xml:lang="it">11-15 anni</common:Name>
+          <common:Name xml:lang="en">11-15 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y4-5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y4-5">
+          <common:Name xml:lang="it">3-5 anni</common:Name>
+          <common:Name xml:lang="en">4-5 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y0-13" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y0-13">
+          <common:Name xml:lang="it">0-13 anni</common:Name>
+          <common:Name xml:lang="en">0-13 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y59" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y59">
+          <common:Name xml:lang="it">59 anni</common:Name>
+          <common:Name xml:lang="en">59 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y118" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y118">
+          <common:Name xml:lang="it">118 anni</common:Name>
+          <common:Name xml:lang="en">118 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y25-74" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y25-74">
+          <common:Name xml:lang="it">25-74 anni</common:Name>
+          <common:Name xml:lang="en">25-74 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y10-19" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y10-19">
+          <common:Name xml:lang="it">10-19 anni</common:Name>
+          <common:Name xml:lang="en">10-19 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y15-24" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y15-24">
+          <common:Name xml:lang="it">15-24 anni</common:Name>
+          <common:Name xml:lang="en">15-24 years</common:Name>
+        </structure:Code>
+        <structure:Code id="D2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).D2">
+          <common:Name xml:lang="it">2 giorni</common:Name>
+          <common:Name xml:lang="en">2 days</common:Name>
+        </structure:Code>
+        <structure:Code id="Y55-59" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y55-59">
+          <common:Name xml:lang="it">55-59 anni</common:Name>
+          <common:Name xml:lang="en">55-59 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y_UN35" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y_UN35">
+          <common:Name xml:lang="it">fino a 35 anni</common:Name>
+          <common:Name xml:lang="en">until 35 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y94" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y94">
+          <common:Name xml:lang="it">94 anni</common:Name>
+          <common:Name xml:lang="en">94 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y106" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y106">
+          <common:Name xml:lang="it">106 anni</common:Name>
+          <common:Name xml:lang="en">106 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y15-17" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y15-17">
+          <common:Name xml:lang="it">15-17 anni</common:Name>
+          <common:Name xml:lang="en">15-17 years</common:Name>
+        </structure:Code>
+        <structure:Code id="Y62" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_ETA1(2.8).Y62">
+          <common:Name xml:lang="it">62 anni</common:Name>
+          <common:Name xml:lang="en">62 years</common:Name>
+        </structure:Code>
+      </structure:Codelist>
+    </structure:Codelists>
+  </message:Structures>
+</message:Structure>

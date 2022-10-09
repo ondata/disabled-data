@@ -1,0 +1,84 @@
+{ "key": 13, "en": "no educational degree, primary and lower secondary school certificate", "it": "nessun titolo di studio, licenza di scuola elementare e media" }
+{ "key": 47, "en": "second level degree or afam second level", "it": "laurea (4-6 anni) o A.F.A.M. di II livello" }
+{ "key": 34, "en": "post graduate non-university diploma and afam diploma", "it": "diploma terziario non universitario del vecchio ordinamento e diplomi A.F.A.M." }
+{ "key": 11, "en": "tertiary (university, doctoral and specialization courses)", "it": "laurea e post-laurea" }
+{ "key": 36, "en": "teachers school diploma", "it": "diploma di scuola magistrale" }
+{ "key": 72, "en": "first degree", "it": "laurea di I livello" }
+{ "key": "NPL", "en": "no educational degree, final assessment (Primary school), diploma of lower secondary education", "it": "nessun titolo di studio, licenza di scuola elementare e media" }
+{ "key": 35, "en": "professional institute diploma", "it": "diploma di istituto professionale" }
+{ "key": "BL_ML_RDD", "en": "university or academic degree including post-master degree", "it": "titolo universitario o accademico" }
+{ "key": 20, "en": "n.a.", "it": "non indicato" }
+{ "key": 31, "en": "diploma of upper secondary education (4-5 years)", "it": "diploma di scuola secondaria superiore (4-5 anni)" }
+{ "key": 69, "en": "other degree course", "it": "altro corso di laurea" }
+{ "key": "UNAV", "en": "unavailable", "it": "non disponibile" }
+{ "key": 50, "en": "university degree", "it": "titoli universitari" }
+{ "key": 27, "en": "high school diploma or academic certificate", "it": "diploma di scuola secondaria superiore o di accademia" }
+{ "key": 75, "en": "short university degree (old programme)/first degree", "it": "diploma universitario (2-3 anni) del vecchio ordinamento/laurea di primo livello" }
+{ "key": 58, "en": "without post-university specialization or  post-diploma AFAM", "it": "nessun titolo di studio post-laurea o post-diploma A.F.A.M." }
+{ "key": "BMRD", "en": "bachelor's degree or first level academic diploma; Diploma of Higher Technical; University Diploma; Master's degree or second level academic diploma (and Academy Conservatory old programme); Research Doctorate (PhD)/ Advanced research academic diploma", "it": "laurea, diploma universitario, diploma ITS, diploma accademico, dottorato di ricerca" }
+{ "key": 99, "en": "total", "it": "totale" }
+{ "key": 1, "en": "no educational degree", "it": "nessun titolo di studio" }
+{ "key": 30, "en": "diploma of upper secondary education (2-3 years)", "it": "diploma di scuola secondaria superiore (2-3 anni)" }
+{ "key": "NED", "en": "no educational degree", "it": "nessun titolo di studio" }
+{ "key": "IL", "en": "illiterate", "it": "analfabeti" }
+{ "key": 9, "en": "university degree", "it": "laurea" }
+{ "key": 24, "en": "secondary and post-secondary non tertiary certificate", "it": "diploma secondario (5 anni) e post secondario" }
+{ "key": 48, "en": "long university degree (old programme), long degree (new programme), second degree (new programme)", "it": "laurea (4-6 anni) del vecchio ordinamento, laurea specialistica o magistrale a ciclo unico del nuovo ordinamento, laurea biennale specialistica (di II livello) del nuovo ordinamento" }
+{ "key": "PSE", "en": "final assessment (primary school)", "it": "licenza di scuola elementare" }
+{ "key": 59, "en": "first level master degree", "it": "master I livello" }
+{ "key": 7, "en": "upper and post secondary", "it": "diploma" }
+{ "key": "NP", "en": "no educational degree, final assessment (Primary school)", "it": "licenza di scuola elementare, nessun titolo di studio" }
+{ "key": 2, "en": "primary school certificate", "it": "licenza di scuola elementare" }
+{ "key": 10, "en": "advanced research qualification ( e.g. a ph.d.)", "it": "post-laurea" }
+{ "key": 25, "en": "diploma of upper secondary education (scholastic and extrascholastic) which does not allow access to the university", "it": "diploma di istruzione secondaria superiore (scolastica ed extrascolastica) che non permette l'accesso all'università" }
+{ "key": 57, "en": "with post-university specialization or  post-diploma AFAM", "it": "titoli di studio post-laurea o post-diploma A.F.A.M." }
+{ "key": 37, "en": "institute of arts diploma", "it": "diploma di istituto d'arte" }
+{ "key": "USE_IF", "en": "diploma of upper secondary education and Certification of higher technical specialisation", "it": "diploma di istruzione secondaria di II grado o di qualifica professionale (corso di 3-4 anni) compresi IFTS" }
+{ "key": 67, "en": "upper secondary school certificate or diploma of upper secondary education (4-5 years)", "it": "diploma di 2-3 anni (qualifica professionale) o diploma di scuola secondaria superiore (4-5  anni)" }
+{ "key": "ALL", "en": "total", "it": "totale" }
+{ "key": 4, "en": "lower secondary school certificate", "it": "licenza di scuola media" }
+{ "key": 43, "en": "afam first level academic diploma", "it": "diploma accademico A.F.A.M. I livello" }
+{ "key": 71, "en": "completion of a PhD programme", "it": "dottorato di ricerca o specializzazione post-laurea" }
+{ "key": 3, "en": "primary school certificate, no educational degree", "it": "licenza di scuola elementare, nessun titolo di studio" }
+{ "key": 73, "en": "second degree", "it": "laurea di II livello" }
+{ "key": "LBNA", "en": "literate but no formal educational attainment", "it": "alfabeti privi di titolo di studio" }
+{ "key": "LSE", "en": "diploma of lower secondary education", "it": "licenza di scuola media inferiore o di avviamento professionale" }
+{ "key": 41, "en": "academy of fine arts diploma,  etc. music conservatory old programme", "it": "diploma di accademia di belle arti etc. conservatorio vecchio ordinamento" }
+{ "key": 32, "en": "upper secondary school diploma", "it": "diploma di scuola secondaria superiore" }
+{ "key": 45, "en": "first degree or afam first level", "it": "laurea triennale o A.F.A.M. di I livello" }
+{ "key": 23, "en": "literate but no formal educational attainment", "it": "alfabeta privo di titolo di studio" }
+{ "key": 42, "en": "short university degree (old programme)", "it": "diploma universitario (2-3 anni) del vecchio ordinamento (incluse le scuole dirette e a fini speciali o parauniversitarie)" }
+{ "key": "USG", "en": "diploma of upper secondary education (4-5 years)", "it": "diploma di maturità / diploma di istruzione secondaria di II grado di 4-5 anni (che permette l'iscrizione all'università)" }
+{ "key": 29, "en": "diploma of lower secondary education", "it": "licenza di scuola media inferiore o di avviamento professionale" }
+{ "key": 61, "en": "specialisation degree", "it": "scuola di specializzazione" }
+{ "key": 66, "en": "other qualifications", "it": "altro tipo di qualifica" }
+{ "key": 22, "en": "illiterate", "it": "analfabeta" }
+{ "key": 40, "en": "diploma of upper secondary education (classical studies, scientific studies, etc.)", "it": "diploma di liceo (classico, scientifico, ecc.)" }
+{ "key": 18, "en": "university degree or diploma with agricultural address", "it": "laurea o diploma universitario agrario" }
+{ "key": 38, "en": "technical institute diploma", "it": "diploma di istituto tecnico" }
+{ "key": 21, "en": "university degree or diploma", "it": "laurea o diploma universitario" }
+{ "key": 12, "en": "primary and lower secondary school certificate", "it": "licenza di scuola elementare e media" }
+{ "key": 8, "en": "upper secondary school certificate and higher", "it": "diploma e oltre" }
+{ "key": 76, "en": "short university degree (old programme)/first degree", "it": "diploma universitario (2-3 anni) del vecchio ordinamento/laurea di I livello" }
+{ "key": 5, "en": "upper secondary school certificate", "it": "diploma 2-3 anni (qualifica professionale)" }
+{ "key": 14, "en": "upper secondary school certificate with agricultural address", "it": "diploma di qualifica (2-3 anni) agrario" }
+{ "key": 15, "en": "upper secondary school certificate different from agricultural address", "it": "diploma di qualifica (2-3 anni) diverso da agrario" }
+{ "key": 28, "en": "university degree or bachelor degree or master degree", "it": "laurea o diploma universitario o diploma accademico" }
+{ "key": "BL", "en": "bachelor's degree or first level academic diploma; Diploma of Higher Technical; University Diploma", "it": "diploma di tecnico superiore ITS o titolo di studio terziario di primo livello" }
+{ "key": 62, "en": "research doctoral degree", "it": "dottorato di ricerca" }
+{ "key": 19, "en": "university degree or diploma with other type", "it": "laurea o diploma universitario non agrario" }
+{ "key": 70, "en": "first or second level master degree", "it": "master universitario di primo o secondo livello" }
+{ "key": 6, "en": "post secondary school certificate", "it": "diploma 4-5 anni (maturità)" }
+{ "key": 16, "en": "post secondary school certificate with agricultural address", "it": "diploma di scuola media superiore  agrario" }
+{ "key": 17, "en": "post secondary school certificate different from agricultural address", "it": "diploma di scuola media superiore diverso  agrario" }
+{ "key": 60, "en": "second level master degree", "it": "master II livello" }
+{ "key": 44, "en": "first degree (new programme)", "it": "laurea triennale" }
+{ "key": "CLF_ML", "en": "university diploma, bachelor's degree, master's degree, academy Conservatory old programme", "it": "laurea o diploma universitario" }
+{ "key": 68, "en": "university qualification", "it": "titolo universitario" }
+{ "key": 46, "en": "afam second level academic diploma", "it": "diploma accademico A.F.A.M. II livello" }
+{ "key": "ML_RDD", "en": "master's degree or second level academic diploma and Research Doctorate (PhD)", "it": "titolo di studio terziario di secondo livello e dottorato di ricerca" }
+{ "key": "ML", "en": "master's degree or second level academic diploma (and Academy Conservatory old programme)", "it": "titolo di studio terziario di secondo livello" }
+{ "key": "RDD", "en": "Research Doctorate (PhD)/ Advanced research academic diploma", "it": "dottorato di ricerca/diploma accademico di formazione alla ricerca" }
+{ "key": 49, "en": "research doctoral degree", "it": "dottorato di ricerca" }
+{ "key": 39, "en": "teacher institute diploma", "it": "diploma di istituto magistrale" }
+{ "key": "NRP", "en": "no response", "it": "non indicato" }

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--NSI Web Service v6.16.0-->
+<message:Structure xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:structure="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <message:Header>
+    <message:ID>IDREF151</message:ID>
+    <message:Test>false</message:Test>
+    <message:Prepared>2022-10-09T10:36:21.261913+02:00</message:Prepared>
+    <message:Sender id="Unknown" />
+    <message:Receiver id="Unknown" />
+  </message:Header>
+  <message:Structures>
+    <structure:Codelists>
+      <structure:Codelist id="CL_TIPO_DATO_VIOLENZA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IT1:CL_TIPO_DATO_VIOLENZA(1.1)" agencyID="IT1" version="1.1" isFinal="true">
+        <common:Name xml:lang="it">Tipo dato VIOLENZA</common:Name>
+        <common:Name xml:lang="en">Data type VIOLENZA</common:Name>
+        <structure:Code id="W16_70_CFP_Y5_C" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_CFP_Y5_C">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza negli ultimi 5 anni (% su donne di 16-70 anni con la stessa cittadinanza che hanno o hanno avuto un partner)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence in the past 5 years (% of ever-partnered women 16-70 years with the same citizenship)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_PNP_Y5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_PNP_Y5">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza negli ultimi 5 anni  (% su donne di 16-70 anni)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence in the past 5 years (% of women 16-70 years)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_PNP_M12_C" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_PNP_M12_C">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza negli ultimi 12 mesi (% su donne di 16-70 anni con la stessa cittadinanza)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence in the past 12 months (% of women 16-70 years  with the same citizenship)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_CB_Y5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_CB_Y5">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza negli ultimi 5 anni (% su donne di 16-70 anni che hanno un fidanzato)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence in the past 5 years (% of women 16-70 years with a boyfriend)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_FB_Y5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_FB_Y5">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza negli ultimi 5 anni (% su donne di 16-70 anni che hanno avuto un fidanzato)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence in the past 5 years (% of women 16-70 years with a former boyfriend)</common:Name>
+        </structure:Code>
+        <structure:Code id="P18_74_OPVIOL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).P18_74_OPVIOL">
+          <common:Name xml:lang="it">persone di 18-74 anni per opinione sul livello di diffusione della violenza fisica e/o sessuale subita dalle donne (composizione %)</common:Name>
+          <common:Name xml:lang="en">people aged 18-74 years by opinions on how common is intimate partner violence against women (%)</common:Name>
+        </structure:Code>
+        <structure:Code id="P18_74_AGONE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).P18_74_AGONE">
+          <common:Name xml:lang="it">persone di 18-74 anni che sono molto o abbastanza d'accordo con almeno uno stereotipo/comportamento (per 100 persone con le stesse caratteristiche)</common:Name>
+          <common:Name xml:lang="en">people aged 18-74 years strongly or somewhat agree with at least one stereotype/behaviour (per 100 persons with the same characteristics)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_CP_M12" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_CP_M12">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza dall'attuale partner negli ultimi 12 mesi (% su donne di 16-70 anni che hanno un partner)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence in the past 12 months (% of partnered women 16-70 years)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_CFP_M12" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_CFP_M12">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza negli ultimi 12 mesi (% su donne di 16-70 anni che hanno o hanno avuto un partner)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence in the past 12 months (% of ever-partnered women 16-70 years)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_CFP_LT_C" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_CFP_LT_C">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza nel corso della vita (% su donne di 16-70 anni con la stessa cittadinanza che hanno o hanno avuto un partner)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence lifetime (% of ever-partnered women 16-70 years with the same citizenship)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_CHLT_Y5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_CHLT_Y5">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza negli ultimi 5 anni (% su donne di 16-70 anni che hanno un marito/convivente)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence in the past 5 years (% of women 16-70 years with husband/living together partner)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_CFP_LT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_CFP_LT">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza nel corso della vita (% su donne di 16-70 anni che hanno o hanno avuto un partner)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence lifetime (% of ever-partnered women 16-70 years)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_FHLT_M12" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_FHLT_M12">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza negli ultimi 12 mesi (% su donne di 16-70 anni che hanno avuto un marito/convivente)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence in the past 12 months (% of women 16-70 years with a former husband/living together partner)</common:Name>
+        </structure:Code>
+        <structure:Code id="P18_74_OPDOKN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).P18_74_OPDOKN">
+          <common:Name xml:lang="it">persone di 18-74 anni per opinioni su cosa farebbero nel caso conoscessero una donna che ha subito violenza dal marito/compagno (per 100 persone con le stesse caratteristiche)</common:Name>
+          <common:Name xml:lang="en">people aged 18-74 years by opinions on what they would do if they knew a woman who suffered violence by her husband/partner (per 100 persons with the same characteristics)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_F16Y" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_F16Y">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza prima dei 16 anni (% su donne di 16-70 anni)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence before age 16 (% of women 16-70 years)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_FB_LT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_FB_LT">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza nel corso della vita (% su donne di 16-70 anni che hanno avuto un fidanzato)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence lifetime (% of women 16-70 years with a former boyfriend)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_PNP_M12" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_PNP_M12">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza negli ultimi 12 mesi (% su donne di 16-70 anni)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence in the past 12 months (% of women 16-70 years)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_CHLT_M12" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_CHLT_M12">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza negli ultimi 12 mesi (% su donne di 16-70 anni che hanno un marito/convivente)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence in the past 12 months (% of women 16-70 years with husband/living together partner)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_CP_Y5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_CP_Y5">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza dall'attuale partner negli ultimi 5 anni (% su donne di 16-70 anni che hanno un partner)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence in the past 5 years (% of partnered women 16-70 years)</common:Name>
+        </structure:Code>
+        <structure:Code id="P18_74_ACCINT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).P18_74_ACCINT">
+          <common:Name xml:lang="it">persone di 18-74 anni per grado di accettabilità di alcuni comportamenti nella coppia (composizione %)</common:Name>
+          <common:Name xml:lang="en">people aged 18-74 years by degree of acceptability of some behaviours regarding intimate partner (%)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_FP_Y5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_FP_Y5">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza negli ultimi 5 anni (% su donne di 16-70 anni che hanno un ex partner)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence in the past 5 years (% of women 16-70 years with a former partner)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_FB_M12" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_FB_M12">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza negli ultimi 12 mesi (% su donne di 16-70 anni che hanno avuto un fidanzato)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence in the past 12 months (% of women 16-70 years with a former boyfriend)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_FHLT_LT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_FHLT_LT">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza nel corso della vita (% su donne di 16-70 anni che hanno avuto un marito/convivente)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence lifetime (% of women 16-70 years with a former husband/living together partner)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_FP_LT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_FP_LT">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza nel corso della vita (% su donne di 16-70 anni che hanno un ex partner)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence by former partner lifetime (% of women 16-70 years with a former partner)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_CB_M12" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_CB_M12">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza negli ultimi 12 mesi (% su donne di 16-70 anni che hanno un fidanzato)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence in the past 12 months (% of women 16-70 years with a boyfriend)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_PNP_LT_C" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_PNP_LT_C">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza nel corso della vita (% su donne di 16-70 anni con la stessa cittadinanza)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence lifetime (% of women 16-70 years with the same citizenship)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_CP_LT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_CP_LT">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza nel corso della vita (% su donne di 16-70 anni che hanno un partner)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence lifetime (% of partnered women 16-70 years)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_FP_M12" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_FP_M12">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza negli ultimi 12 mesi (% su donne di 16-70 anni che hanno un ex partner)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence in the past 12 months (% of women 16-70 years with a former partner)</common:Name>
+        </structure:Code>
+        <structure:Code id="P18_74_INCAUS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).P18_74_INCAUS">
+          <common:Name xml:lang="it">persone di 18-74 anni che indicano alcune possibili cause della violenza nella coppia (per 100 persone con le stesse caratteristiche)</common:Name>
+          <common:Name xml:lang="en">people aged 18-74 years by indication of some causes of intimate partner violence (per 100 persons with the same characteristics)</common:Name>
+        </structure:Code>
+        <structure:Code id="P18_74_AGVIOL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).P18_74_AGVIOL">
+          <common:Name xml:lang="it">persone di 18-74 anni per grado di accordo con alcuni stereotipi sulla violenza sessuale (composizione %)</common:Name>
+          <common:Name xml:lang="en">people aged 18-74 years by degree of agreement with some stereotypes on sexual violence (%)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_PNP_Y5_C" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_PNP_Y5_C">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza negli ultimi 5 anni  (% su donne di 16-70 anni con la stessa cittadinanza)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence in the past 5 years (% of women 16-70 years  with the same citizenship)</common:Name>
+        </structure:Code>
+        <structure:Code id="P18_74_AGROL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).P18_74_AGROL">
+          <common:Name xml:lang="it">persone di 18-74 anni per grado di accordo con alcuni stereotipi sui ruoli tradizionali di genere (composizione %)</common:Name>
+          <common:Name xml:lang="en">people aged 18-74 years by degree of agreement with some stereotypes on traditional gender roles (%)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_CHLT_LT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_CHLT_LT">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza nel corso della vita (% su donne di 16-70 anni che hanno un marito/convivente)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence lifetime (% of women 16-70 years with husband/living together partner)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_CB_LT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_CB_LT">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza nel corso della vita (% su donne di 16-70 anni che hanno un fidanzato)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence lifetime (% of women 16-70 years with a boyfriend)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_CFP_Y5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_CFP_Y5">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza negli ultimi 5 anni (% su donne di 16-70 anni che hanno o hanno avuto un partner)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence in the past 5 years (% of ever-partnered women 16-70 years)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_PNP_LT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_PNP_LT">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza nel corso della vita (% su donne di 16-70 anni)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence lifetime (% of women 16-70 years)</common:Name>
+        </structure:Code>
+        <structure:Code id="W16_70_FHLT_Y5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_DATO_VIOLENZA(1.1).W16_70_FHLT_Y5">
+          <common:Name xml:lang="it">donne di 16-70 anni che hanno subito violenza negli ultimi 5 anni (% su donne di 16-70 anni che hanno avuto un marito/convivente)</common:Name>
+          <common:Name xml:lang="en">women aged 16-70 years who have suffered violence in the past 5 years (% of women 16-70 years with a former husband/living together partner)</common:Name>
+        </structure:Code>
+      </structure:Codelist>
+    </structure:Codelists>
+  </message:Structures>
+</message:Structure>

@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--NSI Web Service v6.16.0-->
+<message:Structure xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:structure="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <message:Header>
+    <message:ID>IDREF146</message:ID>
+    <message:Test>false</message:Test>
+    <message:Prepared>2022-10-09T10:36:19.1403093+02:00</message:Prepared>
+    <message:Sender id="Unknown" />
+    <message:Receiver id="Unknown" />
+  </message:Header>
+  <message:Structures>
+    <structure:Codelists>
+      <structure:Codelist id="CL_TIPOVIOLENZA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IT1:CL_TIPOVIOLENZA(1.1)" agencyID="IT1" version="1.1" isFinal="true">
+        <common:Name xml:lang="it">Caratteristiche della violenza</common:Name>
+        <common:Name xml:lang="en">Carachteristics of violence</common:Name>
+        <structure:Code id="UNAV" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).UNAV">
+          <common:Name xml:lang="it">non disponibile</common:Name>
+          <common:Name xml:lang="en">unavailable</common:Name>
+        </structure:Code>
+        <structure:Code id="LAB_EXPLOI" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).LAB_EXPLOI">
+          <common:Name xml:lang="it">sfruttamento lavorativo</common:Name>
+          <common:Name xml:lang="en">labor exploitation</common:Name>
+        </structure:Code>
+        <structure:Code id="PHYVIOL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).PHYVIOL">
+          <common:Name xml:lang="it">violenza psicologica</common:Name>
+          <common:Name xml:lang="en">psychological violence</common:Name>
+        </structure:Code>
+        <structure:Code id="VERB_VIOL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).VERB_VIOL">
+          <common:Name xml:lang="it">violenza verbale/svalorizzazione</common:Name>
+          <common:Name xml:lang="en">verbal violence/belittling</common:Name>
+          <structure:Parent>
+            <Ref id="PHYVIOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="INS_VERB" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).INS_VERB">
+          <common:Name xml:lang="it">la insulta o la prende a male parole</common:Name>
+          <common:Name xml:lang="en">insult you or verbally abuse you</common:Name>
+          <structure:Parent>
+            <Ref id="VERB_VIOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="CRIT_APP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).CRIT_APP">
+          <common:Name xml:lang="it">la critica per il suo aspetto, come si veste o si pettina</common:Name>
+          <common:Name xml:lang="en">criticize your appearance, the way you dress or do your hair</common:Name>
+          <structure:Parent>
+            <Ref id="VERB_VIOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="CRIT_HOUS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).CRIT_HOUS">
+          <common:Name xml:lang="it">la critica per come si occupa della casa</common:Name>
+          <common:Name xml:lang="en">criticize your housework</common:Name>
+          <structure:Parent>
+            <Ref id="VERB_VIOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="TRAFF" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).TRAFF">
+          <common:Name xml:lang="it">tratta</common:Name>
+          <common:Name xml:lang="en">traffichking</common:Name>
+        </structure:Code>
+        <structure:Code id="MISSING" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).MISSING">
+          <common:Name xml:lang="it">missing</common:Name>
+          <common:Name xml:lang="en">missing</common:Name>
+        </structure:Code>
+        <structure:Code id="BEL_HUM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).BEL_HUM">
+          <common:Name xml:lang="it">la umilia o la offende di fronte ad altre persone</common:Name>
+          <common:Name xml:lang="en">belittle or humiliate you in front of other people</common:Name>
+          <structure:Parent>
+            <Ref id="VERB_VIOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="EXPLOI_PROST" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).EXPLOI_PROST">
+          <common:Name xml:lang="it">sfruttamento della prostituzione</common:Name>
+          <common:Name xml:lang="en">exploitation of prostitution</common:Name>
+        </structure:Code>
+        <structure:Code id="ISOL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).ISOL">
+          <common:Name xml:lang="it">isolamento</common:Name>
+          <common:Name xml:lang="en">isolation</common:Name>
+          <structure:Parent>
+            <Ref id="PHYVIOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="FORB_LEAV" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).FORB_LEAV">
+          <common:Name xml:lang="it">le proibisce di uscire</common:Name>
+          <common:Name xml:lang="en">forbid you to leave the house</common:Name>
+          <structure:Parent>
+            <Ref id="ISOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="PREV_WORK" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).PREV_WORK">
+          <common:Name xml:lang="it">le impedisce o cerca di impedirle di lavorare</common:Name>
+          <common:Name xml:lang="en">prevent or try to prevent you from working</common:Name>
+          <structure:Parent>
+            <Ref id="ISOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="PREV_STUD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).PREV_STUD">
+          <common:Name xml:lang="it">le impedisce o cerca di impedirle di studiare</common:Name>
+          <common:Name xml:lang="en">prevent or try to prevent you from studying</common:Name>
+          <structure:Parent>
+            <Ref id="ISOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="IGN_LIST" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).IGN_LIST">
+          <common:Name xml:lang="it">la ignora, non le parla, non la ascolta</common:Name>
+          <common:Name xml:lang="en">ignores you, do not talk to you, do not listen to you</common:Name>
+          <structure:Parent>
+            <Ref id="VERB_VIOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="ECON_VIOL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).ECON_VIOL">
+          <common:Name xml:lang="it">violenza economica</common:Name>
+          <common:Name xml:lang="en">economic violence</common:Name>
+        </structure:Code>
+        <structure:Code id="PREV_MAK_DE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).PREV_MAK_DE">
+          <common:Name xml:lang="it">le impedisce di gestire il suo denaro e quello della sua famiglia</common:Name>
+          <common:Name xml:lang="en">prevent you from making decisions about family finances or control excessively your expenses</common:Name>
+          <structure:Parent>
+            <Ref id="ECON_VIOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="INTIM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).INTIM">
+          <common:Name xml:lang="it">intimidazione</common:Name>
+          <common:Name xml:lang="en">intimidation</common:Name>
+          <structure:Parent>
+            <Ref id="PHYVIOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="HURT_CHILD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).HURT_CHILD">
+          <common:Name xml:lang="it">fa del male o minaccia di farlo ai suoi figli</common:Name>
+          <common:Name xml:lang="en">hurt or threaten to hurt your children</common:Name>
+          <structure:Parent>
+            <Ref id="INTIM" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="DAM_DES" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).DAM_DES">
+          <common:Name xml:lang="it">danneggia o distrugge le sue cose o altri oggetti personali</common:Name>
+          <common:Name xml:lang="en">damage or destroy your belongings</common:Name>
+          <structure:Parent>
+            <Ref id="INTIM" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="HURT_PEOP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).HURT_PEOP">
+          <common:Name xml:lang="it">fa del male o minaccia di farlo a persone a lei vicine</common:Name>
+          <common:Name xml:lang="en">hurt or threaten to hurt people you care about</common:Name>
+          <structure:Parent>
+            <Ref id="INTIM" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="THR_BRE_OBJ" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).THR_BRE_OBJ">
+          <common:Name xml:lang="it">lancia e/o rompe oggetti allo scopo di spaventarla</common:Name>
+          <common:Name xml:lang="en">throw and/or break objects in order to frighten</common:Name>
+          <structure:Parent>
+            <Ref id="INTIM" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="THR_KIL_CHI" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).THR_KIL_CHI">
+          <common:Name xml:lang="it">minaccia di portarle via i figli</common:Name>
+          <common:Name xml:lang="en">threaten to take away the children</common:Name>
+          <structure:Parent>
+            <Ref id="INTIM" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="CONTR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).CONTR">
+          <common:Name xml:lang="it">controllo</common:Name>
+          <common:Name xml:lang="en">control</common:Name>
+          <structure:Parent>
+            <Ref id="PHYVIOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="GET_ANG" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).GET_ANG">
+          <common:Name xml:lang="it">si arrabbia se lei parla con un altro uomo</common:Name>
+          <common:Name xml:lang="en">get angry if you talk to another man</common:Name>
+          <structure:Parent>
+            <Ref id="CONTR" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="CHEC_GO" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).CHEC_GO">
+          <common:Name xml:lang="it">la segue o controlla i suoi spostamenti</common:Name>
+          <common:Name xml:lang="en">he follows you or check up on where you're going</common:Name>
+          <structure:Parent>
+            <Ref id="CONTR" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="TELL_DRESS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).TELL_DRESS">
+          <common:Name xml:lang="it">le impone come vestirsi, pettinarsi o comportarsi in pubblico</common:Name>
+          <common:Name xml:lang="en">tell you how to dress, do your hair and make-up or how to behave in public</common:Name>
+          <structure:Parent>
+            <Ref id="CONTR" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="SUSPIC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).SUSPIC">
+          <common:Name xml:lang="it">è costantemente dubbioso della sua fedeltà</common:Name>
+          <common:Name xml:lang="en">is constantly suspicious that you are unfaithful</common:Name>
+          <structure:Parent>
+            <Ref id="CONTR" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="PREV_USE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).PREV_USE">
+          <common:Name xml:lang="it">le  impedisce di utilizzare il bancomat</common:Name>
+          <common:Name xml:lang="en">prevent you from using the cash card</common:Name>
+          <structure:Parent>
+            <Ref id="ECON_VIOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="ALL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).ALL">
+          <common:Name xml:lang="it">tutte le voci</common:Name>
+          <common:Name xml:lang="en">all items</common:Name>
+        </structure:Code>
+        <structure:Code id="RESTR_SEE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).RESTR_SEE">
+          <common:Name xml:lang="it">cerca di limitare i rapporti con  la famiglia o amici</common:Name>
+          <common:Name xml:lang="en">restrict you from seeing your family or friends</common:Name>
+          <structure:Parent>
+            <Ref id="ISOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="NRP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).NRP">
+          <common:Name xml:lang="it">non risponde</common:Name>
+          <common:Name xml:lang="en">no response</common:Name>
+        </structure:Code>
+        <structure:Code id="HARASS_WORK" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).HARASS_WORK">
+          <common:Name xml:lang="it">mobbing</common:Name>
+          <common:Name xml:lang="en">harassment at workplace</common:Name>
+        </structure:Code>
+        <structure:Code id="HURT_ANIM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).HURT_ANIM">
+          <common:Name xml:lang="it">fa del male o minaccia di farlo ai suoi animali</common:Name>
+          <common:Name xml:lang="en">hurt or threaten to hurt your animals</common:Name>
+          <structure:Parent>
+            <Ref id="INTIM" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="THREATS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).THREATS">
+          <common:Name xml:lang="it">minacce</common:Name>
+          <common:Name xml:lang="en">threats</common:Name>
+        </structure:Code>
+        <structure:Code id="THR_KIL_HIM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).THR_KIL_HIM">
+          <common:Name xml:lang="it">minaccia di uccidersi</common:Name>
+          <common:Name xml:lang="en">threaten to kill himself</common:Name>
+          <structure:Parent>
+            <Ref id="INTIM" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="DIS_SEX_EXPL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).DIS_SEX_EXPL">
+          <common:Name xml:lang="it">diffusione illecita di immagini o di video sessualmente espliciti</common:Name>
+          <common:Name xml:lang="en">unlawful dissemination of sexually explicit images or videos</common:Name>
+        </structure:Code>
+        <structure:Code id="PREV_KNO" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).PREV_KNO">
+          <common:Name xml:lang="it">le impedisce di conoscere l'ammontare del reddito familiare</common:Name>
+          <common:Name xml:lang="en">prevent you from knowing how much money/income your family has</common:Name>
+          <structure:Parent>
+            <Ref id="ECON_VIOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="PHSEX" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).PHSEX">
+          <common:Name xml:lang="it">violenza fisica o sessuale</common:Name>
+          <common:Name xml:lang="en">physical or sexual</common:Name>
+        </structure:Code>
+        <structure:Code id="PHY" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).PHY">
+          <common:Name xml:lang="it">violenza fisica</common:Name>
+          <common:Name xml:lang="en">physical violence</common:Name>
+          <structure:Parent>
+            <Ref id="PHSEX" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="SEXVIOL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).SEXVIOL">
+          <common:Name xml:lang="it">violenza sessuale</common:Name>
+          <common:Name xml:lang="en">sexual violence</common:Name>
+          <structure:Parent>
+            <Ref id="PHSEX" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="FORC_DEG" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).FORC_DEG">
+          <common:Name xml:lang="it">forzate ad attività sessuale considerata umiliante</common:Name>
+          <common:Name xml:lang="en">forced to do sexual activity degrading or humiliating</common:Name>
+          <structure:Parent>
+            <Ref id="SEXVIOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="OTH_FORM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).OTH_FORM">
+          <common:Name xml:lang="it">tutto ciò che è violenza sessuale ma non è stato elencato</common:Name>
+          <common:Name xml:lang="en">other forms of sexual violence</common:Name>
+          <structure:Parent>
+            <Ref id="SEXVIOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="FORC_SEX" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).FORC_SEX">
+          <common:Name xml:lang="it">forzate ad attività sessuale con altre persone</common:Name>
+          <common:Name xml:lang="en">forced to do sexual activity with others</common:Name>
+          <structure:Parent>
+            <Ref id="SEXVIOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="FORC_HAR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).FORC_HAR">
+          <common:Name xml:lang="it">molestie fisiche sessuali</common:Name>
+          <common:Name xml:lang="en">physical sexual harassment</common:Name>
+          <structure:Parent>
+            <Ref id="SEXVIOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="UNW_SEX" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).UNW_SEX">
+          <common:Name xml:lang="it">rapporti sessuali indesiderati</common:Name>
+          <common:Name xml:lang="en">unwanted sexual intercourse</common:Name>
+          <structure:Parent>
+            <Ref id="SEXVIOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="RAPE_OR_ATT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).RAPE_OR_ATT">
+          <common:Name xml:lang="it">stupro o tentato stupro</common:Name>
+          <common:Name xml:lang="en">rape or attempted rape</common:Name>
+          <structure:Parent>
+            <Ref id="SEXVIOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="RAPE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).RAPE">
+          <common:Name xml:lang="it">stupro</common:Name>
+          <common:Name xml:lang="en">rape</common:Name>
+          <structure:Parent>
+            <Ref id="RAPE_OR_ATT" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="PHSEX_EXH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).PHSEX_EXH">
+          <common:Name xml:lang="it">violenza fisica o sessuale senza molestie</common:Name>
+          <common:Name xml:lang="en">physical or sexual excluding harassment</common:Name>
+          <structure:Parent>
+            <Ref id="PHSEX" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="RAPE_ATT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).RAPE_ATT">
+          <common:Name xml:lang="it">tentato stupro</common:Name>
+          <common:Name xml:lang="en">attempted rape</common:Name>
+          <structure:Parent>
+            <Ref id="RAPE_OR_ATT" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="SEXVIOL_EXH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).SEXVIOL_EXH">
+          <common:Name xml:lang="it">violenza sessuale, senza molestie</common:Name>
+          <common:Name xml:lang="en">sexual violence excluding harassment</common:Name>
+          <structure:Parent>
+            <Ref id="SEXVIOL" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="PHY_EX_THRE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).PHY_EX_THRE">
+          <common:Name xml:lang="it">violenza fisica, escluse minacce</common:Name>
+          <common:Name xml:lang="en">physical violence excluding threats</common:Name>
+          <structure:Parent>
+            <Ref id="PHY" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="SLAP_KIC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).SLAP_KIC">
+          <common:Name xml:lang="it">schiaffeggiate, prese a calci, a pugni o morse</common:Name>
+          <common:Name xml:lang="en">slapped, kicked, beaten with fist, bitten</common:Name>
+          <structure:Parent>
+            <Ref id="PHY_EX_THRE" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="USE_THRE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).USE_THRE">
+          <common:Name xml:lang="it">contro cui hanno usato o minacciato di usare una pistola o un coltello</common:Name>
+          <common:Name xml:lang="en">used or threatened to use a gun or knife</common:Name>
+          <structure:Parent>
+            <Ref id="PHY_EX_THRE" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="PUSH_HAD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).PUSH_HAD">
+          <common:Name xml:lang="it">spinte, afferrate, strattonate, cui hanno storto un braccio, tirato i capelli</common:Name>
+          <common:Name xml:lang="en">pushed, grabbed, had twisted their harm or pulled their hair</common:Name>
+          <structure:Parent>
+            <Ref id="PHY_EX_THRE" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="HIT_WI_OBJ" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).HIT_WI_OBJ">
+          <common:Name xml:lang="it">colpite con un oggetto o cui hanno tirato qualcosa</common:Name>
+          <common:Name xml:lang="en">hit with an object or had something thrown at</common:Name>
+          <structure:Parent>
+            <Ref id="PHY_EX_THRE" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="STRA_BUR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).STRA_BUR">
+          <common:Name xml:lang="it">che hanno tentato di strangolare, soffocare, ustionare</common:Name>
+          <common:Name xml:lang="en">strangled, burnt</common:Name>
+          <structure:Parent>
+            <Ref id="PHY_EX_THRE" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="EXPE_OTH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).EXPE_OTH">
+          <common:Name xml:lang="it">che hanno subito violenza fisica in un modo diverso</common:Name>
+          <common:Name xml:lang="en">experienced other forms of physical violence</common:Name>
+          <structure:Parent>
+            <Ref id="PHY_EX_THRE" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="THRE_TO_HIT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPOVIOLENZA(1.1).THRE_TO_HIT">
+          <common:Name xml:lang="it">minacciate di essere colpite fisicamente</common:Name>
+          <common:Name xml:lang="en">threatened to be hit</common:Name>
+          <structure:Parent>
+            <Ref id="PHY" />
+          </structure:Parent>
+        </structure:Code>
+      </structure:Codelist>
+    </structure:Codelists>
+  </message:Structures>
+</message:Structure>

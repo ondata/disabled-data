@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--NSI Web Service v6.16.0-->
+<message:Structure xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:structure="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <message:Header>
+    <message:ID>IDREF139</message:ID>
+    <message:Test>false</message:Test>
+    <message:Prepared>2022-10-09T10:36:14.4603011+02:00</message:Prepared>
+    <message:Sender id="Unknown" />
+    <message:Receiver id="Unknown" />
+  </message:Header>
+  <message:Structures>
+    <structure:Codelists>
+      <structure:Codelist id="CL_CONDIZIONE_DICH4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IT1:CL_CONDIZIONE_DICH4(1.3)" agencyID="IT1" version="1.3" isFinal="true">
+        <common:Name xml:lang="it">Condizione professionale dichiarata 4</common:Name>
+        <common:Name xml:lang="en">Main status 4</common:Name>
+        <structure:Code id="OTHER1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).OTHER1">
+          <common:Name xml:lang="it">altro indipendente</common:Name>
+          <common:Name xml:lang="en">other self-employed</common:Name>
+        </structure:Code>
+        <structure:Code id="WORK_ILLEG" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).WORK_ILLEG">
+          <common:Name xml:lang="it">lavoratore-trice in nero</common:Name>
+          <common:Name xml:lang="en">work illegally</common:Name>
+        </structure:Code>
+        <structure:Code id="SLFEMP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).SLFEMP">
+          <common:Name xml:lang="it">indipendente</common:Name>
+          <common:Name xml:lang="en">self-employed</common:Name>
+        </structure:Code>
+        <structure:Code id="OTHER5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).OTHER5">
+          <common:Name xml:lang="it">diverso da occupato o ritirato-a dal lavoro</common:Name>
+          <common:Name xml:lang="en">other different from employee or retired</common:Name>
+        </structure:Code>
+        <structure:Code id="OR0" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).OR0">
+          <common:Name xml:lang="it">Gerarchia varie Indagini</common:Name>
+          <common:Name xml:lang="en">Gerarchia varie Indagini</common:Name>
+        </structure:Code>
+        <structure:Code id="EMPD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).EMPD">
+          <common:Name xml:lang="it">occupato</common:Name>
+          <common:Name xml:lang="en">employed person</common:Name>
+        </structure:Code>
+        <structure:Code id="SLFEMPFA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).SLFEMPFA">
+          <common:Name xml:lang="it">lavoratore in proprio, coadiuvante familiare, co.co.co.</common:Name>
+          <common:Name xml:lang="en">self-employed, family worker, co.co.co.</common:Name>
+          <structure:Parent>
+            <Ref id="EMPD" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="HOUSEWIFE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).HOUSEWIFE">
+          <common:Name xml:lang="it">casalinga-o</common:Name>
+          <common:Name xml:lang="en">housewife</common:Name>
+        </structure:Code>
+        <structure:Code id="NOPRJEX" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).NOPRJEX">
+          <common:Name xml:lang="it">nessuna esperienza precedente</common:Name>
+          <common:Name xml:lang="en">no previous job experience</common:Name>
+        </structure:Code>
+        <structure:Code id="ENTFRL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).ENTFRL">
+          <common:Name xml:lang="it">imprenditore e libero professionista</common:Name>
+          <common:Name xml:lang="en">entrepreneur and freelance</common:Name>
+        </structure:Code>
+        <structure:Code id="EMP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).EMP">
+          <common:Name xml:lang="it">dipendente</common:Name>
+          <common:Name xml:lang="en">employee</common:Name>
+        </structure:Code>
+        <structure:Code id="NEMPD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).NEMPD">
+          <common:Name xml:lang="it">non occupato</common:Name>
+          <common:Name xml:lang="en">not employed person</common:Name>
+        </structure:Code>
+        <structure:Code id="MIDMANCO" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).MIDMANCO">
+          <common:Name xml:lang="it">direttivo, quadro, impiegato</common:Name>
+          <common:Name xml:lang="en">middle management, white collar</common:Name>
+          <structure:Parent>
+            <Ref id="EMPD" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="EXMMGWC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).EXMMGWC">
+          <common:Name xml:lang="it">dirigente, quadro e impiegato</common:Name>
+          <common:Name xml:lang="en">executive, middle management and white collar</common:Name>
+        </structure:Code>
+        <structure:Code id="OCC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).OCC">
+          <common:Name xml:lang="it">co.co.co o prestatore d'opera occasionale</common:Name>
+          <common:Name xml:lang="en">continuous coordinated collaboration or occasional worker</common:Name>
+        </structure:Code>
+        <structure:Code id="SEEKJ" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).SEEKJ">
+          <common:Name xml:lang="it">in cerca di occupazione</common:Name>
+          <common:Name xml:lang="en">seeking for job</common:Name>
+        </structure:Code>
+        <structure:Code id="STUD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).STUD">
+          <common:Name xml:lang="it">studente</common:Name>
+          <common:Name xml:lang="en">student</common:Name>
+          <structure:Parent>
+            <Ref id="NEMPD" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="UNAV" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).UNAV">
+          <common:Name xml:lang="it">non disponibile</common:Name>
+          <common:Name xml:lang="en">unavailable</common:Name>
+        </structure:Code>
+        <structure:Code id="INAC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).INAC">
+          <common:Name xml:lang="it">inattivo</common:Name>
+          <common:Name xml:lang="en">inactive person</common:Name>
+        </structure:Code>
+        <structure:Code id="EXEMPPRO" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).EXEMPPRO">
+          <common:Name xml:lang="it">dirigenti, imprenditori, liberi professionisti</common:Name>
+          <common:Name xml:lang="en">executive, employer, professional</common:Name>
+          <structure:Parent>
+            <Ref id="EMPD" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="STUDENT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).STUDENT">
+          <common:Name xml:lang="it">studente</common:Name>
+          <common:Name xml:lang="en">student</common:Name>
+        </structure:Code>
+        <structure:Code id="OTHER6" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).OTHER6">
+          <common:Name xml:lang="it">in altra condizione (diverso da casalinga,studente,in cerca di occupazione,ritirato dal lavoro)</common:Name>
+          <common:Name xml:lang="en">other condition (different from housewife,student,seeking for job,retired)</common:Name>
+        </structure:Code>
+        <structure:Code id="OTHER2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).OTHER2">
+          <common:Name xml:lang="it">in altra condizione (diversa da indipendente, dipendente, ritirato dal lavoro, in cerca di occupazione)</common:Name>
+          <common:Name xml:lang="en">other condition (different from self employed, employee, retired, seeking for job)</common:Name>
+        </structure:Code>
+        <structure:Code id="NRP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).NRP">
+          <common:Name xml:lang="it">non indicato</common:Name>
+          <common:Name xml:lang="en">no response</common:Name>
+        </structure:Code>
+        <structure:Code id="BLUCOAP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).BLUCOAP">
+          <common:Name xml:lang="it">operaio, apprendista</common:Name>
+          <common:Name xml:lang="en">blu collar, apprentice</common:Name>
+          <structure:Parent>
+            <Ref id="EMPD" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="WRK" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).WRK">
+          <common:Name xml:lang="it">operaio e assimilato</common:Name>
+          <common:Name xml:lang="en">worker</common:Name>
+        </structure:Code>
+        <structure:Code id="HOUSWI" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).HOUSWI">
+          <common:Name xml:lang="it">casalinga-o</common:Name>
+          <common:Name xml:lang="en">housewife</common:Name>
+          <structure:Parent>
+            <Ref id="NEMPD" />
+          </structure:Parent>
+        </structure:Code>
+        <structure:Code id="SEL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).SEL">
+          <common:Name xml:lang="it">autonomo</common:Name>
+          <common:Name xml:lang="en">self-employed worker</common:Name>
+        </structure:Code>
+        <structure:Code id="MGEMP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).MGEMP">
+          <common:Name xml:lang="it">dirigente e impiegato</common:Name>
+          <common:Name xml:lang="en">manager and employee</common:Name>
+        </structure:Code>
+        <structure:Code id="RET" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).RET">
+          <common:Name xml:lang="it">ritirato-a dal lavoro</common:Name>
+          <common:Name xml:lang="en">retired</common:Name>
+        </structure:Code>
+        <structure:Code id="ALL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).ALL">
+          <common:Name xml:lang="it">tutte le voci</common:Name>
+          <common:Name xml:lang="en">all items</common:Name>
+        </structure:Code>
+        <structure:Code id="SLFEMPLY" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).SLFEMPLY">
+          <common:Name xml:lang="it">lavoratore in proprio</common:Name>
+          <common:Name xml:lang="en">self employed</common:Name>
+        </structure:Code>
+        <structure:Code id="OTHER4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).OTHER4">
+          <common:Name xml:lang="it">in altra condizione (diversa da ritirato-a dal lavoro)</common:Name>
+          <common:Name xml:lang="en">other condition (different from retired)</common:Name>
+        </structure:Code>
+        <structure:Code id="UNEMPD_SEEKJ" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).UNEMPD_SEEKJ">
+          <common:Name xml:lang="it">disoccupato, in cerca di lavoro</common:Name>
+          <common:Name xml:lang="en">unemployed, seeking for job</common:Name>
+        </structure:Code>
+        <structure:Code id="OTHER3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).OTHER3">
+          <common:Name xml:lang="it">in altra condizione, disoccupati, in cerca di prima occupazione, casalinghe, studenti, inabile al lavoro, pensionato, in servizio di leva o in servizio civile</common:Name>
+          <common:Name xml:lang="en">unemployed, first job-seekers, housewives, students, unable to work, retired people, people serving the military or civilian service, other condition</common:Name>
+        </structure:Code>
+        <structure:Code id="UNEMPD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CONDIZIONE_DICH4(1.3).UNEMPD">
+          <common:Name xml:lang="it">disoccupato</common:Name>
+          <common:Name xml:lang="en">unemployed</common:Name>
+        </structure:Code>
+      </structure:Codelist>
+    </structure:Codelists>
+  </message:Structures>
+</message:Structure>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--NSI Web Service v6.16.0-->
+<message:Structure xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:structure="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <message:Header>
+    <message:ID>IDREF138</message:ID>
+    <message:Test>false</message:Test>
+    <message:Prepared>2022-10-09T10:36:14.0235003+02:00</message:Prepared>
+    <message:Sender id="Unknown" />
+    <message:Receiver id="Unknown" />
+  </message:Header>
+  <message:Structures>
+    <structure:Codelists>
+      <structure:Codelist id="CL_CITTADINANZA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IT1:CL_CITTADINANZA(1.2)" agencyID="IT1" version="1.2" isFinal="true">
+        <common:Name xml:lang="it">Cittadinanza</common:Name>
+        <common:Name xml:lang="en">Citizenship</common:Name>
+        <structure:Code id="EXTEU27" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CITTADINANZA(1.2).EXTEU27">
+          <common:Name xml:lang="it">di paese extra Unione europea a 27 paesi</common:Name>
+          <common:Name xml:lang="en">of extra European Union country with 27 Member States</common:Name>
+        </structure:Code>
+        <structure:Code id="FRG" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CITTADINANZA(1.2).FRG">
+          <common:Name xml:lang="it">straniero-a</common:Name>
+          <common:Name xml:lang="en">foreign</common:Name>
+        </structure:Code>
+        <structure:Code id="TOTAL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CITTADINANZA(1.2).TOTAL">
+          <common:Name xml:lang="it">totale</common:Name>
+          <common:Name xml:lang="en">total</common:Name>
+        </structure:Code>
+        <structure:Code id="EU27" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CITTADINANZA(1.2).EU27">
+          <common:Name xml:lang="it">di paese dell'Unione europea a 27</common:Name>
+          <common:Name xml:lang="en">of European Union country with 27 Member States</common:Name>
+        </structure:Code>
+        <structure:Code id="FRGAPO" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CITTADINANZA(1.2).FRGAPO">
+          <common:Name xml:lang="it">straniero-a/apolide</common:Name>
+          <common:Name xml:lang="en">foreign/stateless</common:Name>
+        </structure:Code>
+        <structure:Code id="ITL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CITTADINANZA(1.2).ITL">
+          <common:Name xml:lang="it">italiano-a</common:Name>
+          <common:Name xml:lang="en">italian</common:Name>
+        </structure:Code>
+        <structure:Code id="APO" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CITTADINANZA(1.2).APO">
+          <common:Name xml:lang="it">apolide</common:Name>
+          <common:Name xml:lang="en">apolide</common:Name>
+        </structure:Code>
+        <structure:Code id="EU27_NOITL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_CITTADINANZA(1.2).EU27_NOITL">
+          <common:Name xml:lang="it">di paese dell'Unione europea (Italia esclusa)</common:Name>
+          <common:Name xml:lang="en">of European Union country (except Italy)</common:Name>
+        </structure:Code>
+      </structure:Codelist>
+    </structure:Codelists>
+  </message:Structures>
+</message:Structure>

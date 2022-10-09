@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--NSI Web Service v6.16.0-->
+<message:Structure xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:structure="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <message:Header>
+    <message:ID>IDREF144</message:ID>
+    <message:Test>false</message:Test>
+    <message:Prepared>2022-10-09T10:36:18.2979078+02:00</message:Prepared>
+    <message:Sender id="Unknown" />
+    <message:Receiver id="Unknown" />
+  </message:Header>
+  <message:Structures>
+    <structure:Codelists>
+      <structure:Codelist id="CL_FREQUENZA2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IT1:CL_FREQUENZA2(1.1)" agencyID="IT1" version="1.1" isFinal="true">
+        <common:Name xml:lang="it">Frequenza delle attività</common:Name>
+        <common:Name xml:lang="en">Frequency of activities</common:Name>
+        <structure:Code id="SOMMON" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).SOMMON">
+          <common:Name xml:lang="it">qualche volta al mese</common:Name>
+          <common:Name xml:lang="en">sometimes a month</common:Name>
+        </structure:Code>
+        <structure:Code id="VERYCOM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).VERYCOM">
+          <common:Name xml:lang="it">molto diffuso</common:Name>
+          <common:Name xml:lang="en">very common</common:Name>
+        </structure:Code>
+        <structure:Code id="NA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).NA">
+          <common:Name xml:lang="it">non indicato</common:Name>
+          <common:Name xml:lang="en">n.a.</common:Name>
+        </structure:Code>
+        <structure:Code id="NEV" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).NEV">
+          <common:Name xml:lang="it">mai</common:Name>
+          <common:Name xml:lang="en">never</common:Name>
+        </structure:Code>
+        <structure:Code id="NOKNOW" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).NOKNOW">
+          <common:Name xml:lang="it">non sa</common:Name>
+          <common:Name xml:lang="en">doesn't know</common:Name>
+        </structure:Code>
+        <structure:Code id="EVDAY" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).EVDAY">
+          <common:Name xml:lang="it">tutti i giorni</common:Name>
+          <common:Name xml:lang="en">everyday</common:Name>
+        </structure:Code>
+        <structure:Code id="NOALCOM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).NOALCOM">
+          <common:Name xml:lang="it">per niente diffuso</common:Name>
+          <common:Name xml:lang="en">not at all common</common:Name>
+        </structure:Code>
+        <structure:Code id="SIXTILI" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).SIXTILI">
+          <common:Name xml:lang="it">6 o 10 volte nel corso della vita</common:Name>
+          <common:Name xml:lang="en">6 or 10 times in the course of life</common:Name>
+        </structure:Code>
+        <structure:Code id="NOREM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).NOREM">
+          <common:Name xml:lang="it">non ricorda, non sa</common:Name>
+          <common:Name xml:lang="en">doesn't remember, doesn't know</common:Name>
+        </structure:Code>
+        <structure:Code id="ONTIWE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).ONTIWE">
+          <common:Name xml:lang="it">una volta a settimana</common:Name>
+          <common:Name xml:lang="en">once times a week</common:Name>
+        </structure:Code>
+        <structure:Code id="FREQ" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).FREQ">
+          <common:Name xml:lang="it">spesso</common:Name>
+          <common:Name xml:lang="en">frequently</common:Name>
+        </structure:Code>
+        <structure:Code id="EVALMLI" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).EVALMLI">
+          <common:Name xml:lang="it">tutti i giorni o quasi nel corso della vita</common:Name>
+          <common:Name xml:lang="en">everyday or almost in the course of life</common:Name>
+        </structure:Code>
+        <structure:Code id="ONLASMON" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).ONLASMON">
+          <common:Name xml:lang="it">una volta negli ultimi 12 mesi</common:Name>
+          <common:Name xml:lang="en">once in the last 12 months</common:Name>
+        </structure:Code>
+        <structure:Code id="ONCOULIF" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).ONCOULIF">
+          <common:Name xml:lang="it">una volta nel corso della vita</common:Name>
+          <common:Name xml:lang="en">once in the course of life</common:Name>
+        </structure:Code>
+        <structure:Code id="FAIRCOM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).FAIRCOM">
+          <common:Name xml:lang="it">abbastanza diffuso</common:Name>
+          <common:Name xml:lang="en">fairly common</common:Name>
+        </structure:Code>
+        <structure:Code id="REFNORES" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).REFNORES">
+          <common:Name xml:lang="it">rifiuta o non risponde-negli ultimi 12 mesi</common:Name>
+          <common:Name xml:lang="en">refuses or does not respond-in the last 12 months</common:Name>
+        </structure:Code>
+        <structure:Code id="SOMWEEK" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).SOMWEEK">
+          <common:Name xml:lang="it">qualche volta a settimana</common:Name>
+          <common:Name xml:lang="en">sometimes a week</common:Name>
+        </structure:Code>
+        <structure:Code id="NOVERCOM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).NOVERCOM">
+          <common:Name xml:lang="it">poco diffuso</common:Name>
+          <common:Name xml:lang="en">not very common</common:Name>
+        </structure:Code>
+        <structure:Code id="REFNORELI" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).REFNORELI">
+          <common:Name xml:lang="it">rifiuta o non risponde-nel corso della vita</common:Name>
+          <common:Name xml:lang="en">refuses or does not respond-in the course of life</common:Name>
+        </structure:Code>
+        <structure:Code id="ALW" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).ALW">
+          <common:Name xml:lang="it">sempre</common:Name>
+          <common:Name xml:lang="en">always</common:Name>
+        </structure:Code>
+        <structure:Code id="ALL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).ALL">
+          <common:Name xml:lang="it">tutte le voci</common:Name>
+          <common:Name xml:lang="en">all items</common:Name>
+        </structure:Code>
+        <structure:Code id="SEVTIWE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).SEVTIWE">
+          <common:Name xml:lang="it">più volte a settimana</common:Name>
+          <common:Name xml:lang="en">several times a week</common:Name>
+        </structure:Code>
+        <structure:Code id="SOMTI" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).SOMTI">
+          <common:Name xml:lang="it">qualche volta</common:Name>
+          <common:Name xml:lang="en">sometimes</common:Name>
+        </structure:Code>
+        <structure:Code id="EVNI" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).EVNI">
+          <common:Name xml:lang="it">tutte le sere</common:Name>
+          <common:Name xml:lang="en">every night</common:Name>
+        </structure:Code>
+        <structure:Code id="SOMYEA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).SOMYEA">
+          <common:Name xml:lang="it">qualche volta all'anno</common:Name>
+          <common:Name xml:lang="en">sometimes a year</common:Name>
+        </structure:Code>
+        <structure:Code id="TWTILIF" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).TWTILIF">
+          <common:Name xml:lang="it">2 o 5 volte nel corso della vita</common:Name>
+          <common:Name xml:lang="en">2 or 5 times in the course of life</common:Name>
+        </structure:Code>
+        <structure:Code id="NOREMCOU" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).NOREMCOU">
+          <common:Name xml:lang="it">non sa o non ricorda-nel corso della vita</common:Name>
+          <common:Name xml:lang="en">does not know or does not remember-in the course of life</common:Name>
+        </structure:Code>
+        <structure:Code id="OVECOULIF" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).OVECOULIF">
+          <common:Name xml:lang="it">una o più volte al mese (1/3 volte al mese) nel corso della vita</common:Name>
+          <common:Name xml:lang="en">over the course of life one or more times a month (1/3 times per month)</common:Name>
+        </structure:Code>
+        <structure:Code id="ONETIMWE" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).ONETIMWE">
+          <common:Name xml:lang="it">una o più volte a settimana (1/3 volte a settimana)</common:Name>
+          <common:Name xml:lang="en">one or more times a week (1/3 times a week)</common:Name>
+        </structure:Code>
+        <structure:Code id="TENTILI" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).TENTILI">
+          <common:Name xml:lang="it">10 volte e più nel corso della vita</common:Name>
+          <common:Name xml:lang="en">10 times and more in the course of life</common:Name>
+        </structure:Code>
+        <structure:Code id="INFREQ" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).INFREQ">
+          <common:Name xml:lang="it">raramente</common:Name>
+          <common:Name xml:lang="en">infrequently</common:Name>
+        </structure:Code>
+        <structure:Code id="ONMORLIF" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).ONMORLIF">
+          <common:Name xml:lang="it">una o più volte l'anno nel corso della vita</common:Name>
+          <common:Name xml:lang="en">one or more times a year over the course of life</common:Name>
+        </structure:Code>
+        <structure:Code id="ONPARPER" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).ONPARPER">
+          <common:Name xml:lang="it">solo in particolari periodi ma ripetutamente nel corso della vita</common:Name>
+          <common:Name xml:lang="en">only in particular periods but repeatedly in the course of life</common:Name>
+        </structure:Code>
+        <structure:Code id="ONMON" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).ONMON">
+          <common:Name xml:lang="it">una volta al mese</common:Name>
+          <common:Name xml:lang="en">once a month</common:Name>
+        </structure:Code>
+        <structure:Code id="MORON" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_FREQUENZA2(1.1).MORON">
+          <common:Name xml:lang="it">più di una volta negli ultimi 12 mesi</common:Name>
+          <common:Name xml:lang="en">more than once in the last 12 months</common:Name>
+        </structure:Code>
+      </structure:Codelist>
+    </structure:Codelists>
+  </message:Structures>
+</message:Structure>

@@ -1,0 +1,60 @@
+{ "key": "UNAV", "en": "unavailable", "it": "non disponibile" }
+{ "key": "LAB_EXPLOI", "en": "labor exploitation", "it": "sfruttamento lavorativo" }
+{ "key": "PHYVIOL", "en": "psychological violence", "it": "violenza psicologica" }
+{ "key": "VERB_VIOL", "en": "verbal violence/belittling", "it": "violenza verbale/svalorizzazione" }
+{ "key": "INS_VERB", "en": "insult you or verbally abuse you", "it": "la insulta o la prende a male parole" }
+{ "key": "CRIT_APP", "en": "criticize your appearance, the way you dress or do your hair", "it": "la critica per il suo aspetto, come si veste o si pettina" }
+{ "key": "CRIT_HOUS", "en": "criticize your housework", "it": "la critica per come si occupa della casa" }
+{ "key": "TRAFF", "en": "traffichking", "it": "tratta" }
+{ "key": "MISSING", "en": "missing", "it": "missing" }
+{ "key": "BEL_HUM", "en": "belittle or humiliate you in front of other people", "it": "la umilia o la offende di fronte ad altre persone" }
+{ "key": "EXPLOI_PROST", "en": "exploitation of prostitution", "it": "sfruttamento della prostituzione" }
+{ "key": "ISOL", "en": "isolation", "it": "isolamento" }
+{ "key": "FORB_LEAV", "en": "forbid you to leave the house", "it": "le proibisce di uscire" }
+{ "key": "PREV_WORK", "en": "prevent or try to prevent you from working", "it": "le impedisce o cerca di impedirle di lavorare" }
+{ "key": "PREV_STUD", "en": "prevent or try to prevent you from studying", "it": "le impedisce o cerca di impedirle di studiare" }
+{ "key": "IGN_LIST", "en": "ignores you, do not talk to you, do not listen to you", "it": "la ignora, non le parla, non la ascolta" }
+{ "key": "ECON_VIOL", "en": "economic violence", "it": "violenza economica" }
+{ "key": "PREV_MAK_DE", "en": "prevent you from making decisions about family finances or control excessively your expenses", "it": "le impedisce di gestire il suo denaro e quello della sua famiglia" }
+{ "key": "INTIM", "en": "intimidation", "it": "intimidazione" }
+{ "key": "HURT_CHILD", "en": "hurt or threaten to hurt your children", "it": "fa del male o minaccia di farlo ai suoi figli" }
+{ "key": "DAM_DES", "en": "damage or destroy your belongings", "it": "danneggia o distrugge le sue cose o altri oggetti personali" }
+{ "key": "HURT_PEOP", "en": "hurt or threaten to hurt people you care about", "it": "fa del male o minaccia di farlo a persone a lei vicine" }
+{ "key": "THR_BRE_OBJ", "en": "throw and/or break objects in order to frighten", "it": "lancia e/o rompe oggetti allo scopo di spaventarla" }
+{ "key": "THR_KIL_CHI", "en": "threaten to take away the children", "it": "minaccia di portarle via i figli" }
+{ "key": "CONTR", "en": "control", "it": "controllo" }
+{ "key": "GET_ANG", "en": "get angry if you talk to another man", "it": "si arrabbia se lei parla con un altro uomo" }
+{ "key": "CHEC_GO", "en": "he follows you or check up on where you're going", "it": "la segue o controlla i suoi spostamenti" }
+{ "key": "TELL_DRESS", "en": "tell you how to dress, do your hair and make-up or how to behave in public", "it": "le impone come vestirsi, pettinarsi o comportarsi in pubblico" }
+{ "key": "SUSPIC", "en": "is constantly suspicious that you are unfaithful", "it": "è costantemente dubbioso della sua fedeltà" }
+{ "key": "PREV_USE", "en": "prevent you from using the cash card", "it": "le  impedisce di utilizzare il bancomat" }
+{ "key": "ALL", "en": "all items", "it": "tutte le voci" }
+{ "key": "RESTR_SEE", "en": "restrict you from seeing your family or friends", "it": "cerca di limitare i rapporti con  la famiglia o amici" }
+{ "key": "NRP", "en": "no response", "it": "non risponde" }
+{ "key": "HARASS_WORK", "en": "harassment at workplace", "it": "mobbing" }
+{ "key": "HURT_ANIM", "en": "hurt or threaten to hurt your animals", "it": "fa del male o minaccia di farlo ai suoi animali" }
+{ "key": "THREATS", "en": "threats", "it": "minacce" }
+{ "key": "THR_KIL_HIM", "en": "threaten to kill himself", "it": "minaccia di uccidersi" }
+{ "key": "DIS_SEX_EXPL", "en": "unlawful dissemination of sexually explicit images or videos", "it": "diffusione illecita di immagini o di video sessualmente espliciti" }
+{ "key": "PREV_KNO", "en": "prevent you from knowing how much money/income your family has", "it": "le impedisce di conoscere l'ammontare del reddito familiare" }
+{ "key": "PHSEX", "en": "physical or sexual", "it": "violenza fisica o sessuale" }
+{ "key": "PHY", "en": "physical violence", "it": "violenza fisica" }
+{ "key": "SEXVIOL", "en": "sexual violence", "it": "violenza sessuale" }
+{ "key": "FORC_DEG", "en": "forced to do sexual activity degrading or humiliating", "it": "forzate ad attività sessuale considerata umiliante" }
+{ "key": "OTH_FORM", "en": "other forms of sexual violence", "it": "tutto ciò che è violenza sessuale ma non è stato elencato" }
+{ "key": "FORC_SEX", "en": "forced to do sexual activity with others", "it": "forzate ad attività sessuale con altre persone" }
+{ "key": "FORC_HAR", "en": "physical sexual harassment", "it": "molestie fisiche sessuali" }
+{ "key": "UNW_SEX", "en": "unwanted sexual intercourse", "it": "rapporti sessuali indesiderati" }
+{ "key": "RAPE_OR_ATT", "en": "rape or attempted rape", "it": "stupro o tentato stupro" }
+{ "key": "RAPE", "en": "rape", "it": "stupro" }
+{ "key": "PHSEX_EXH", "en": "physical or sexual excluding harassment", "it": "violenza fisica o sessuale senza molestie" }
+{ "key": "RAPE_ATT", "en": "attempted rape", "it": "tentato stupro" }
+{ "key": "SEXVIOL_EXH", "en": "sexual violence excluding harassment", "it": "violenza sessuale, senza molestie" }
+{ "key": "PHY_EX_THRE", "en": "physical violence excluding threats", "it": "violenza fisica, escluse minacce" }
+{ "key": "SLAP_KIC", "en": "slapped, kicked, beaten with fist, bitten", "it": "schiaffeggiate, prese a calci, a pugni o morse" }
+{ "key": "USE_THRE", "en": "used or threatened to use a gun or knife", "it": "contro cui hanno usato o minacciato di usare una pistola o un coltello" }
+{ "key": "PUSH_HAD", "en": "pushed, grabbed, had twisted their harm or pulled their hair", "it": "spinte, afferrate, strattonate, cui hanno storto un braccio, tirato i capelli" }
+{ "key": "HIT_WI_OBJ", "en": "hit with an object or had something thrown at", "it": "colpite con un oggetto o cui hanno tirato qualcosa" }
+{ "key": "STRA_BUR", "en": "strangled, burnt", "it": "che hanno tentato di strangolare, soffocare, ustionare" }
+{ "key": "EXPE_OTH", "en": "experienced other forms of physical violence", "it": "che hanno subito violenza fisica in un modo diverso" }
+{ "key": "THRE_TO_HIT", "en": "threatened to be hit", "it": "minacciate di essere colpite fisicamente" }

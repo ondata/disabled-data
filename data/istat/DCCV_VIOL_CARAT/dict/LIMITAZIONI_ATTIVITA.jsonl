@@ -1,0 +1,21 @@
+{ "key": "SER_INTIM", "en": "serious intimidation", "it": "grave soggezione" }
+{ "key": "FEAR_LOVOWNSAF", "en": "fear for the loved ones safety", "it": "paura per l'incolumità dei propri cari" }
+{ "key": "FEEL_HARASSED", "en": "feeling of being harassed without fear of imminent danger", "it": "si sente molestata ma senza timore di pericolo imminente" }
+{ "key": "PHYS_DIS", "en": "with physical diseases", "it": "presenza di malattie fisiche" }
+{ "key": "SER_NOTLIM", "en": "some activity limitations", "it": "non gravi limitazioni nelle attività" }
+{ "key": "DISCOM", "en": "discomfort", "it": "fastidio" }
+{ "key": "FEAR_OWNSAF", "en": "fear for one's own safety", "it": "paura per la propria incolumità" }
+{ "key": "DEPR", "en": "(of which) depression", "it": "(di cui) depressione" }
+{ "key": "ANXIETY", "en": "anxiety", "it": "ansia" }
+{ "key": "NO_LIM", "en": "no activity limitation", "it": "nessuna limitazione nelle attività" }
+{ "key": "MENTAL", "en": "with mental diseases", "it": "presenza di malattie mentali" }
+{ "key": "NEOPL", "en": "(of which) neoplasms", "it": "(di cui) tumori" }
+{ "key": "FEAR_DEATH", "en": "fear of death", "it": "paura di morire" }
+{ "key": "OTHER_P", "en": "(of which) other physical diseases", "it": "(di cui) altre malattie fisiche" }
+{ "key": "ALL", "en": "all items", "it": "tutte le voci" }
+{ "key": "SER_LIM", "en": "severe activity limitations", "it": "gravi limitazioni nelle attività" }
+{ "key": "OTHER_M", "en": "(of which) other mental disorders", "it": "(di cui) altre malattie mentali" }
+{ "key": "NO_PHYS_DIS", "en": "no physical diseases", "it": "assenza di malattie fisiche" }
+{ "key": "UNAV", "en": "unavailable", "it": "non disponibile" }
+{ "key": "NRP", "en": "no response", "it": "non risponde" }
+{ "key": "NO_MENT_DIS", "en": "no mental diseases", "it": "assenza di malattie mentali" }

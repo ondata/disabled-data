@@ -1,0 +1,8 @@
+{ "key": "A", "en": "annual", "it": "annuale" }
+{ "key": "B", "en": "business (not supported)", "it": "business (non supportato)" }
+{ "key": "D", "en": "daily", "it": "giornaliero" }
+{ "key": "E", "en": "event (not supported)", "it": "event (non supportato)" }
+{ "key": "H", "en": "half-yearly", "it": "semestrale" }
+{ "key": "M", "en": "monthly", "it": "mensile" }
+{ "key": "Q", "en": "quarterly", "it": "trimestrale" }
+{ "key": "W", "en": "weekly", "it": "settimanale" }

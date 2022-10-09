@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--NSI Web Service v6.16.0-->
+<message:Structure xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:structure="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <message:Header>
+    <message:ID>IDREF143</message:ID>
+    <message:Test>false</message:Test>
+    <message:Prepared>2022-10-09T10:36:17.861107+02:00</message:Prepared>
+    <message:Sender id="Unknown" />
+    <message:Receiver id="Unknown" />
+  </message:Header>
+  <message:Structures>
+    <structure:Codelists>
+      <structure:Codelist id="CL_STATI_MORBOSI" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IT1:CL_STATI_MORBOSI(1.3)" agencyID="IT1" version="1.3" isFinal="true">
+        <common:Name xml:lang="it">Stati morbosi</common:Name>
+        <common:Name xml:lang="en">Physical/mental diseases</common:Name>
+        <structure:Code id="SER_INTIM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATI_MORBOSI(1.3).SER_INTIM">
+          <common:Name xml:lang="it">grave soggezione</common:Name>
+          <common:Name xml:lang="en">serious intimidation</common:Name>
+        </structure:Code>
+        <structure:Code id="FEAR_LOVOWNSAF" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATI_MORBOSI(1.3).FEAR_LOVOWNSAF">
+          <common:Name xml:lang="it">paura per l'incolumità dei propri cari</common:Name>
+          <common:Name xml:lang="en">fear for the loved ones safety</common:Name>
+        </structure:Code>
+        <structure:Code id="FEEL_HARASSED" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATI_MORBOSI(1.3).FEEL_HARASSED">
+          <common:Name xml:lang="it">si sente molestata ma senza timore di pericolo imminente</common:Name>
+          <common:Name xml:lang="en">feeling of being harassed without fear of imminent danger</common:Name>
+        </structure:Code>
+        <structure:Code id="PHYS_DIS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATI_MORBOSI(1.3).PHYS_DIS">
+          <common:Name xml:lang="it">presenza di malattie fisiche</common:Name>
+          <common:Name xml:lang="en">with physical diseases</common:Name>
+        </structure:Code>
+        <structure:Code id="SER_NOTLIM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATI_MORBOSI(1.3).SER_NOTLIM">
+          <common:Name xml:lang="it">non gravi limitazioni nelle attività</common:Name>
+          <common:Name xml:lang="en">some activity limitations</common:Name>
+        </structure:Code>
+        <structure:Code id="DISCOM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATI_MORBOSI(1.3).DISCOM">
+          <common:Name xml:lang="it">fastidio</common:Name>
+          <common:Name xml:lang="en">discomfort</common:Name>
+        </structure:Code>
+        <structure:Code id="FEAR_OWNSAF" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATI_MORBOSI(1.3).FEAR_OWNSAF">
+          <common:Name xml:lang="it">paura per la propria incolumità</common:Name>
+          <common:Name xml:lang="en">fear for one's own safety</common:Name>
+        </structure:Code>
+        <structure:Code id="DEPR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATI_MORBOSI(1.3).DEPR">
+          <common:Name xml:lang="it">(di cui) depressione</common:Name>
+          <common:Name xml:lang="en">(of which) depression</common:Name>
+        </structure:Code>
+        <structure:Code id="ANXIETY" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATI_MORBOSI(1.3).ANXIETY">
+          <common:Name xml:lang="it">ansia</common:Name>
+          <common:Name xml:lang="en">anxiety</common:Name>
+        </structure:Code>
+        <structure:Code id="NO_LIM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATI_MORBOSI(1.3).NO_LIM">
+          <common:Name xml:lang="it">nessuna limitazione nelle attività</common:Name>
+          <common:Name xml:lang="en">no activity limitation</common:Name>
+        </structure:Code>
+        <structure:Code id="MENTAL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATI_MORBOSI(1.3).MENTAL">
+          <common:Name xml:lang="it">presenza di malattie mentali</common:Name>
+          <common:Name xml:lang="en">with mental diseases</common:Name>
+        </structure:Code>
+        <structure:Code id="NEOPL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATI_MORBOSI(1.3).NEOPL">
+          <common:Name xml:lang="it">(di cui) tumori</common:Name>
+          <common:Name xml:lang="en">(of which) neoplasms</common:Name>
+        </structure:Code>
+        <structure:Code id="FEAR_DEATH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATI_MORBOSI(1.3).FEAR_DEATH">
+          <common:Name xml:lang="it">paura di morire</common:Name>
+          <common:Name xml:lang="en">fear of death</common:Name>
+        </structure:Code>
+        <structure:Code id="OTHER_P" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATI_MORBOSI(1.3).OTHER_P">
+          <common:Name xml:lang="it">(di cui) altre malattie fisiche</common:Name>
+          <common:Name xml:lang="en">(of which) other physical diseases</common:Name>
+        </structure:Code>
+        <structure:Code id="ALL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATI_MORBOSI(1.3).ALL">
+          <common:Name xml:lang="it">tutte le voci</common:Name>
+          <common:Name xml:lang="en">all items</common:Name>
+        </structure:Code>
+        <structure:Code id="SER_LIM" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATI_MORBOSI(1.3).SER_LIM">
+          <common:Name xml:lang="it">gravi limitazioni nelle attività</common:Name>
+          <common:Name xml:lang="en">severe activity limitations</common:Name>
+        </structure:Code>
+        <structure:Code id="OTHER_M" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATI_MORBOSI(1.3).OTHER_M">
+          <common:Name xml:lang="it">(di cui) altre malattie mentali</common:Name>
+          <common:Name xml:lang="en">(of which) other mental disorders</common:Name>
+        </structure:Code>
+        <structure:Code id="NO_PHYS_DIS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATI_MORBOSI(1.3).NO_PHYS_DIS">
+          <common:Name xml:lang="it">assenza di malattie fisiche</common:Name>
+          <common:Name xml:lang="en">no physical diseases</common:Name>
+        </structure:Code>
+        <structure:Code id="UNAV" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATI_MORBOSI(1.3).UNAV">
+          <common:Name xml:lang="it">non disponibile</common:Name>
+          <common:Name xml:lang="en">unavailable</common:Name>
+        </structure:Code>
+        <structure:Code id="NRP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATI_MORBOSI(1.3).NRP">
+          <common:Name xml:lang="it">non risponde</common:Name>
+          <common:Name xml:lang="en">no response</common:Name>
+        </structure:Code>
+        <structure:Code id="NO_MENT_DIS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATI_MORBOSI(1.3).NO_MENT_DIS">
+          <common:Name xml:lang="it">assenza di malattie mentali</common:Name>
+          <common:Name xml:lang="en">no mental diseases</common:Name>
+        </structure:Code>
+      </structure:Codelist>
+    </structure:Codelists>
+  </message:Structures>
+</message:Structure>

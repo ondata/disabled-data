@@ -1,0 +1,36 @@
+{ "key": "OTHER1", "en": "other self-employed", "it": "altro indipendente" }
+{ "key": "WORK_ILLEG", "en": "work illegally", "it": "lavoratore-trice in nero" }
+{ "key": "SLFEMP", "en": "self-employed", "it": "indipendente" }
+{ "key": "OTHER5", "en": "other different from employee or retired", "it": "diverso da occupato o ritirato-a dal lavoro" }
+{ "key": "OR0", "en": "Gerarchia varie Indagini", "it": "Gerarchia varie Indagini" }
+{ "key": "EMPD", "en": "employed person", "it": "occupato" }
+{ "key": "SLFEMPFA", "en": "self-employed, family worker, co.co.co.", "it": "lavoratore in proprio, coadiuvante familiare, co.co.co." }
+{ "key": "HOUSEWIFE", "en": "housewife", "it": "casalinga-o" }
+{ "key": "NOPRJEX", "en": "no previous job experience", "it": "nessuna esperienza precedente" }
+{ "key": "ENTFRL", "en": "entrepreneur and freelance", "it": "imprenditore e libero professionista" }
+{ "key": "EMP", "en": "employee", "it": "dipendente" }
+{ "key": "NEMPD", "en": "not employed person", "it": "non occupato" }
+{ "key": "MIDMANCO", "en": "middle management, white collar", "it": "direttivo, quadro, impiegato" }
+{ "key": "EXMMGWC", "en": "executive, middle management and white collar", "it": "dirigente, quadro e impiegato" }
+{ "key": "OCC", "en": "continuous coordinated collaboration or occasional worker", "it": "co.co.co o prestatore d'opera occasionale" }
+{ "key": "SEEKJ", "en": "seeking for job", "it": "in cerca di occupazione" }
+{ "key": "STUD", "en": "student", "it": "studente" }
+{ "key": "UNAV", "en": "unavailable", "it": "non disponibile" }
+{ "key": "INAC", "en": "inactive person", "it": "inattivo" }
+{ "key": "EXEMPPRO", "en": "executive, employer, professional", "it": "dirigenti, imprenditori, liberi professionisti" }
+{ "key": "STUDENT", "en": "student", "it": "studente" }
+{ "key": "OTHER6", "en": "other condition (different from housewife,student,seeking for job,retired)", "it": "in altra condizione (diverso da casalinga,studente,in cerca di occupazione,ritirato dal lavoro)" }
+{ "key": "OTHER2", "en": "other condition (different from self employed, employee, retired, seeking for job)", "it": "in altra condizione (diversa da indipendente, dipendente, ritirato dal lavoro, in cerca di occupazione)" }
+{ "key": "NRP", "en": "no response", "it": "non indicato" }
+{ "key": "BLUCOAP", "en": "blu collar, apprentice", "it": "operaio, apprendista" }
+{ "key": "WRK", "en": "worker", "it": "operaio e assimilato" }
+{ "key": "HOUSWI", "en": "housewife", "it": "casalinga-o" }
+{ "key": "SEL", "en": "self-employed worker", "it": "autonomo" }
+{ "key": "MGEMP", "en": "manager and employee", "it": "dirigente e impiegato" }
+{ "key": "RET", "en": "retired", "it": "ritirato-a dal lavoro" }
+{ "key": "ALL", "en": "all items", "it": "tutte le voci" }
+{ "key": "SLFEMPLY", "en": "self employed", "it": "lavoratore in proprio" }
+{ "key": "OTHER4", "en": "other condition (different from retired)", "it": "in altra condizione (diversa da ritirato-a dal lavoro)" }
+{ "key": "UNEMPD_SEEKJ", "en": "unemployed, seeking for job", "it": "disoccupato, in cerca di lavoro" }
+{ "key": "OTHER3", "en": "unemployed, first job-seekers, housewives, students, unable to work, retired people, people serving the military or civilian service, other condition", "it": "in altra condizione, disoccupati, in cerca di prima occupazione, casalinghe, studenti, inabile al lavoro, pensionato, in servizio di leva o in servizio civile" }
+{ "key": "UNEMPD", "en": "unemployed", "it": "disoccupato" }

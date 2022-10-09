@@ -1,0 +1,35 @@
+{ "key": "SOMMON", "en": "sometimes a month", "it": "qualche volta al mese" }
+{ "key": "VERYCOM", "en": "very common", "it": "molto diffuso" }
+{ "key": "NA", "en": "n.a.", "it": "non indicato" }
+{ "key": "NEV", "en": "never", "it": "mai" }
+{ "key": "NOKNOW", "en": "doesn't know", "it": "non sa" }
+{ "key": "EVDAY", "en": "everyday", "it": "tutti i giorni" }
+{ "key": "NOALCOM", "en": "not at all common", "it": "per niente diffuso" }
+{ "key": "SIXTILI", "en": "6 or 10 times in the course of life", "it": "6 o 10 volte nel corso della vita" }
+{ "key": "NOREM", "en": "doesn't remember, doesn't know", "it": "non ricorda, non sa" }
+{ "key": "ONTIWE", "en": "once times a week", "it": "una volta a settimana" }
+{ "key": "FREQ", "en": "frequently", "it": "spesso" }
+{ "key": "EVALMLI", "en": "everyday or almost in the course of life", "it": "tutti i giorni o quasi nel corso della vita" }
+{ "key": "ONLASMON", "en": "once in the last 12 months", "it": "una volta negli ultimi 12 mesi" }
+{ "key": "ONCOULIF", "en": "once in the course of life", "it": "una volta nel corso della vita" }
+{ "key": "FAIRCOM", "en": "fairly common", "it": "abbastanza diffuso" }
+{ "key": "REFNORES", "en": "refuses or does not respond-in the last 12 months", "it": "rifiuta o non risponde-negli ultimi 12 mesi" }
+{ "key": "SOMWEEK", "en": "sometimes a week", "it": "qualche volta a settimana" }
+{ "key": "NOVERCOM", "en": "not very common", "it": "poco diffuso" }
+{ "key": "REFNORELI", "en": "refuses or does not respond-in the course of life", "it": "rifiuta o non risponde-nel corso della vita" }
+{ "key": "ALW", "en": "always", "it": "sempre" }
+{ "key": "ALL", "en": "all items", "it": "tutte le voci" }
+{ "key": "SEVTIWE", "en": "several times a week", "it": "più volte a settimana" }
+{ "key": "SOMTI", "en": "sometimes", "it": "qualche volta" }
+{ "key": "EVNI", "en": "every night", "it": "tutte le sere" }
+{ "key": "SOMYEA", "en": "sometimes a year", "it": "qualche volta all'anno" }
+{ "key": "TWTILIF", "en": "2 or 5 times in the course of life", "it": "2 o 5 volte nel corso della vita" }
+{ "key": "NOREMCOU", "en": "does not know or does not remember-in the course of life", "it": "non sa o non ricorda-nel corso della vita" }
+{ "key": "OVECOULIF", "en": "over the course of life one or more times a month (1/3 times per month)", "it": "una o più volte al mese (1/3 volte al mese) nel corso della vita" }
+{ "key": "ONETIMWE", "en": "one or more times a week (1/3 times a week)", "it": "una o più volte a settimana (1/3 volte a settimana)" }
+{ "key": "TENTILI", "en": "10 times and more in the course of life", "it": "10 volte e più nel corso della vita" }
+{ "key": "INFREQ", "en": "infrequently", "it": "raramente" }
+{ "key": "ONMORLIF", "en": "one or more times a year over the course of life", "it": "una o più volte l'anno nel corso della vita" }
+{ "key": "ONPARPER", "en": "only in particular periods but repeatedly in the course of life", "it": "solo in particolari periodi ma ripetutamente nel corso della vita" }
+{ "key": "ONMON", "en": "once a month", "it": "una volta al mese" }
+{ "key": "MORON", "en": "more than once in the last 12 months", "it": "più di una volta negli ultimi 12 mesi" }

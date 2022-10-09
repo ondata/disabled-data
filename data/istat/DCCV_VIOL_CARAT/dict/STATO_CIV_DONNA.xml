@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--NSI Web Service v6.16.0-->
+<message:Structure xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:structure="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <message:Header>
+    <message:ID>IDREF145</message:ID>
+    <message:Test>false</message:Test>
+    <message:Prepared>2022-10-09T10:36:18.7191086+02:00</message:Prepared>
+    <message:Sender id="Unknown" />
+    <message:Receiver id="Unknown" />
+  </message:Header>
+  <message:Structures>
+    <structure:Codelists>
+      <structure:Codelist id="CL_STATCIV2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IT1:CL_STATCIV2(4.8)" agencyID="IT1" version="4.8" isFinal="true">
+        <common:Name xml:lang="it">Stato civile</common:Name>
+        <common:Name xml:lang="en">Marital status</common:Name>
+        <structure:Code id="SFD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).SFD">
+          <common:Name xml:lang="it">separato di fatto/legalmente, divorziato da matrimonio</common:Name>
+          <common:Name xml:lang="en">separated or divorced</common:Name>
+        </structure:Code>
+        <structure:Code id="FSEP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).FSEP">
+          <common:Name xml:lang="it">separato legalmente da matrimonio</common:Name>
+          <common:Name xml:lang="en">legally separated persons</common:Name>
+        </structure:Code>
+        <structure:Code id="NRPP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).NRPP">
+          <common:Name xml:lang="it">non dichiarato per la privacy</common:Name>
+          <common:Name xml:lang="en">not declared for privacy</common:Name>
+        </structure:Code>
+        <structure:Code id="99" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).99">
+          <common:Name xml:lang="it">totale</common:Name>
+          <common:Name xml:lang="en">total</common:Name>
+        </structure:Code>
+        <structure:Code id="8" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).8">
+          <common:Name xml:lang="it">non dichiarato per la privacy</common:Name>
+          <common:Name xml:lang="en">not declared for privacy</common:Name>
+        </structure:Code>
+        <structure:Code id="NMNS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).NMNS">
+          <common:Name xml:lang="it">non più coniugato, non più in unione civile</common:Name>
+          <common:Name xml:lang="en">not any more married persons or not any more same sex civil partner</common:Name>
+        </structure:Code>
+        <structure:Code id="15" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).15">
+          <common:Name xml:lang="it">unito/a civilmente</common:Name>
+          <common:Name xml:lang="en">same sex civil partner</common:Name>
+        </structure:Code>
+        <structure:Code id="MAR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).MAR">
+          <common:Name xml:lang="it">coniugato</common:Name>
+          <common:Name xml:lang="en">married persons</common:Name>
+        </structure:Code>
+        <structure:Code id="NRP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).NRP">
+          <common:Name xml:lang="it">non indicato</common:Name>
+          <common:Name xml:lang="en">no response</common:Name>
+        </structure:Code>
+        <structure:Code id="98" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).98">
+          <common:Name xml:lang="it">non indicato</common:Name>
+          <common:Name xml:lang="en">n.a.</common:Name>
+        </structure:Code>
+        <structure:Code id="WID" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).WID">
+          <common:Name xml:lang="it">vedovo da matrimonio</common:Name>
+          <common:Name xml:lang="en">widowed persons</common:Name>
+        </structure:Code>
+        <structure:Code id="DIVSSCIV" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).DIVSSCIV">
+          <common:Name xml:lang="it">divorziato da unione civile</common:Name>
+          <common:Name xml:lang="en">divorced same sex civil partner</common:Name>
+        </structure:Code>
+        <structure:Code id="SSCIV" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).SSCIV">
+          <common:Name xml:lang="it">unito civilmente</common:Name>
+          <common:Name xml:lang="en">same sex civil partner</common:Name>
+        </structure:Code>
+        <structure:Code id="12" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).12">
+          <common:Name xml:lang="it">separata/o legalmente</common:Name>
+          <common:Name xml:lang="en">legally separated</common:Name>
+        </structure:Code>
+        <structure:Code id="MAR2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).MAR2">
+          <common:Name xml:lang="it">coniugato, unito civilmente, separato da matrimonio/unione civile</common:Name>
+          <common:Name xml:lang="en">married persons (including separated persons) or same sex civil partner (including de facto separated same sex civil partner)</common:Name>
+        </structure:Code>
+        <structure:Code id="3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).3">
+          <common:Name xml:lang="it">divorziata/o</common:Name>
+          <common:Name xml:lang="en">divorced</common:Name>
+        </structure:Code>
+        <structure:Code id="SEP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).SEP">
+          <common:Name xml:lang="it">separato di fatto da matrimonio</common:Name>
+          <common:Name xml:lang="en">de facto separated persons</common:Name>
+        </structure:Code>
+        <structure:Code id="11" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).11">
+          <common:Name xml:lang="it">separata/o di fatto</common:Name>
+          <common:Name xml:lang="en">de facto separated</common:Name>
+        </structure:Code>
+        <structure:Code id="DIV2_WID2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).DIV2_WID2">
+          <common:Name xml:lang="it">divorziato da matrimonio/unione civile, vedovo da matrimonio/unione civile</common:Name>
+          <common:Name xml:lang="en">divorced persons or divorced same sex civil partner, widowed persons or widow/widower of same sex civil partner</common:Name>
+        </structure:Code>
+        <structure:Code id="SFD2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).SFD2">
+          <common:Name xml:lang="it">separato di fatto/legalmente da matrimonio, divorziato da matrimonio/unione civile</common:Name>
+          <common:Name xml:lang="en">separeted or divorced persons or divorced same sex civil partner</common:Name>
+        </structure:Code>
+        <structure:Code id="SFDW" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).SFDW">
+          <common:Name xml:lang="it">separato di fatto/legalmente, divorziato, vedovo da matrimonio</common:Name>
+          <common:Name xml:lang="en">separated or divorced or widowed</common:Name>
+        </structure:Code>
+        <structure:Code id="UNAV" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).UNAV">
+          <common:Name xml:lang="it">non disponibile</common:Name>
+          <common:Name xml:lang="en">unavailable</common:Name>
+        </structure:Code>
+        <structure:Code id="WIDSSCIV" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).WIDSSCIV">
+          <common:Name xml:lang="it">vedovo da unione civile</common:Name>
+          <common:Name xml:lang="en">widow/widower of same sex civil partner</common:Name>
+        </structure:Code>
+        <structure:Code id="SINB" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).SINB">
+          <common:Name xml:lang="it">celibe/nubile</common:Name>
+          <common:Name xml:lang="en">single persons (never married)</common:Name>
+        </structure:Code>
+        <structure:Code id="2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).2">
+          <common:Name xml:lang="it">coniugata/o</common:Name>
+          <common:Name xml:lang="en">married</common:Name>
+        </structure:Code>
+        <structure:Code id="4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).4">
+          <common:Name xml:lang="it">vedova/o</common:Name>
+          <common:Name xml:lang="en">widowed</common:Name>
+        </structure:Code>
+        <structure:Code id="SIN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).SIN">
+          <common:Name xml:lang="it">celibe/nubile</common:Name>
+          <common:Name xml:lang="en">single persons (never married and never in same sex civil partnership)</common:Name>
+        </structure:Code>
+        <structure:Code id="14" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).14">
+          <common:Name xml:lang="it">separata/o di fatto, separata/o legalmente, divorziata/o, vedova/o</common:Name>
+          <common:Name xml:lang="en">de facto separated, legally separated, divorced or widowed</common:Name>
+        </structure:Code>
+        <structure:Code id="DIV" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).DIV">
+          <common:Name xml:lang="it">divorziato da matrimonio</common:Name>
+          <common:Name xml:lang="en">divorced persons</common:Name>
+        </structure:Code>
+        <structure:Code id="MAR_SSCIV" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).MAR_SSCIV">
+          <common:Name xml:lang="it">coniugato, unito civilmente</common:Name>
+          <common:Name xml:lang="en">married persons or same sex civil partner</common:Name>
+        </structure:Code>
+        <structure:Code id="7" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).7">
+          <common:Name xml:lang="it">separata/o o divorziata/o</common:Name>
+          <common:Name xml:lang="en">separated or divorced</common:Name>
+        </structure:Code>
+        <structure:Code id="MAR_SEP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).MAR_SEP">
+          <common:Name xml:lang="it">coniugato (inclusi i separati di fatto da matrimonio)</common:Name>
+          <common:Name xml:lang="en">married persons (including de facto separated persons)</common:Name>
+        </structure:Code>
+        <structure:Code id="SEP_FSEP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).SEP_FSEP">
+          <common:Name xml:lang="it">separato di fatto/legalmente da matrimonio</common:Name>
+          <common:Name xml:lang="en">separated persons</common:Name>
+        </structure:Code>
+        <structure:Code id="SSCIV_SEPCIV" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).SSCIV_SEPCIV">
+          <common:Name xml:lang="it">unito civilmente (inclusi i separati di fatto da unione civile)</common:Name>
+          <common:Name xml:lang="en">same sex civil partner (including de facto separated same sex civil partner)</common:Name>
+        </structure:Code>
+        <structure:Code id="FDW" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).FDW">
+          <common:Name xml:lang="it">separato legalmente, divorziato, vedovo da matrimonio</common:Name>
+          <common:Name xml:lang="en">legally separated or divorced or widowed</common:Name>
+        </structure:Code>
+        <structure:Code id="6" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).6">
+          <common:Name xml:lang="it">divorziata/o o vedova/o</common:Name>
+          <common:Name xml:lang="en">divorced or widowed</common:Name>
+        </structure:Code>
+        <structure:Code id="10" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).10">
+          <common:Name xml:lang="it">coniugata/o o separata/o legalmente</common:Name>
+          <common:Name xml:lang="en">married or legally separated</common:Name>
+        </structure:Code>
+        <structure:Code id="SEPCIV" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).SEPCIV">
+          <common:Name xml:lang="it">separato di fatto da unione civile</common:Name>
+          <common:Name xml:lang="en">de facto separated same sex civil partner</common:Name>
+        </structure:Code>
+        <structure:Code id="DIV2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).DIV2">
+          <common:Name xml:lang="it">divorziato da matrimonio/unione civile</common:Name>
+          <common:Name xml:lang="en">divorced persons or divorced same sex civil partner</common:Name>
+        </structure:Code>
+        <structure:Code id="MAR_SEPC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).MAR_SEPC">
+          <common:Name xml:lang="it">coniugato non coabitante con il coniuge (inclusi i separati di fatto)</common:Name>
+          <common:Name xml:lang="en">married persons (including de facto separated persons)</common:Name>
+        </structure:Code>
+        <structure:Code id="17" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).17">
+          <common:Name xml:lang="it">già in unione civile (per scioglimento unione)</common:Name>
+          <common:Name xml:lang="en">divorced same-sex civil partner</common:Name>
+        </structure:Code>
+        <structure:Code id="9" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).9">
+          <common:Name xml:lang="it">separata/o o divorziata/o o vedova/o</common:Name>
+          <common:Name xml:lang="en">legally separated or divorced or widowed</common:Name>
+        </structure:Code>
+        <structure:Code id="1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).1">
+          <common:Name xml:lang="it">nubile/celibe</common:Name>
+          <common:Name xml:lang="en">never married</common:Name>
+        </structure:Code>
+        <structure:Code id="MARS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).MARS">
+          <common:Name xml:lang="it">coniugato (inclusi i separati di fatto), separato legalmente da matrimonio</common:Name>
+          <common:Name xml:lang="en">married persons (including separated persons)</common:Name>
+        </structure:Code>
+        <structure:Code id="5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).5">
+          <common:Name xml:lang="it">divorziata/o o coniugata/o</common:Name>
+          <common:Name xml:lang="en">divorced or married</common:Name>
+        </structure:Code>
+        <structure:Code id="WID2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).WID2">
+          <common:Name xml:lang="it">vedovo da matrimonio/unione civile</common:Name>
+          <common:Name xml:lang="en">widowed persons or widow/widower of same sex civil partner</common:Name>
+        </structure:Code>
+        <structure:Code id="SFDW2" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).SFDW2">
+          <common:Name xml:lang="it">separato di fatto/legalmente da matrimonio, divorziato da matrimonio, vedovo da matrimonio/unione civile</common:Name>
+          <common:Name xml:lang="en">separated or divorced or widowed persons or widow/widower of same sex civil partner</common:Name>
+        </structure:Code>
+        <structure:Code id="MAR_FSEP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).MAR_FSEP">
+          <common:Name xml:lang="it">coniugato, separato legalmente</common:Name>
+          <common:Name xml:lang="en">married or legally separated</common:Name>
+        </structure:Code>
+        <structure:Code id="16" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).16">
+          <common:Name xml:lang="it">già in unione civile (per decesso del partner)</common:Name>
+          <common:Name xml:lang="en">widow/widower of same-sex civil partner</common:Name>
+        </structure:Code>
+        <structure:Code id="ALL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_STATCIV2(4.8).ALL">
+          <common:Name xml:lang="it">totale</common:Name>
+          <common:Name xml:lang="en">total</common:Name>
+        </structure:Code>
+      </structure:Codelist>
+    </structure:Codelists>
+  </message:Structures>
+</message:Structure>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--NSI Web Service v6.16.0-->
+<message:Structure xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:structure="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <message:Header>
+    <message:ID>IDREF141</message:ID>
+    <message:Test>false</message:Test>
+    <message:Prepared>2022-10-09T10:36:15.3495026+02:00</message:Prepared>
+    <message:Sender id="Unknown" />
+    <message:Receiver id="Unknown" />
+  </message:Header>
+  <message:Structures>
+    <structure:Codelists>
+      <structure:Codelist id="CL_TIPO_ATTIVITA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IT1:CL_TIPO_ATTIVITA(1.0)" agencyID="IT1" version="1.0" isFinal="true">
+        <common:Name xml:lang="it">Attività di tempo libero</common:Name>
+        <common:Name xml:lang="en">Leisure activities</common:Name>
+        <structure:Code id="PHYS_SPOR" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_ATTIVITA(1.0).PHYS_SPOR">
+          <common:Name xml:lang="it">attività fisica o sportiva</common:Name>
+          <common:Name xml:lang="en">physical or sports activity</common:Name>
+        </structure:Code>
+        <structure:Code id="ACT_VOL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_ATTIVITA(1.0).ACT_VOL">
+          <common:Name xml:lang="it">attività associazionistica, di volontariato o socio politica</common:Name>
+          <common:Name xml:lang="en">associational activities, voluntary work or socio-political activities</common:Name>
+        </structure:Code>
+        <structure:Code id="DANC_MON" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_ATTIVITA(1.0).DANC_MON">
+          <common:Name xml:lang="it">ballo, visite ai musei, mostre o monumenti</common:Name>
+          <common:Name xml:lang="en">dancing, visiting museums, exhibitions or monuments</common:Name>
+        </structure:Code>
+        <structure:Code id="ALL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_ATTIVITA(1.0).ALL">
+          <common:Name xml:lang="it">tutte le voci</common:Name>
+          <common:Name xml:lang="en">all items</common:Name>
+        </structure:Code>
+        <structure:Code id="THEA_CONC" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_ATTIVITA(1.0).THEA_CONC">
+          <common:Name xml:lang="it">cinema, teatro o concerti</common:Name>
+          <common:Name xml:lang="en">cinema, theatre or concerts</common:Name>
+        </structure:Code>
+        <structure:Code id="EV_OUT" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_TIPO_ATTIVITA(1.0).EV_OUT">
+          <common:Name xml:lang="it">uscite serali</common:Name>
+          <common:Name xml:lang="en">evening outings</common:Name>
+        </structure:Code>
+      </structure:Codelist>
+    </structure:Codelists>
+  </message:Structures>
+</message:Structure>

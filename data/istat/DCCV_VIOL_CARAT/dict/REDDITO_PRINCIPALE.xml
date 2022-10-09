@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--NSI Web Service v6.16.0-->
+<message:Structure xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:structure="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <message:Header>
+    <message:ID>IDREF148</message:ID>
+    <message:Test>false</message:Test>
+    <message:Prepared>2022-10-09T10:36:19.9827108+02:00</message:Prepared>
+    <message:Sender id="Unknown" />
+    <message:Receiver id="Unknown" />
+  </message:Header>
+  <message:Structures>
+    <structure:Codelists>
+      <structure:Codelist id="CL_REDPRINC1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IT1:CL_REDPRINC1(1.0)" agencyID="IT1" version="1.0" isFinal="true">
+        <common:Name xml:lang="it">Fonte di reddito principale</common:Name>
+        <common:Name xml:lang="en">Main source of income</common:Name>
+        <structure:Code id="MAINOCOH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_REDPRINC1(1.0).MAINOCOH">
+          <common:Name xml:lang="it">mantenimento da familiari non conviventi</common:Name>
+          <common:Name xml:lang="en">maintenance by non-cohabiting family members</common:Name>
+        </structure:Code>
+        <structure:Code id="UNEMPBEN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_REDPRINC1(1.0).UNEMPBEN">
+          <common:Name xml:lang="it">indennità di disoccupazione, Cig, mobilità, borse di lavoro e studio, assegno di invalidità e altri sussidi</common:Name>
+          <common:Name xml:lang="en">unemployment benefits, Cig, mobility, work and study grants, disability allowance and other benefits</common:Name>
+        </structure:Code>
+        <structure:Code id="SELFEMP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_REDPRINC1(1.0).SELFEMP">
+          <common:Name xml:lang="it">lavoro autonomo</common:Name>
+          <common:Name xml:lang="en">self-employed income</common:Name>
+        </structure:Code>
+        <structure:Code id="RENTBUILD" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_REDPRINC1(1.0).RENTBUILD">
+          <common:Name xml:lang="it">affitto di immobili e terreni</common:Name>
+          <common:Name xml:lang="en">rental of buildings and land</common:Name>
+        </structure:Code>
+        <structure:Code id="MAICOH" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_REDPRINC1(1.0).MAICOH">
+          <common:Name xml:lang="it">mantenimento da familiari conviventi</common:Name>
+          <common:Name xml:lang="en">maintenance by cohabiting family members</common:Name>
+        </structure:Code>
+        <structure:Code id="PUBTRAN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_REDPRINC1(1.0).PUBTRAN">
+          <common:Name xml:lang="it">pensioni e trasferimenti pubblici</common:Name>
+          <common:Name xml:lang="en">public transfers income</common:Name>
+        </structure:Code>
+        <structure:Code id="PENS" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_REDPRINC1(1.0).PENS">
+          <common:Name xml:lang="it">pensione (di anzianità, di vecchiaia, di inabilità)</common:Name>
+          <common:Name xml:lang="en">pension (old age, seniority, disability)</common:Name>
+        </structure:Code>
+        <structure:Code id="ALL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_REDPRINC1(1.0).ALL">
+          <common:Name xml:lang="it">totale</common:Name>
+          <common:Name xml:lang="en">all items</common:Name>
+        </structure:Code>
+        <structure:Code id="EMPIN" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_REDPRINC1(1.0).EMPIN">
+          <common:Name xml:lang="it">lavoro dipendente</common:Name>
+          <common:Name xml:lang="en">employee income</common:Name>
+        </structure:Code>
+        <structure:Code id="OTHER" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_REDPRINC1(1.0).OTHER">
+          <common:Name xml:lang="it">altro</common:Name>
+          <common:Name xml:lang="en">other type</common:Name>
+        </structure:Code>
+        <structure:Code id="SECURSHA" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_REDPRINC1(1.0).SECURSHA">
+          <common:Name xml:lang="it">titoli, azioni e altre attività finanziarie</common:Name>
+          <common:Name xml:lang="en">securities, shares and other financial assets</common:Name>
+        </structure:Code>
+      </structure:Codelist>
+    </structure:Codelists>
+  </message:Structures>
+</message:Structure>

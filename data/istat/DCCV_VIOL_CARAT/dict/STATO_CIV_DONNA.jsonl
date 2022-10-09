@@ -1,0 +1,50 @@
+{ "key": "SFD", "en": "separated or divorced", "it": "separato di fatto/legalmente, divorziato da matrimonio" }
+{ "key": "FSEP", "en": "legally separated persons", "it": "separato legalmente da matrimonio" }
+{ "key": "NRPP", "en": "not declared for privacy", "it": "non dichiarato per la privacy" }
+{ "key": 99, "en": "total", "it": "totale" }
+{ "key": 8, "en": "not declared for privacy", "it": "non dichiarato per la privacy" }
+{ "key": "NMNS", "en": "not any more married persons or not any more same sex civil partner", "it": "non più coniugato, non più in unione civile" }
+{ "key": 15, "en": "same sex civil partner", "it": "unito/a civilmente" }
+{ "key": "MAR", "en": "married persons", "it": "coniugato" }
+{ "key": "NRP", "en": "no response", "it": "non indicato" }
+{ "key": 98, "en": "n.a.", "it": "non indicato" }
+{ "key": "WID", "en": "widowed persons", "it": "vedovo da matrimonio" }
+{ "key": "DIVSSCIV", "en": "divorced same sex civil partner", "it": "divorziato da unione civile" }
+{ "key": "SSCIV", "en": "same sex civil partner", "it": "unito civilmente" }
+{ "key": 12, "en": "legally separated", "it": "separata/o legalmente" }
+{ "key": "MAR2", "en": "married persons (including separated persons) or same sex civil partner (including de facto separated same sex civil partner)", "it": "coniugato, unito civilmente, separato da matrimonio/unione civile" }
+{ "key": 3, "en": "divorced", "it": "divorziata/o" }
+{ "key": "SEP", "en": "de facto separated persons", "it": "separato di fatto da matrimonio" }
+{ "key": 11, "en": "de facto separated", "it": "separata/o di fatto" }
+{ "key": "DIV2_WID2", "en": "divorced persons or divorced same sex civil partner, widowed persons or widow/widower of same sex civil partner", "it": "divorziato da matrimonio/unione civile, vedovo da matrimonio/unione civile" }
+{ "key": "SFD2", "en": "separeted or divorced persons or divorced same sex civil partner", "it": "separato di fatto/legalmente da matrimonio, divorziato da matrimonio/unione civile" }
+{ "key": "SFDW", "en": "separated or divorced or widowed", "it": "separato di fatto/legalmente, divorziato, vedovo da matrimonio" }
+{ "key": "UNAV", "en": "unavailable", "it": "non disponibile" }
+{ "key": "WIDSSCIV", "en": "widow/widower of same sex civil partner", "it": "vedovo da unione civile" }
+{ "key": "SINB", "en": "single persons (never married)", "it": "celibe/nubile" }
+{ "key": 2, "en": "married", "it": "coniugata/o" }
+{ "key": 4, "en": "widowed", "it": "vedova/o" }
+{ "key": "SIN", "en": "single persons (never married and never in same sex civil partnership)", "it": "celibe/nubile" }
+{ "key": 14, "en": "de facto separated, legally separated, divorced or widowed", "it": "separata/o di fatto, separata/o legalmente, divorziata/o, vedova/o" }
+{ "key": "DIV", "en": "divorced persons", "it": "divorziato da matrimonio" }
+{ "key": "MAR_SSCIV", "en": "married persons or same sex civil partner", "it": "coniugato, unito civilmente" }
+{ "key": 7, "en": "separated or divorced", "it": "separata/o o divorziata/o" }
+{ "key": "MAR_SEP", "en": "married persons (including de facto separated persons)", "it": "coniugato (inclusi i separati di fatto da matrimonio)" }
+{ "key": "SEP_FSEP", "en": "separated persons", "it": "separato di fatto/legalmente da matrimonio" }
+{ "key": "SSCIV_SEPCIV", "en": "same sex civil partner (including de facto separated same sex civil partner)", "it": "unito civilmente (inclusi i separati di fatto da unione civile)" }
+{ "key": "FDW", "en": "legally separated or divorced or widowed", "it": "separato legalmente, divorziato, vedovo da matrimonio" }
+{ "key": 6, "en": "divorced or widowed", "it": "divorziata/o o vedova/o" }
+{ "key": 10, "en": "married or legally separated", "it": "coniugata/o o separata/o legalmente" }
+{ "key": "SEPCIV", "en": "de facto separated same sex civil partner", "it": "separato di fatto da unione civile" }
+{ "key": "DIV2", "en": "divorced persons or divorced same sex civil partner", "it": "divorziato da matrimonio/unione civile" }
+{ "key": "MAR_SEPC", "en": "married persons (including de facto separated persons)", "it": "coniugato non coabitante con il coniuge (inclusi i separati di fatto)" }
+{ "key": 17, "en": "divorced same-sex civil partner", "it": "già in unione civile (per scioglimento unione)" }
+{ "key": 9, "en": "legally separated or divorced or widowed", "it": "separata/o o divorziata/o o vedova/o" }
+{ "key": 1, "en": "never married", "it": "nubile/celibe" }
+{ "key": "MARS", "en": "married persons (including separated persons)", "it": "coniugato (inclusi i separati di fatto), separato legalmente da matrimonio" }
+{ "key": 5, "en": "divorced or married", "it": "divorziata/o o coniugata/o" }
+{ "key": "WID2", "en": "widowed persons or widow/widower of same sex civil partner", "it": "vedovo da matrimonio/unione civile" }
+{ "key": "SFDW2", "en": "separated or divorced or widowed persons or widow/widower of same sex civil partner", "it": "separato di fatto/legalmente da matrimonio, divorziato da matrimonio, vedovo da matrimonio/unione civile" }
+{ "key": "MAR_FSEP", "en": "married or legally separated", "it": "coniugato, separato legalmente" }
+{ "key": 16, "en": "widow/widower of same-sex civil partner", "it": "già in unione civile (per decesso del partner)" }
+{ "key": "ALL", "en": "total", "it": "totale" }

@@ -1,0 +1,20 @@
+{ "key": "ANY_P_NOP", "en": "any man (partner and non-partner)", "it": "qualsiasi uomo (partner e non partner)" }
+{ "key": "CURR_OR_FORM", "en": "current partner or former partner", "it": "partner attuale o ex partner" }
+{ "key": "CURR_P", "en": "current partner", "it": "partner attuale" }
+{ "key": "CURR_BOY", "en": "current boyfriend", "it": "fidanzato attuale" }
+{ "key": "HUSB", "en": "husband/cohabiting partner", "it": "marito/convivente attuale" }
+{ "key": "EX_P", "en": "former partner", "it": "ex partner" }
+{ "key": "FORM_HUSB", "en": "former husband/former cohabiting partner", "it": "ex marito/ex convivente" }
+{ "key": "ALL", "en": "all items", "it": "tutte le voci" }
+{ "key": "NOP", "en": "man non-partner", "it": "uomo non partner" }
+{ "key": "STR_ACQU", "en": "strangers/acquaintances", "it": "sconosciuti/conoscenti di vista" }
+{ "key": "STRANGER", "en": "a stranger", "it": "uno sconosciuto" }
+{ "key": "FORM_BOY", "en": "former boyfriend", "it": "ex fidanzato" }
+{ "key": "NOT_SPEC", "en": "man non-partner (not specified)", "it": "non partner (non specifica)" }
+{ "key": "PER_KNOWN", "en": "person known (non-partner)", "it": "persona conosciuta (non partner)" }
+{ "key": "FR_COLL", "en": "friends/colleagues", "it": "amici/colleghi" }
+{ "key": "COLL", "en": "a colleague", "it": "un collega" }
+{ "key": "FRIEND", "en": "a friend", "it": "un amico" }
+{ "key": "FAM_FRIEND", "en": "a family friend", "it": "un amico di famiglia" }
+{ "key": "ACQUAIN", "en": "an acquaintance", "it": "un conoscente/uomo che conosce di vista" }
+{ "key": "RELATIVE", "en": "family member", "it": "parente/familiare" }

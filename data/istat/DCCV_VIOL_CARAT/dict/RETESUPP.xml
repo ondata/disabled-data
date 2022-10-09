@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--NSI Web Service v6.16.0-->
+<message:Structure xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:structure="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <message:Header>
+    <message:ID>IDREF149</message:ID>
+    <message:Test>false</message:Test>
+    <message:Prepared>2022-10-09T10:36:20.4039115+02:00</message:Prepared>
+    <message:Sender id="Unknown" />
+    <message:Receiver id="Unknown" />
+  </message:Header>
+  <message:Structures>
+    <structure:Codelists>
+      <structure:Codelist id="CL_RETESUPP" urn="urn:sdmx:org.sdmx.infomodel.codelist.Codelist=IT1:CL_RETESUPP(1.0)" agencyID="IT1" version="1.0" isFinal="true">
+        <common:Name xml:lang="it">Rete di supporto</common:Name>
+        <common:Name xml:lang="en">Social support</common:Name>
+        <structure:Code id="FAMCOU" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_RETESUPP(1.0).FAMCOU">
+          <common:Name xml:lang="it">persone che hanno qualcuno su cui si può contare</common:Name>
+          <common:Name xml:lang="en">persons who have someone to rely on in case of need</common:Name>
+        </structure:Code>
+        <structure:Code id="PEOCO" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_RETESUPP(1.0).PEOCO">
+          <common:Name xml:lang="it">persone che hanno qualcuno con cui confidarsi</common:Name>
+          <common:Name xml:lang="en">persons who have someone to discuss personal matters</common:Name>
+        </structure:Code>
+        <structure:Code id="ALL" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_RETESUPP(1.0).ALL">
+          <common:Name xml:lang="it">tutte le voci</common:Name>
+          <common:Name xml:lang="en">all items</common:Name>
+        </structure:Code>
+        <structure:Code id="NOPEOCO" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_RETESUPP(1.0).NOPEOCO">
+          <common:Name xml:lang="it">persone che non hanno qualcuno con cui confidarsi</common:Name>
+          <common:Name xml:lang="en">persons who do not have someone to discuss personal matters with</common:Name>
+        </structure:Code>
+        <structure:Code id="NOFAMCOU" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=IT1:CL_RETESUPP(1.0).NOFAMCOU">
+          <common:Name xml:lang="it">persone che non hanno qualcuno su cui si può contare</common:Name>
+          <common:Name xml:lang="en">persons who do not have someone to rely on in case of need</common:Name>
+        </structure:Code>
+      </structure:Codelist>
+    </structure:Codelists>
+  </message:Structures>
+</message:Structure>

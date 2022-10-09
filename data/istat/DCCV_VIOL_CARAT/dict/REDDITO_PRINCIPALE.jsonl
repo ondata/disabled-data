@@ -1,0 +1,11 @@
+{ "key": "MAINOCOH", "en": "maintenance by non-cohabiting family members", "it": "mantenimento da familiari non conviventi" }
+{ "key": "UNEMPBEN", "en": "unemployment benefits, Cig, mobility, work and study grants, disability allowance and other benefits", "it": "indennità di disoccupazione, Cig, mobilità, borse di lavoro e studio, assegno di invalidità e altri sussidi" }
+{ "key": "SELFEMP", "en": "self-employed income", "it": "lavoro autonomo" }
+{ "key": "RENTBUILD", "en": "rental of buildings and land", "it": "affitto di immobili e terreni" }
+{ "key": "MAICOH", "en": "maintenance by cohabiting family members", "it": "mantenimento da familiari conviventi" }
+{ "key": "PUBTRAN", "en": "public transfers income", "it": "pensioni e trasferimenti pubblici" }
+{ "key": "PENS", "en": "pension (old age, seniority, disability)", "it": "pensione (di anzianità, di vecchiaia, di inabilità)" }
+{ "key": "ALL", "en": "all items", "it": "totale" }
+{ "key": "EMPIN", "en": "employee income", "it": "lavoro dipendente" }
+{ "key": "OTHER", "en": "other type", "it": "altro" }
+{ "key": "SECURSHA", "en": "securities, shares and other financial assets", "it": "titoli, azioni e altre attività finanziarie" }
