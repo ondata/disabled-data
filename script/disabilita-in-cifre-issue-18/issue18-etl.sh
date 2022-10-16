@@ -65,3 +65,7 @@ find "$folder"/tmp -maxdepth 1 -iname "*.jsonl" -type f | while read line; do
     mlrgo --j2c unsparsify then clean-whitespace "$line" >"$folder"/../../data/"$name"/processing/"$fileName".csv
   fi
 done
+
+mlr --j2c cat "$folder"/../data/risorse.jsonl >"$folder"/../../data/"$name"/anagrafica.csv
+
+mlr --j2m put '$file="[".sub($file,"\.xls",".csv")."]("."https://github.com/ondata/disabled-data/blob/main/data/issue-18/processing/".sub($file,"\.xls",".csv").")"' "$folder"/../data/risorse.jsonl >"$folder"/../../data/"$name"/anagrafica.md
