@@ -1,15 +1,5 @@
-age
-barrier
 geo
-hlth_pb
-incgrp
-levels
-lev_limit
-lev_satis
-reason
-sex
-tenure
+spdep
+spscheme
 time
 unit
-worktime
-wstatus

@@ -1,0 +1,175 @@
+{"key":"TOTALNOREROUTE","en":"Total expenditure","it":null}
+{"key":"ADMIN","en":"Administration costs","it":null}
+{"key":"TRANSFER","en":"Transfers to other schemes","it":null}
+{"key":"OTHER","en":"Other expenditure","it":null}
+{"key":"OPROP","en":"Other expenditure property income","it":null}
+{"key":"O_OTH","en":"Other expenditure miscellaneous","it":null}
+{"key":"SPBENEFNOREROUTE","en":"Social protection benefits","it":null}
+{"key":"SNONTARGETNOREROUTE","en":"Non means-tested benefits","it":null}
+{"key":"STARGETNOREROUTE","en":"Means-tested benefits","it":null}
+{"key":"STTCASH","en":"Cash benefits","it":null}
+{"key":"SNTCASH","en":"Cash benefits (non means-tested)","it":null}
+{"key":"STACASH","en":"Cash benefits (means-tested)","it":null}
+{"key":"STTCPERIOD","en":"Periodic cash benefits","it":null}
+{"key":"SNTCPERIOD","en":"Periodic cash benefits (non means-tested)","it":null}
+{"key":"STACPERIOD","en":"Periodic cash benefits (means-tested)","it":null}
+{"key":"STTCPSICK","en":"Paid sick leave benefit","it":null}
+{"key":"SNTCPSICK","en":"Paid sick leave benefit (non means-tested)","it":null}
+{"key":"STACPSICK","en":"Paid sick leave benefit (means-tested)","it":null}
+{"key":"STTCPDISPEN","en":"Disability pension","it":null}
+{"key":"SNTCPDISPEN","en":"Disability pension (non means-tested)","it":null}
+{"key":"STACPDISPEN","en":"Disability pension (means-tested)","it":null}
+{"key":"STTCPEARLYRED","en":"Early retirement benefit due to reduced capacity to work","it":null}
+{"key":"SNTCPEARLYRED","en":"Early retirement benefit due to reduced capacity to work (non means-tested)","it":null}
+{"key":"STACPEARLYRED","en":"Early retirement benefit due to reduced capacity to work (means-tested)","it":null}
+{"key":"STTCPOLDPEN","en":"Old age pension","it":null}
+{"key":"SNTCPOLDPEN","en":"Old age pension (non means-tested)","it":null}
+{"key":"STACPOLDPEN","en":"Old age pension (means-tested)","it":null}
+{"key":"STTCPANTPEN","en":"Anticipated old age pension","it":null}
+{"key":"SNTCPANTPEN","en":"Anticipated old age pension (non means-tested)","it":null}
+{"key":"STACPANTPEN","en":"Anticipated old age pension (means-tested)","it":null}
+{"key":"STTCPPARPEN","en":"Partial pension","it":null}
+{"key":"SNTCPPARPEN","en":"Partial pension (non means-tested)","it":null}
+{"key":"STACPPARPEN","en":"Partial pension (means-tested)","it":null}
+{"key":"STTCPCARE","en":"Periodic care allowance","it":null}
+{"key":"SNTCPCARE","en":"Periodic care allowance (non means-tested)","it":null}
+{"key":"STACPCARE","en":"Periodic care allowance (means-tested)","it":null}
+{"key":"STTCPECOHAND","en":"Periodic economic integration of the handicapped","it":null}
+{"key":"SNTCPECOHAND","en":"Periodic economic integration of the handicapped (non means-tested)","it":null}
+{"key":"STACPECOHAND","en":"Periodic economic integration of the handicapped (means-tested)","it":null}
+{"key":"STTCPSURVPEN","en":"Survivors pension","it":null}
+{"key":"SNTCPSURVPEN","en":"Survivors pension (non means-tested)","it":null}
+{"key":"STACPSURVPEN","en":"Survivors pension (means-tested)","it":null}
+{"key":"STTCPCHILD","en":"Income maintenance benefit in the event of childbirth","it":null}
+{"key":"SNTCPCHILD","en":"Income maintenance benefit in the event of childbirth (non means-tested)","it":null}
+{"key":"STACPCHILD","en":"Income maintenance benefit in the event of childbirth (means-tested)","it":null}
+{"key":"STTCPPARENT","en":"Periodic parental leave benefit","it":null}
+{"key":"SNTCPPARENT","en":"Parental leave benefit periodic (non means-tested)","it":null}
+{"key":"STACPPARENT","en":"Parental leave benefit periodic (means-tested)","it":null}
+{"key":"STTCPALLOW","en":"Family or child allowance","it":null}
+{"key":"SNTCPALLOW","en":"Family or child allowance (non means-tested)","it":null}
+{"key":"STACPALLOW","en":"Family or child allowance (means-tested)","it":null}
+{"key":"STTCPFULLUNEMP","en":"Full unemployment benefits","it":null}
+{"key":"SNTCPFULLUNEMP","en":"Full unemployment benefits (non means-tested)","it":null}
+{"key":"STACPFULLUNEMP","en":"Full unemployment benefits (means-tested)","it":null}
+{"key":"STTCPPARTUNEMP","en":"Partial unemployment","it":null}
+{"key":"SNTCPPARTUNEMP","en":"Partial unemployment. (non means-tested)","it":null}
+{"key":"STACPPARTUNEMP","en":"Partial unemployment (means-tested)","it":null}
+{"key":"STTCPEARLYMARK","en":"Early retirement benefit for labour market reasons","it":null}
+{"key":"SNTCPEARLYMARK","en":"Early retirement benefit for labour market reasons (non means-tested)","it":null}
+{"key":"STACPEARLYMARK","en":"Early retirement benefit for labour market reasons (means-tested)","it":null}
+{"key":"STTCPVOCAT","en":"Periodic benefit vocational training","it":null}
+{"key":"SNTCPVOCAT","en":"Periodic benefit vocational training (non means-tested)","it":null}
+{"key":"STACPVOCAT","en":"Periodic benefit vocational training (means-tested)","it":null}
+{"key":"STTCPINCSUP","en":"Income support","it":null}
+{"key":"SNTCPINCSUP","en":"Income support (non means-tested)","it":null}
+{"key":"STACPINCSUP","en":"Income support (means-tested)","it":null}
+{"key":"STTCP_OTH","en":"Other periodic cash benefits","it":null}
+{"key":"SNTCP_OTH","en":"Other periodic cash benefits (non means-tested)","it":null}
+{"key":"STACP_OTH","en":"Other periodic cash benefits (means-tested)","it":null}
+{"key":"STTCLUMP","en":"Lump sum cash benefits","it":null}
+{"key":"SNTCLUMP","en":"Lump sum cash benefits (non means-tested)","it":null}
+{"key":"STACLUMP","en":"Lump sum cash benefits (means-tested)","it":null}
+{"key":"STTCLCARE","en":"Lump sum care allowance","it":null}
+{"key":"SNTCLCARE","en":"Lump sum care allowance (non means-tested)","it":null}
+{"key":"STACLCARE","en":"Lump sum care allowance (means-tested)","it":null}
+{"key":"STTCLECOHAND","en":"Lump sum economic integration of the handicapped","it":null}
+{"key":"SNTCLECOHAND","en":"Lump sum economic integration of the handicapped (non means-tested)","it":null}
+{"key":"STACLECOHAND","en":"Lump sum economic integration of the handicapped (means-tested)","it":null}
+{"key":"STTCLDEATH","en":"Death grant","it":null}
+{"key":"SNTCLDEATH","en":"Death grant (non means-tested)","it":null}
+{"key":"STACLDEATH","en":"Death grant (means-tested)","it":null}
+{"key":"STTCLBIRTH","en":"Birth grant","it":null}
+{"key":"SNTCLBIRTH","en":"Birth grant (non means-tested)","it":null}
+{"key":"STACLBIRTH","en":"Birth grant (means-tested)","it":null}
+{"key":"STTCLPARENT","en":"Parental leave benefits lump sum","it":null}
+{"key":"SNTCLPARENT","en":"Parental leave benefits lump sum (non means-tested)","it":null}
+{"key":"STACLPARENT","en":"Parental leave benefits lump sum (means-tested)","it":null}
+{"key":"STTCLVOCAT","en":"Lump sum benefit vocational training","it":null}
+{"key":"SNTCLVOCAT","en":"Lump sum benefit vocational training (non means-tested)","it":null}
+{"key":"STACLVOCAT","en":"Lump sum benefit vocational training (means-tested)","it":null}
+{"key":"STTCLRED","en":"Lump sum benefit redundancy compensation","it":null}
+{"key":"SNTCLRED","en":"Lump sum benefit redundancy compensation (non means-tested)","it":null}
+{"key":"STACLRED","en":"Lump sum benefit redundancy compensation (means-tested)","it":null}
+{"key":"STTCL_OTH","en":"Other lump sum cash benefits","it":null}
+{"key":"SNTCL_OTH","en":"Other lump sum cash benefits (non means-tested)","it":null}
+{"key":"STACL_OTH","en":"Other lump sum cash benefits (means-tested)","it":null}
+{"key":"STTKIND","en":"Benefits in kind","it":null}
+{"key":"SNTKIND","en":"Benefits in kind (non means-tested)","it":null}
+{"key":"STAKIND","en":"Benefits in kind (means-tested)","it":null}
+{"key":"STTKINCARE","en":"In-patient care","it":null}
+{"key":"SNTKINCARE","en":"In-patient care (non means-tested)","it":null}
+{"key":"STAKINCARE","en":"In-patient care (means-tested)","it":null}
+{"key":"STTKIDIRECT","en":"In-patient care direct provision","it":null}
+{"key":"SNTKIDIRECT","en":"In-patient care direct provision (non means-tested)","it":null}
+{"key":"STAKIDIRECT","en":"In-patient care direct provision (means-tested)","it":null}
+{"key":"STTKIREMB","en":"In-patient care reimbursment","it":null}
+{"key":"SNTKIREMB","en":"In-patient care remboursment (non means-tested)","it":null}
+{"key":"STAKIREMB","en":"In-patient care remboursment (means-tested)","it":null}
+{"key":"STTKOUTCARE","en":"Out-patient care","it":null}
+{"key":"SNTKOUTCARE","en":"Out-patient care (non means-tested)","it":null}
+{"key":"STAKOUTCARE","en":"Out-patient care (means-tested)","it":null}
+{"key":"STTKODIR_PHAR","en":"Out-patient care direct provision of pharmaceutical products","it":null}
+{"key":"SNTKODIR_PHAR","en":"Out-patient care direct provision of pharmaceitical products (non means-tested)","it":null}
+{"key":"STAKODIR_PHAR","en":"Out-patient care direct provision of pharm. products (means-tested)","it":null}
+{"key":"STTKODIR_OTH","en":"Out-patient care other direct provision","it":null}
+{"key":"SNTKODIR_OTH","en":"Out-patient care other direct provision (non means-tested)","it":null}
+{"key":"STAKODIR_OTH","en":"Out-patient care other direct provision (means-tested)","it":null}
+{"key":"STTKOREMB_PHAR","en":"Out-patient care reimbursment of pharmaceutical products","it":null}
+{"key":"SNTKOREMB_PHAR","en":"Out-patient care rembursment of pharmaceutical products (non means-tested)","it":null}
+{"key":"STAKOREMB_PHAR","en":"Out-patient care rembursment of pharmaceutical products (means-tested)","it":null}
+{"key":"STTKOREMB_OTH","en":"Out-patient care other reimbursment","it":null}
+{"key":"SNTKOREMB_OTH","en":"Out-patient care other rembursment (non means-tested)","it":null}
+{"key":"STAKOREMB_OTH","en":"Out-patient care other rembursment (means-tested)","it":null}
+{"key":"STTKCHILD","en":"Child day care","it":null}
+{"key":"SNTKCHILD","en":"Child day care (non means-tested)","it":null}
+{"key":"STAKCHILD","en":"Child day care (means-tested)","it":null}
+{"key":"STTKACCOMOD","en":"Accomodation","it":null}
+{"key":"SNTKACCOMOD","en":"Accommodation (non means-tested)","it":null}
+{"key":"STAKACCOMOD","en":"Accommodation (means-tested)","it":null}
+{"key":"STTKASSIST","en":"Assistance in carrying daily tasks","it":null}
+{"key":"SNTKASSIST","en":"Assistance in carrying daily tasks (non means-tested)","it":null}
+{"key":"STAKASSIST","en":"Assistance in carrying daily tasks (means-tested)","it":null}
+{"key":"STTKREHAB","en":"Rehabilitation","it":null}
+{"key":"SNTKREHAB","en":"Rehabilitation (non means-tested)","it":null}
+{"key":"STAKREHAB","en":"Rehabilitation (means-tested)","it":null}
+{"key":"STTKFUNERAL","en":"Funeral expenses","it":null}
+{"key":"SNTKFUNERAL","en":"Funeral expenses (non means-tested)","it":null}
+{"key":"STAKFUNERAL","en":"Funeral expenses (means-tested)","it":null}
+{"key":"STTKHOME","en":"Home help","it":null}
+{"key":"SNTKHOME","en":"Home help (non means-tested)","it":null}
+{"key":"STAKHOME","en":"Home help (means-tested)","it":null}
+{"key":"STTKMOBIL","en":"Mobility and resettlement benefits","it":null}
+{"key":"SNTKMOBIL","en":"Mobility and resettlement benefits (non means-tested)","it":null}
+{"key":"STAKMOBIL","en":"Mobility and resettlement benefits (means-tested)","it":null}
+{"key":"STTKVOCAT","en":"Vocational training","it":null}
+{"key":"SNTKVOCAT","en":"Vocational training (non means-tested)","it":null}
+{"key":"STAKVOCAT","en":"Vocational training (means-tested)","it":null}
+{"key":"STTKPLACEMENT","en":"Placement services and job search assistance","it":null}
+{"key":"SNTKPLACEMENT","en":"Placement services and job search assistance (non means-tested)","it":null}
+{"key":"STAKPLACEMENT","en":"Placement services and job search assistance (means-tested)","it":null}
+{"key":"STTKRENT","en":"Rent benefits","it":null}
+{"key":"SNTKRENT","en":"Rent benefits (non means-tested)","it":null}
+{"key":"STAKRENT","en":"Rent benefits (means-tested)","it":null}
+{"key":"STTKRHOUSE","en":"Social housing","it":null}
+{"key":"SNTKRHOUSE","en":"Social housing (non means-tested)","it":null}
+{"key":"STAKRHOUSE","en":"Social housing (means-tested)","it":null}
+{"key":"STTKR_OTH","en":"Other rent benefits","it":null}
+{"key":"SNTKR_OTH","en":"Other rent benefits (non means-tested)","it":null}
+{"key":"STAKR_OTH","en":"Other rent benefits (means-tested)","it":null}
+{"key":"STTKOWNER","en":"Benefits to owner-occupiers","it":null}
+{"key":"SNTKOWNER","en":"Benefits to owner-occupiers (non means-tested)","it":null}
+{"key":"STAKOWNER","en":"Benefits to owner-occupiers (means-tested)","it":null}
+{"key":"STTKDRUGS","en":"Rehabilitation of alcohol and drugs abusers","it":null}
+{"key":"SNTKDRUGS","en":"Rehabilitation of alcohol and drugs abusers (non means-tested)","it":null}
+{"key":"STAKDRUGS","en":"Rehabilitation of alcohol and drugs abusers (means-tested)","it":null}
+{"key":"STTK_OTH","en":"Other benefits in kind","it":null}
+{"key":"SNTK_OTH","en":"Other benefits in kind (non means-tested)","it":null}
+{"key":"STAK_OTH","en":"Other benefits in kind (means-tested)","it":null}
+{"key":"TOTAL","en":"Total expenditure including transactions between schemes","it":null}
+{"key":"SPBENEF","en":"Social protection benefits including transactions between schemes","it":null}
+{"key":"SNONTARGET","en":"Non means-tested benefits including transactions between schemes","it":null}
+{"key":"STARGET","en":"Means-tested benefits including transactions between schemes","it":null}
+{"key":"STTREROUTE","en":"Re-routed social contributions between schemes","it":null}
+{"key":"SNTREROUTE","en":"Re-routed social contributions between schemes (non means-tested)","it":null}
+{"key":"STAREROUTE","en":"Re-routed social contributions between schemes (means-tested)","it":null}

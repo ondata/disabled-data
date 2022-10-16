@@ -1,0 +1,22 @@
+{"key":"TOTAL","en":"All schemes","it":null}
+{"key":"PUBLIC","en":"Public schemes","it":null}
+{"key":"PRIVATE","en":"Private schemes","it":null}
+{"key":"COMPULSORY","en":"Compulsory schemes","it":null}
+{"key":"N_CLAW","en":"Non compulsory schemes available by law","it":null}
+{"key":"N_C_OTH","en":"Other non compulsory schemes","it":null}
+{"key":"CONTRIBUTORY","en":"Contributory schemes","it":null}
+{"key":"NON_CONTRIB","en":"Non contributory schemes","it":null}
+{"key":"UNIVERSAL","en":"Universal schemes","it":null}
+{"key":"GENERAL","en":"General schemes","it":null}
+{"key":"SCIVCERV","en":"Civil servants schemes","it":null}
+{"key":"SSELFEMP","en":"Self-employed schemes","it":null}
+{"key":"SOTH_OCCUP","en":"Other occupational schemes","it":null}
+{"key":"SOTHER","en":"Other special schemes","it":null}
+{"key":"BASE","en":"Basic schemes","it":null}
+{"key":"COMP","en":"Supplementary schemes","it":null}
+{"key":"PUCENTGOV","en":"Public central government schemes","it":null}
+{"key":"PULOCGOV","en":"Public state and local government schemes","it":null}
+{"key":"PREMP","en":"Private schemes for employees","it":null}
+{"key":"PRECONTR","en":"Private schemes for employees contractual","it":null}
+{"key":"PREN_CONTR","en":"Private schemes for employees non contractual","it":null}
+{"key":"PR_OTH","en":"Other private schemes","it":null}
