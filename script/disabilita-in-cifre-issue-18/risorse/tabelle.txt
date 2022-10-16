@@ -1,0 +1,13 @@
+url,note
+https://disabilitaincifre.istat.it/dawinciMD.jsp?a1=u2i4a94&a2=_-&n=$$$9$$$$$$$&o=&v=1V3091DM09OG0000000&p=0&sp=null&l=0&exp=0&st=1VVO,
+https://disabilitaincifre.istat.it/dawinciMD.jsp?a1=u2k4a94&a2=_-&n=$$$9$$$$$$$&o=4C&v=1V30918309OG0000000&p=0&sp=null&l=0&exp=0&st=1VVO,
+https://disabilitaincifre.istat.it/dawinciMD.jsp?a1=u2k4a94&a2=_-&n=$$$9$$$$$$$&o=4C&v=1V30918209OG0000000&p=0&sp=null&l=0&exp=0&st=1VVO,
+https://disabilitaincifre.istat.it/dawinciMD.jsp?a1=u2i4a94&a2=_-&n=$$$9$$$$$$$&o=&v=1V3091OU09OG00000000000&p=0&sp=null&l=0&exp=1&st=0FVO,maschi e femmine
+https://disabilitaincifre.istat.it/dawinciMD.jsp?a1=u2i4a94&a2=_-&n=$$$9$$$$$$$&o=&v=1V3091MH09OG00000000000&p=0&sp=null&l=0&exp=1&st=07VO,Caratteristiche edificio scolastico
+https://disabilitaincifre.istat.it/dawinciMD.jsp?a1=u2i4a94&a2=_-&n=$$$9$$$$$$$&o=&v=1V3092C109OG00000000000&p=0&sp=null&l=0&exp=1&st=0FVO,maschi e femmine
+https://disabilitaincifre.istat.it/dawinciMD.jsp?a1=u2i4a94&a2=_-&n=$$$9$$$$$$$&o=&v=1V3092BL09OG00000000000&p=0&sp=null&l=0&exp=0&st=0FVO,maschi e femmine
+https://disabilitaincifre.istat.it/dawinciMD.jsp?a1=u2i4a94&a2=_-&n=$$$9$$$$$$$&o=&v=1V3092A109OG00000000000&p=0&sp=null&l=0&exp=0&st=0FVO,maschi e femmine
+https://disabilitaincifre.istat.it/dawinciMD.jsp?a1=u2i4a94&a2=_-&n=$$$9$$$$$$$&o=&v=1V30925509OG00000000000&p=0&sp=null&l=0&exp=0&st=0FVO,maschi e femmine
+https://disabilitaincifre.istat.it/dawinciMD.jsp?a1=u2i4a94&a2=_-&n=$$$9$$$$$$$&o=&v=1V30925B09OG000000000&p=0&sp=null&l=0&exp=1&stAll=1,
+https://disabilitaincifre.istat.it/dawinciMD.jsp?a1=u2i4a94&a2=_-&n=$$$9$$$$$$$&o=&v=1V30924P09OG00000000000&p=0&sp=null&l=0&exp=1&st=0FVO,maschi e femmine
+https://disabilitaincifre.istat.it/dawinciMD.jsp?a1=u2i4a94&a2=_-&n=$$$9$$$$$$$&o=&v=1V30924D09OG00000000000&p=0&sp=null&l=0&exp=1&st=0FVO,maschi e femmine
